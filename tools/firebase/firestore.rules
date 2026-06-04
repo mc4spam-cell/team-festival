@@ -1,0 +1,79 @@
+// Firestore security rules for Ma Team HF 2026.
+//
+// Schema:
+//   /users/{uid}
+//     - email, displayName, photoUrl, groupIds[]
+//   /joinCodes/{code}
+//     - groupId (lookup-only doc for resolving a code to a group)
+//   /groups/{groupId}
+//     - name, ownerUid, joinCode, createdAt
+//     /members/{uid}
+//       - displayName, photoUrl, role, joinedAt
+//     /picks/{uid}
+//       - displayName, p1Artists[], updatedAt
+//
+// Principles:
+//   - Anyone signed-in can read /joinCodes/{code} (used to resolve a code → groupId)
+//   - A user can read/write only their own /users/{uid} doc
+//   - A group's /members and /picks are readable by members only
+//   - A user can only write their own picks doc; can write their own member doc
+//   - Group meta is writable by the owner; readable by members
+//   - To JOIN a group, a signed-in user can create their own /members/{uid} doc
+//     (we don't restrict by an invite token here — the joinCode is the gate; if you
+//      know the code, you can join. Same model as Slack invite links.)
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+    function isSelf(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+    function isMember(groupId) {
+      return isSignedIn() && exists(/databases/$(database)/documents/groups/$(groupId)/members/$(request.auth.uid));
+    }
+    function isOwner(groupId) {
+      return isSignedIn() && get(/databases/$(database)/documents/groups/$(groupId)).data.ownerUid == request.auth.uid;
+    }
+
+    match /users/{uid} {
+      allow read, write: if isSelf(uid);
+    }
+
+    match /joinCodes/{code} {
+      // Any signed-in user can resolve a code → group; created when group is created.
+      allow read: if isSignedIn();
+      allow create: if isSignedIn()
+        && request.resource.data.keys().hasOnly(['groupId', 'createdAt'])
+        && request.resource.data.groupId is string;
+      // Don't let codes be reassigned or deleted from the client.
+      allow update, delete: if false;
+    }
+
+    match /groups/{groupId} {
+      allow read: if isMember(groupId);
+      allow create: if isSignedIn()
+        && request.resource.data.ownerUid == request.auth.uid
+        && request.resource.data.keys().hasAll(['name', 'ownerUid', 'joinCode', 'createdAt']);
+      allow update: if isOwner(groupId);
+      allow delete: if isOwner(groupId);
+
+      match /members/{uid} {
+        // Members visible to other members; the joiner can create their own doc.
+        allow read: if isMember(groupId);
+        allow create: if isSelf(uid);
+        allow update: if isSelf(uid);
+        // Owner can remove anyone; user can leave by deleting own doc.
+        allow delete: if isSelf(uid) || isOwner(groupId);
+      }
+
+      match /picks/{uid} {
+        allow read: if isMember(groupId);
+        allow write: if isSelf(uid) && isMember(groupId);
+      }
+    }
+  }
+}

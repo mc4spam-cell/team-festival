@@ -1,0 +1,40 @@
+{
+  "_comment": "Template — replace with the real google-services.json downloaded from Firebase Console.",
+  "_setup": "1. https://console.firebase.google.com/ → create a project → add Android app with package com.mc.mateamhf. 2. Download google-services.json. 3. Place it at app/google-services.json (overwriting this template).",
+  "project_info": {
+    "project_number": "<your-project-number>",
+    "project_id": "<your-project-id>",
+    "storage_bucket": "<your-project-id>.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "<your-mobilesdk-app-id>",
+        "android_client_info": {
+          "package_name": "com.mc.mateamhf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "<your-android-oauth-client-id>.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mc.mateamhf",
+            "certificate_hash": "<your-debug-keystore-sha1-without-colons>"
+          }
+        },
+        {
+          "client_id": "<your-web-oauth-client-id>.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "<your-android-api-key>"
+        }
+      ],
+      "services": {}
+    }
+  ],
+  "configuration_version": "1"
+}

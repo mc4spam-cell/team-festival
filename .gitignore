@@ -1,0 +1,31 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+.kotlin/
+.cxx/
+.externalNativeBuild/
+
+# Build outputs
+build/
+captures/
+app/build/
+*.apk
+*.aab
+
+# Local config (machine-specific)
+local.properties
+
+# Secrets — never commit
+*.jks
+*.keystore
+key.properties
+
+# macOS noise
+.DS_Store
+
+# Tools cache
+tools/.last_running_order.pdf
+tools/.last_pdf_hash
+google-services.json
+
