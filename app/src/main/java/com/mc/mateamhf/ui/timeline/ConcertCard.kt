@@ -30,20 +30,26 @@ fun ConcertCard(
 ) {
     val stage = cws.concert.stage
     val borderWidth = when (cws.priority) {
-        Priority.P1 -> 3.dp
-        Priority.P2 -> 2.dp
-        Priority.P3 -> 1.dp
+        Priority.P1 -> 4.dp
+        Priority.P2 -> 3.dp
+        Priority.P3 -> 2.dp
         Priority.NONE -> 0.dp
+    }
+    val borderColor = when (cws.priority) {
+        Priority.P1 -> Color(0xFFB2EBF2) // Material Cyan 100 — pale, lightest
+        Priority.P2 -> Color(0xFF00BCD4) // Material Cyan 500 — saturated mid
+        Priority.P3 -> Color(0xFF006064) // Material Cyan 900 — darkest teal
+        Priority.NONE -> Color.Transparent
     }
     Card(
         modifier = modifier.clickable { onClick(cws.concert) },
         colors = CardDefaults.cardColors(containerColor = stage.color),
-        border = if (borderWidth > 0.dp) BorderStroke(borderWidth, Color.White) else null,
+        border = if (borderWidth > 0.dp) BorderStroke(borderWidth, borderColor) else null,
     ) {
         Column(
             Modifier
                 .fillMaxSize()
-                .padding(horizontal = 6.dp, vertical = 2.dp)
+                .padding(horizontal = 8.dp, vertical = 4.dp)
         ) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 if (cws.rating != null) {
