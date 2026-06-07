@@ -2,12 +2,13 @@ package com.mc.mateamhf.ui.detail
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.width
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.FilterChip
@@ -21,7 +22,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.mc.mateamhf.domain.Concert
+import com.mc.mateamhf.data.providers.ProviderId
 import com.mc.mateamhf.domain.ConcertWithState
 import com.mc.mateamhf.domain.Priority
 import com.mc.mateamhf.domain.Rating
@@ -32,6 +33,7 @@ import com.mc.mateamhf.ui.timeline.formatRange
 fun ConcertSheet(
     cws: ConcertWithState,
     friends: List<String>,
+    enabledProviders: Set<ProviderId>,
     onDismiss: () -> Unit,
     onPriorityChange: (Priority) -> Unit,
     onRatingChange: (Rating?) -> Unit,
@@ -89,53 +91,48 @@ fun ConcertSheet(
                 }
             }
 
-            Spacer(Modifier.height(24.dp))
-            Text("Écouter / Découvrir", style = MaterialTheme.typography.labelLarge)
-            Spacer(Modifier.height(6.dp))
-            ServiceButtonRow(concert, ctx = ctx)
+            val music = enabledProviders.filter { it.category == ProviderId.Category.MUSIC }
+            val social = enabledProviders.filter { it.category == ProviderId.Category.SOCIAL }
+
+            if (music.isNotEmpty()) {
+                Spacer(Modifier.height(24.dp))
+                Text("Écouter", style = MaterialTheme.typography.labelLarge)
+                Spacer(Modifier.height(6.dp))
+                ProviderRow(music) { openForProvider(ctx, it, concert) }
+            }
+            if (social.isNotEmpty()) {
+                Spacer(Modifier.height(16.dp))
+                Text("Réseaux", style = MaterialTheme.typography.labelLarge)
+                Spacer(Modifier.height(6.dp))
+                ProviderRow(social) { openForProvider(ctx, it, concert) }
+            }
+
+            if (music.isEmpty() && social.isEmpty()) {
+                Spacer(Modifier.height(24.dp))
+                Text(
+                    "Aucun fournisseur activé. Va dans l'onglet Options pour en cocher.",
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
 
             Spacer(Modifier.height(24.dp))
         }
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 @Composable
-private fun ServiceButtonRow(concert: Concert, ctx: android.content.Context) {
-    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            ServiceButton(
-                label = "Apple Music",
-                modifier = Modifier.weight(1f),
-                onClick = { openInAppleMusic(ctx, concert) },
-            )
-            ServiceButton(
-                label = "Spotify",
-                modifier = Modifier.weight(1f),
-                onClick = { openInSpotify(ctx, concert) },
-            )
-        }
-        Row(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-            ServiceButton(
-                label = "Deezer",
-                modifier = Modifier.weight(1f),
-                onClick = { openInDeezer(ctx, concert) },
-            )
-            if (concert.instagramHandle != null) {
-                ServiceButton(
-                    label = "Instagram",
-                    modifier = Modifier.weight(1f),
-                    onClick = { openInInstagram(ctx, concert) },
-                )
-            } else {
-                Spacer(Modifier.weight(1f))
+private fun ProviderRow(providers: List<ProviderId>, onClick: (ProviderId) -> Unit) {
+    FlowRow(
+        modifier = Modifier.fillMaxWidth(),
+        horizontalArrangement = Arrangement.spacedBy(8.dp),
+        verticalArrangement = Arrangement.spacedBy(8.dp),
+    ) {
+        providers.forEach { p ->
+            FilledTonalButton(onClick = { onClick(p) }) {
+                Text(p.displayName, maxLines = 1)
             }
         }
-    }
-}
-
-@Composable
-private fun ServiceButton(label: String, modifier: Modifier = Modifier, onClick: () -> Unit) {
-    FilledTonalButton(onClick = onClick, modifier = modifier) {
-        Text(label, maxLines = 1)
     }
 }

@@ -1,0 +1,41 @@
+{
+  "festival": "Fête de l'Humanité 2026",
+  "timezone": "Europe/Paris",
+  "source": "info-festival.net (article du 27/04/2026 : 11 nouveaux artistes + artistes déjà confirmés) ; recoupé avec jds.fr et agendaculturel.fr ; fete.humanite.fr bloqué au fetch. Répartition par jour et par scène non publiée. Extraction le 06/06/2026.",
+  "status": "Running Order Incomplet",
+  "stages": [
+    { "id": "grande-scene", "name": "Grande Scène", "color": "#C0392B" },
+    { "id": "commune", "name": "Scène de la Commune", "color": "#E67E22" },
+    { "id": "zephyr", "name": "Zéphyr", "color": "#2980B9" },
+    { "id": "zebrock", "name": "Zébrock", "color": "#27AE60" },
+    { "id": "TBD", "name": "Scène à confirmer", "color": "#888888" }
+  ],
+  "days": [
+    { "id": 1, "label": "Vendredi 11 septembre", "date": "2026-09-11" },
+    { "id": 2, "label": "Samedi 12 septembre", "date": "2026-09-12" },
+    { "id": 3, "label": "Dimanche 13 septembre", "date": "2026-09-13" }
+  ],
+  "concerts": [
+    { "id": "dx-tbd-louane", "artist": "Louane", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": "louane" },
+    { "id": "dx-tbd-soprano", "artist": "Soprano", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": "sopranopsy4" },
+    { "id": "dx-tbd-ub40", "artist": "UB40", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": "7113aab7-628f-4050-ae49-dbecac110ca8", "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": "ub40official" },
+    { "id": "dx-tbd-josman", "artist": "Josman", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-oxmo-puccino", "artist": "Oxmo Puccino", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": "oxmopuccino" },
+    { "id": "dx-tbd-gauvain-sers", "artist": "Gauvain Sers", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-superbus", "artist": "Superbus", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-the-liminanas", "artist": "The Limiñanas", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-oumou-sangare", "artist": "Oumou Sangaré", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-maureen", "artist": "Maureen", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-thea", "artist": "Théa", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-yuri-buenaventura", "artist": "Yuri Buenaventura", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-houdi", "artist": "Houdi", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-2l", "artist": "2L", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-naza", "artist": "Naza", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": "nazaofficiel" },
+    { "id": "dx-tbd-sam-sauvage", "artist": "Sam Sauvage", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-trinix", "artist": "Trinix", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-aita-mon-amour", "artist": "Aïta Mon Amour", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-arone", "artist": "Arøne", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-kutu", "artist": "Kutu", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-tbd-rori", "artist": "Rori", "stage": "TBD", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
+}

@@ -27,16 +27,21 @@ import androidx.compose.ui.unit.sp
 import com.mc.mateamhf.R
 import com.mc.mateamhf.domain.Concert
 import com.mc.mateamhf.domain.Stage
+import com.mc.mateamhf.domain.TeamEvent
 
 @Composable
 fun DayTimeline(
     day: DayUi,
+    stages: List<Stage>,
     friendsByArtist: Map<String, List<String>>,
     onConcertClick: (Concert) -> Unit,
+    myUid: String? = null,
+    onTeamEventClick: (TeamEvent) -> Unit = {},
 ) {
     val dpPerMinute = 1.6.dp
     val rulerWidth = 52.dp
     val stageWidth = 150.dp
+    val teamWidth = 170.dp
     val headerHeight = 36.dp
 
     val (dayStart, dayEnd) = day.bounds
@@ -50,16 +55,16 @@ fun DayTimeline(
 
     Box(Modifier.fillMaxSize().background(Color.Black)) {
 
-        // Fixed background image + dark veil for card readability
+        // Fixed background image — the new Background.png is already dark and atmospheric,
+        // so we display it at full opacity. A light black veil keeps the concert cards crisp.
         Image(
             painter = painterResource(R.drawable.timeline_bg),
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
-            contentScale = ContentScale.FillHeight,
+            contentScale = ContentScale.Crop,
             alignment = Alignment.Center,
-            alpha = 0.55f,
         )
-        Box(Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.35f)))
+        Box(Modifier.fillMaxSize().background(Color.Black.copy(alpha = 0.15f)))
 
         // Stage area (scrolls both axes)
         Row(
@@ -68,7 +73,7 @@ fun DayTimeline(
                 .verticalScroll(vScroll)
                 .horizontalScroll(hScroll)
         ) {
-            Stage.entries.forEach { stage ->
+            stages.forEach { stage ->
                 StageColumn(
                     stage = stage,
                     concerts = day.concerts.filter { it.concert.stage == stage },
@@ -80,6 +85,15 @@ fun DayTimeline(
                     onConcertClick = onConcertClick,
                 )
             }
+            TeamColumn(
+                events = day.teamEvents,
+                myUid = myUid,
+                dayStart = dayStart,
+                dpPerMinute = dpPerMinute,
+                width = teamWidth,
+                height = totalHeight,
+                onEventClick = onTeamEventClick,
+            )
             Spacer(Modifier.width(8.dp))
         }
 
@@ -107,7 +121,7 @@ fun DayTimeline(
                 .horizontalScroll(hScroll)
                 .background(chromeBg)
         ) {
-            Stage.entries.forEach { stage ->
+            stages.forEach { stage ->
                 Box(
                     modifier = Modifier
                         .width(stageWidth)
@@ -122,6 +136,20 @@ fun DayTimeline(
                         fontSize = 13.sp,
                     )
                 }
+            }
+            Box(
+                modifier = Modifier
+                    .width(teamWidth)
+                    .height(headerHeight)
+                    .background(Color(0xFF263238)),
+                contentAlignment = Alignment.Center,
+            ) {
+                Text(
+                    text = "Team",
+                    color = Color(0xFF00BCD4),
+                    fontWeight = FontWeight.Bold,
+                    fontSize = 13.sp,
+                )
             }
         }
 

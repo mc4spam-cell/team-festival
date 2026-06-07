@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "date_etude": "2026-06-06",
+    "perimetre": "Top 20 festivals de musique français par fréquentation, tous genres",
+    "statuts": {
+      "complet": "Running order 2026 publié avec scènes et horaires",
+      "partiel": "Line-up publié (souvent avec jour) mais sans horaires/scènes",
+      "non publié": "Pas de programmation 2026 disponible"
+    }
+  },
+  "festivals": [
+    {
+      "nom": "Les Vieilles Charrues",
+      "ville": "Carhaix",
+      "dates_2026": "juillet 2026",
+      "site_officiel": "https://www.vieillescharrues.asso.fr/",
+      "url_programmation": "https://www.vieillescharrues.asso.fr/programmation/",
+      "format": "page JS (grille rendue côté client) + appli mobile Fragolabs",
+      "statut_2026": "partiel",
+      "difficulte": "difficile",
+      "notes": "Page vide en fetch statique. Piste : API JSON de l'appli Fragolabs (commune avec Hellfest). Running order historiquement publié début juillet."
+    },
+    {
+      "nom": "Solidays",
+      "ville": "Paris",
+      "dates_2026": "26-28 juin 2026",
+      "site_officiel": "https://www.solidays.org/",
+      "url_programmation": "https://www.solidays.org/programmation/",
+      "format": "page HTML statique (WordPress server-rendered)",
+      "statut_2026": "partiel",
+      "difficulte": "moyen",
+      "notes": "Artiste + jour parsables en HTML brut. Horaires des 9 scènes publiés ~10 jours avant le festival."
+    },
+    {
+      "nom": "Hellfest",
+      "ville": "Clisson",
+      "dates_2026": "juin 2026",
+      "site_officiel": "https://hellfest.fr/",
+      "url_programmation": "https://hellfest.fr/lineup",
+      "format": "page HTML SSR + fiches artistes /artiste/<slug> avec horaires précis + appli Fragolabs",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "notes": "~180 groupes, 6 scènes, horaires exacts par fiche artiste. Le bloc 'sur la même scène' liste tous les créneaux d'une scène en une requête."
+    },
+    {
+      "nom": "Francofolies de La Rochelle",
+      "ville": "La Rochelle",
+      "dates_2026": "10-14 juillet 2026",
+      "site_officiel": "https://www.francofolies.fr/",
+      "url_programmation": "https://www.francofolies.fr/programmation/",
+      "format": "page HTML statique, filtrable ?jour=AAAA-MM-JJ et ?scene=...",
+      "statut_2026": "partiel",
+      "difficulte": "moyen",
+      "notes": "Triplet artiste/scène/jour complet en HTML. Heures de séance via billetterie SeeTickets, ordre de passage intra-soirée incertain."
+    },
+    {
+      "nom": "Les Eurockéennes",
+      "ville": "Belfort",
+      "dates_2026": "juillet 2026",
+      "site_officiel": "https://www.eurockeennes.fr/",
+      "url_programmation": "https://www.eurockeennes.fr/programmation/",
+      "format": "page HTML statique + PDF planning officiel",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "url_pdf": "https://www.eurockeennes.fr/wp-content/uploads/2026/06/planning-horaires-eurockeennes-2026.pdf",
+      "notes": "PDF grille graphique : extraction texte mélange les colonnes, parsing positionnel ou croisement avec fiches HTML recommandé."
+    },
+    {
+      "nom": "Garorock",
+      "ville": "Marmande",
+      "dates_2026": "25-28 juin 2026",
+      "site_officiel": "https://www.garorock.com/",
+      "url_programmation": "https://www.garorock.com/fr/programmation",
+      "format": "HTML statique (artistes/jour) ; vue horaire JS : /fr/programmation/timetable ; appli Greencopper",
+      "statut_2026": "partiel",
+      "difficulte": "moyen",
+      "notes": "70+ artistes par jour en HTML. Horaires/scènes uniquement dans la timetable JS → rendu navigateur ou interception du JSON Greencopper."
+    },
+    {
+      "nom": "Main Square Festival",
+      "ville": "Arras",
+      "dates_2026": "3-5 juillet 2026",
+      "site_officiel": "https://mainsquarefestival.fr/",
+      "url_programmation": "https://mainsquarefestival.fr/programmation/",
+      "format": "page JS — widget SPA Fragolabs (https://app.fragolabs.com/c5c674a7-abf2-48af-8e3a-d1da22c54ffb/)",
+      "statut_2026": "complet",
+      "difficulte": "difficile",
+      "notes": "Running order publié (3 scènes) mais aucune donnée dans le HTML : rendu JS ou reverse de l'API Fragolabs nécessaire."
+    },
+    {
+      "nom": "Rock en Seine",
+      "ville": "Saint-Cloud",
+      "dates_2026": "26-30 août 2026",
+      "site_officiel": "https://www.rockenseine.com/",
+      "url_programmation": "https://www.rockenseine.com/programmation",
+      "format": "page HTML WordPress (présumé, fetch bloqué par notre proxy)",
+      "statut_2026": "partiel",
+      "difficulte": "moyen",
+      "notes": "Line-up par jour publié, horaires/scènes historiquement en juillet-août. À vérifier via navigateur."
+    },
+    {
+      "nom": "Lollapalooza Paris",
+      "ville": "Paris",
+      "dates_2026": null,
+      "site_officiel": "https://www.lollaparis.com/",
+      "url_programmation": "https://www.lollaparis.com/programmation",
+      "format": "site Webflow",
+      "statut_2026": "non publié",
+      "difficulte": "sans objet",
+      "notes": "Édition 2026 annulée (annonce octobre 2025), retour prévu été 2027. Site figé sur l'édition 2025."
+    },
+    {
+      "nom": "Printemps de Bourges",
+      "ville": "Bourges",
+      "dates_2026": "14-19 avril 2026 (terminé)",
+      "site_officiel": "https://www.printemps-bourges.com/",
+      "url_programmation": "https://www.printemps-bourges.com/programmation-generale/",
+      "format": "page HTML statique, filtres ?jour=AAAA-MM-JJ",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "notes": "Édition 2026 déjà passée. Spectacle/salle/jour/heure en HTML serveur. Horaire = plateau, pas chaque set."
+    },
+    {
+      "nom": "La Nuit de l'Erdre",
+      "ville": "Nort-sur-Erdre",
+      "dates_2026": "juillet 2026",
+      "site_officiel": "https://www.lanuitdelerdre.fr/",
+      "url_programmation": "https://www.lanuitdelerdre.fr/programmation/",
+      "format": "page HTML statique (WordPress)",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "notes": "Artiste, scène (Maki/Gorilla), jour et créneau 'début > fin' en clair dans le HTML."
+    },
+    {
+      "nom": "Beauregard",
+      "ville": "Hérouville-Saint-Clair",
+      "dates_2026": "1-5 juillet 2026",
+      "site_officiel": "https://www.festivalbeauregard.com/",
+      "url_programmation": "https://www.festivalbeauregard.com/fr/artistes",
+      "format": "page HTML statique",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "notes": "Jour, scène et heure de début par artiste dans le HTML. Heures de fin absentes ; quelques incohérences date URL vs jour affiché."
+    },
+    {
+      "nom": "Musilac",
+      "ville": "Aix-les-Bains",
+      "dates_2026": "juillet 2026",
+      "site_officiel": "https://www.musilac.com/",
+      "url_programmation": "https://www.musilac.com/programmation/horaires",
+      "format": "page HTML statique (Joomla)",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "notes": "Running order intégral par jour/scène avec créneaux début > fin. Blocs jour sans libellé explicite (ordre Jeu→Dim à mapper)."
+    },
+    {
+      "nom": "Le Cabaret Vert",
+      "ville": "Charleville-Mézières",
+      "dates_2026": "20-23 août 2026",
+      "site_officiel": "https://cabaretvert.com/",
+      "url_programmation": "https://cabaretvert.com/programmation/",
+      "format": "page HTML WordPress avec pagination AJAX 'Load More' + pages filtres par scène",
+      "statut_2026": "partiel",
+      "difficulte": "moyen",
+      "notes": "Artiste + jour + scène (via pages filtres) mais pas d'horaires avant fin août. Gérer le Load More AJAX."
+    },
+    {
+      "nom": "Les Déferlantes",
+      "ville": "Le Barcarès",
+      "dates_2026": "11-13 juillet 2026",
+      "site_officiel": "https://www.festival-lesdeferlantes.com/",
+      "url_programmation": "https://www.festival-lesdeferlantes.com/programmation/",
+      "format": "page HTML statique (Elementor) + appli mobile",
+      "statut_2026": "partiel",
+      "difficulte": "difficile",
+      "notes": "Line-up par jour, sans scène ni horaire. Running order diffusé près de la date via appli mobile et réseaux sociaux."
+    },
+    {
+      "nom": "Delta Festival",
+      "ville": "Marseille",
+      "dates_2026": "23-26 juillet 2026",
+      "site_officiel": "https://delta-festival.com/",
+      "url_programmation": "https://delta-festival.com/programmation/",
+      "format": "page JS, line-up publié en images (affiches)",
+      "statut_2026": "partiel",
+      "difficulte": "difficile",
+      "notes": "Contenu non textuel : rendu navigateur + OCR, ou sources tierces (Shotgun, touslesfestivals)."
+    },
+    {
+      "nom": "Festival Interceltique de Lorient",
+      "ville": "Lorient",
+      "dates_2026": "31 juillet - 9 août 2026",
+      "site_officiel": "https://www.festival-interceltique.bzh/",
+      "url_programmation": "https://www.festival-interceltique.bzh/programmation-2026/",
+      "format": "WordPress HTML, mais grille 'Tous les artistes' rendue en JS + appli mobile",
+      "statut_2026": "complet",
+      "difficulte": "moyen",
+      "notes": "300+ spectacles avec jour/heure/lieu publiés depuis mars. Extraction via fiches artistes WordPress (sitemap.xml) ou rendu navigateur."
+    },
+    {
+      "nom": "Jazz à Vienne",
+      "ville": "Vienne",
+      "dates_2026": "25 juin - 11 juillet 2026",
+      "site_officiel": "https://www.jazzavienne.com/",
+      "url_programmation": "https://www.jazzavienne.com/fr/edition-2026",
+      "format": "page HTML statique (Drupal) filtrable ?date=AAAA-MM-JJ + PDF timeline officiel",
+      "statut_2026": "complet",
+      "difficulte": "facile",
+      "url_pdf": "https://www.jazzavienne.com/sites/default/files/uploads/documents/2026-05/JAV26_Timeline_Digital.pdf",
+      "notes": "167 concerts avec artiste, horaire et scène en HTML propre, doublé d'un PDF running order."
+    },
+    {
+      "nom": "Electrobeach Music Festival",
+      "ville": "Le Barcarès",
+      "dates_2026": "mi-juillet 2026",
+      "site_officiel": "https://www.electrobeach.com/",
+      "url_programmation": null,
+      "format": "page JS (site vide au fetch)",
+      "statut_2026": "non publié",
+      "difficulte": "difficile",
+      "notes": "Aucun line-up 2026 publié, ni officiel ni tiers. Veille nécessaire, sans garantie de running order horodaté avant l'événement."
+    },
+    {
+      "nom": "Fête de l'Humanité",
+      "ville": "Le Plessis-Pâté / Brétigny-sur-Orge",
+      "dates_2026": "11-13 septembre 2026",
+      "site_officiel": "https://fete.humanite.fr/",
+      "url_programmation": "https://fete.humanite.fr/programmation",
+      "format": "page HTML (non vérifiée, domaine bloqué par notre fetcher) ; relais : touslesfestivals.com, SeeTickets",
+      "statut_2026": "partiel",
+      "difficulte": "moyen",
+      "notes": "~60 artistes annoncés avec scènes connues, grille horaire traditionnellement publiée fin août."
+    }
+  ]
+}

@@ -14,6 +14,8 @@ data class Group(
     val ownerUid: String,
     val joinCode: String,
     val memberCount: Int = 0,
+    /** Festivals this team follows. Legacy docs without this field fall back to [DEFAULT_FESTIVAL_ID]. */
+    val festivalIds: List<String> = emptyList(),
 )
 
 data class GroupMember(

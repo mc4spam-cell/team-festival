@@ -64,7 +64,7 @@ fun FriendsScreen(
     ) {
         Section(
             title = "Maintenant",
-            stages = Stage.entries,
+            stages = state.stages,
             concertFor = { stage ->
                 concertsByStage[stage].orEmpty().sortedBy { it.start }
                     .firstOrNull { now in it.start..it.end }
@@ -77,7 +77,7 @@ fun FriendsScreen(
 
         Section(
             title = "Prochain",
-            stages = Stage.entries,
+            stages = state.stages,
             concertFor = { stage ->
                 concertsByStage[stage].orEmpty().sortedBy { it.start }
                     .firstOrNull { it.start > now }

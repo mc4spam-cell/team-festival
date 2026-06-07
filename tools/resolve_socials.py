@@ -1,22 +1,27 @@
 #!/usr/bin/env python3
 """
-Resolve Spotify / Deezer / Instagram artist links via the MusicBrainz API.
+Resolve streaming + social links for every artist across every shipped festival
+via the MusicBrainz API. One MusicBrainz call yields every URL relationship the
+community has curated for an artist, so we extract all 9 providers in one shot:
 
-MusicBrainz provides a single endpoint that links each artist to their socials
-("free streaming" → Spotify, Deezer / "social network" → Instagram). Free,
-unauthenticated, rate-limited at 1 req/sec (we sleep 1.1s between calls).
+  Music   : Spotify, Deezer, Apple Music, Qobuz, Tidal
+  Social  : Instagram, Facebook, X (Twitter), TikTok
 
-Adds these fields to each concert in running_order.json:
-  - musicBrainzId   (string, UUID)
-  - spotifyArtistId (string, Spotify's 22-char base62 id)
-  - deezerArtistId  (int)
-  - instagramHandle (string, the part after instagram.com/)
+The MusicBrainzId is stored too so we never re-query an artist that already
+resolved on a prior run (artists frequently appear in 2+ festivals).
 
-Idempotent: only queries artists that don't have a musicBrainzId yet (use
---force to re-resolve everything).
+Free, unauthenticated API, rate-limited at 1 req/sec — we sleep 1.1 s between
+calls.
+
+Output (in-place edits):
+  - public/festivals/<id>.json           — source of truth
+  - app/src/main/assets/festivals/<id>.json — Android mirror
 
 Usage:
-  python3 tools/resolve_socials.py [--force]
+  python3 tools/resolve_socials.py [--force] [--festival <id>]
+
+  --force     : re-resolve everyone, even artists already cached
+  --festival  : restrict to a single festival id (default = all shipped 9)
 """
 from __future__ import annotations
 import argparse
@@ -29,21 +34,45 @@ import urllib.parse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-JSON_PATH = ROOT / "running_order.json"
-ASSET_PATH = ROOT / "app/src/main/assets/running_order.json"
+PUBLIC = ROOT / "public" / "festivals"
+ASSETS = ROOT / "app" / "src" / "main" / "assets" / "festivals"
 
-UA = "Hellfest2026App/1.0 ( https://github.com/local )"
-SLEEP_BETWEEN_CALLS = 1.1   # MB allows 1 req/s per IP, be polite
+UA = "MaTeamHF2026App/1.0 ( https://github.com/local )"
+SLEEP_BETWEEN_CALLS = 1.1  # MusicBrainz: 1 req/s per IP
 
-SPOTIFY_ARTIST_RE = re.compile(r"open\.spotify\.com/(?:intl-[a-z]+/)?artist/([A-Za-z0-9]+)")
-DEEZER_ARTIST_RE = re.compile(r"deezer\.com/(?:[a-z]{2}/)?artist/(\d+)")
-INSTAGRAM_RE = re.compile(r"instagram\.com/([A-Za-z0-9._]+)/?")
+# Which festival ids ship to the Android app, with the matching source filename
+# in public/festivals/. Keep this list in lockstep with assets/festivals/index.json.
+SHIPPED_FESTIVALS = {
+    "hellfest-2026":      "hellfest-2026.json",
+    "beauregard-2026":    "running_order_beauregard_2026.json",
+    "bourges-2026":       "running_order_bourges_2026.json",
+    "eurockeennes-2026":  "running_order_eurockeennes_2026.json",
+    "interceltique-2026": "running_order_interceltique_2026.json",
+    "jazzavienne-2026":   "running_order_jazzavienne_2026.json",
+    "mainsquare-2026":    "running_order_mainsquare_2026.json",
+    "musilac-2026":       "running_order_musilac_2026.json",
+    "nuitdelerdre-2026":  "running_order_nuitdelerdre_2026.json",
+}
+
+# URL extraction regexes — designed to be loose on path but strict on host.
+RE_SPOTIFY   = re.compile(r"open\.spotify\.com/(?:intl-[a-z]+/)?artist/([A-Za-z0-9]+)")
+RE_DEEZER    = re.compile(r"deezer\.com/(?:[a-z]{2}/)?artist/(\d+)")
+RE_APPLE     = re.compile(r"music\.apple\.com/(?:[a-z]{2}/)?artist/(?:[^/]+/)?(\d+)")
+RE_QOBUZ     = re.compile(r"qobuz\.com/.*?/interpreter/[^/]+/(\d+)")
+RE_TIDAL     = re.compile(r"tidal\.com/(?:browse/)?artist/(\d+)")
+RE_INSTAGRAM = re.compile(r"instagram\.com/([A-Za-z0-9._]+)/?")
+RE_FACEBOOK  = re.compile(r"facebook\.com/(?!people/|pages/)([A-Za-z0-9.\-_]+)/?")
+RE_TWITTER   = re.compile(r"(?:twitter\.com|x\.com)/(?!i/|home|search)([A-Za-z0-9_]+)/?")
+RE_TIKTOK    = re.compile(r"tiktok\.com/@([A-Za-z0-9._]+)/?")
+
+# Anything appearing in these path components is a navigation artefact, not a handle
+SOCIAL_NOISE = {"explore", "p", "reel", "share", "i", "home", "search", "settings"}
 
 
 def curl_json(url: str) -> dict | None:
     try:
         r = subprocess.run(
-            ["curl", "-sSL", "--max-time", "15", "-H", f"User-Agent: {UA}", url],
+            ["curl", "-sSL", "--max-time", "20", "-H", f"User-Agent: {UA}", url],
             capture_output=True, text=True, check=True,
         )
         body = r.stdout.strip()
@@ -64,102 +93,177 @@ def search_mbid(artist: str) -> str | None:
     if not artists:
         return None
     top = artists[0]
-    # Score 100 = exact name match; require >=85 to avoid wrong matches
     if top.get("score", 0) < 85:
         return None
     return top.get("id")
 
 
-def lookup_socials(mbid: str) -> dict[str, str | int | None]:
+EMPTY: dict[str, str | int | None] = {
+    "musicBrainzId":      None,
+    "spotifyArtistId":    None,
+    "deezerArtistId":     None,
+    "appleMusicArtistId": None,
+    "qobuzArtistId":      None,
+    "tidalArtistId":      None,
+    "instagramHandle":    None,
+    "facebookHandle":     None,
+    "twitterHandle":      None,
+    "tiktokHandle":       None,
+}
+
+
+def lookup_links(mbid: str) -> dict[str, str | int | None]:
+    out: dict[str, str | int | None] = {**EMPTY, "musicBrainzId": mbid}
     data = curl_json(f"https://musicbrainz.org/ws/2/artist/{mbid}?inc=url-rels&fmt=json")
-    out: dict[str, str | int | None] = {
-        "spotifyArtistId": None,
-        "deezerArtistId": None,
-        "instagramHandle": None,
-    }
     if not data:
         return out
     for rel in data.get("relations", []):
         url = (rel.get("url") or {}).get("resource") or ""
         if not url:
             continue
-        if out["spotifyArtistId"] is None:
-            m = SPOTIFY_ARTIST_RE.search(url)
-            if m:
-                out["spotifyArtistId"] = m.group(1)
-        if out["deezerArtistId"] is None:
-            m = DEEZER_ARTIST_RE.search(url)
-            if m:
-                out["deezerArtistId"] = int(m.group(1))
-        if out["instagramHandle"] is None:
-            m = INSTAGRAM_RE.search(url)
-            if m:
-                handle = m.group(1)
-                if handle and handle.lower() not in {"explore", "p", "reel"}:
-                    out["instagramHandle"] = handle
+        if out["spotifyArtistId"] is None and (m := RE_SPOTIFY.search(url)):
+            out["spotifyArtistId"] = m.group(1)
+        if out["deezerArtistId"] is None and (m := RE_DEEZER.search(url)):
+            out["deezerArtistId"] = int(m.group(1))
+        if out["appleMusicArtistId"] is None and (m := RE_APPLE.search(url)):
+            out["appleMusicArtistId"] = int(m.group(1))
+        if out["qobuzArtistId"] is None and (m := RE_QOBUZ.search(url)):
+            out["qobuzArtistId"] = m.group(1)
+        if out["tidalArtistId"] is None and (m := RE_TIDAL.search(url)):
+            out["tidalArtistId"] = m.group(1)
+        if out["instagramHandle"] is None and (m := RE_INSTAGRAM.search(url)):
+            h = m.group(1)
+            if h and h.lower() not in SOCIAL_NOISE:
+                out["instagramHandle"] = h
+        if out["facebookHandle"] is None and (m := RE_FACEBOOK.search(url)):
+            h = m.group(1)
+            if h and h.lower() not in SOCIAL_NOISE:
+                out["facebookHandle"] = h
+        if out["twitterHandle"] is None and (m := RE_TWITTER.search(url)):
+            h = m.group(1)
+            if h and h.lower() not in SOCIAL_NOISE:
+                out["twitterHandle"] = h
+        if out["tiktokHandle"] is None and (m := RE_TIKTOK.search(url)):
+            h = m.group(1)
+            if h and h.lower() not in SOCIAL_NOISE:
+                out["tiktokHandle"] = h
     return out
+
+
+def load_all_festivals() -> dict[str, tuple[Path, dict]]:
+    """fid → (path, parsed json). Sorted alphabetically for reproducibility."""
+    out: dict[str, tuple[Path, dict]] = {}
+    for fid, filename in SHIPPED_FESTIVALS.items():
+        p = PUBLIC / filename
+        if not p.exists():
+            print(f"  ⚠️  {p} missing — skipping {fid}", file=sys.stderr)
+            continue
+        out[fid] = (p, json.loads(p.read_text()))
+    return out
+
+
+def collect_cache(all_festivals: dict[str, tuple[Path, dict]], force: bool) -> dict[str, dict]:
+    """Aggregate already-resolved artists across every festival → name → fields dict."""
+    cache: dict[str, dict] = {}
+    if force:
+        return cache
+    for _, (_, data) in all_festivals.items():
+        for c in data.get("concerts", []):
+            artist = c["artist"]
+            if not c.get("musicBrainzId"):
+                continue
+            # If we've already seen this artist in another festival, keep the richer record
+            existing = cache.get(artist) or {}
+            merged = {**existing}
+            for k in EMPTY:
+                v_new = c.get(k)
+                if v_new and not merged.get(k):
+                    merged[k] = v_new
+            cache[artist] = merged
+    return cache
+
+
+def apply_to_festival(data: dict, cache: dict[str, dict]) -> None:
+    for c in data["concerts"]:
+        entry = cache.get(c["artist"])
+        if not entry:
+            continue
+        for k in EMPTY:
+            if entry.get(k) is not None:
+                c[k] = entry[k]
+            elif k not in c:
+                c[k] = None
+
+
+def mirror_to_assets(fid: str, public_path: Path) -> None:
+    target = ASSETS / f"{fid}.json"
+    target.write_bytes(public_path.read_bytes())
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--force", action="store_true", help="re-resolve even cached artists")
+    ap.add_argument("--force", action="store_true", help="re-resolve every artist")
+    ap.add_argument("--festival", help="restrict to one festival id")
     args = ap.parse_args()
 
-    data = json.loads(JSON_PATH.read_text())
-    concerts = data["concerts"]
+    all_festivals = load_all_festivals()
+    if args.festival:
+        if args.festival not in all_festivals:
+            print(f"Unknown festival id: {args.festival}", file=sys.stderr)
+            return 1
+        all_festivals = {args.festival: all_festivals[args.festival]}
 
-    # Cache by artist name (artists play once but defensive)
-    cache: dict[str, dict] = {}
-    if not args.force:
-        for c in concerts:
-            if c.get("musicBrainzId"):
-                cache[c["artist"]] = {
-                    "musicBrainzId": c["musicBrainzId"],
-                    "spotifyArtistId": c.get("spotifyArtistId"),
-                    "deezerArtistId": c.get("deezerArtistId"),
-                    "instagramHandle": c.get("instagramHandle"),
-                }
+    cache = collect_cache(all_festivals, args.force)
 
-    unique_artists = sorted({c["artist"] for c in concerts})
-    todo = [a for a in unique_artists if a not in cache]
-    print(f"{len(unique_artists)} artists total, {len(cache)} cached, {len(todo)} to resolve\n")
+    unique_artists: set[str] = set()
+    for _, (_, data) in all_festivals.items():
+        for c in data["concerts"]:
+            unique_artists.add(c["artist"])
+    todo = sorted(unique_artists - set(cache.keys()))
 
-    for artist in todo:
+    print(f"{len(unique_artists)} unique artists across {len(all_festivals)} festivals")
+    print(f"  cached (skipped):  {len(cache)}")
+    print(f"  to resolve:        {len(todo)}")
+    if todo:
+        eta_s = len(todo) * 2 * SLEEP_BETWEEN_CALLS
+        print(f"  estimated time:    ~{int(eta_s/60)} min {int(eta_s%60)} s\n")
+
+    for i, artist in enumerate(todo, 1):
         mbid = search_mbid(artist)
         time.sleep(SLEEP_BETWEEN_CALLS)
         if not mbid:
-            print(f"  ✗ {artist:<40} (no MBID match)")
-            cache[artist] = {
-                "musicBrainzId": None, "spotifyArtistId": None,
-                "deezerArtistId": None, "instagramHandle": None,
-            }
+            cache[artist] = {**EMPTY}
+            print(f"  [{i:>3}/{len(todo)}] ✗ {artist:<48} (no MBID)")
             continue
-        socials = lookup_socials(mbid)
+        links = lookup_links(mbid)
         time.sleep(SLEEP_BETWEEN_CALLS)
-        cache[artist] = {"musicBrainzId": mbid, **socials}
+        cache[artist] = links
         marks = "".join([
-            "S" if socials["spotifyArtistId"] else "·",
-            "D" if socials["deezerArtistId"] else "·",
-            "I" if socials["instagramHandle"] else "·",
+            "S" if links["spotifyArtistId"]    else "·",
+            "D" if links["deezerArtistId"]     else "·",
+            "A" if links["appleMusicArtistId"] else "·",
+            "Q" if links["qobuzArtistId"]      else "·",
+            "T" if links["tidalArtistId"]      else "·",
+            "I" if links["instagramHandle"]    else "·",
+            "F" if links["facebookHandle"]     else "·",
+            "X" if links["twitterHandle"]      else "·",
+            "K" if links["tiktokHandle"]       else "·",
         ])
-        print(f"  ✓ {artist:<40} [{marks}]")
+        print(f"  [{i:>3}/{len(todo)}] ✓ {artist:<48} [{marks}]")
 
-    for c in concerts:
-        entry = cache.get(c["artist"], {})
-        c["musicBrainzId"] = entry.get("musicBrainzId")
-        c["spotifyArtistId"] = entry.get("spotifyArtistId")
-        c["deezerArtistId"] = entry.get("deezerArtistId")
-        c["instagramHandle"] = entry.get("instagramHandle")
-
-    JSON_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
-    ASSET_PATH.write_bytes(JSON_PATH.read_bytes())
-
-    def stat(field: str) -> int:
-        return sum(1 for c in concerts if c.get(field))
-    print(f"\nResolved: MB={stat('musicBrainzId')}  Spotify={stat('spotifyArtistId')}  Deezer={stat('deezerArtistId')}  Instagram={stat('instagramHandle')}")
-    print(f"Total concerts: {len(concerts)}")
-    print(f"\nWritten: {JSON_PATH}")
-    print(f"Mirror : {ASSET_PATH}")
+    print()
+    for fid, (path, data) in all_festivals.items():
+        apply_to_festival(data, cache)
+        path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n")
+        mirror_to_assets(fid, path)
+        n = len(data["concerts"])
+        stats = {k: sum(1 for c in data["concerts"] if c.get(k)) for k in EMPTY}
+        print(f"  ✓ {fid}: {n} concerts | MB={stats['musicBrainzId']} "
+              f"S={stats['spotifyArtistId']} D={stats['deezerArtistId']} "
+              f"A={stats['appleMusicArtistId']} Q={stats['qobuzArtistId']} "
+              f"T={stats['tidalArtistId']} | "
+              f"I={stats['instagramHandle']} F={stats['facebookHandle']} "
+              f"X={stats['twitterHandle']} K={stats['tiktokHandle']}")
     return 0
 
 

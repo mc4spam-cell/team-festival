@@ -34,14 +34,8 @@ fun SplashScreen() {
             painter = painterResource(R.drawable.timeline_bg),
             contentDescription = null,
             modifier = Modifier.fillMaxSize(),
-            contentScale = ContentScale.FillHeight,
+            contentScale = ContentScale.Crop,
             alignment = Alignment.Center,
-            alpha = 0.55f,
-        )
-        Box(
-            modifier = Modifier
-                .fillMaxSize()
-                .background(Color.Black.copy(alpha = 0.45f)),
         )
         Column(
             modifier = Modifier.fillMaxSize(),
@@ -50,7 +44,7 @@ fun SplashScreen() {
         ) {
             Image(
                 painter = painterResource(R.drawable.splash_logo),
-                contentDescription = "Ma Team HF 2026",
+                contentDescription = "Team Festival",
                 modifier = Modifier.size(280.dp),
             )
             Spacer(Modifier.height(20.dp))

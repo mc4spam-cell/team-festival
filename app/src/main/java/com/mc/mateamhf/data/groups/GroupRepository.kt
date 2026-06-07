@@ -6,6 +6,7 @@ import com.google.firebase.firestore.FieldValue
 import com.google.firebase.firestore.MetadataChanges
 import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.ktx.Firebase
+import com.mc.mateamhf.domain.DEFAULT_FESTIVAL_ID
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.callbackFlow
@@ -46,6 +47,7 @@ class GroupRepository {
                     "joinCode" to code,
                     "createdAt" to FieldValue.serverTimestamp(),
                     "memberCount" to 1,
+                    "festivalIds" to listOf(DEFAULT_FESTIVAL_ID),
                 )).await()
                 groupRef.collection("members").document(user.uid).set(mapOf(
                     "displayName" to (user.displayName ?: user.email ?: "Anonyme"),
@@ -58,7 +60,14 @@ class GroupRepository {
                     com.google.firebase.firestore.SetOptions.merge(),
                 ).await()
                 return CreateResult.Success(
-                    Group(id = groupRef.id, name = name.trim(), ownerUid = user.uid, joinCode = code, memberCount = 1)
+                    Group(
+                        id = groupRef.id,
+                        name = name.trim(),
+                        ownerUid = user.uid,
+                        joinCode = code,
+                        memberCount = 1,
+                        festivalIds = listOf(DEFAULT_FESTIVAL_ID),
+                    )
                 )
             } catch (e: Exception) {
                 // Likely a code collision on the joinCodes/create — retry with a new code
@@ -120,13 +129,29 @@ class GroupRepository {
         awaitClose { reg.remove() }
     }
 
-    private fun DocumentSnapshot.toGroup(): Group = Group(
-        id = id,
-        name = getString("name").orEmpty(),
-        ownerUid = getString("ownerUid").orEmpty(),
-        joinCode = getString("joinCode").orEmpty(),
-        memberCount = getLong("memberCount")?.toInt() ?: 0,
-    )
+    private fun DocumentSnapshot.toGroup(): Group {
+        val rawFestivalIds = get("festivalIds") as? List<*>
+        val festivalIds = rawFestivalIds?.filterIsInstance<String>()?.takeIf { it.isNotEmpty() }
+            ?: listOf(DEFAULT_FESTIVAL_ID) // legacy docs created before multi-festival
+        return Group(
+            id = id,
+            name = getString("name").orEmpty(),
+            ownerUid = getString("ownerUid").orEmpty(),
+            joinCode = getString("joinCode").orEmpty(),
+            memberCount = getLong("memberCount")?.toInt() ?: 0,
+            festivalIds = festivalIds,
+        )
+    }
+
+    /** Add a festival to an existing group. Owner-only (enforced by Firestore rules). */
+    suspend fun addFestivalToGroup(groupId: String, festivalId: String) {
+        groupDoc(groupId).update("festivalIds", FieldValue.arrayUnion(festivalId)).await()
+    }
+
+    /** Remove a festival from a group. Owner-only (enforced by Firestore rules). */
+    suspend fun removeFestivalFromGroup(groupId: String, festivalId: String) {
+        groupDoc(groupId).update("festivalIds", FieldValue.arrayRemove(festivalId)).await()
+    }
 
     private fun DocumentSnapshot.toMember(): GroupMember? {
         val name = getString("displayName") ?: return null

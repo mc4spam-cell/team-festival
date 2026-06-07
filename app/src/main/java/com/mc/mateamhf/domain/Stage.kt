@@ -2,11 +2,16 @@ package com.mc.mateamhf.domain
 
 import androidx.compose.ui.graphics.Color
 
-enum class Stage(val displayName: String, val color: Color) {
-    MAINSTAGE_01("Mainstage 01", Color(0xFF1B4FA0)),
-    MAINSTAGE_02("Mainstage 02", Color(0xFF6E6E6E)),
-    WARZONE     ("Warzone",      Color(0xFF9DBA2A)),
-    VALLEY      ("Valley",       Color(0xFFCC7A1B)),
-    TEMPLE      ("Temple",       Color(0xFF8E8E8E)),
-    ALTAR       ("Altar",        Color(0xFFC9302C)),
+/**
+ * A festival stage. Used to be a hardcoded enum (Hellfest-only); now a data class so each
+ * festival can ship its own stages via its JSON `stages` block. Equality is structural, so
+ * two Stage instances with the same id are interchangeable for grouping/filtering.
+ */
+data class Stage(
+    val id: String,
+    val name: String,
+    val color: Color,
+) {
+    /** Legacy alias kept for screens that read `stage.displayName`. */
+    val displayName: String get() = name
 }

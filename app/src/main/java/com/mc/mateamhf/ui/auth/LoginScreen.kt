@@ -68,7 +68,7 @@ fun LoginScreen(
         ) {
             Image(
                 painter = painterResource(R.drawable.splash_logo),
-                contentDescription = "Ma Team HF 2026",
+                contentDescription = "Team Festival",
                 modifier = Modifier.size(220.dp),
             )
             Spacer(Modifier.height(24.dp))

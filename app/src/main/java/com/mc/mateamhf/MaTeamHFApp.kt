@@ -2,9 +2,11 @@ package com.mc.mateamhf
 
 import android.app.Application
 import com.mc.mateamhf.data.ConcertStateRepository
+import com.mc.mateamhf.data.FestivalRepository
 import com.mc.mateamhf.data.RunningOrderRepository
 import com.mc.mateamhf.data.auth.AuthRepository
 import com.mc.mateamhf.data.db.AppDatabase
+import com.mc.mateamhf.data.events.TeamEventRepository
 import com.mc.mateamhf.data.groups.GroupPicksRepository
 import com.mc.mateamhf.data.groups.GroupRepository
 import com.mc.mateamhf.data.groups.UserProfileRepository
@@ -44,6 +46,8 @@ class MaTeamHFApp : Application() {
     val userProfileRepository: UserProfileRepository by lazy { UserProfileRepository() }
     val groupRepository: GroupRepository by lazy { GroupRepository() }
     val groupPicksRepository: GroupPicksRepository by lazy { GroupPicksRepository() }
+    val festivalRepository: FestivalRepository by lazy { FestivalRepository(applicationContext) }
+    val teamEventRepository: TeamEventRepository by lazy { TeamEventRepository() }
 
     val friendsSyncRepository: FriendsSyncRepository by lazy {
         FriendsSyncRepository(
