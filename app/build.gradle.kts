@@ -20,6 +20,14 @@ android {
 
         val syncUrl = (project.findProperty("mateamhf.syncUrl") as String?) ?: ""
         buildConfigField("String", "SYNC_URL", "\"$syncUrl\"")
+
+        // Spotify Web API client_id — needed for OAuth + playlist generation feature.
+        // Register your own app at https://developer.spotify.com/dashboard, set the
+        // redirect URI to "com.mc.teamfestival://oauth/spotify", and drop the client_id
+        // into ~/.gradle/gradle.properties as teamfestival.spotifyClientId=<value>.
+        // The feature is silently disabled when the field is empty.
+        val spotifyClientId = (project.findProperty("teamfestival.spotifyClientId") as String?) ?: ""
+        buildConfigField("String", "SPOTIFY_CLIENT_ID", "\"$spotifyClientId\"")
     }
 
     signingConfigs {
@@ -89,6 +97,10 @@ dependencies {
     implementation(libs.datastore.preferences)
 
     implementation(libs.okhttp)
+
+    // Chrome Custom Tabs — used to launch OAuth flows (Spotify) and let the browser
+    // share the user's logged-in session instead of trapping them in a WebView.
+    implementation("androidx.browser:browser:1.8.0")
 
     // Firebase BOM aligns all Firebase artifact versions
     implementation(platform(libs.firebase.bom))

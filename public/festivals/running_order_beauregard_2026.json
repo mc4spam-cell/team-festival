@@ -61,9 +61,9 @@
       "deezerArtistId": 157,
       "instagramHandle": "bobsinclar",
       "qobuzArtistId": null,
-      "tidalArtistId": null,
-      "facebookHandle": null,
-      "twitterHandle": null,
+      "tidalArtistId": "16056",
+      "facebookHandle": "BobSinclar",
+      "twitterHandle": "bobsinclar",
       "tiktokHandle": null
     },
     {
@@ -666,7 +666,7 @@
       "appleMusicArtistId": 187278791,
       "musicBrainzId": "101c6e44-1f68-41d7-bc70-b9ddba411e90",
       "spotifyArtistId": "5Nd385K2g3s0828W8Ab70z",
-      "deezerArtistId": null,
+      "deezerArtistId": 4219770,
       "instagramHandle": "trym.fr",
       "qobuzArtistId": null,
       "tidalArtistId": null,

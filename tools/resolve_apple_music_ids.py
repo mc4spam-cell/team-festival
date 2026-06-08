@@ -34,6 +34,7 @@ SHIPPED_FESTIVALS = {
     "mainsquare-2026":    "running_order_mainsquare_2026.json",
     "musilac-2026":       "running_order_musilac_2026.json",
     "nuitdelerdre-2026":  "running_order_nuitdelerdre_2026.json",
+    "poney-club-2026":    "poney-club-2026.json",
 }
 
 SLEEP_BETWEEN_CALLS = 0.25

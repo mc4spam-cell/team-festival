@@ -11,6 +11,8 @@ import com.mc.mateamhf.data.groups.GroupPicksRepository
 import com.mc.mateamhf.data.groups.GroupRepository
 import com.mc.mateamhf.data.groups.UserProfileRepository
 import com.mc.mateamhf.data.picks.PicksBackup
+import com.mc.mateamhf.data.playlist.PlaylistGenerator
+import com.mc.mateamhf.data.playlist.TokenStore
 import com.mc.mateamhf.data.prefs.UserPrefs
 import com.mc.mateamhf.data.sync.FriendsSyncRepository
 import com.mc.mateamhf.notification.NotificationChannels
@@ -48,6 +50,13 @@ class MaTeamHFApp : Application() {
     val groupPicksRepository: GroupPicksRepository by lazy { GroupPicksRepository() }
     val festivalRepository: FestivalRepository by lazy { FestivalRepository(applicationContext) }
     val teamEventRepository: TeamEventRepository by lazy { TeamEventRepository() }
+
+    /** Shared OkHttp client for outgoing HTTP (playlist providers). Connection pool reused. */
+    val httpClient: okhttp3.OkHttpClient by lazy { okhttp3.OkHttpClient() }
+    val playlistTokenStore: TokenStore by lazy { TokenStore(applicationContext) }
+    val playlistGenerator: PlaylistGenerator by lazy {
+        PlaylistGenerator(applicationContext, httpClient, playlistTokenStore)
+    }
 
     val friendsSyncRepository: FriendsSyncRepository by lazy {
         FriendsSyncRepository(

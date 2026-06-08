@@ -37,6 +37,7 @@ import com.mc.mateamhf.ui.timeline.formatHm
 fun MyRunningOrderScreen(
     state: UiState.Loaded,
     onConcertClick: (Concert) -> Unit,
+    onGeneratePlaylistClick: () -> Unit = {},
     modifier: Modifier = Modifier,
 ) {
     val daysWithPicks = state.days.map { day ->
@@ -63,6 +64,14 @@ fun MyRunningOrderScreen(
         modifier = modifier.fillMaxSize().padding(horizontal = 16.dp),
         contentPadding = androidx.compose.foundation.layout.PaddingValues(vertical = 12.dp),
     ) {
+        item(key = "generate-playlist") {
+            androidx.compose.material3.Button(
+                onClick = onGeneratePlaylistClick,
+                modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp),
+            ) {
+                Text("🎵  Générer mes playlists Spotify")
+            }
+        }
         daysWithPicks.forEach { (day, picks) ->
             if (picks.isEmpty()) return@forEach
             item(key = "day-${day.id}") {

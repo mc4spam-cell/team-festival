@@ -1,6 +1,7 @@
 package com.mc.mateamhf
 
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
 import android.os.Bundle
@@ -25,6 +26,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import com.mc.mateamhf.data.playlist.OAuthRedirectBus
 import com.mc.mateamhf.ui.auth.AuthViewModel
 import com.mc.mateamhf.ui.auth.LoginScreen
 import com.mc.mateamhf.ui.common.LoadingScreen
@@ -61,6 +63,8 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         enableEdgeToEdge()
         super.onCreate(savedInstanceState)
+        // First OAuth-redirect intent might arrive via onCreate (cold app launch from custom tab)
+        intent?.let(::dispatchOAuthIfNeeded)
         maybeRequestNotificationPermission()
         setContent {
             MaTeamHFTheme {
@@ -140,6 +144,20 @@ class MainActivity : ComponentActivity() {
                     )
                 }
             }
+        }
+    }
+
+    override fun onNewIntent(intent: Intent) {
+        super.onNewIntent(intent)
+        setIntent(intent)
+        dispatchOAuthIfNeeded(intent)
+    }
+
+    /** Forward `com.mc.teamfestival://oauth/<service>?code=...&state=...` to the in-flight flow. */
+    private fun dispatchOAuthIfNeeded(intent: Intent) {
+        val data = intent.data ?: return
+        if (data.scheme == "com.mc.teamfestival" && data.host == "oauth") {
+            OAuthRedirectBus.handleRedirect(data)
         }
     }
 

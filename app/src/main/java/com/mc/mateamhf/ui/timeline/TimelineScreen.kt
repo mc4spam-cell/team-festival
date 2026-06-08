@@ -94,7 +94,9 @@ fun TimelineScreen(
     var selectedConcertId by remember { mutableStateOf<String?>(null) }
     var selectedEventId by remember { mutableStateOf<String?>(null) }
     var showAddEvent by remember { mutableStateOf(false) }
+    var showPlaylistDialog by remember { mutableStateOf(false) }
     var selectedDayIndex by remember { mutableIntStateOf(0) }
+    val playlistStatus by viewModel.playlistGenerator.status.collectAsStateWithLifecycle()
 
     val loaded = state as? UiState.Loaded
     val currentSelected = selectedConcertId?.let { id ->
@@ -217,6 +219,7 @@ fun TimelineScreen(
                     2 -> MyRunningOrderScreen(
                         state = ui,
                         onConcertClick = { selectedConcertId = it.id },
+                        onGeneratePlaylistClick = { showPlaylistDialog = true },
                     )
                     else -> OptionsScreen(
                         userPrefs = viewModel.userPrefsForOptions,
@@ -250,6 +253,18 @@ fun TimelineScreen(
             onCancelEvent = {
                 viewModel.deleteTeamEvent(ev.id)
                 selectedEventId = null
+            },
+        )
+    }
+
+    if (showPlaylistDialog) {
+        com.mc.mateamhf.ui.playlist.PlaylistDialog(
+            status = playlistStatus,
+            onGenerate = { viewModel.generatePlaylist(it) },
+            onSignOut = { viewModel.signOutPlaylist(it) },
+            onDismiss = {
+                showPlaylistDialog = false
+                viewModel.resetPlaylistStatus()
             },
         )
     }

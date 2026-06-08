@@ -71,6 +71,14 @@
       "dates": "2–5 juillet 2026",
       "location": "Nort-sur-Erdre, France",
       "color": "#5E35B1"
+    },
+    {
+      "id": "poney-club-2026",
+      "name": "Poney Club 2026",
+      "shortName": "Poney Club 2026",
+      "dates": "3 juin–30 août 2026",
+      "location": "Aéroport Toulouse-Blagnac, France",
+      "color": "#7C4DFF"
     }
   ]
 }

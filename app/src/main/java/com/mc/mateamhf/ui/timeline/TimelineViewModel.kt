@@ -61,6 +61,7 @@ class TimelineViewModel(
     private val groupRepo: GroupRepository,
     private val festivalRepo: FestivalRepository,
     private val teamEventRepo: TeamEventRepository,
+    val playlistGenerator: com.mc.mateamhf.data.playlist.PlaylistGenerator,
 ) : ViewModel() {
 
     private val _toasts = Channel<String>(Channel.BUFFERED)
@@ -227,6 +228,30 @@ class TimelineViewModel(
         viewModelScope.launch { userPrefs.setActiveFestivalId(festivalId) }
     }
 
+    /**
+     * Trigger playlist generation for [service] using the currently loaded picks of the active festival.
+     * Errors are reported via [playlistGenerator.status]; toasts mirror them for quick feedback.
+     */
+    fun generatePlaylist(service: com.mc.mateamhf.data.playlist.PlaylistService) {
+        viewModelScope.launch {
+            val loaded = state.value as? UiState.Loaded ?: return@launch
+            val festivalId = activeFestival.value
+            val festivalMeta = allFestivals.value.firstOrNull { it.id == festivalId }
+            val festivalName = festivalMeta?.shortName ?: festivalId
+            val concerts = loaded.days.flatMap { it.concerts }
+            runCatching {
+                playlistGenerator.generate(service, festivalName, concerts)
+            }.onFailure { e ->
+                _toasts.send(e.message ?: "Erreur génération playlist")
+            }
+        }
+    }
+
+    fun resetPlaylistStatus() = playlistGenerator.resetStatus()
+    fun signOutPlaylist(service: com.mc.mateamhf.data.playlist.PlaylistService) {
+        viewModelScope.launch { playlistGenerator.signOut(service) }
+    }
+
     fun toggleFestivalInGroup(festivalId: String, enabled: Boolean) {
         viewModelScope.launch {
             val groupId = userPrefs.currentGroupId.first() ?: return@launch
@@ -344,6 +369,7 @@ class TimelineViewModel(
                     groupRepo = app.groupRepository,
                     festivalRepo = app.festivalRepository,
                     teamEventRepo = app.teamEventRepository,
+                    playlistGenerator = app.playlistGenerator,
                 )
             }
         }

@@ -80,9 +80,9 @@
       "deezerArtistId": 2129,
       "instagramHandle": "socialdistortion",
       "qobuzArtistId": null,
-      "tidalArtistId": null,
-      "facebookHandle": null,
-      "twitterHandle": null,
+      "tidalArtistId": "6236",
+      "facebookHandle": "socialdistortion",
+      "twitterHandle": "SocialD1",
       "tiktokHandle": null
     },
     {
@@ -98,10 +98,10 @@
       "spotifyArtistId": "5LfGQac0EIXyAN8aUwmNAQ",
       "deezerArtistId": 882,
       "instagramHandle": "offspring",
-      "qobuzArtistId": null,
-      "tidalArtistId": null,
-      "facebookHandle": null,
-      "twitterHandle": null,
+      "qobuzArtistId": "147414",
+      "tidalArtistId": "1009",
+      "facebookHandle": "Offspring",
+      "twitterHandle": "offspring",
       "tiktokHandle": null
     },
     {
@@ -251,9 +251,9 @@
       "deezerArtistId": 14563,
       "instagramHandle": "ultravomitofficiel",
       "qobuzArtistId": null,
-      "tidalArtistId": null,
-      "facebookHandle": null,
-      "twitterHandle": null,
+      "tidalArtistId": "4514268",
+      "facebookHandle": "ultravomitofficiel",
+      "twitterHandle": "TrueUltraVomit",
       "tiktokHandle": null
     },
     {
@@ -517,7 +517,7 @@
       "deezerArtistId": 134,
       "instagramHandle": null,
       "qobuzArtistId": null,
-      "tidalArtistId": null,
+      "tidalArtistId": "12964",
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null
@@ -708,7 +708,7 @@
       "instagramHandle": "enhancer_officiel",
       "qobuzArtistId": null,
       "tidalArtistId": null,
-      "facebookHandle": null,
+      "facebookHandle": "enhancer",
       "twitterHandle": null,
       "tiktokHandle": null
     },
@@ -758,7 +758,7 @@
       "start": "2026-07-05T17:00:00+02:00",
       "end": "2026-07-05T18:00:00+02:00",
       "appleMusicPlaylist": null,
-      "appleMusicArtistId": null,
+      "appleMusicArtistId": 1555986716,
       "musicBrainzId": "de5a35ea-a2ba-46b2-aac3-5c00fe5d0904",
       "spotifyArtistId": "5txKJQwlX202UqnBPII2PK",
       "deezerArtistId": 109962212,
@@ -820,10 +820,10 @@
       "spotifyArtistId": "4DToQR3aKrHQSSRzSz8Nzt",
       "deezerArtistId": 621,
       "instagramHandle": "thehives",
-      "qobuzArtistId": null,
-      "tidalArtistId": null,
-      "facebookHandle": null,
-      "twitterHandle": null,
+      "qobuzArtistId": "130830",
+      "tidalArtistId": "31860",
+      "facebookHandle": "hives",
+      "twitterHandle": "thehives",
       "tiktokHandle": null
     },
     {
