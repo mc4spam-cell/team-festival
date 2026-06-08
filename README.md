@@ -1,20 +1,23 @@
-# Ma Team HF — édition 2026
+# Team Festival
 
-Multi-team Android app for the [Hellfest Open Air](https://www.hellfest.fr/) 2026 festival (18-21 June 2026, Clisson, France). Sign in with Google, create or join a team with a 8-char invite code, and your team-mates' P1 picks land on your timeline in real time.
+Multi-team Android app for following the running orders of the big French summer festivals. Sign in with Google, create or join a team with an 8-char invite code, and your team-mates' picks land on your timeline in real time.
 
-> A solo / small-group variant with simpler Google-Drive-only backend lives at [`hellfest-2026`](https://github.com/mc4spam-cell/hellfest-2026). Pick this one for >2 groups, Play-Store readiness and identity isolation; pick the standalone for friction-free personal use.
+Edition 2026 ships 9 festivals out of the box: Hellfest Open Air, Beauregard, Printemps de Bourges, Eurockéennes, Interceltique de Lorient, Jazz à Vienne, Main Square, Musilac, Nuits de l'Erdre.
 
 ## Features
 
-- **Google Sign-In** via Credential Manager + Firebase Auth (the modern Android API, not the deprecated `GoogleSignInClient`)
-- **Teams** — create one with a name, get an auto-generated `XXXX-XXXX` code, share the code with friends; users can belong to several teams at once and switch via the top bar
-- **Real-time P1 sync** — every P1 toggle is pushed to Firestore, listeners propagate to every team-mate's device with no manual refresh
-- **Timeline** — 6 parallel stages over 4 days, sticky stage headers + time ruler, friends' P1s shown inline on each concert card
+- **Google Sign-In** via Credential Manager + Firebase Auth
+- **Teams** — create one with a name, get an auto-generated `XXXX-XXXX` code, share it with friends; users can belong to several teams at once and switch from the top bar
+- **Multi-festival** — each team can follow one or more festivals; the active festival is picked from a chip bar above the day tabs
+- **Real-time P1 sync** — every priority toggle is pushed to Firestore, listeners propagate to every team-mate's device with no manual refresh
+- **Timeline** — N stage columns + 1 "Team" column over up to 4 days, sticky stage headers + time ruler, friends' P1s shown inline on each concert card
 - **Picks** — priorities P1/P2/P3 + ratings (--/-/+/++) per concert, persisted locally with Room
+- **Team events** — create a 30-min slot (Repas / Café / Bière / RDV) at a given time + optional location; visible live to every team-mate; only the creator can cancel
 - **Mon RO** — synthetic chronological view of your own picks, with conflict detection for overlapping P1s
 - **Friends page** — "Maintenant / Prochain" per stage with a live tick every 30 s
 - **Reminders** — exact-alarm notification 15 min before any P1 concert, persisted across reboots
-- **Music services** — native deep-links per artist to Apple Music, Spotify, Deezer, Instagram
+- **9 content providers** — Apple Music, Spotify, Deezer, Qobuz, Tidal, Instagram, Facebook, X, TikTok, with deep links per artist when an explicit ID is known and a search-URL fallback otherwise
+- **Options** — toggle each provider on/off; toggle which festivals your team follows (owner-only)
 - **Picks JSON backup** — export/import via SAF, useful for migrating between devices or sharing offline
 
 ## Stack
@@ -25,16 +28,17 @@ Multi-team Android app for the [Hellfest Open Air](https://www.hellfest.fr/) 202
 - OkHttp · kotlinx-serialization · kotlinx-datetime · kotlinx-coroutines-play-services
 - AlarmManager + BroadcastReceiver for reminders
 - Android Gradle Plugin 8.13 · `compileSdk` 35 · `minSdk` 31
+- `applicationId` = `com.mc.teamfestival` (Kotlin namespace stays at the legacy `com.mc.mateamhf` to avoid a refactor with no user-visible benefit)
 - Target device: any modern Android 12+ phone; primary testbed is Pixel 10 Pro XL on Android 16
 
 ## Build
 
-You need your own Firebase project — the API key in `google-services.json` is locked to a SHA-1, so the maintainer's config doesn’t work in your hands.
+You need your own Firebase project — the API key in `google-services.json` is locked to a SHA-1, so the maintainer's config doesn't work in your hands.
 
 ```bash
 # 1. Clone
-git clone https://github.com/mc4spam-cell/ma-team-hf-2026
-cd ma-team-hf-2026
+git clone https://github.com/mc4spam-cell/team-festival
+cd team-festival
 
 # 2. Point Gradle at the Android SDK
 echo "sdk.dir=$HOME/Library/Android/sdk" > local.properties
@@ -46,9 +50,10 @@ echo "sdk.dir=$HOME/Library/Android/sdk" > local.properties
 # 4. Build + install on a connected device (debug, no extra setup)
 ./gradlew :app:installDebug
 
-# 5. (Optional) For release builds, configure signing in ~/.gradle/gradle.properties:
+# 5. (Optional) For release builds, configure signing in ~/.gradle/gradle.properties.
+#    The property names are historical (mateamhf.*) but the values can point at any keystore.
 cat >> ~/.gradle/gradle.properties <<EOF
-mateamhf.releaseKeystorePath=$HOME/.android/release-keystores/mateamhf-release.jks
+mateamhf.releaseKeystorePath=$HOME/.android/release-keystores/teamfestival-release.jks
 mateamhf.releaseKeystorePassword=<your-store-password>
 mateamhf.releaseKeyAlias=<your-key-alias>
 mateamhf.releaseKeyPassword=<your-key-password>
@@ -59,7 +64,7 @@ EOF
 ### Firebase setup
 
 1. Create a project at https://console.firebase.google.com (Analytics off is fine).
-2. Add an Android app with package name **`com.mc.mateamhf`** and your debug SHA-1 (`keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android`).
+2. Add an Android app with package name **`com.mc.teamfestival`** and your debug SHA-1 (`keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android`).
 3. Download `google-services.json`, drop it at `app/google-services.json`.
 4. **Authentication** → enable Google sign-in.
 5. **Firestore Database** → create in production mode, region `eur3 (europe-west)`.
@@ -77,67 +82,46 @@ That's all. The app reads the Web Client ID from `R.string.default_web_client_id
   groupId · createdAt
 
 /groups/{groupId}
-  name · ownerUid · joinCode · createdAt · memberCount
+  name · ownerUid · joinCode · createdAt · memberCount · festivalIds[]
   /members/{uid}
     displayName · photoUrl · role · joinedAt
   /picks/{uid}
     displayName · p1Artists[] · updatedAt
+  /events/{eventId}
+    creatorUid · creatorName · title · location · start · end · festivalId · createdAt
 ```
 
-The security rules ensure a user can read only the groups they’re a member of and write only their own pick / member doc. The owner can update group metadata and remove members.
+The security rules ensure a user can read only the groups they're a member of and write only their own pick / member doc / events doc. The owner can update group metadata and remove members.
+
+## Multi-festival data
+
+The running orders ship as static JSON in `app/src/main/assets/festivals/<id>.json` (one file per festival) + an index at `assets/festivals/index.json`. The source of truth is `public/festivals/`, including the 200-festival registry the daily cron job draws from.
 
 ## Python tooling
 
 | Script | Purpose |
 |---|---|
-| `tools/refresh_running_order.py` | Re-fetches the latest official running-order PDF from hellfest.fr, parses with pdfplumber, diffs vs the current JSON |
-| `tools/resolve_apple_music_ids.py` | iTunes Search API → `appleMusicArtistId` per artist |
-| `tools/resolve_socials.py` | MusicBrainz / Spotify / Deezer / Instagram resolution |
+| `tools/refresh_running_order.py` | Re-fetches the latest Hellfest official PDF + diffs vs the current JSON |
+| `tools/resolve_apple_music_ids.py` | iTunes Search API → `appleMusicArtistId` per artist, multi-festival |
+| `tools/resolve_socials.py` | MusicBrainz url-rels → all 9 providers in one pass (Spotify, Deezer, Apple Music, Qobuz, Tidal, Instagram, Facebook, X, TikTok), multi-festival |
 
-## Project layout
-
-```
-app/
-  src/main/
-    AndroidManifest.xml
-    assets/running_order.json
-    java/com/mc/mateamhf/
-      MainActivity.kt              ← Splash → Auth gate → NoGroup gate → Timeline
-      data/
-        auth/                      ← Credential Manager + Firebase Auth wrapper
-        groups/                    ← Firestore repos: users, groups, picks
-        prefs/                     ← DataStore
-        picks/                     ← JSON backup via SAF
-      ui/
-        auth/                      ← LoginScreen + AuthViewModel
-        groups/                    ← NoGroupScreen, GroupSwitcherSheet, dialogs
-        common/                    ← Loading
-        splash/
-        timeline/, friends/, myro/, detail/, theme/
-      notification/                ← Reminders + boot persistence
-    res/                           ← drawables, mipmap-anydpi-v26 adaptive icon, themes
-running_order.json
-tools/
-  firebase/firestore.rules         ← deploy these rules in your Firebase Console
-  playstore/SUBMISSION_GUIDE.md    ← step-by-step Play Console walkthrough
-  playstore/privacy_policy.md      ← RGPD-compatible privacy policy template
-  ...resolver Python scripts
-```
+A daily Claude Code scheduled task (`refresh-running-orders-daily` at 05:00 + `resolve-artist-links-daily` at 05:33) keeps the registry and the JSONs fresh in the working tree — no commit/push is performed automatically.
 
 ## Play Store path
 
-Everything you need to publish is in [`tools/playstore/`](tools/playstore/):
-- [`SUBMISSION_GUIDE.md`](tools/playstore/SUBMISSION_GUIDE.md) — 12-section walkthrough: hosting the privacy policy, screenshots, Internal Testing, then Production, registering the release SHA-1 in Firebase, internal sideload fallback
-- [`privacy_policy.md`](tools/playstore/privacy_policy.md) — RGPD-compatible draft covering the Google account info + P1 picks we collect
+Assets ready to upload live in [`tools/playstore/`](tools/playstore/):
+- `play_icon_512.png` — 512×512 launcher icon for the store listing
+- `play_feature_1024x500.png` — feature graphic (Background + Logo)
+- `privacy.html` — privacy policy (also served at https://mc4spam-cell.github.io/team-festival/)
 
-The release signing config is already wired in `app/build.gradle.kts` and reads from `~/.gradle/gradle.properties` so your keystore credentials never end up in this repo.
+The release signing config is wired in `app/build.gradle.kts` and reads from `~/.gradle/gradle.properties` so keystore credentials never end up in the repo.
 
 ## Branding & trademark
 
-The festival name "Hellfest" and its logo are registered trademarks of [Hellfest Productions](https://www.hellfest.fr/). This app uses the name "Ma Team HF" and an independent logo, references the festival only as factual metadata ("Hellfest Open Air 2026" in the data), and is not affiliated with Hellfest Productions.
+The festival names ("Hellfest", "Eurockéennes", etc.) and their logos are registered trademarks of their respective organisers. This app uses the independent name "Team Festival" and an independent logo, references the festivals only as factual metadata (artist + stage + time), and is not affiliated with any organiser.
 
 ## Licence
 
-Personal project, no formal licence. Forks for personal use are fine; redistributing under the Hellfest brand is not.
+Personal project, no formal licence. Forks for personal use are fine; redistributing under any festival's brand is not.
 
 🤖 Initial scaffolding + most iteration via [Claude Code](https://claude.com/claude-code).

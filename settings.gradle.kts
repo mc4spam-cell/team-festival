@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MaTeamHF2026"
+rootProject.name = "TeamFestival"
 include(":app")

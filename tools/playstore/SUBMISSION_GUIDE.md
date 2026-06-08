@@ -136,7 +136,7 @@ Pour que Google Sign-In marche en build release, il faut enregistrer le SHA-1 de
 - SHA-1 = celui de ta clé locale : `4A:40:22:3F:DA:5C:EC:B7:4F:6B:A8:4F:F3:44:B2:54:D7:6F:67:C7`
 
 Puis :
-1. Firebase Console → projet `ma-team-hf-2026` → ⚙ Project settings → onglet "General"
+1. Firebase Console → projet `ma-team-hf-2026` (nom historique du projet Firebase, inchangé) → ⚙ Project settings → onglet "General"
 2. Section "Your apps" → app Android → bouton "Add fingerprint"
 3. Colle le ou les SHA-1
 4. Re-télécharge `google-services.json` et écrase l'ancien dans `app/`
@@ -162,7 +162,7 @@ Si tu veux juste partager à 2-10 amis sans attendre :
 
 ```bash
 # APK signé prêt à envoyer
-ls -la /Users/mc/ma-team-hf-2026/app/build/outputs/apk/release/app-release.apk
+ls -la /Users/mc/team-festival/app/build/outputs/apk/release/app-release.apk
 ```
 
 Envoie le fichier `.apk` (52 Mo) par Signal/Telegram/Drive. Tes amis :
