@@ -10,8 +10,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.vieillescharrues.asso.fr/programmation/",
-      "notes": "Prog par jour publiée (61 concerts, 6 scènes annoncées : Glenmor, Kerouac, Grall, Jeunes Charrues, Gwernig, Verger). Horaires non publiés. Site officiel rendu JS (Fragolabs). Fichier sans horaires : running_order_vieillescharrues_2026.json.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Page programmation rendue JS (Fragolabs) : seuls nav/footer récupérés. Horaires non extractibles. Domaine à investiguer.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 2,
@@ -21,8 +21,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.solidays.org/programmation/",
-      "notes": "Line-up par jour publié (63 artistes, fichier running_order_solidays_2026.json sans horaires). Horaires non publiés — attendus ~12-19/06. 9 scènes annoncées.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Liste complète des artistes par jour (ven/sam/dim) ; aucun horaire publié.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 3,
@@ -43,8 +43,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.francofolies.fr/programmation/",
-      "notes": "Grille partielle visible (jds.fr : créneaux 14h30/18h/18h45/20h30 le 10/07) mais incomplète et non croisée → pas d'extraction. Fichier sans horaires : running_order_francofolies_2026.json (71 concerts).",
-      "derniere_verification": "2026-06-07"
+      "notes": "Artistes par jour et par scène publiés ; aucun horaire début/fin.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 5,
@@ -65,8 +65,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.garorock.com/fr/programmation",
-      "notes": "TIMETABLE EN LIGNE : garorock.com/fr/timetable — domaine bloqué par l'allowlist. Fichier line-up sans horaires dispo (running_order_garorock_2026.json, 73 concerts).",
-      "derniere_verification": "2026-06-07"
+      "notes": "Programmation par jour (jeu 25 → dim 28 juin) publiée. Vue 'Timetable' annoncée mais horaires non encore en ligne.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 7,
@@ -164,8 +164,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.festival-lesdeferlantes.com/programmation/",
-      "notes": "Line-up par jour publié (fichier running_order_deferlantes_2026.json, 44 concerts sans horaires). Horaires attendus ~26/06-03/07.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Affiche par jour (11/12/13 juil) publiée ; pas d'horaires ni timetable détaillé.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 16,
@@ -351,8 +351,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.pauseguitare.net",
-      "notes": "Horaires Grande Scène Pratgraussals 10-12/07 publiés (presse jds.fr : ve 19h Sanson→00h Kooks ; sa 19h Miki→23h45 Orelsan ; di Gims/Magic System/Helena sans heures). Journées 8-9/07 (Cathédrale/autres lieux) sans horaires → RO partiel non extrait.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Artistes + dates (10-12 juil) publiés ; pas d'horaires ni scènes.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 33,
@@ -582,8 +582,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://lesnuitssecretes.com",
-      "notes": "Line-up par jour publié (Grande Scène + parcours secrets). Horaires non publiés — attendus ~26/06-03/07.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Quelques créneaux annoncés (ex. MIKA sam 11 juil 21:00 Main Stage) mais running order incomplet, non exhaustif.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 54,
@@ -604,8 +604,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.festival-les-escales.com/programmation/",
-      "notes": "Ouvertures publiées (ve/sa 18h, di 12h30-20h30, Île du Petit Maroc). Horaires par artiste non publiés — attendus ~10-17/07.",
-      "derniere_verification": "2026-06-07"
+      "notes": "PROGRÈS : heures de DÉBUT par artiste désormais publiées (ven 24 → dim 26 juil). Heures de FIN et affectation scènes absentes → RO encore incomplet (pas d'invention).",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 56,
@@ -670,8 +670,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://marsatac.com",
-      "notes": "TIMETABLE PUBLIÉ sur marsatac.com (annonce FB officielle) — domaine bloqué par l'allowlist, extraction impossible ce run. URGENT : festival J-5. Line-up par jour confirmé (3 jours, Parc Borély). NB : infoconcert indique 11-13/06, officiel 12-14/06.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Listes d'artistes par jour (ven 12, sam 13, dim 14 juin) publiées, sans horaires ni scènes. Pas de timetable.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 62,
@@ -692,8 +692,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://bluespassions.com/programmation-2026/",
-      "notes": "Prog publiée, >10 lieux Cognac/Jarnac, quelques créneaux épars (01/07 19h30 ; 02/07 11h/17h30). Pas de grille complète → pas d'extraction.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Têtes d'affiche connues (Ben Harper, Vanessa Paradis, J-L Aubert…) ; pas de scènes ni horaires.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 64,
@@ -780,8 +780,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://www.aluna-festival.fr",
-      "notes": "Line-up par jour publié (2 scènes Étoile/Météore, Espace Jenifer, ouverture 16h30). Horaires de passage non publiés.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Affiche par jour + scène (ex. Gims jeu 25 Scène Étoile) mais aucun horaire début/fin publié.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 72,
@@ -912,8 +912,8 @@
       "statut": "Running Order Incomplet",
       "running_order_file": null,
       "url_programmation": "https://terresduson.com",
-      "notes": "Page officielle horaires-prairie en ligne (terresduson.com/programmation/horaires-prairie/) — domaine bloqué. Sortiraparis art.50648 : prog par jour.",
-      "derniere_verification": "2026-06-07"
+      "notes": "Affiche par jour (10/11/12 juil) ; pages 'Prairie' et 'Village' existent mais sans horaires extractibles.",
+      "derniere_verification": "2026-06-08"
     },
     {
       "rang": 84,
