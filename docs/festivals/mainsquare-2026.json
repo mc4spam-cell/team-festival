@@ -92,7 +92,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-ms-katy-perry",
@@ -149,7 +150,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-vb-jessie-murph",
@@ -187,7 +189,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-vb-cassius",
@@ -206,7 +209,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-ba-seedy-liars",
@@ -358,7 +362,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-ms-marshmello",
@@ -415,7 +420,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-vb-nono-la-grinta",
@@ -472,7 +478,8 @@
       "tidalArtistId": null,
       "facebookHandle": "eL2Bee",
       "twitterHandle": "eL2Bee",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-ba-bertox",
@@ -624,7 +631,8 @@
       "tidalArtistId": "9306980",
       "facebookHandle": "vladimircauchemar",
       "twitterHandle": "vladcauchemar",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-ms-twenty-one-pilots",
@@ -719,7 +727,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-ba-jeannette-maj",

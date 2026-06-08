@@ -83,7 +83,8 @@
       "tidalArtistId": "6236",
       "facebookHandle": "socialdistortion",
       "twitterHandle": "SocialD1",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-gs-the-offspring",
@@ -102,7 +103,8 @@
       "tidalArtistId": "1009",
       "facebookHandle": "Offspring",
       "twitterHandle": "offspring",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-gs-airbourne",
@@ -178,7 +180,8 @@
       "tidalArtistId": "34180261",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-pl-kt-gorique-nash",
@@ -254,7 +257,8 @@
       "tidalArtistId": "4514268",
       "facebookHandle": "ultravomitofficiel",
       "twitterHandle": "TrueUltraVomit",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-pl-l2b",
@@ -273,7 +277,8 @@
       "tidalArtistId": null,
       "facebookHandle": "eL2Bee",
       "twitterHandle": "eL2Bee",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-gr-rise-of-the-northstar",
@@ -330,7 +335,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-pl-sleaford-mods",
@@ -368,7 +374,8 @@
       "tidalArtistId": null,
       "facebookHandle": "trymofficial",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-lo-thk-feat-brass-orchestra",
@@ -406,7 +413,8 @@
       "tidalArtistId": "9306980",
       "facebookHandle": "vladimircauchemar",
       "twitterHandle": "vladcauchemar",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-pl-shaarghot",
@@ -482,7 +490,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-pl-bertrand-belin",
@@ -501,7 +510,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-gr-president",
@@ -520,7 +530,8 @@
       "tidalArtistId": "12964",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-lo-the-sophs",
@@ -653,7 +664,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-lo-copycat",
@@ -691,7 +703,8 @@
       "tidalArtistId": "7751848",
       "facebookHandle": "nicomorenomusic",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-gr-enhancer",
@@ -710,7 +723,8 @@
       "tidalArtistId": null,
       "facebookHandle": "enhancer",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-gs-mosimann",
@@ -729,7 +743,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-lo-coilguns",
@@ -805,7 +820,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-gs-the-hives",
@@ -824,7 +840,8 @@
       "tidalArtistId": "31860",
       "facebookHandle": "hives",
       "twitterHandle": "thehives",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-lo-master-virus",
@@ -919,7 +936,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-pl-ecca-vandal",
@@ -957,7 +975,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-lo-dj-ninikah-b2b-dj-queeny-d",

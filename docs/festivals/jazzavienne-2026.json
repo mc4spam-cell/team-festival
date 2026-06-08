@@ -407,7 +407,8 @@
       "tidalArtistId": null,
       "facebookHandle": "grancombo1",
       "twitterHandle": "elgrancombodepr",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-kio-combo-jazz-capi-2",
@@ -426,7 +427,8 @@
       "tidalArtistId": null,
       "facebookHandle": "grancombo1",
       "twitterHandle": "elgrancombodepr",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-ta-deluxe",
@@ -502,7 +504,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-cyb-swing-system-conservatoire-vienne",
@@ -654,7 +657,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-ta-samantha-fish",
@@ -730,7 +734,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-sn-akutuk-origins",
@@ -787,7 +792,8 @@
       "tidalArtistId": "3641527",
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-cyb-jazz-devils",
@@ -882,7 +888,8 @@
       "tidalArtistId": "3641527",
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-rue-second-line-james-andrews",
@@ -1091,7 +1098,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d5-ta-jeff-mills-jean-phi-dary",
@@ -1300,7 +1308,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d6-club-foehn-fleur-worku",
@@ -1490,7 +1499,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d7-cyb-the-honnet-brothers-2",
@@ -1509,7 +1519,8 @@
       "tidalArtistId": "6175",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d7-club-eme-eme-project",
@@ -1699,7 +1710,8 @@
       "tidalArtistId": "3116",
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
-      "tiktokHandle": "pearljam"
+      "tiktokHandle": "pearljam",
+      "description": null
     },
     {
       "id": "d8-club-buck",
@@ -1927,7 +1939,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d10-cyb-devon-youth-jazz-orchestra-1",
@@ -2098,7 +2111,8 @@
       "tidalArtistId": "3116",
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
-      "tiktokHandle": "pearljam"
+      "tiktokHandle": "pearljam",
+      "description": null
     },
     {
       "id": "d10-kio-dj-amg-1",
@@ -2155,7 +2169,8 @@
       "tidalArtistId": null,
       "facebookHandle": "WhoIsDjAMG",
       "twitterHandle": "whoisdjamg",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d11-pip-kepa",
@@ -2421,7 +2436,8 @@
       "tidalArtistId": "1335",
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d12-club-james-bks",
@@ -2592,7 +2608,8 @@
       "tidalArtistId": "3116",
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
-      "tiktokHandle": "pearljam"
+      "tiktokHandle": "pearljam",
+      "description": null
     },
     {
       "id": "d13-club-cedric-hanriot",
@@ -2763,7 +2780,8 @@
       "tidalArtistId": "1335",
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d14-club-james-andrews-villa-albertine",
@@ -2915,7 +2933,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d15-club-juan-carlos-arrechea-quartet",
@@ -3029,7 +3048,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d16-ta-maria-schneider-clasijazz",
@@ -3067,7 +3087,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d16-ta-samara-joy",

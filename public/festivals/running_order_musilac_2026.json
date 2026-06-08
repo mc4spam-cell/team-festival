@@ -135,7 +135,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-mon-lambrini-girls",
@@ -173,7 +174,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-mon-yelle",
@@ -211,7 +213,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-lac-katy-perry",
@@ -230,7 +233,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-aura-sahelie",
@@ -268,7 +272,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-aura-styleto",
@@ -344,7 +349,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-mon-dabeull",
@@ -401,7 +407,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-lac-orelsan",
@@ -420,7 +427,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-aura-monika",
@@ -477,7 +485,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-aura-leonie-pernet",
@@ -553,7 +562,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-mon-gorillaz",
@@ -648,7 +658,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-aura-bianca-costa",
@@ -667,7 +678,8 @@
       "tidalArtistId": "11444560",
       "facebookHandle": "jstcallmebibi",
       "twitterHandle": "jstcallmebibi",
-      "tiktokHandle": "jstcallmebibi"
+      "tiktokHandle": "jstcallmebibi",
+      "description": null
     },
     {
       "id": "d4-aura-danyl",
@@ -686,7 +698,8 @@
       "tidalArtistId": "5511094",
       "facebookHandle": "danylchulo",
       "twitterHandle": "danylchulo",
-      "tiktokHandle": "danylchulo"
+      "tiktokHandle": "danylchulo",
+      "description": null
     },
     {
       "id": "d4-aura-cassius",
@@ -705,7 +718,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-mon-solann",
@@ -743,7 +757,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-mon-bigflo-oli",
@@ -762,7 +777,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-lac-47ter",
@@ -781,7 +797,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-lac-charlotte-cardin",
@@ -800,7 +817,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     }
   ]
 }

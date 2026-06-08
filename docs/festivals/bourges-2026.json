@@ -351,7 +351,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-w-imany",
@@ -769,7 +770,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-w-ofenbach",
@@ -788,7 +790,8 @@
       "tidalArtistId": "5775589",
       "facebookHandle": "weareofenbach",
       "twitterHandle": "Ofenbachmusic",
-      "tiktokHandle": "ofenbach"
+      "tiktokHandle": "ofenbach",
+      "description": null
     },
     {
       "id": "d3-w-helena",
@@ -959,7 +962,8 @@
       "tidalArtistId": "8699952",
       "facebookHandle": "sliftrock",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-22-really-good-time",
@@ -1282,7 +1286,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-w-magic-system",
@@ -1491,7 +1496,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-aud-yael-naim",
@@ -1871,7 +1877,8 @@
       "tidalArtistId": "34636654",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d5-w-l2b",
@@ -1890,7 +1897,8 @@
       "tidalArtistId": null,
       "facebookHandle": "eL2Bee",
       "twitterHandle": "eL2Bee",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d5-w-la-rvfleuze",
