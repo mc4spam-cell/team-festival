@@ -1,0 +1,94 @@
+{
+  "festivals": [
+    {
+      "id": "hellfest-2026",
+      "name": "Hellfest Open Air 2026",
+      "shortName": "Hellfest 2026",
+      "dates": "18–21 juin 2026",
+      "location": "Clisson, France",
+      "color": "#C9302C",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "beauregard-2026",
+      "name": "Festival Beauregard 2026",
+      "shortName": "Beauregard 2026",
+      "dates": "2–5 juillet 2026",
+      "location": "Hérouville-Saint-Clair, France",
+      "color": "#0288D1",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "bourges-2026",
+      "name": "Printemps de Bourges 2026",
+      "shortName": "Bourges 2026",
+      "dates": "21–26 avril 2026",
+      "location": "Bourges, France",
+      "color": "#43A047",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "eurockeennes-2026",
+      "name": "Les Eurockéennes 2026",
+      "shortName": "Eurocks 2026",
+      "dates": "3–5 juillet 2026",
+      "location": "Belfort, France",
+      "color": "#8E24AA",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "interceltique-2026",
+      "name": "Festival Interceltique de Lorient 2026",
+      "shortName": "Interceltique 2026",
+      "dates": "7–16 août 2026",
+      "location": "Lorient, France",
+      "color": "#1976D2",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "jazzavienne-2026",
+      "name": "Jazz à Vienne 2026",
+      "shortName": "Jazz à Vienne",
+      "dates": "26 juin–11 juillet 2026",
+      "location": "Vienne, France",
+      "color": "#F57C00",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "mainsquare-2026",
+      "name": "Main Square Festival 2026",
+      "shortName": "Main Square 2026",
+      "dates": "3–5 juillet 2026",
+      "location": "Arras, France",
+      "color": "#D32F2F",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "musilac-2026",
+      "name": "Musilac 2026",
+      "shortName": "Musilac 2026",
+      "dates": "10–12 juillet 2026",
+      "location": "Aix-les-Bains, France",
+      "color": "#00897B",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "nuitdelerdre-2026",
+      "name": "Les Nuits de l'Erdre 2026",
+      "shortName": "Nuits de l'Erdre",
+      "dates": "2–5 juillet 2026",
+      "location": "Nort-sur-Erdre, France",
+      "color": "#5E35B1",
+      "derniere_verification": "2026-06-08"
+    },
+    {
+      "id": "poney-club-2026",
+      "name": "Poney Club 2026",
+      "shortName": "Poney Club 2026",
+      "dates": "3 juin–30 août 2026",
+      "location": "Aéroport Toulouse-Blagnac, France",
+      "color": "#7C4DFF",
+      "derniere_verification": "2026-06-08"
+    }
+  ]
+}
