@@ -19,7 +19,7 @@
       "statut_2026": "complet_probable",
       "difficulte": "difficile",
       "notes": "Presse annonce programmation complète + horaires — à confirmer. Piste API Fragolabs.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 2,
@@ -34,7 +34,7 @@
       "statut_2026": "partiel",
       "difficulte": "moyen",
       "notes": "Line-up par jour (9 scènes). RO attendu ~12-19 juin.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 3,
@@ -49,7 +49,7 @@
       "statut_2026": "complet",
       "difficulte": "facile",
       "notes": "RO complet 4 jours (183 groupes/6 scènes) publié sur hellfest.fr/lineup + app. MAJ : Static-X et Trelldom annulés, remplacés. Fichier détaillé : hellfest-2026.json",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 4,
@@ -64,7 +64,7 @@
       "statut_2026": "partiel",
       "difficulte": "moyen",
       "notes": "Créneaux partiels (14h30/18h/21h), horaires précis à venir.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 5,
@@ -79,7 +79,7 @@
       "statut_2026": "complet_probable",
       "difficulte": "facile",
       "notes": "Presse annonce horaires scène par scène — à confirmer sur site officiel.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 6,
@@ -94,7 +94,7 @@
       "statut_2026": "partiel",
       "difficulte": "moyen",
       "notes": "Line-up par jour. RO attendu ~11-18 juin.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 7,
@@ -109,7 +109,7 @@
       "statut_2026": "partiel",
       "difficulte": "difficile",
       "notes": "Line-up par jour. RO attendu ~19-26 juin.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 8,
@@ -186,7 +186,7 @@
       "statut_2026": "partiel",
       "difficulte": "facile",
       "notes": "Line-up par jour ; page horaires = ouverture des portes uniquement.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 13,
@@ -201,7 +201,7 @@
       "statut_2026": "complet_probable",
       "difficulte": "facile",
       "notes": "Presse annonce horaires des concerts ; horaires aussi via app officielle.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 14,
@@ -232,7 +232,7 @@
       "statut_2026": "partiel",
       "difficulte": "difficile",
       "notes": "Line-up publié, pas d horaires.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 16,
@@ -279,7 +279,7 @@
       "statut_2026": "complet",
       "difficulte": "facile",
       "notes": "167 concerts, programme horodaté jour par jour publié. Extraction à faire.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 19,
@@ -498,7 +498,7 @@
       "statut_2026": "complet_probable",
       "difficulte": null,
       "notes": "Ordre de passage par jour publié — horaires précis à confirmer.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 33,
@@ -826,7 +826,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up par jour.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 54,
@@ -857,7 +857,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up thématique par jour. RO attendu ~10-17 juillet.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 56,
@@ -951,7 +951,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up par jour + heures ouverture. RO imminent (édition 12-14 juin).",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 62,
@@ -982,7 +982,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Programmation par soirée, horaires partiels.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 64,
@@ -1109,7 +1109,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up par jour. RO attendu ~11-18 juin.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 72,
@@ -1140,7 +1140,7 @@
       "statut_2026": "complet",
       "difficulte": null,
       "notes": "Pages horodatées par jour publiées très en avance. Extraction à faire.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 74,
@@ -1296,7 +1296,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Page « horaires prairie » existe déjà — à surveiller.",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-09"
     },
     {
       "rang": 84,
@@ -2022,7 +2022,8 @@
       "difficulte": null,
       "notes": null,
       "derniere_verification": "2026-06-09",
-      "dates_source": "vérif web officielle 2026-06-09"
+      "dates_source": "vérif web officielle 2026-06-09",
+      "running_order_file": "festival-de-la-paille-2026.json"
     },
     {
       "rang": 130,
