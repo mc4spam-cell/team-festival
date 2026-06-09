@@ -60,7 +60,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "louane"
+      "instagramHandle": "louane",
+      "description": "Anne Peichert, dite Louane ou plus rarement Louane Emera, est une chanteuse, musicienne et actrice française, née le 26 novembre 1996 à Sainte-Catherine (Pas-de-Calais)."
     },
     {
       "id": "dx-tbd-soprano",
@@ -74,7 +75,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "sopranopsy4"
+      "instagramHandle": "sopranopsy4",
+      "description": "Dans la musique occidentale, au sein de la musique classique, le terme soprano désigne avant tout le pupitre dont la tessiture se situe « au-dessus »."
     },
     {
       "id": "dx-tbd-ub40",
@@ -88,7 +90,8 @@
       "musicBrainzId": "7113aab7-628f-4050-ae49-dbecac110ca8",
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "ub40official"
+      "instagramHandle": "ub40official",
+      "description": "UB40 est un groupe britannique de reggae fondé en 1978 à Birmingham (Angleterre)."
     },
     {
       "id": "dx-tbd-josman",
@@ -103,7 +106,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher."
     },
     {
       "id": "dx-tbd-oxmo-puccino",
@@ -118,7 +121,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "oxmopuccino",
-      "description": null
+      "description": "Oxmo Puccino, nom de scène d’Abdoulaye Diarra, est un rappeur, acteur et auteur malien naturalisé français depuis 2025, né le 4 août 1974 à Ségou (Mali)."
     },
     {
       "id": "dx-tbd-gauvain-sers",
@@ -132,7 +135,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Gauvain Sers, né le 30 octobre 1989 à Limoges, est un auteur-compositeur-interprète français."
     },
     {
       "id": "dx-tbd-superbus",
@@ -147,7 +151,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Superbus est un groupe français de pop punk formé en 1999 par Jennifer Ayache. La composition de sa formation fait du groupe une exception sur la scène musicale française."
     },
     {
       "id": "dx-tbd-the-liminanas",
@@ -161,7 +165,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "The Limiñanas est un groupe de rock français, originaire de Cabestany, dans les Pyrénées-Orientales, en activité depuis 2009."
     },
     {
       "id": "dx-tbd-oumou-sangare",
@@ -175,7 +180,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Oumou Sangaré est une chanteuse et compositrice mossi d'origine peule, née le 2 février 1968 en Burkina Faso, primée aux Grammy Awards en 2011."
     },
     {
       "id": "dx-tbd-maureen",
@@ -190,7 +196,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999."
     },
     {
       "id": "dx-tbd-thea",
@@ -218,7 +224,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Yuri Buenaventura est un chanteur colombien de salsa né à Buenaventura le 19 mai 1967."
     },
     {
       "id": "dx-tbd-houdi",
@@ -232,7 +239,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Houdi, né le 24 novembre 2001 en Seine-et-Marne (77), est un rappeur et chanteur français. Il apparaît sur la scène musicale en 2022 et gagne en popularité, jusqu’à participer à des festivals majeurs de la sphère…"
     },
     {
       "id": "dx-tbd-2l",
@@ -246,8 +254,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-naza",
@@ -261,7 +268,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "nazaofficiel"
+      "instagramHandle": "nazaofficiel",
+      "description": "Naza nom de scène de Jean-Désiré Sosso Dzabatou, né le 26 mai 1993 à Amiens, est un chanteur et rappeur français."
     },
     {
       "id": "dx-tbd-sam-sauvage",
@@ -276,7 +284,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Hugo Brebion dit Sam Sauvage, né le 25 avril 2000 à Saint-Martin-Boulogne (Pas-de-Calais), est un auteur-compositeur-interprète français."
     },
     {
       "id": "dx-tbd-trinix",
@@ -291,7 +299,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Trinix est un groupe de musique électronique français originaire de Lyon dans le Rhône, composé de Josh Chergui et de Lois Serre."
     },
     {
       "id": "dx-tbd-aita-mon-amour",
@@ -333,7 +341,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Kutu est une localité chef-lieu de territoire de la province de Mai-Ndombe en république démocratique du Congo."
     },
     {
       "id": "dx-tbd-rori",
@@ -347,7 +356,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Camille Gemoets, dite RORI, née en décembre 1996 à Hannut, est une autrice-compositrice-interprète belge."
     }
   ]
 }

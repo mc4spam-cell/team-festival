@@ -46,7 +46,7 @@
       "spotifyArtistId": "6jJ0s89eD6GaHleKKya26X",
       "deezerArtistId": 144227,
       "instagramHandle": "katyperry",
-      "description": null
+      "description": "Katheryn Hudson, dite Katy Perry, est une auteure-compositrice-interprète américaine de musique pop et dance, née le 25 octobre 1984 à Santa Barbara, en Californie."
     },
     {
       "id": "d1-tbd-gims",
@@ -61,7 +61,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": 4429712,
       "instagramHandle": null,
-      "description": null
+      "description": "Gandhi Djuna, dit Gims, anciennement Maître Gims, né le 5 mai 1986 à Kinshasa au Zaïre, est un chanteur et rappeur congolais. Il grandit en France et vit principalement entre la France et le Maroc."
     },
     {
       "id": "d1-tbd-josman",
@@ -76,7 +76,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher."
     },
     {
       "id": "d1-tbd-biga-ranx",
@@ -91,7 +91,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Biga*Ranx, de son vrai nom Gabriel Piotrowski, né le 27 septembre 1988 à Tours, est un chanteur, MC, producteur et artiste peintre qui se fait connaître au sein de la scène rap raggamuffin francophone au début des…"
     },
     {
       "id": "d1-tbd-iliona",
@@ -106,7 +106,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Dans la mythologie grecque, Iliona est une fille du roi de Troie, Priam."
     },
     {
       "id": "d1-tbd-piche",
@@ -121,7 +121,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Piche, nom de scène de Mike Gautier, est une chanteuse, rappeuse, danseuse et drag queen française née le 27 août 1996."
     },
     {
       "id": "d1-tbd-upsilone",
@@ -135,8 +135,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d2-tbd-nick-cave-the-bad-seeds",
@@ -151,7 +150,7 @@
       "spotifyArtistId": "4UXJsSlnKd7ltsrHebV79Q",
       "deezerArtistId": 1581,
       "instagramHandle": null,
-      "description": null
+      "description": "Nicholas Edward Cave, dit Nick Cave [nɪk ˈkeɪv], AO, né le 22 septembre 1957 à Warracknabeal, en Australie, est un artiste pluridisciplinaire australien ayant acquis sa notoriété en tant que chanteur, auteur et…"
     },
     {
       "id": "d2-tbd-patrick-watson",
@@ -179,8 +178,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d2-tbd-jean-louis-aubert",
@@ -194,7 +192,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Jean-Louis Aubert, né le 12 avril 1955 à Nantua (Ain), est un auteur-compositeur-interprète, chanteur, guitariste et producteur français, artiste de rock avec le groupe Téléphone, puis en solo et à partir de 2015 en…"
     },
     {
       "id": "d2-tbd-disiz",
@@ -209,7 +208,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Disiz, de son vrai nom Sérigne M'baye Gueye, est un rappeur, chanteur, compositeur, acteur et écrivain français, né le 22 mars 1978 à Amiens (Somme)."
     },
     {
       "id": "d2-tbd-mosimann",
@@ -224,7 +223,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
     },
     {
       "id": "d2-tbd-jehnny-beth",
@@ -239,7 +238,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Camille Berthomier, dite Jehnny Beth, est une chanteuse, compositrice, productrice et comédienne française, née le 24 décembre 1984 à Poitiers."
     },
     {
       "id": "d2-tbd-georgio",
@@ -253,7 +252,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Georgio, de son vrai nom Georges Édouard Nicolo, né le 21 janvier 1993 aux Lilas (Seine-Saint-Denis), est un rappeur et chanteur français, originaire du 18e arrondissement de Paris."
     },
     {
       "id": "d2-tbd-luiza",
@@ -268,7 +268,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Luiza est une localité, chef-lieu de territoire de la province du Kasaï-Central en République démocratique du Congo."
     },
     {
       "id": "d2-tbd-bonne-nuit",
@@ -283,7 +283,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Bonne Nuit est une baie située dans la Vingtaine du Nord de l'île de Jersey. La baie se niche entre le cap de Frémont à l'Ouest et le cap de La Crête à l'Est. Elle donne sur une plage de galets."
     },
     {
       "id": "d2-tbd-super-parquet",
@@ -326,7 +326,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Joy Elizabeth Akther Crookes, née le 9 octobre 1998, est une auteure-compositrice-interprète britannique, avec des origines familiales irlandaises et bangladaise."
     },
     {
       "id": "d2-tbd-cap-kozmik",
@@ -354,8 +354,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d2-tbd-cocanha",
@@ -370,7 +369,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Cocanha est un groupe de chant polyphonique à danser, basé à Toulouse. Ses membres sont Caroline Dufau et Lila Fraysse, toutes les deux au chant et aux percussions, accompagnées de Sanz Grosclaude pour la sonorisation..."
     },
     {
       "id": "d2-tbd-lalalar",
@@ -413,7 +412,7 @@
       "spotifyArtistId": "7IlRNXHjoOCgEAWN5qYksg",
       "deezerArtistId": 8909272,
       "instagramHandle": "ayanakamura_officiel",
-      "description": null
+      "description": "Aya Nakamura [aja nakamuʁa], nom de scène d'Aya Danioko, née le 10 mai 1995 à Bamako au Mali, est une auteure-compositrice-interprète franco-malienne."
     },
     {
       "id": "d3-tbd-cassius",
@@ -427,8 +426,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-mika",
@@ -443,7 +441,7 @@
       "spotifyArtistId": "5MmVJVhhYKQ86izuGHzJYA",
       "deezerArtistId": 6603,
       "instagramHandle": null,
-      "description": null
+      "description": "Lebanese-born English pop singer"
     },
     {
       "id": "d3-tbd-interpol",
@@ -458,7 +456,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "L'Organisation internationale de police criminelle (OIPC), communément abrégée Interpol, est une organisation internationale créée le 7 septembre 1923 dans le but de promouvoir la coopération policière internationale."
     },
     {
       "id": "d3-tbd-nico-moreno",
@@ -473,7 +471,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Nico Moreno [niko mɔʁeno], né le 20 août 1994 à Caen, dans le département du Calvados en France, est un disc jockey et producteur musical français."
     },
     {
       "id": "d3-tbd-jolagreen23",
@@ -488,7 +486,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Jolagreen23, nom de scène de Jorghen Monteiro-Mbombo, est un rappeur français, né le 23 mars 2001 à Bois-Colombes dans les Hauts-de-Seine."
     },
     {
       "id": "d3-tbd-houdi",
@@ -503,7 +501,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Houdi, né le 24 novembre 2001 en Seine-et-Marne (77), est un rappeur et chanteur français. Il apparaît sur la scène musicale en 2022 et gagne en popularité, jusqu’à participer à des festivals majeurs de la sphère..."
     },
     {
       "id": "d3-tbd-dub-inc",
@@ -518,7 +516,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Dub Inc, anciennement Dub Incorporation, est un groupe français de reggae, originaire de Saint-Étienne, dans la Loire."
     },
     {
       "id": "d3-tbd-yelle",
@@ -533,7 +531,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "French electropop band"
     },
     {
       "id": "d3-tbd-folies",
@@ -548,7 +546,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Swedish electronic musician Stefan Thor, active mid-2000s"
     },
     {
       "id": "d3-tbd-no-pain-no-pain",
@@ -590,8 +588,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-sprints",
@@ -619,7 +616,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Djazia Satour, née le 9 décembre 1980 à Alger, est une auteure-compositrice-interprète, chanteuse et guitariste française vivant en France depuis 1990."
     },
     {
       "id": "d3-tbd-gregailh",
@@ -661,7 +659,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Un fest-noz est un type de fête « revivaliste », remis au goût du jour dans les années 1950 dans le centre de la Basse-Bretagne, dans le but de recréer les rassemblements festifs de la société paysanne qui ponctuaient..."
     },
     {
       "id": "d4-tbd-orelsan",
@@ -676,7 +675,7 @@
       "spotifyArtistId": "4FpJcNgOvIpSBeJgRg3OfN",
       "deezerArtistId": 259467,
       "instagramHandle": "orelsan",
-      "description": null
+      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne)."
     },
     {
       "id": "d4-tbd-vanessa-paradis",
@@ -691,7 +690,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Vanessa Paradis, née le 22 décembre 1972 à Saint-Maur-des-Fossés (Val-de-Marne), est une chanteuse, actrice et mannequin française."
     },
     {
       "id": "d4-tbd-danyl",
@@ -706,7 +705,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Danyl, anciennement Hashey Sen est un rappeur et chanteur franco-algérien, né Danyl Boudali le 25 octobre 1998 à Saint-Maurice dans le Val-de-Marne en région parisienne."
     },
     {
       "id": "d4-tbd-riles",
@@ -721,7 +720,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Rilès Kacimi, plus connu sous le mononyme Rilès, né le 4 janvier 1996 à Rouen, est un chanteur, rappeur auteur-compositeur-interprète, musicien et producteur de musique français, composant et interprétant en anglais."
     },
     {
       "id": "d4-tbd-feu-chatterton",
@@ -736,7 +735,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris."
     },
     {
       "id": "d4-tbd-47ter",
@@ -751,7 +750,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "47Ter est un groupe de pop/rap français originaire de Bailly, dans les Yvelines, formé en 2017 par le chanteur Pierre-Paul, le bassiste Blaise et le guitariste Miguel (Lopes)."
     },
     {
       "id": "d4-tbd-suzane",
@@ -766,7 +765,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Océane Colom, dite Suzane, née le 29 décembre 1990 à Avignon, est une autrice-compositrice-interprète française."
     },
     {
       "id": "d4-tbd-miossec",
@@ -780,7 +779,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Christophe Miossec, simplement appelé Miossec, né le 24 décembre 1964 à Brest dans le Finistère, est un auteur-compositeur-interprète, parolier et occasionnellement acteur français."
     },
     {
       "id": "d4-tbd-maureen",
@@ -795,7 +795,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999."
     },
     {
       "id": "d4-tbd-xavier-rudd",
@@ -809,7 +809,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Xavier Rudd, né le 29 mai 1978 à Torquay en Australie, est un musicien multi-instrumentiste, surfeur et activiste écologique."
     },
     {
       "id": "d4-tbd-goodbye-karelle",
@@ -837,7 +838,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Lindigo est un groupe de musique de l'île de la Réunion. Groupe de maloya fondé en 1999, il est emmené par Olivier Araste, son chanteur, originaire de Paniandy."
     },
     {
       "id": "d4-tbd-tvod",
@@ -865,7 +867,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Tomora est une commune rurale malienne de l'arrondissement central de Oussoubidiagna dans le cercle de Oussoubidiagna et la région de Kayes, elle a pour chef-lieu la localité de Oussoubidiagna."
     },
     {
       "id": "d4-tbd-pact",
@@ -879,7 +882,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Pact [pakt] est une commune française située dans le département de l'Isère, en région Auvergne-Rhône-Alpes."
     },
     {
       "id": "d4-tbd-isam-elias",

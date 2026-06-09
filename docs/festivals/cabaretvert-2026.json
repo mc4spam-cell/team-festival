@@ -70,7 +70,8 @@
       "musicBrainzId": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
       "spotifyArtistId": "6Ghvu1VvMGScGpOUJBAHNH",
       "deezerArtistId": 535,
-      "instagramHandle": "deftones"
+      "instagramHandle": "deftones",
+      "description": "Deftones est un groupe de métal alternatif américain, originaire de Sacramento. Avec Korn, ils sont considérés comme les fondateurs du nu metal, et également considérés comme l'un des groupes les plus novateurs et les..."
     },
     {
       "id": "d1-zan-turnstile",
@@ -84,7 +85,8 @@
       "musicBrainzId": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed",
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "turnstileluvconnection"
+      "instagramHandle": "turnstileluvconnection",
+      "description": "Turnstile est un groupe de rock américain, principalement associé au punk hardcore, originaire de Baltimore, au Maryland, et fondé en 2010."
     },
     {
       "id": "d1-zan-body-count-ft-ice-t",
@@ -112,7 +114,8 @@
       "musicBrainzId": "172e1f1a-504d-4488-b053-6344ba63e6d0",
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "nickcaveofficial"
+      "instagramHandle": "nickcaveofficial",
+      "description": "Nicholas Edward Cave, dit Nick Cave [nɪk ˈkeɪv], AO, né le 22 septembre 1957 à Warracknabeal, en Australie, est un artiste pluridisciplinaire australien ayant acquis sa notoriété en tant que chanteur, auteur et..."
     },
     {
       "id": "d2-zan-underworld",
@@ -141,7 +144,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "feuchatterton",
-      "description": null
+      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris."
     },
     {
       "id": "d3-zan-kygo",
@@ -155,7 +158,8 @@
       "musicBrainzId": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
       "spotifyArtistId": "23fqKkggKUBHNkbKtXEls4",
       "deezerArtistId": null,
-      "instagramHandle": "kygomusic"
+      "instagramHandle": "kygomusic",
+      "description": "Kygo, de son vrai nom Kyrre Gørvell-Dahll, né le 11 septembre 1991 à Singapour, est un DJ, musicien, auteur-compositeur et producteur norvégien. Il est notamment connu pour ses compositions Firestone ft."
     },
     {
       "id": "d3-zan-theodora",
@@ -170,7 +174,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "French bassist & electro-pop artist / Astral Bakers"
     },
     {
       "id": "d3-zan-charlotte-cardin",
@@ -185,7 +189,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "charlottecardin",
-      "description": null
+      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne."
     },
     {
       "id": "d3-zan-disiz",
@@ -199,7 +203,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "disiz"
+      "instagramHandle": "disiz",
+      "description": "Disiz, de son vrai nom Sérigne M'baye Gueye, est un rappeur, chanteur, compositeur, acteur et écrivain français, né le 22 mars 1978 à Amiens (Somme)."
     },
     {
       "id": "d4-zan-gims",
@@ -213,7 +218,8 @@
       "musicBrainzId": "b2fbd053-4380-412c-95d2-35c6da8f1011",
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "gims"
+      "instagramHandle": "gims",
+      "description": "Gandhi Djuna, dit Gims, anciennement Maître Gims, né le 5 mai 1986 à Kinshasa au Zaïre, est un chanteur et rappeur congolais. Il grandit en France et vit principalement entre la France et le Maroc."
     },
     {
       "id": "d4-zan-josman",
@@ -228,7 +234,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher."
     },
     {
       "id": "d4-zan-ofenbach-cloned-live",
@@ -257,7 +263,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Ultra Vomit est un groupe de heavy metal parodique français, originaire de Nantes, en Loire-Atlantique. À ses débuts, le groupe est initialement influencé par le grindcore."
     },
     {
       "id": "d1-ill-last-train",
@@ -271,7 +277,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "lasttrainband"
+      "instagramHandle": "lasttrainband",
+      "description": "Last Train est un groupe de rock français, originaire d’Altkirch, en Alsace. Il est formé en 2007 alors que Jean-Noël Scherrer, Julien Peultier (guit.), Timothée Gerard (bass.) et Antoine Baschung (batteur) sont encore..."
     },
     {
       "id": "d1-ill-rise-of-the-northstar",
@@ -285,7 +292,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Rise of the Northstar est un groupe de metal français, originaire de Paris, en Île-de-France. Le groupe sort un premier EP intitulé Tokyo Assault en janvier 2010, et un second, Demonstrating My Saiya Style, en juillet..."
     },
     {
       "id": "d2-ill-cat-power",
@@ -299,7 +307,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "catpowerofficial"
+      "instagramHandle": "catpowerofficial",
+      "description": "Cat Power, de son vrai nom Charlyn Marie « Chan » Marshall, née le 21 janvier 1972 à Atlanta, en Géorgie, est une chanteuse et parolière américaine."
     },
     {
       "id": "d2-ill-sparks",
@@ -327,7 +336,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Brutalismus 3000 est un groupe de musique électronique allemand, originaire de Berlin-Neukölln. Il est formé en 2019 et composé de Victoria Vassiliki Daldas et Theo Zeitner."
     },
     {
       "id": "d3-ill-miki",
@@ -355,7 +365,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "fayewebster"
+      "instagramHandle": "fayewebster",
+      "description": "Faye Webster, née le 25 juin 1997 à Atlanta, en Géorgie, est une autrice, compositrice, interprète et photographe américaine."
     },
     {
       "id": "d3-ill-la-rvfleuze",
@@ -369,8 +380,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-ill-noga-erez",
@@ -384,7 +394,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "nogaerez"
+      "instagramHandle": "nogaerez",
+      "description": "Noga Erez, née le 26 décembre 1989, est une musicienne et chanteuse israélienne."
     },
     {
       "id": "d4-ill-perceval",
@@ -398,7 +409,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Perceval est dans la légende arthurienne un des chevaliers de la Table ronde. Dans la littérature galloise, son nom est Peredur. Il est surtout connu pour sa participation à la quête du Saint-Graal."
     },
     {
       "id": "d4-ill-leisure",
@@ -412,7 +424,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Leisure est le premier album du groupe de rock britannique Blur, sorti le 27 août 1991 sur le label anglais Food."
     },
     {
       "id": "d1-gf-teletech-fumi",
@@ -482,7 +495,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "BASEMENT est un logiciel de simulation gratuit pour la modélisation hydro- et morphodynamique. Le logiciel est en développement depuis 2002 par le Laboratoire de recherches hydrauliques, hydrologiques et glaciologiques..."
     },
     {
       "id": "d1-gf-speed",
@@ -510,7 +524,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Lauren Tate, née le 8 mars 1997, est une autrice-compositrice-interprète et productrice britannique, chanteuse de riot grrrl, rap et nu metal."
     },
     {
       "id": "d1-gf-thea",
@@ -538,7 +553,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "sebastientellier"
+      "instagramHandle": "sebastientellier",
+      "description": "Sébastien Tellier, né le 22 février 1975 au Plessis-Bouchard (Val-d'Oise) est un artiste de musique électronique, chanteur et acteur français. Il chante en français, anglais, espagnol, allemand et italien."
     },
     {
       "id": "d2-gf-gringe",
@@ -552,7 +568,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Gringe, de son vrai nom Guillaume Tranchant, né le 20 février 1980 à Poitiers, est un rappeur, acteur et écrivain français."
     },
     {
       "id": "d2-gf-pale-jay",
@@ -580,7 +597,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Yerai Cortés Merino, né le 24 mai 1995 à Alicante, est un musicien espagnol, jeune personnalité du nouveau flamenco."
     },
     {
       "id": "d3-gf-adela",
@@ -650,7 +668,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Todiefor, de son vrai nom Luca Pecoraro, est un DJ et producteur belge originaire de Bruxelles. Actif depuis les années 2010, il se fait connaître grâce à ses singles électro-urbains et ses collaborations avec des..."
     },
     {
       "id": "d4-gf-girls-dont-sync",
@@ -693,7 +712,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "L'urumi est une épée avec une lame flexible en forme de fouet, originaire de la région moderne du Kerala dans le sous-continent indien."
     },
     {
       "id": "d2-rb-nooriyah",
@@ -735,7 +754,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Le timar est l'un des piliers de l'Empire ottoman. Il s'agit d'une concession foncière qui était accordée à un cavalier nommé sipahi et qui était tenu de faire la guerre en fournissant éventuellement un contingent de..."
     },
     {
       "id": "d2-rb-zep",
@@ -749,7 +769,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Philippe Chappuis dit Zep, né le 15 décembre 1967 à Onex, est un auteur de bande dessinée et musicien suisse. Il est notamment connu pour sa série Titeuf."
     },
     {
       "id": "d2-rb-lou-nour",
@@ -833,7 +854,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Qian Lin, née le 11 mars 1991 à Hangzhou (Chine), connue sous son nom de scène Lin Lin ou Linlin (リンリン, Rinrin), est une chanteuse chinoise, ex-membre du groupe japonais Morning Musume et ex-idol du Hello! Project de..."
     },
     {
       "id": "d3-rb-kimberlaid",
@@ -931,8 +953,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-zc-asher-selector",
@@ -946,8 +967,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-zc-asher-selector",
@@ -961,8 +981,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d1-zc-matilda-dona",
@@ -990,8 +1009,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-zc-matilda-dona",
@@ -1005,8 +1023,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-zc-matilda-dona",
@@ -1020,8 +1037,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d1-zc-kiraden",
@@ -1049,8 +1065,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-zc-kiraden",
@@ -1064,8 +1079,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-zc-kiraden",
@@ -1079,8 +1093,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d2-zc-wandem-sound-system",
@@ -1108,7 +1121,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "King Earthquake est un Sound System fondé par Errol Arawak. À l'origine composé de 6 membres, le King Earthquake est créé en 1977. Alors âgé de 17 ans, Errol quitte l'école et se produit très vite dans les clubs."
     },
     {
       "id": "d2-zc-roots-tone",
@@ -1206,8 +1220,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-zc-aba-shanti-i",
@@ -1221,7 +1234,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Joseph Smith, connu sous le nom de scène Aba Shanti-I, est un opérateur de sound system et producteur britannique. Né dans le borough londonien de Hackney, il est spécialiste de dub et de reggae."
     },
     {
       "id": "d4-zc-agobun",
@@ -1305,7 +1319,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "L'Amper est un cours d'eau situé en Bavière, Allemagne et affluent de l'Isar. Le cours supérieur de cette rivière, jusqu'à l'Ammersee s'appelle l'Ammer."
     },
     {
       "id": "d3-tbd-navyblu",

@@ -41,7 +41,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "gims",
-      "description": null
+      "description": "Gandhi Djuna, dit Gims, anciennement Maître Gims, né le 5 mai 1986 à Kinshasa au Zaïre, est un chanteur et rappeur congolais. Il grandit en France et vit principalement entre la France et le Maroc."
     },
     {
       "id": "d1-tbd-matt-pokora",
@@ -55,7 +55,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "mattpokora"
+      "instagramHandle": "mattpokora",
+      "description": "M. Pokora ou Matt Pokora, de son vrai nom Matthieu Tota, né le 26 septembre 1985 à Strasbourg (Bas-Rhin), est un auteur-compositeur-interprète, producteur, danseur et acteur français."
     },
     {
       "id": "d1-tbd-timmy-trumpet",
@@ -69,7 +70,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "timmytrumpet"
+      "instagramHandle": "timmytrumpet",
+      "description": "Timmy Trumpet, de son vrai nom Timothy Jude Smith, est un DJ et producteur australien."
     },
     {
       "id": "d1-tbd-magic-system",
@@ -84,7 +86,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "magicsystemofficiel",
-      "description": null
+      "description": "Magic System est un groupe de musique ivoirien de genre zouglou et afropop, formé en 1996 à Abidjan en Côte d'Ivoire."
     },
     {
       "id": "d1-tbd-vald-x-vladimir-cauchemar-x-todiefor",
@@ -98,8 +100,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d1-tbd-afrojack",
@@ -113,7 +114,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "afrojack"
+      "instagramHandle": "afrojack",
+      "description": "Afrojack, stylisé AFROJACK, de son vrai nom Nick Leonardus van de Wall, est un disc jockey et producteur de musique néerlandais d'electro house, né le 9 septembre 1987 à Spijkenisse, en Hollande-Méridionale."
     },
     {
       "id": "d1-tbd-adele-castillon",
@@ -127,7 +129,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Adèle Castillon, née le 24 octobre 2001 à Angers (Maine-et-Loire), est une chanteuse pop, vidéaste et actrice française."
     },
     {
       "id": "d1-tbd-athmos",
@@ -156,7 +159,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Swedish electronic musician Stefan Thor, active mid-2000s"
     },
     {
       "id": "d1-tbd-jey-brownie",
@@ -170,7 +173,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Jey Brownie est un chanteur et rappeur congolais actif en France, né le 2 novembre 1999 à Kinshasa."
     },
     {
       "id": "d1-tbd-luca-testa",
@@ -255,7 +259,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": 8909272,
       "instagramHandle": "ayanakamura",
-      "description": null
+      "description": "Aya Nakamura [aja nakamuʁa], nom de scène d'Aya Danioko, née le 10 mai 1995 à Bamako au Mali, est une auteure-compositrice-interprète franco-malienne."
     },
     {
       "id": "d2-tbd-niska",
@@ -269,7 +273,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Niska, de son vrai nom Stanislas Dinga-Pinto, est un rappeur et compositeur français, né le 6 avril 1994 à Villeneuve-Saint-Georges (Val-de-Marne)."
     },
     {
       "id": "d2-tbd-plk",
@@ -297,7 +302,8 @@
       "musicBrainzId": "a125cd83-a379-4935-a7ec-beaa778bad70",
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "kungsmusic"
+      "instagramHandle": "kungsmusic",
+      "description": "Kungs, nom de scène de Valentin Brunel, est un disc jockey, auteur-compositeur et musicien français, né le 17 décembre 1996 à Toulon."
     },
     {
       "id": "d2-tbd-theodora",
@@ -312,7 +318,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "French bassist & electro-pop artist / Astral Bakers"
     },
     {
       "id": "d2-tbd-cyril",
@@ -369,7 +375,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne."
     },
     {
       "id": "d2-tbd-morgan-nagoya",
@@ -439,8 +445,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-sean-paul",
@@ -454,7 +459,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": "3Isy6kedDrgPYoTS1dazA9",
       "deezerArtistId": null,
-      "instagramHandle": "duttypaul"
+      "instagramHandle": "duttypaul",
+      "description": "Sean Paul, né le 9 janvier 1973 à Kingston, est un chanteur de dancehall et de reggae et rappeur jamaïcain."
     },
     {
       "id": "d3-tbd-martin-garrix",
@@ -468,7 +474,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": "60d24wfXkVzDSfLS6hyCjZ",
       "deezerArtistId": 3968561,
-      "instagramHandle": "martingarrix"
+      "instagramHandle": "martingarrix",
+      "description": "Martin Garrix, de son vrai nom Martijn Garritsen, est un disc jockey, compositeur et producteur musical néerlandais. Il se fait connaître mondialement avec son titre Animals, en 2013."
     },
     {
       "id": "d3-tbd-armin-van-buuren",
@@ -482,7 +489,8 @@
       "musicBrainzId": "477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df",
       "spotifyArtistId": "0SfsnGyD8FpIN4U4WCkBZ5",
       "deezerArtistId": null,
-      "instagramHandle": "arminvanbuuren"
+      "instagramHandle": "arminvanbuuren",
+      "description": "Armin van Buuren, né le 25 décembre 1976 à Leyde, est un disc jockey, producteur de musique et compositeur néerlandais."
     },
     {
       "id": "d3-tbd-damso",
@@ -496,7 +504,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Damso est un rappeur, chanteur, acteur et réalisateur congolais naturalisé belge, né le 10 mai 1992 à Kinshasa."
     },
     {
       "id": "d3-tbd-petit-biscuit",
@@ -511,7 +520,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "petitbiscuit",
-      "description": null
+      "description": "Petit Biscuit, nom de scène de Mehdi Benjelloun, né le 10 novembre 1999 à Rouen, est un DJ et producteur de musique électronique français d'origine franco-marocaine."
     },
     {
       "id": "d3-tbd-mosimann",
@@ -526,7 +535,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "mosimannofficial",
-      "description": null
+      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
     },
     {
       "id": "d3-tbd-miki",
@@ -554,8 +563,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-dakeez",
@@ -569,8 +577,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-danyl",
@@ -584,7 +591,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Danyl, anciennement Hashey Sen est un rappeur et chanteur franco-algérien, né Danyl Boudali le 25 octobre 1998 à Saint-Maurice dans le Val-de-Marne en région parisienne."
     },
     {
       "id": "d3-tbd-eve-la-marka",
@@ -598,8 +606,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-le-mom",
@@ -627,8 +634,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-theo1337",
@@ -642,8 +648,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-zed",

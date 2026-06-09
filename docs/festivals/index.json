@@ -1,22 +1,13 @@
 {
   "festivals": [
     {
-      "id": "delta-2026",
-      "name": "Delta Festival 2026",
-      "shortName": "Delta Festival 2026",
-      "dates": "2026-07-23 → 2026-07-26",
-      "location": "France",
-      "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:07:02"
-    },
-    {
       "id": "beauregard-2026",
       "name": "Festival Beauregard 2026",
       "shortName": "Beauregard 2026",
       "dates": "2–5 juillet 2026",
       "location": "Hérouville-Saint-Clair, France",
       "color": "#0288D1",
-      "derniere_verification": "2026-06-08T22:59:42"
+      "derniere_verification": "2026-06-09T14:47:33"
     },
     {
       "id": "interceltique-2026",
@@ -25,7 +16,7 @@
       "dates": "7–16 août 2026",
       "location": "Lorient, France",
       "color": "#1976D2",
-      "derniere_verification": "2026-06-08T23:11:54"
+      "derniere_verification": "2026-06-09T15:05:05"
     },
     {
       "id": "francofolies-2026",
@@ -34,7 +25,7 @@
       "dates": "2026-07-10 → 2026-07-14",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:09:21"
+      "derniere_verification": "2026-06-09T15:01:09"
     },
     {
       "id": "fetehumanite-2026",
@@ -43,7 +34,7 @@
       "dates": "2026-09-11 → 2026-09-13",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:08:27"
+      "derniere_verification": "2026-06-09T14:59:56"
     },
     {
       "id": "garorock-2026",
@@ -52,7 +43,7 @@
       "dates": "2026-06-25 → 2026-06-28",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:10:24"
+      "derniere_verification": "2026-06-09T15:02:50"
     },
     {
       "id": "hellfest-2026",
@@ -61,7 +52,7 @@
       "dates": "18–21 juin 2026",
       "location": "Clisson, France",
       "color": "#C9302C",
-      "derniere_verification": "2026-06-08T22:49:33"
+      "derniere_verification": "2026-06-09T14:45:50"
     },
     {
       "id": "jazzavienne-2026",
@@ -70,7 +61,7 @@
       "dates": "26 juin–11 juillet 2026",
       "location": "Vienne, France",
       "color": "#F57C00",
-      "derniere_verification": "2026-06-08T23:16:58"
+      "derniere_verification": "2026-06-09T15:12:54"
     },
     {
       "id": "cabaretvert-2026",
@@ -79,7 +70,7 @@
       "dates": "2026-08-20 → 2026-08-23",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:04:50"
+      "derniere_verification": "2026-06-09T14:54:37"
     },
     {
       "id": "deferlantes-2026",
@@ -88,7 +79,7 @@
       "dates": "2026-07-11 → 2026-07-13",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:05:23"
+      "derniere_verification": "2026-06-09T14:55:22"
     },
     {
       "id": "eurockeennes-2026",
@@ -97,7 +88,7 @@
       "dates": "3–5 juillet 2026",
       "location": "Belfort, France",
       "color": "#8E24AA",
-      "derniere_verification": "2026-06-08T23:08:11"
+      "derniere_verification": "2026-06-09T14:59:37"
     },
     {
       "id": "nuitdelerdre-2026",
@@ -106,7 +97,7 @@
       "dates": "2–5 juillet 2026",
       "location": "Nort-sur-Erdre, France",
       "color": "#5E35B1",
-      "derniere_verification": "2026-06-08T23:19:15"
+      "derniere_verification": "2026-06-09T15:15:33"
     },
     {
       "id": "vieillescharrues-2026",
@@ -115,7 +106,7 @@
       "dates": "2026-07-16 → 2026-07-19",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:21:10"
+      "derniere_verification": "2026-06-09T15:18:21"
     },
     {
       "id": "mainsquare-2026",
@@ -124,7 +115,7 @@
       "dates": "3–5 juillet 2026",
       "location": "Arras, France",
       "color": "#D32F2F",
-      "derniere_verification": "2026-06-08T23:18:04"
+      "derniere_verification": "2026-06-09T15:14:24"
     },
     {
       "id": "musilac-2026",
@@ -133,7 +124,7 @@
       "dates": "10–12 juillet 2026",
       "location": "Aix-les-Bains, France",
       "color": "#00897B",
-      "derniere_verification": "2026-06-08T23:18:51"
+      "derniere_verification": "2026-06-09T15:15:10"
     },
     {
       "id": "poney-club-2026",
@@ -142,7 +133,7 @@
       "dates": "3 juin–30 août 2026",
       "location": "Aéroport Toulouse-Blagnac, France",
       "color": "#7C4DFF",
-      "derniere_verification": "2026-06-08T22:49:33"
+      "derniere_verification": "2026-06-09T14:45:18"
     },
     {
       "id": "bourges-2026",
@@ -151,7 +142,7 @@
       "dates": "21–26 avril 2026",
       "location": "Bourges, France",
       "color": "#43A047",
-      "derniere_verification": "2026-06-08T23:03:24"
+      "derniere_verification": "2026-06-09T14:52:22"
     },
     {
       "id": "rockenseine-2026",
@@ -160,7 +151,7 @@
       "dates": "2026-08-26 → 2026-08-30",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:20:05"
+      "derniere_verification": "2026-06-09T15:16:43"
     },
     {
       "id": "solidays-2026",
@@ -169,7 +160,7 @@
       "dates": "2026-06-26 → 2026-06-28",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-08T23:20:44"
+      "derniere_verification": "2026-06-09T15:17:36"
     }
   ]
 }

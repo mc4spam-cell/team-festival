@@ -50,7 +50,8 @@
       "musicBrainzId": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
       "spotifyArtistId": "4V8LLVI7PbaPR0K2TGSxFF",
       "deezerArtistId": null,
-      "instagramHandle": "feliciathegoat"
+      "instagramHandle": "feliciathegoat",
+      "description": "Tyler, The Creator, de son vrai nom Tyler Okonma, né le 6 mars 1991 à Hawthorne, est un rappeur, producteur de musique, acteur, designer, graphiste, réalisateur, scénariste, styliste, et directeur artistique américain."
     },
     {
       "id": "d1-tbd-sombr",
@@ -64,7 +65,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Shane Michael Boose dit Sombr, né le 5 juillet 2005 à New York, est un chanteur, auteur-compositeur et producteur américain."
     },
     {
       "id": "d1-tbd-miki",
@@ -78,8 +80,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d1-tbd-ravyn-lenae",
@@ -93,7 +94,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Ravyn Lenae est une chanteuse compositrice et interprète américaine de R&B originaire de Chicago. Elle fait partie du label Atlantic Records."
     },
     {
       "id": "d1-tbd-sekou",
@@ -107,7 +109,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Sékou est un arrondissement du sud du Bénin, situé dans le département de l'Atlantique, à 45 km de la capitale économique Cotonou et à 9 km d'Allada."
     },
     {
       "id": "d2-tbd-lorde",
@@ -121,7 +124,8 @@
       "musicBrainzId": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
       "spotifyArtistId": "163tK9Wjr9P9DmM0AVK7lm",
       "deezerArtistId": null,
-      "instagramHandle": "lorde"
+      "instagramHandle": "lorde",
+      "description": "Ella Marija Lani Yelich-O'Connor, dite Lorde, née le 7 novembre 1996 à Auckland (Nouvelle-Zélande), est une auteure-compositrice-interprète et productrice néozélando-croate."
     },
     {
       "id": "d2-tbd-djo",
@@ -135,7 +139,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Joseph Keery, dit Joe Keery, est un acteur et musicien américain, né en avril 1992 à Newburyport dans le Massachusetts. Il utilise également le pseudonyme Djo pour ses activités musicales."
     },
     {
       "id": "d2-tbd-tash-sultana",
@@ -149,7 +154,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "tashsultanaofficial"
+      "instagramHandle": "tashsultanaofficial",
+      "description": "Taj Hendrix Sultana, dit Tash Sultana, est auteur-compositeur-interprète et multi-instrumentiste originaire d'Australie, né le 15 juin 1995 à Melbourne."
     },
     {
       "id": "d2-tbd-sam-quealy",
@@ -163,8 +169,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d2-tbd-jean-dawson",
@@ -206,7 +211,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "lykkeli"
+      "instagramHandle": "lykkeli",
+      "description": "Lykke Li, de son nom complet Li Lykke Timotej Svensson Zachrisson, est une chanteuse et auteur-compositrice-interprète suédoise, née le 18 mars 1986 à Ystad."
     },
     {
       "id": "d2-tbd-bonne-nuit",
@@ -221,7 +227,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Bonne Nuit est une baie située dans la Vingtaine du Nord de l'île de Jersey. La baie se niche entre le cap de Frémont à l'Ouest et le cap de La Crête à l'Est. Elle donne sur une plage de galets."
     },
     {
       "id": "d2-tbd-lewis-ofman",
@@ -235,7 +241,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Lewis OfMan est un artiste et producteur français né en 1997 à Paris. Il a sorti plusieurs EPs, Disconsolate, Yo Bene, et Dancy Party, deux albums, Sonic Poems (2022) et Cristal Medium Blue (2024), et une mixtape Seoul..."
     },
     {
       "id": "d2-tbd-florence-road",
@@ -264,7 +271,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "nickcaveofficial",
-      "description": null
+      "description": "Nicholas Edward Cave, dit Nick Cave [nɪk ˈkeɪv], AO, né le 22 septembre 1957 à Warracknabeal, en Australie, est un artiste pluridisciplinaire australien ayant acquis sa notoriété en tant que chanteur, auteur et..."
     },
     {
       "id": "d3-tbd-the-black-keys",
@@ -278,7 +285,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "theblackkeys"
+      "instagramHandle": "theblackkeys",
+      "description": "The Black Keys est un duo de blues rock américain, originaire d'Akron, dans l'État de l'Ohio. Le groupe est composé du chanteur et guitariste Dan Auerbach et du batteur Patrick Carney."
     },
     {
       "id": "d3-tbd-franz-ferdinand",
@@ -293,7 +301,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "franzferdinand",
-      "description": null
+      "description": "Franz Ferdinand est un groupe de rock britannique, originaire de Glasgow, en Écosse. Ce patronyme leur est venu en regardant une course hippique dont l'un des concurrents portait le nom de l'archiduc François-Ferdinand..."
     },
     {
       "id": "d3-tbd-biffy-clyro",
@@ -307,7 +315,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "biffy_clyro"
+      "instagramHandle": "biffy_clyro",
+      "description": "Biffy Clyro est un groupe de rock alternatif britannique, originaire de Kilmarnock, en Écosse. Il est formé en 1995 et composé de trois musiciens : Simon Neil et les jumeaux James (basse) et Ben Johnston (batterie)."
     },
     {
       "id": "d3-tbd-kurt-vile-and-the-violators",
@@ -335,7 +344,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "wilco"
+      "instagramHandle": "wilco",
+      "description": "Wilco est un groupe de rock, folk rock et country rock contemporain américain originaire de Chicago (Illinois) issu en 1994 des cendres du groupe américain de country alternative Uncle Tupelo."
     },
     {
       "id": "d3-tbd-cmat",
@@ -349,7 +359,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Ciara Mary-Alice Thompson, connue professionnellement sous le sigle de CMAT, née en 1996, est une chanteuse, auteure-compositrice et musicienne irlandaise."
     },
     {
       "id": "d3-tbd-wet-leg",
@@ -363,7 +374,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "wetlegband"
+      "instagramHandle": "wetlegband",
+      "description": "Wet Leg est un groupe britannique de rock indépendant originaire de l'Île de Wight formé en 2018 par les musiciennes Rhian Teasdale et Hester Chambers."
     },
     {
       "id": "d3-tbd-ttssfu",
@@ -433,8 +445,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "sparks_official",
-      "description": null
+      "instagramHandle": "sparks_official"
     },
     {
       "id": "d3-tbd-kingfishr",
@@ -463,7 +474,7 @@
       "spotifyArtistId": "6Ghvu1VvMGScGpOUJBAHNH",
       "deezerArtistId": 535,
       "instagramHandle": "deftones",
-      "description": null
+      "description": "Deftones est un groupe de métal alternatif américain, originaire de Sacramento. Avec Korn, ils sont considérés comme les fondateurs du nu metal, et également considérés comme l'un des groupes les plus novateurs et les..."
     },
     {
       "id": "d4-tbd-turnstile",
@@ -478,7 +489,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "turnstileluvconnection",
-      "description": null
+      "description": "Turnstile est un groupe de rock américain, principalement associé au punk hardcore, originaire de Baltimore, au Maryland, et fondé en 2010."
     },
     {
       "id": "d4-tbd-amyl-and-the-sniffers",
@@ -506,7 +517,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "landmvrks"
+      "instagramHandle": "landmvrks",
+      "description": "LANDMVRKS est un groupe français de metalcore originaire de Marseille dans les Bouches-du-Rhône. Formé en 2014, le groupe se définit comme évoluant dans un style qui « alterne des riffs ouvertement violents avec des..."
     },
     {
       "id": "d4-tbd-lambrini-girls",
@@ -521,7 +533,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Lambrini Girls est un groupe de punk rock anglais. Formé à Brighton en 2018, le groupe est actuellement[Depuis quand ?] composé de Phoebe Lunny et Lilly Macieira."
     },
     {
       "id": "d4-tbd-fcukers",
@@ -549,7 +561,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Clipse est un groupe de rap américain, originaire du Bronx, et résidant à Virginia Beach, Virginie. Le groupe est formé en 1992 par deux frères, No Malice (en) et Pusha T."
     },
     {
       "id": "d4-tbd-afi",
@@ -577,7 +590,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Mannequin Pussy est un groupe américain de punk et de rock indépendant originaire de Philadelphie, formé en 2010."
     },
     {
       "id": "d4-tbd-man-woman-chainsaw",
@@ -592,7 +606,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "London noise-pop band"
     },
     {
       "id": "d4-tbd-jessica93",
@@ -606,7 +620,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Jessica93 est un groupe de rock indépendant français, originaire de la région parisienne. Il est emmené par Geoffroy Laporte."
     },
     {
       "id": "d4-tbd-grandmas-ashes",
@@ -620,7 +635,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Grandma's Ashes est un groupe de rock progressif, stoner rock et goth rock féminin français, originaire de Paris. Formé en 2017, le trio a produit deux albums et se fait remarquer par sa présence scénique."
     },
     {
       "id": "d4-tbd-dynamite-shakers",
@@ -635,7 +651,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Dynamite Shakers est un groupe de garage rock français originaire de Saint-Hilaire-de-Riez en Vendée."
     },
     {
       "id": "d4-tbd-high-vis",
@@ -663,7 +679,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Novelists est un groupe français de metalcore, originaire de Paris et Marseille. Leur style musical allie des éléments propres au heavy metal ainsi qu'un côté mélodieux."
     },
     {
       "id": "d5-tbd-the-cure",
@@ -677,7 +694,8 @@
       "musicBrainzId": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
       "spotifyArtistId": "7bu3H8JO7d0UbMoVzbo70s",
       "deezerArtistId": 381,
-      "instagramHandle": "thecure"
+      "instagramHandle": "thecure",
+      "description": "The Cure est un groupe rock britannique, originaire de Crawley, dans le Sussex de l'Ouest, en Angleterre."
     },
     {
       "id": "d5-tbd-interpol",
@@ -691,7 +709,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "interpol"
+      "instagramHandle": "interpol",
+      "description": "L'Organisation internationale de police criminelle (OIPC), communément abrégée Interpol, est une organisation internationale créée le 7 septembre 1923 dans le but de promouvoir la coopération policière internationale."
     },
     {
       "id": "d5-tbd-slowdive",
@@ -705,7 +724,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "slowdiveofficial"
+      "instagramHandle": "slowdiveofficial",
+      "description": "Slowdive est un groupe britannique de dream pop et shoegazing formé en 1989. Il signe un contrat avec le label Creation d'Alan McGee qui publie trois albums."
     },
     {
       "id": "d5-tbd-dry-cleaning",
@@ -719,7 +739,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Dry Cleaning est un groupe de post-punk britannique formé dans le sud de Londres en 2018. Le groupe est composé de la chanteuse Florence Shaw, du guitariste Tom Dowse, du bassiste Lewis Maynard et du batteur Nick Buxton."
     },
     {
       "id": "d5-tbd-bertrand-belin",
@@ -734,7 +755,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Bertrand Belin est un auteur-compositeur-interprète, écrivain et acteur français, né le 7 décembre 1970 à Auray (Morbihan)."
     },
     {
       "id": "d5-tbd-kudeta",
@@ -776,7 +797,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Black Country, New Road est un groupe britannique de rock, originaire de Cambridge, en Angleterre. Il est formé en 2018 par d'anciens membres du groupe Nervous Conditions."
     },
     {
       "id": "d5-tbd-hudson-freeman",
@@ -818,7 +840,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Anna Michaela Ebba Electra von Hausswolff, née le 6 septembre 1986 à Göteborg, est une chanteuse, pianiste, organiste et auteure-compositrice suédoise."
     },
     {
       "id": "d5-tbd-wolf-alice",
@@ -832,7 +855,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "wolfaliceband"
+      "instagramHandle": "wolfaliceband",
+      "description": "Wolf Alice est un groupe de rock alternatif britannique, originaire du nord de Londres, en Angleterre."
     },
     {
       "id": "d5-tbd-mogwai",
@@ -846,7 +870,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "mogwaiband"
+      "instagramHandle": "mogwaiband",
+      "description": "Mogwai est la translittération du mot cantonais 魔怪 qui signifie « fantôme », « mauvais esprit », « diable » ou « Démon »."
     },
     {
       "id": "d5-tbd-ecca-vandal",
@@ -861,7 +886,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Ecca Vandal est une autrice-compositrice-interprète et rappeuse australienne née en Afrique du Sud."
     }
   ]
 }

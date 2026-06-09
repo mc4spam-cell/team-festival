@@ -45,7 +45,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Kiki Wesselo, mieux connue sous le nom de scène KI/KI, est une productrice et DJ néerlandaise."
     },
     {
       "id": "d1-tbd-benwal",
@@ -129,7 +130,8 @@
       "musicBrainzId": "f4824366-d97b-4929-a970-a94845306f4a",
       "spotifyArtistId": null,
       "deezerArtistId": 5497121,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Bigflo et Oli, stylisé Bigflo & Oli, est un duo français de rap, originaire de Toulouse (Haute-Garonne). Il est composé des frères Ordonez : Florian et Olivio."
     },
     {
       "id": "d2-tbd-disiz",
@@ -144,7 +146,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Disiz, de son vrai nom Sérigne M'baye Gueye, est un rappeur, chanteur, compositeur, acteur et écrivain français, né le 22 mars 1978 à Amiens (Somme)."
     },
     {
       "id": "d2-tbd-major-lazer",
@@ -158,7 +160,8 @@
       "musicBrainzId": "75be165a-ad83-4d12-bd28-f589a15c479f",
       "spotifyArtistId": null,
       "deezerArtistId": 282118,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Major Lazer  est un groupe jamaïcain-américain de musique électronique, formé à Miami en 2008. Il est composé de Diplo, Walshy Fire et Ape Drums."
     },
     {
       "id": "d2-tbd-timmy-trumpet",
@@ -173,7 +176,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Timmy Trumpet, de son vrai nom Timothy Jude Smith, est un DJ et producteur australien."
     },
     {
       "id": "d2-tbd-viagra-boys",
@@ -187,7 +190,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Viagra Boys est un groupe de post-punk suédois, fondé en 2015 par Sebastian Murphy et Henrik Höckert."
     },
     {
       "id": "d2-tbd-creeds",
@@ -201,7 +205,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Creeds, de son vrai nom Willy Taconné, est né le 30 mai 1992 à La Rochelle en France. Il est un célèbre producteur de musique électronique français."
     },
     {
       "id": "d2-tbd-last-train",
@@ -216,7 +221,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Last Train est un groupe de rock français, originaire d’Altkirch, en Alsace. Il est formé en 2007 alors que Jean-Noël Scherrer, Julien Peultier (guit.), Timothée Gerard (bass.) et Antoine Baschung (batteur) sont encore..."
     },
     {
       "id": "d2-tbd-mosimann",
@@ -231,7 +236,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
     },
     {
       "id": "d2-tbd-upsilone",
@@ -259,7 +264,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "47Ter est un groupe de pop/rap français originaire de Bailly, dans les Yvelines, formé en 2017 par le chanteur Pierre-Paul, le bassiste Blaise et le guitariste Miguel (Lopes)."
     },
     {
       "id": "d2-tbd-e-darta-b2b-mockoff",
@@ -385,8 +391,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d2-tbd-no-art-b2b-rems-martinez",
@@ -456,7 +461,8 @@
       "musicBrainzId": "e56aee57-d90e-40cf-a70d-beb70f6f3c69",
       "spotifyArtistId": null,
       "deezerArtistId": 4452092,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Kaytranada, nom de scène de Louis Celestin, né le 25 août 1992 à Port-au-Prince, est un musicien électronique, producteur et DJ haïtiano-canadien."
     },
     {
       "id": "d3-tbd-plk",
@@ -470,8 +476,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-tom-odell",
@@ -485,7 +490,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": 4044787,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Thomas Odell, dit Tom Odell, né le 24 novembre 1990 à Chichester est un auteur-compositeur-interprète et pianiste britannique. Il sort son premier EP, Songs from Another Love, en 2012."
     },
     {
       "id": "d3-tbd-nico-moreno",
@@ -500,7 +506,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Nico Moreno [niko mɔʁeno], né le 20 août 1994 à Caen, dans le département du Calvados en France, est un disc jockey et producteur musical français."
     },
     {
       "id": "d3-tbd-boulevard-des-airs",
@@ -514,7 +520,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Boulevard des Airs est un groupe musical français, originaire de Tarbes, dans les Hautes-Pyrénées. Formé en 2004, le groupe joue un mélange de styles dont la world music, la pop et la musique électronique."
     },
     {
       "id": "d3-tbd-julien-granel",
@@ -542,7 +549,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Francesco De Nigris, connu sous le nom de Kybba, est un DJ et producteur italien de reggae et de dancehall."
     },
     {
       "id": "d3-tbd-leblanc",
@@ -585,7 +593,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999."
     },
     {
       "id": "d3-tbd-rivo",
@@ -614,7 +622,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Le thylacine, également appelé loup marsupial, loup de Tasmanie ou tigre de Tasmanie, est un mammifère carnivore de la taille d’un loup, au pelage tigré."
     },
     {
       "id": "d3-tbd-yuston-xiii",
@@ -642,7 +650,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Jonas est un prophète des trois religions abrahamiques que sont le judaïsme, le christianisme et l'islam."
     },
     {
       "id": "d3-tbd-kichta",
@@ -670,7 +679,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "La Sueur (汗, Ase) est un film muet japonais réalisé par Tomu Uchida et sorti en 1929."
     },
     {
       "id": "d3-tbd-lay-d",
@@ -754,8 +764,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d3-tbd-smemo",
@@ -784,7 +793,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": 4429712,
       "instagramHandle": null,
-      "description": null
+      "description": "Gandhi Djuna, dit Gims, anciennement Maître Gims, né le 5 mai 1986 à Kinshasa au Zaïre, est un chanteur et rappeur congolais. Il grandit en France et vit principalement entre la France et le Maroc."
     },
     {
       "id": "d4-tbd-sara-landry",
@@ -798,7 +807,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Sara Landry est une DJ et productrice américaine de techno, basée à Amsterdam, aux Pays-Bas. Elle se fait connaitre grâce à ses sons de hardtechno. Elle est la fondatrice et propriétaire du label techno Hekate Records."
     },
     {
       "id": "d4-tbd-sofi-tukker",
@@ -812,7 +822,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Sofi Tukker est un duo musical américain formé en 2014, et constitué de Sophie Hawley-Weld et Tucker Halpern."
     },
     {
       "id": "d4-tbd-theodora",
@@ -827,7 +838,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "French bassist & electro-pop artist / Astral Bakers"
     },
     {
       "id": "d4-tbd-vald-x-vladimir-cauchemar-x-todiefor",
@@ -841,8 +852,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-tbd-david-mcfly",
@@ -870,7 +880,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Dub Inc, anciennement Dub Incorporation, est un groupe français de reggae, originaire de Saint-Étienne, dans la Loire."
     },
     {
       "id": "d4-tbd-faul-wad",
@@ -899,7 +910,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": null
+      "description": "Adam alias Ino Casablanca est un rappeur et auteur-compositeur-interprète français né en août 2000."
     },
     {
       "id": "d4-tbd-synapson",
@@ -941,7 +952,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Bisso est une localité située dans le département de Nouna de la province du Kossi dans la région de la Boucle du Mouhoun au Burkina Faso."
     },
     {
       "id": "d4-tbd-e-youb",
@@ -1039,8 +1051,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     },
     {
       "id": "d4-tbd-x-coast",
@@ -1068,8 +1079,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": null
+      "instagramHandle": null
     }
   ]
 }
