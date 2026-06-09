@@ -3,7 +3,7 @@
     "date_maj": "2026-06-06",
     "description": "Référentiel des ~200 plus gros festivals de musique français, classés par fréquentation estimée",
     "refresh": "hebdomadaire",
-    "derniere_mise_a_jour": "2026-06-07"
+    "derniere_mise_a_jour": "2026-06-09"
   },
   "festivals": [
     {
@@ -118,13 +118,14 @@
       "departement": "Hauts-de-Seine (92)",
       "genre_principal": "rock/pop",
       "frequentation_estimee": 120000,
-      "dates_2026": "26-30 août 2026",
+      "dates_2026": "2026-08-26/2026-08-30",
       "site_officiel": "https://www.rockenseine.com/",
       "url_programmation": "https://www.rockenseine.com/programmation",
-      "statut_2026": "partiel",
+      "statut_2026": "confirmé",
       "difficulte": "moyen",
       "notes": "Line-up par jour publié, horaires/scènes historiquement en juillet-août. À vérifier via navigateur.",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 9,
@@ -163,13 +164,14 @@
       "departement": "Loire-Atlantique (44)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 105000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-02/2026-07-05",
       "site_officiel": "https://www.lanuitdelerdre.fr/",
       "url_programmation": "https://www.lanuitdelerdre.fr/programmation/",
-      "statut_2026": "complet",
+      "statut_2026": "confirmé",
       "difficulte": "facile",
       "notes": "Artiste, scène (Maki/Gorilla), jour et créneau 'début > fin' en clair dans le HTML.",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 12,
@@ -208,13 +210,14 @@
       "departement": "Ardennes (08)",
       "genre_principal": "rock/généraliste",
       "frequentation_estimee": 100000,
-      "dates_2026": "20-23 août 2026",
+      "dates_2026": "2026-08-20/2026-08-23",
       "site_officiel": "https://cabaretvert.com/",
       "url_programmation": "https://cabaretvert.com/programmation/",
-      "statut_2026": "partiel",
+      "statut_2026": "confirmé",
       "difficulte": "moyen",
       "notes": "Artiste + jour + scène (via pages filtres) mais pas d'horaires avant fin août. Gérer le Load More AJAX.",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 15,
@@ -238,13 +241,14 @@
       "departement": "Bouches-du-Rhône (13)",
       "genre_principal": "électro",
       "frequentation_estimee": 95000,
-      "dates_2026": "23-26 juillet 2026",
+      "dates_2026": "2026-07-23/2026-07-26",
       "site_officiel": "https://delta-festival.com/",
       "url_programmation": "https://delta-festival.com/programmation/",
-      "statut_2026": "partiel",
+      "statut_2026": "confirmé",
       "difficulte": "difficile",
       "notes": "Contenu non textuel : rendu navigateur + OCR, ou sources tierces (Shotgun, touslesfestivals).",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 17,
@@ -253,13 +257,14 @@
       "departement": "Morbihan (56)",
       "genre_principal": "celtique/world",
       "frequentation_estimee": 90000,
-      "dates_2026": "31 juillet - 9 août 2026",
+      "dates_2026": "2026-07-31/2026-08-09",
       "site_officiel": "https://www.festival-interceltique.bzh/",
       "url_programmation": "https://www.festival-interceltique.bzh/programmation-2026/",
-      "statut_2026": "complet",
+      "statut_2026": "confirmé",
       "difficulte": "moyen",
       "notes": "300+ spectacles avec jour/heure/lieu publiés depuis mars. Extraction via fiches artistes WordPress (sitemap.xml) ou rendu navigateur.",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 18,
@@ -286,10 +291,11 @@
       "dates_2026": "mi-juillet 2026",
       "site_officiel": "https://www.electrobeach.com/",
       "url_programmation": null,
-      "statut_2026": "non publié",
+      "statut_2026": "incertain 2026 (annulation évoquée)",
       "difficulte": "difficile",
       "notes": "Aucun line-up 2026 publié, ni officiel ni tiers. Veille nécessaire, sans garantie de running order horodaté avant l'événement.",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 20,
@@ -313,13 +319,14 @@
       "departement": "Aude (11)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 200000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-06-26/2026-07-31",
       "site_officiel": "https://www.festivaldecarcassonne.fr",
       "url_programmation": "https://www.festivaldecarcassonne.fr/article-page/toute-la-programmation",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 22,
@@ -328,13 +335,14 @@
       "departement": "Gard (30)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 190000,
-      "dates_2026": "11 juin - mi-juillet 2026",
+      "dates_2026": "2026-06-11/2026-07-25",
       "site_officiel": "https://festivaldenimes.com",
       "url_programmation": "https://festivaldenimes.com/programmation/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 23,
@@ -343,13 +351,14 @@
       "departement": "Rhône (69)",
       "genre_principal": "pluridisciplinaire/pop",
       "frequentation_estimee": 156000,
-      "dates_2026": "28 mai - 25 juillet 2026",
+      "dates_2026": "2026-05-28/2026-07-25",
       "site_officiel": "https://www.nuitsdefourviere.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 24,
@@ -373,13 +382,14 @@
       "departement": "Haut-Rhin (68)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 140000,
-      "dates_2026": "31 juillet - 9 août 2026",
+      "dates_2026": "2026-07-31/2026-08-09",
       "site_officiel": "https://www.foire-colmar.com",
       "url_programmation": "https://www.foire-colmar.com/le-festival/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 26,
@@ -403,13 +413,14 @@
       "departement": "Charente-Maritime (17)",
       "genre_principal": "classique",
       "frequentation_estimee": 130000,
-      "dates_2026": "25, 28 et 31 juillet 2026",
+      "dates_2026": "2026-07-25/2026-07-31",
       "site_officiel": "https://www.violonsurlesable.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé (soirées 25, 28, 31/07)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 28,
@@ -418,13 +429,14 @@
       "departement": "Loire-Atlantique (44)",
       "genre_principal": "jazz",
       "frequentation_estimee": 120000,
-      "dates_2026": "24-30 août 2026",
+      "dates_2026": "2026-08-24/2026-08-30",
       "site_officiel": "https://www.rendezvouserdre.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 29,
@@ -448,13 +460,14 @@
       "departement": "Mayenne (53)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 120000,
-      "dates_2026": "fin août 2026",
+      "dates_2026": "2026-08-20/2026-08-23",
       "site_officiel": "https://vandbfest.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 31,
@@ -463,13 +476,14 @@
       "departement": "Haute-Garonne (31)",
       "genre_principal": "rap/pop",
       "frequentation_estimee": 115000,
-      "dates_2026": "27-29 août 2026",
+      "dates_2026": "2026-08-27/2026-08-29",
       "site_officiel": "https://rosefestival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 32,
@@ -493,13 +507,14 @@
       "departement": "Gers (32)",
       "genre_principal": "jazz",
       "frequentation_estimee": 110000,
-      "dates_2026": "20 juillet - 5 août 2026",
+      "dates_2026": "2026-07-20/2026-08-05",
       "site_officiel": "https://www.jazzinmarciac.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 34,
@@ -523,13 +538,14 @@
       "departement": "Finistère (29)",
       "genre_principal": "celtique",
       "frequentation_estimee": 100000,
-      "dates_2026": "12-16 août 2026",
+      "dates_2026": "2026-08-12/2026-08-16",
       "site_officiel": "https://www.festivaldesfiletsbleus.bzh",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 36,
@@ -538,13 +554,14 @@
       "departement": "Vendée (85)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 95000,
-      "dates_2026": "juin-juillet 2026",
+      "dates_2026": "2026-07-01/2026-07-24",
       "site_officiel": "https://www.festival-poupet.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 37,
@@ -568,13 +585,14 @@
       "departement": "Haute-Garonne (31)",
       "genre_principal": "world",
       "frequentation_estimee": 90000,
-      "dates_2026": "10-14 juin 2026",
+      "dates_2026": "2026-06-10/2026-06-14",
       "site_officiel": "https://rio-loco.org",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 39,
@@ -583,13 +601,14 @@
       "departement": "Hérault (34)",
       "genre_principal": "classique/jazz",
       "frequentation_estimee": 90000,
-      "dates_2026": "5-18 juillet 2026",
+      "dates_2026": "2026-07-05/2026-07-18",
       "site_officiel": "https://lefestival.eu",
       "url_programmation": "https://lefestival.eu/programmes/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 40,
@@ -628,13 +647,14 @@
       "departement": "Maine-et-Loire (49)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 80000,
-      "dates_2026": "21 juin - 19 juillet 2026",
+      "dates_2026": "2026-06-26/2026-07-19",
       "site_officiel": "https://www.trelaze.fr",
       "url_programmation": "https://arenaloiretrelaze.fr/festival-de-trelaze/la-programmation-2026/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 43,
@@ -643,13 +663,14 @@
       "departement": "Nord (59)",
       "genre_principal": "pop/généraliste",
       "frequentation_estimee": 80000,
-      "dates_2026": "19-21 juin 2026",
+      "dates_2026": "2026-06-19/2026-06-21",
       "site_officiel": "https://labonneaventurefestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 44,
@@ -688,13 +709,14 @@
       "departement": "Ille-et-Vilaine (35)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 75000,
-      "dates_2026": "21-23 août 2026",
+      "dates_2026": "2026-08-21/2026-08-23",
       "site_officiel": "https://www.festivalduroiarthur.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 47,
@@ -703,13 +725,14 @@
       "departement": "Bouches-du-Rhône (13)",
       "genre_principal": "classique",
       "frequentation_estimee": 75000,
-      "dates_2026": "juillet-août 2026",
+      "dates_2026": "2026-07-16/2026-08-16",
       "site_officiel": "https://www.festival-piano.com",
       "url_programmation": "https://www.festival-piano.com/fpr_festival/2026/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 48,
@@ -718,13 +741,14 @@
       "departement": "Alpes-Maritimes (06)",
       "genre_principal": "électro",
       "frequentation_estimee": 70000,
-      "dates_2026": "7-9 août 2026",
+      "dates_2026": "2026-08-07/2026-08-09",
       "site_officiel": "https://www.plages-electroniques.com",
       "url_programmation": "https://www.plages-electroniques.com/en/2026-lineup/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 49,
@@ -733,13 +757,14 @@
       "departement": "Bouches-du-Rhône (13)",
       "genre_principal": "classique/opéra",
       "frequentation_estimee": 70000,
-      "dates_2026": "2-21 juillet 2026",
+      "dates_2026": "2026-07-02/2026-07-21",
       "site_officiel": "https://festival-aix.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 50,
@@ -748,13 +773,14 @@
       "departement": "Finistère (29)",
       "genre_principal": "metal",
       "frequentation_estimee": 67000,
-      "dates_2026": "13-16 août 2026",
+      "dates_2026": "2026-08-13/2026-08-16",
       "site_officiel": "https://www.motocultor-festival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 51,
@@ -763,13 +789,14 @@
       "departement": "Finistère (29)",
       "genre_principal": "world",
       "frequentation_estimee": 60000,
-      "dates_2026": "31 juillet - 2 août 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.festivalduboutdumonde.com",
       "url_programmation": "https://www.festivalduboutdumonde.com/programmation/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 52,
@@ -808,13 +835,14 @@
       "departement": "Côte-d'Or (21)",
       "genre_principal": "rap",
       "frequentation_estimee": 55000,
-      "dates_2026": "28-30 août 2026",
+      "dates_2026": "2026-08-28/2026-08-30",
       "site_officiel": "https://goldencoastfestival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 55,
@@ -853,13 +881,14 @@
       "departement": "Landes (40)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 55000,
-      "dates_2026": "mi-août 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.musicalarue.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 58,
@@ -868,13 +897,14 @@
       "departement": "Finistère (29)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 55000,
-      "dates_2026": "7-9 août 2026",
+      "dates_2026": "2026-08-07/2026-08-09",
       "site_officiel": "https://landerneau.festival-fetedubruit.com",
       "url_programmation": "https://landerneau.festival-fetedubruit.com/programmation/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 59,
@@ -883,13 +913,14 @@
       "departement": "Isère (38)",
       "genre_principal": "classique",
       "frequentation_estimee": 52000,
-      "dates_2026": "19-30 août 2026",
+      "dates_2026": "2026-08-19/2026-08-30",
       "site_officiel": "https://www.festivalberlioz.com",
       "url_programmation": "https://www.festivalberlioz.com/programmation/",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 60,
@@ -898,13 +929,14 @@
       "departement": "Vaucluse (84)",
       "genre_principal": "classique/opéra",
       "frequentation_estimee": 50000,
-      "dates_2026": "juin-août 2026",
+      "dates_2026": "2026-06-21/2026-07-18",
       "site_officiel": "https://www.choregies.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 61,
@@ -928,13 +960,14 @@
       "departement": "Bouches-du-Rhône (13)",
       "genre_principal": "world",
       "frequentation_estimee": 50000,
-      "dates_2026": "13-19 juillet 2026",
+      "dates_2026": "2026-07-13/2026-07-19",
       "site_officiel": "https://www.suds-arles.com",
       "url_programmation": "https://www.suds-arles.com/billetterie/fr/2026/festival",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 63,
@@ -958,13 +991,14 @@
       "departement": "Corrèze (19)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 45000,
-      "dates_2026": "mi-juillet 2026",
+      "dates_2026": "2026-07-16/2026-07-19",
       "site_officiel": "https://brivefestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 65,
@@ -973,13 +1007,14 @@
       "departement": "Côtes-d'Armor (22)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 45000,
-      "dates_2026": "26-28 juin 2026",
+      "dates_2026": "2026-06-26/2026-06-28",
       "site_officiel": "https://bobital-festival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 66,
@@ -988,13 +1023,14 @@
       "departement": "Puy-de-Dôme (63)",
       "genre_principal": "pop/rock européen",
       "frequentation_estimee": 45000,
-      "dates_2026": "début juillet 2026",
+      "dates_2026": "2026-06-26/2026-06-28",
       "site_officiel": "https://www.europavox.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 67,
@@ -1003,13 +1039,14 @@
       "departement": "Finistère (29)",
       "genre_principal": "électro",
       "frequentation_estimee": 45000,
-      "dates_2026": "2-5 juillet 2026",
+      "dates_2026": "2026-07-02/2026-07-05",
       "site_officiel": "https://astropolis.org",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 68,
@@ -1018,13 +1055,14 @@
       "departement": "Hérault (34)",
       "genre_principal": "électro",
       "frequentation_estimee": 45000,
-      "dates_2026": "1-2 août 2026",
+      "dates_2026": "2026-08-01/2026-08-02",
       "site_officiel": "https://www.familypiknikfestival.com",
       "url_programmation": "https://www.familypiknikfestival.com/weekend-2026",
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 69,
@@ -1033,13 +1071,14 @@
       "departement": "Lot (46)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 45000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.ecaussysteme.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 70,
@@ -1048,13 +1087,14 @@
       "departement": "La Réunion (974)",
       "genre_principal": "world/généraliste",
       "frequentation_estimee": 42000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-05/2026-06-07",
       "site_officiel": "https://www.sakifo.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "hors fenêtre (terminé avant 09/06)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 71,
@@ -1081,10 +1121,11 @@
       "dates_2026": "fin août 2026",
       "site_officiel": "https://www.woodstower.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé/incertain 2026 (liquidation judiciaire)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 73,
@@ -1108,13 +1149,14 @@
       "departement": "Gironde (33)",
       "genre_principal": "reggae",
       "frequentation_estimee": 40000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-05-29/2026-05-31",
       "site_officiel": "https://www.reggaesunska.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé — édition réduite 'Le Plan B', hors fenêtre",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 75,
@@ -1123,13 +1165,14 @@
       "departement": "Pas-de-Calais (62)",
       "genre_principal": "électro/pop",
       "frequentation_estimee": 40000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-28/2026-08-29",
       "site_officiel": "https://www.touquetmusicbeach.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 76,
@@ -1153,13 +1196,14 @@
       "departement": "Marne (51)",
       "genre_principal": "classique",
       "frequentation_estimee": 40000,
-      "dates_2026": "juin-juillet 2026",
+      "dates_2026": "2026-06-18/2026-07-10",
       "site_officiel": "https://www.flaneriesreims.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 78,
@@ -1168,13 +1212,14 @@
       "departement": "Charente (16)",
       "genre_principal": "world/folklore",
       "frequentation_estimee": 40000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-10/2026-08-16",
       "site_officiel": "https://www.festivaldeconfolens.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 79,
@@ -1213,13 +1258,14 @@
       "departement": "Yonne (89)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 36000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-26/2026-06-27",
       "site_officiel": "https://www.catalpafestival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 82,
@@ -1228,13 +1274,14 @@
       "departement": "Ain (01)",
       "genre_principal": "chanson/pop",
       "frequentation_estimee": 35000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-23/2026-06-28",
       "site_officiel": "https://www.festival-perouges.org",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 83,
@@ -1273,13 +1320,14 @@
       "departement": "Alpes-Maritimes (06)",
       "genre_principal": "jazz",
       "frequentation_estimee": 35000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-09/2026-07-19",
       "site_officiel": "https://www.jazzajuan.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 86,
@@ -1288,13 +1336,14 @@
       "departement": "Somme (80)",
       "genre_principal": "rock/pop rétro",
       "frequentation_estimee": 35000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-26/2026-06-28",
       "site_officiel": "https://retroctrop.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 87,
@@ -1303,13 +1352,14 @@
       "departement": "Pyrénées-Atlantiques (64)",
       "genre_principal": "world/occitan",
       "frequentation_estimee": 35000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-20/2026-08-23",
       "site_officiel": "https://www.hestivoc.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 88,
@@ -1318,13 +1368,14 @@
       "departement": "Indre (36)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 35000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-09/2026-08-21",
       "site_officiel": "https://www.festivaldarc.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 89,
@@ -1333,13 +1384,14 @@
       "departement": "Alpes-Maritimes (06)",
       "genre_principal": "world",
       "frequentation_estimee": 35000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-09/2026-07-18",
       "site_officiel": "https://www.nuitsdusud.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 90,
@@ -1363,13 +1415,14 @@
       "departement": "Jura (39)",
       "genre_principal": "reggae",
       "frequentation_estimee": 33000,
-      "dates_2026": "mi-août 2026",
+      "dates_2026": "2026-08-07/2026-08-09",
       "site_officiel": "https://www.nologofestival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé — déménagé à Pont-sur-l'Ognon",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 92,
@@ -1378,13 +1431,14 @@
       "departement": "Loire (42)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 33000,
-      "dates_2026": "début août 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.foreztival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 93,
@@ -1438,13 +1492,14 @@
       "departement": "Haute-Savoie (74)",
       "genre_principal": "jazz",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-20/2026-07-25",
       "site_officiel": "https://www.cosmojazzfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 97,
@@ -1453,13 +1508,14 @@
       "departement": "Indre-et-Loire (37)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 30000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-07-03/2026-07-05",
       "site_officiel": "https://www.avoinezonegroove.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 98,
@@ -1468,13 +1524,14 @@
       "departement": "Charente-Maritime (17)",
       "genre_principal": "électro/rap",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-19/2026-06-20",
       "site_officiel": "https://www.freemusic-festival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 99,
@@ -1483,13 +1540,14 @@
       "departement": "Bas-Rhin (67)",
       "genre_principal": "reggae",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-30/2026-08-02",
       "site_officiel": "https://www.summervibration.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "à confirmer (fin juillet-début août)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 100,
@@ -1498,13 +1556,14 @@
       "departement": "Loire-Atlantique (44)",
       "genre_principal": "dub/reggae",
       "frequentation_estimee": 30000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-10/2026-07-12",
       "site_officiel": "https://www.dubcampfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 101,
@@ -1513,13 +1572,14 @@
       "departement": "Morbihan (56)",
       "genre_principal": "rock/généraliste",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juillet-début août 2026",
+      "dates_2026": "2026-07-31/2026-08-01",
       "site_officiel": "https://www.aupontdurock.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 102,
@@ -1528,13 +1588,14 @@
       "departement": "Loire-Atlantique (44)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin août 2026",
+      "dates_2026": "2026-08-22/2026-08-24",
       "site_officiel": "https://www.festival-couvrefeu.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 103,
@@ -1543,13 +1604,14 @@
       "departement": "Côtes-d'Armor (22)",
       "genre_principal": "folk/blues",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-24/2026-07-26",
       "site_officiel": "https://www.binicfolksbluesfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 104,
@@ -1558,13 +1620,14 @@
       "departement": "Vaucluse (84)",
       "genre_principal": "électro",
       "frequentation_estimee": 30000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-05-14/2026-05-16",
       "site_officiel": "https://www.insanefestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé — hors fenêtre (mai)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 105,
@@ -1573,13 +1636,14 @@
       "departement": "Gers (32)",
       "genre_principal": "latino/world",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-30/2026-08-02",
       "site_officiel": "https://www.tempo-latino.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 106,
@@ -1591,10 +1655,11 @@
       "dates_2026": "juin 2026",
       "site_officiel": "https://www.vyvfestival.org",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé (arrêt définitif)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 107,
@@ -1603,13 +1668,14 @@
       "departement": "Haute-Loire (43)",
       "genre_principal": "country",
       "frequentation_estimee": 30000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-25/2026-07-26",
       "site_officiel": "https://www.countryrendezvous.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 108,
@@ -1618,13 +1684,14 @@
       "departement": "Paris (75)",
       "genre_principal": "électro/techno",
       "frequentation_estimee": 30000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-10/2026-07-11",
       "site_officiel": "https://www.thepeacocksociety.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 109,
@@ -1636,10 +1703,11 @@
       "dates_2026": "juin 2026",
       "site_officiel": "https://www.lamagnifiquesociety.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "incertain 2026 (format en question)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 110,
@@ -1666,10 +1734,11 @@
       "dates_2026": "fin août 2026",
       "site_officiel": "https://www.essonneenscene.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "à confirmer (date 2026 incertaine)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 112,
@@ -1678,13 +1747,14 @@
       "departement": "Puy-de-Dôme (63)",
       "genre_principal": "généraliste (gratuit)",
       "frequentation_estimee": 30000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-03/2026-07-05",
       "site_officiel": "https://www.thiers.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 113,
@@ -1693,13 +1763,14 @@
       "departement": "Vendée (85)",
       "genre_principal": "chanson/variété",
       "frequentation_estimee": 30000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-06-12/2026-06-13",
       "site_officiel": "https://www.lesfeuxdelete.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 114,
@@ -1723,13 +1794,14 @@
       "departement": "Hérault (34)",
       "genre_principal": "world",
       "frequentation_estimee": 28000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-11/2026-07-26",
       "site_officiel": "https://www.festivaldethau.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 116,
@@ -1738,13 +1810,14 @@
       "departement": "Bas-Rhin (67)",
       "genre_principal": "rock/généraliste",
       "frequentation_estimee": 28000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-10/2026-07-12",
       "site_officiel": "https://www.decibulles.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 117,
@@ -1753,13 +1826,14 @@
       "departement": "Ille-et-Vilaine (35)",
       "genre_principal": "rock indé",
       "frequentation_estimee": 28000,
-      "dates_2026": "mi-août 2026",
+      "dates_2026": "2026-08-12/2026-08-15",
       "site_officiel": "https://www.laroutedurock.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 118,
@@ -1783,13 +1857,14 @@
       "departement": "Haute-Corse (2B)",
       "genre_principal": "guitare/généraliste",
       "frequentation_estimee": 28000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-20/2026-07-27",
       "site_officiel": "https://www.festival-guitare-patrimonio.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 120,
@@ -1801,10 +1876,11 @@
       "dates_2026": "juillet 2026",
       "site_officiel": "https://www.montjouxfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé 2026 (ville mobilisée par le Tour de France)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 121,
@@ -1828,13 +1904,14 @@
       "departement": "Morbihan (56)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 26000,
-      "dates_2026": "10-12 juillet 2026",
+      "dates_2026": "2026-07-10/2026-07-12",
       "site_officiel": "https://stnolff.festival-fetedubruit.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 123,
@@ -1843,13 +1920,14 @@
       "departement": "Pas-de-Calais (62)",
       "genre_principal": "rock",
       "frequentation_estimee": 25000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-24/2026-07-26",
       "site_officiel": "https://www.rockenstock.org",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 124,
@@ -1861,10 +1939,11 @@
       "dates_2026": "début juillet 2026",
       "site_officiel": "https://www.calviontherocks.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé 2026",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 125,
@@ -1876,10 +1955,11 @@
       "dates_2026": "début août 2026",
       "site_officiel": "https://www.porto-latino.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "à confirmer (déménagement Bastia ; 20-21/07 ou 5-8/08 selon sources)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 126,
@@ -1888,13 +1968,14 @@
       "departement": "Haute-Savoie (74)",
       "genre_principal": "rock/généraliste",
       "frequentation_estimee": 25000,
-      "dates_2026": "début juillet 2026",
+      "dates_2026": "2026-07-02/2026-07-04",
       "site_officiel": "https://www.musiquesenstock.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 127,
@@ -1918,13 +1999,14 @@
       "departement": "Isère (38)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 25000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-15/2026-07-19",
       "site_officiel": "https://www.cabaret-frappe.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 129,
@@ -1933,13 +2015,14 @@
       "departement": "Doubs (25)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 25000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-24/2026-07-25",
       "site_officiel": "https://www.festivalpaille.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 130,
@@ -1948,13 +2031,14 @@
       "departement": "Doubs (25)",
       "genre_principal": "world",
       "frequentation_estimee": 25000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-26/2026-06-28",
       "site_officiel": "https://www.rencontresetracines.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 131,
@@ -1963,13 +2047,14 @@
       "departement": "Hérault (34)",
       "genre_principal": "world",
       "frequentation_estimee": 25000,
-      "dates_2026": "fin juillet-début août 2026",
+      "dates_2026": "2026-07-18/2026-08-03",
       "site_officiel": "https://www.fiestasete.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 132,
@@ -1978,13 +2063,14 @@
       "departement": "Hérault (34)",
       "genre_principal": "jazz",
       "frequentation_estimee": 25000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-15/2026-07-21",
       "site_officiel": "https://www.jazzasete.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 133,
@@ -2008,13 +2094,14 @@
       "departement": "Bouches-du-Rhône (13)",
       "genre_principal": "jazz",
       "frequentation_estimee": 25000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-01/2026-07-12",
       "site_officiel": "https://www.marseillejazz.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 135,
@@ -2041,10 +2128,11 @@
       "dates_2026": "juin 2026",
       "site_officiel": "https://ladefensejazzfestival.hauts-de-seine.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé 2026 (budget) — seul le Concours national de jazz est maintenu",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 137,
@@ -2053,13 +2141,14 @@
       "departement": "Paris (75)",
       "genre_principal": "indé/électro",
       "frequentation_estimee": 25000,
-      "dates_2026": "mai-juin 2026",
+      "dates_2026": "2026-05-28/2026-05-31",
       "site_officiel": "https://villettesonique.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "hors fenêtre (terminé avant 09/06)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 138,
@@ -2083,13 +2172,14 @@
       "departement": "Charente-Maritime (17)",
       "genre_principal": "électro",
       "frequentation_estimee": 25000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-24/2026-07-25",
       "site_officiel": "https://www.stereoparc.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 140,
@@ -2101,10 +2191,11 @@
       "dates_2026": "juillet 2026",
       "site_officiel": "https://www.checkinparty.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "incertain 2026 (date non confirmée)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 141,
@@ -2113,13 +2204,14 @@
       "departement": "Vienne (86)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 25000,
-      "dates_2026": "fin juillet 2026",
+      "dates_2026": "2026-07-23/2026-07-25",
       "site_officiel": "https://www.festivalaufilduson.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 142,
@@ -2131,10 +2223,11 @@
       "dates_2026": "juin 2026",
       "site_officiel": "https://www.francosgourmandes.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé (arrêt / déménagé hors Tournus)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 143,
@@ -2143,13 +2236,14 @@
       "departement": "Seine-Saint-Denis (93)",
       "genre_principal": "classique",
       "frequentation_estimee": 25000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-05-28/2026-06-23",
       "site_officiel": "https://www.festival-saint-denis.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 144,
@@ -2158,13 +2252,14 @@
       "departement": "Saône-et-Loire (71)",
       "genre_principal": "chanson/variété",
       "frequentation_estimee": 22000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-03/2026-07-04",
       "site_officiel": "https://www.lesnuitsbressanes.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 145,
@@ -2188,13 +2283,14 @@
       "departement": "Haute-Savoie (74)",
       "genre_principal": "rock/guitare",
       "frequentation_estimee": 22000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-14/2026-07-17",
       "site_officiel": "https://www.guitare-en-scene.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 147,
@@ -2221,10 +2317,11 @@
       "dates_2026": "fin juin 2026",
       "site_officiel": "https://www.rockinevreux.org",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé 2026 (remplacé par Ça Sonne À La Porte, 5-7/06 à Grossœuvre)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 149,
@@ -2236,10 +2333,11 @@
       "dates_2026": "juillet 2026",
       "site_officiel": "https://www.pontdugard.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "à confirmer (date 2026 non publiée)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 150,
@@ -2278,13 +2376,14 @@
       "departement": "Pyrénées-Orientales (66)",
       "genre_principal": "classique",
       "frequentation_estimee": 20000,
-      "dates_2026": "fin juillet-août 2026",
+      "dates_2026": "2026-07-28/2026-08-08",
       "site_officiel": "https://www.prades-festival-casals.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 153,
@@ -2293,13 +2392,14 @@
       "departement": "Haute-Loire (43)",
       "genre_principal": "classique",
       "frequentation_estimee": 20000,
-      "dates_2026": "fin août 2026",
+      "dates_2026": "2026-08-18/2026-08-30",
       "site_officiel": "https://www.chaise-dieu.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 154,
@@ -2308,13 +2408,14 @@
       "departement": "Somme (80)",
       "genre_principal": "pop/électro",
       "frequentation_estimee": 20000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-11/2026-06-14",
       "site_officiel": "https://www.minuitavantlanuit.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 155,
@@ -2353,13 +2454,14 @@
       "departement": "Seine-et-Marne (77)",
       "genre_principal": "jazz manouche",
       "frequentation_estimee": 20000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-25/2026-06-28",
       "site_officiel": "https://www.festivaldjangoreinhardt.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 158,
@@ -2368,13 +2470,14 @@
       "departement": "Manche (50)",
       "genre_principal": "world/trad",
       "frequentation_estimee": 20000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-12/2026-08-16",
       "site_officiel": "https://www.manche.fr/tatihou",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 159,
@@ -2398,13 +2501,14 @@
       "departement": "Lot (46)",
       "genre_principal": "classique/sacré",
       "frequentation_estimee": 20000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-15/2026-08-26",
       "site_officiel": "https://www.rocamadourfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 161,
@@ -2413,13 +2517,14 @@
       "departement": "Gironde (33)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 20000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-05/2026-06-06",
       "site_officiel": "https://www.musikapile.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "hors fenêtre (terminé avant 09/06)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 162,
@@ -2443,13 +2548,14 @@
       "departement": "Bas-Rhin (67)",
       "genre_principal": "jazz",
       "frequentation_estimee": 18000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-08/2026-08-16",
       "site_officiel": "https://www.festival-augresdujazz.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 164,
@@ -2458,13 +2564,14 @@
       "departement": "Haute-Marne (52)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 18000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.chienaplumes.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 165,
@@ -2473,13 +2580,14 @@
       "departement": "Orne (61)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 18000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-24/2026-07-25",
       "site_officiel": "https://www.festival-artsonic.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 166,
@@ -2503,13 +2611,14 @@
       "departement": "Ain (01)",
       "genre_principal": "metal/rock",
       "frequentation_estimee": 18000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-03/2026-07-04",
       "site_officiel": "https://www.planerfest.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé (à Colombier-Saugnieu)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 168,
@@ -2521,10 +2630,11 @@
       "dates_2026": "juillet 2026",
       "site_officiel": "https://www.vercorsmusicfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé/incertain 2026 (remplacé par Vercors Tremplins Festival, 3-4/07)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 169,
@@ -2548,13 +2658,14 @@
       "departement": "Indre-et-Loire (37)",
       "genre_principal": "rock/généraliste",
       "frequentation_estimee": 16000,
-      "dates_2026": "fin juillet-début août 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.yzeuresnrock.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 171,
@@ -2563,13 +2674,14 @@
       "departement": "Tarn (81)",
       "genre_principal": "punk/metal",
       "frequentation_estimee": 15000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-30/2026-08-02",
       "site_officiel": "https://www.xtremefest.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 172,
@@ -2578,13 +2690,14 @@
       "departement": "Hérault (34)",
       "genre_principal": "rap",
       "frequentation_estimee": 15000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-08-05/2026-08-09",
       "site_officiel": "https://www.demifestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé — hors fenêtre (démarre 05/08)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 173,
@@ -2596,10 +2709,11 @@
       "dates_2026": "début juillet 2026",
       "site_officiel": "https://www.aufoindelarue.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé 2026 (pause, retour 2027)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 174,
@@ -2608,13 +2722,14 @@
       "departement": "Seine-Maritime (76)",
       "genre_principal": "indé/pop",
       "frequentation_estimee": 15000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-10/2026-07-12",
       "site_officiel": "https://www.petethemonkey.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 175,
@@ -2623,13 +2738,14 @@
       "departement": "Bas-Rhin (67)",
       "genre_principal": "jazz",
       "frequentation_estimee": 15000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-18/2026-06-20",
       "site_officiel": "https://www.wolfijazz.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 176,
@@ -2638,13 +2754,14 @@
       "departement": "Allier (03)",
       "genre_principal": "trance/électro",
       "frequentation_estimee": 15000,
-      "dates_2026": "fin août 2026",
+      "dates_2026": "2026-08-27/2026-08-30",
       "site_officiel": "https://www.hadra.net",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 177,
@@ -2653,13 +2770,14 @@
       "departement": "Haute-Savoie (74)",
       "genre_principal": "rock/généraliste",
       "frequentation_estimee": 15000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-07-31/2026-08-01",
       "site_officiel": "https://www.rocknpoche.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 178,
@@ -2671,10 +2789,11 @@
       "dates_2026": "juillet 2026",
       "site_officiel": "https://www.demondor.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "incertain/arrêté",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 179,
@@ -2713,13 +2832,14 @@
       "departement": "Haut-Rhin (68)",
       "genre_principal": "classique",
       "frequentation_estimee": 15000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-05/2026-07-14",
       "site_officiel": "https://www.festival-colmar.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 182,
@@ -2728,13 +2848,14 @@
       "departement": "Loiret (45)",
       "genre_principal": "classique",
       "frequentation_estimee": 15000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-13/2026-06-15",
       "site_officiel": "https://www.festival-sully.loiret.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 183,
@@ -2758,13 +2879,14 @@
       "departement": "Morbihan (56)",
       "genre_principal": "jazz",
       "frequentation_estimee": 15000,
-      "dates_2026": "fin juillet-début août 2026",
+      "dates_2026": "2026-07-08/2026-07-11",
       "site_officiel": "https://www.jazzavannes.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé (renommé Vannes Echos Jazz)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 185,
@@ -2818,13 +2940,14 @@
       "departement": "Calvados (14)",
       "genre_principal": "indé/pop",
       "frequentation_estimee": 12000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-18/2026-06-20",
       "site_officiel": "https://www.cabourgmonamour.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 189,
@@ -2833,13 +2956,14 @@
       "departement": "Yvelines (78)",
       "genre_principal": "électro/indé",
       "frequentation_estimee": 12000,
-      "dates_2026": "juin-juillet 2026",
+      "dates_2026": "2026-07-02/2026-07-03",
       "site_officiel": "https://www.mackimusicfestival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "à confirmer (date approximative)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 190,
@@ -2848,13 +2972,14 @@
       "departement": "Ain (01)",
       "genre_principal": "metal",
       "frequentation_estimee": 12000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-07-31/2026-08-02",
       "site_officiel": "https://www.sylakopenair.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 191,
@@ -2881,10 +3006,11 @@
       "dates_2026": "juillet 2026",
       "site_officiel": "https://www.saveursjazzfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "arrêté (plus d'édition)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 193,
@@ -2908,13 +3034,14 @@
       "departement": "Indre-et-Loire (37)",
       "genre_principal": "généraliste",
       "frequentation_estimee": 12000,
-      "dates_2026": "juin 2026",
+      "dates_2026": "2026-06-26/2026-06-27",
       "site_officiel": "https://www.leskampagnarts.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 195,
@@ -2923,13 +3050,14 @@
       "departement": "Alpes-Maritimes (06)",
       "genre_principal": "classique",
       "frequentation_estimee": 12000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-07-25/2026-08-07",
       "site_officiel": "https://www.festival-musique-menton.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 196,
@@ -2938,13 +3066,14 @@
       "departement": "Alpes-Maritimes (06)",
       "genre_principal": "rap/électro",
       "frequentation_estimee": 12000,
-      "dates_2026": "fin juin 2026",
+      "dates_2026": "2026-06-18/2026-06-21",
       "site_officiel": "https://www.nuitscarrees.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 197,
@@ -2956,10 +3085,11 @@
       "dates_2026": "juin 2026",
       "site_officiel": "https://www.pointufestival.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "annulé/incertain 2026 (site du Gaou interdit aux grands événements)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 198,
@@ -2968,13 +3098,14 @@
       "departement": "Lot (46)",
       "genre_principal": "blues",
       "frequentation_estimee": 10000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": "2026-07-09/2026-07-11",
       "site_officiel": "https://www.cahorsbluesfestival.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 199,
@@ -2983,13 +3114,14 @@
       "departement": "Haute-Vienne (87)",
       "genre_principal": "classique",
       "frequentation_estimee": 10000,
-      "dates_2026": "juillet-août 2026",
+      "dates_2026": "2026-07-15/2026-07-19",
       "site_officiel": "https://www.festival1001notes.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     },
     {
       "rang": 200,
@@ -2998,13 +3130,14 @@
       "departement": "Dordogne (24)",
       "genre_principal": "classique",
       "frequentation_estimee": 10000,
-      "dates_2026": "août 2026",
+      "dates_2026": "2026-08-02/2026-08-16",
       "site_officiel": "https://www.festivalduperigordnoir.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-09",
+      "dates_source": "vérif web officielle 2026-06-09"
     }
   ]
 }

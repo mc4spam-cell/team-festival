@@ -54,7 +54,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-go-vanessa-paradis",
@@ -212,7 +213,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-go-damso",
@@ -349,7 +351,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d3-go-matmatah-the-fuzzy-brass-four",

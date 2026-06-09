@@ -137,7 +137,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d1-mon-lambrini-girls",
@@ -355,7 +356,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-mon-dabeull",
@@ -414,7 +416,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d2-lac-orelsan",
@@ -732,7 +735,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": null
     },
     {
       "id": "d4-mon-solann",

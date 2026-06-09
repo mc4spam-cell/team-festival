@@ -55,7 +55,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d1-tbd-i-hate-models",
@@ -84,7 +85,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d1-tbd-meryl",
@@ -258,7 +260,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d1-tbd-la-mano-19",
@@ -565,7 +568,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-viens-la-fete",
@@ -636,7 +640,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-eve-la-marka",
@@ -650,7 +655,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-jeannette-maj",
@@ -693,7 +699,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-rouge",

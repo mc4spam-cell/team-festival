@@ -135,7 +135,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-nick-cave-the-bad-seeds",
@@ -178,7 +179,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-jean-louis-aubert",
@@ -354,7 +356,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-cocanha",
@@ -426,7 +429,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d3-tbd-mika",
@@ -588,7 +592,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d3-tbd-sprints",

@@ -80,7 +80,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d1-tbd-ravyn-lenae",
@@ -169,7 +170,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "d2-tbd-jean-dawson",
@@ -445,7 +447,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "sparks_official"
+      "instagramHandle": "sparks_official",
+      "description": null
     },
     {
       "id": "d3-tbd-kingfishr",
