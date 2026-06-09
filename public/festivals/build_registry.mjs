@@ -147,6 +147,7 @@ function toRow(rec, domaine, genre) {
     difficulte: null,
     notes: "Source open data Panorama des festivals (réf. 2018-2019). Dates/fréquentation à actualiser.",
     derniere_verification: null,
+    dates_source: null,
     source: "panorama_culture_2018",
   };
 }
@@ -155,7 +156,9 @@ function toRow(rec, domaine, genre) {
 async function build() {
   // 1) MUSIQUE
   const curMusique = loadCurated("festivals_registry_200.json").map((f) => ({
-    ...f, domaine: "musique", source: "curé_2026",
+    ...f, domaine: f.domaine || "musique",
+    dates_source: f.dates_source ?? null,
+    source: "curé_2026",
   }));
   const seenM = new Set(curMusique.map((f) => normName(f.nom)));
   const musiqueAdd = [];
@@ -168,12 +171,13 @@ async function build() {
     }
   }
   musiqueAdd.sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
-  const musique = [...curMusique, ...musiqueAdd.slice(0, 500 - curMusique.length)]
+  // Pas de plafond artificiel : tout l'univers open data in-périmètre est conservé.
+  const musique = [...curMusique, ...musiqueAdd]
     .map((f, i) => ({ rang: i + 1, ...f }));
 
   // 2) HORS MUSIQUE
   const curHM = loadCurated("festivals_registry_extension.json").map((f) => ({
-    ...f, source: "curé_2026",
+    ...f, dates_source: f.dates_source ?? null, source: "curé_2026",
   }));
   const seenH = new Set(curHM.map((f) => normName(f.nom)));
   const hmAdd = [];
@@ -188,21 +192,25 @@ async function build() {
   hmAdd.sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
   const horsMusique = [...curHM, ...hmAdd].map((f, i) => ({ rang: i + 1, ...f }));
 
-  const meta = (perim, n) => ({
+  const tally = (arr, key) => arr.reduce((m, f) => { const k = f[key] || "?"; m[k] = (m[k] || 0) + 1; return m; }, {});
+  const meta = (perim, arr) => ({
     date_maj: new Date().toISOString().slice(0, 10),
     description: `Registre ${perim} team-festival. Entrées 'curé_2026' vérifiées en tête, complément 'panorama_culture_2018' (open data Ministère de la Culture).`,
     source_open_data: "https://data.culture.gouv.fr/explore/dataset/panorama-des-festivals/",
     avertissement: "Open data réf. 2018-2019 : nom/ville/département/site fiables ; fréquentation et dates 2026 à actualiser. Classement non basé sur la fréquentation pour les entrées open data.",
-    total: n,
+    total: arr.length,
+    par_source: tally(arr, "source"),
+    par_domaine: tally(arr, "domaine"),
+    par_statut: tally(arr, "statut_2026"),
   });
 
   writeFileSync(
     join(DIR, "festivals_musique.json"),
-    JSON.stringify({ meta: meta("musique", musique.length), festivals: musique }, null, 2)
+    JSON.stringify({ meta: meta("musique", musique), festivals: musique }, null, 2)
   );
   writeFileSync(
     join(DIR, "festivals_hors_musique.json"),
-    JSON.stringify({ meta: meta("hors-musique (spectacle vivant + cinéma/doc/animé)", horsMusique.length), festivals: horsMusique }, null, 2)
+    JSON.stringify({ meta: meta("hors-musique (spectacle vivant + cinéma/doc/animé)", horsMusique), festivals: horsMusique }, null, 2)
   );
 
   console.log(`OK — musique: ${musique.length} | hors-musique: ${horsMusique.length}`);
