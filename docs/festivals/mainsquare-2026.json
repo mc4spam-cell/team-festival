@@ -193,8 +193,7 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null,
-      "description": null
+      "tiktokHandle": null
     },
     {
       "id": "d1-vb-cassius",
@@ -213,7 +212,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "French electro dance duo"
     },
     {
       "id": "d1-ba-seedy-liars",
@@ -429,8 +429,7 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null,
-      "description": null
+      "tiktokHandle": null
     },
     {
       "id": "d2-vb-nono-la-grinta",
@@ -648,8 +647,7 @@
       "tidalArtistId": "9306980",
       "facebookHandle": "vladimircauchemar",
       "twitterHandle": "vladcauchemar",
-      "tiktokHandle": null,
-      "description": null
+      "tiktokHandle": null
     },
     {
       "id": "d3-ms-twenty-one-pilots",

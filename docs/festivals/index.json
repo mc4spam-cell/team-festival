@@ -19,6 +19,15 @@
       "derniere_verification": "2026-06-09T22:09:24"
     },
     {
+      "id": "festival-de-la-paille-2026",
+      "name": "Festival de la Paille",
+      "shortName": "Festival de la Paille",
+      "dates": "2026-07-24 → 2026-07-25",
+      "location": "France",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-09T22:15:04"
+    },
+    {
       "id": "francofolies-2026",
       "name": "Francofolies de La Rochelle 2026",
       "shortName": "Francofolies de La Rochelle 20",
@@ -61,7 +70,7 @@
       "dates": "26 juin–11 juillet 2026",
       "location": "Vienne, France",
       "color": "#F57C00",
-      "derniere_verification": "2026-06-09T22:09:03"
+      "derniere_verification": "2026-06-09T22:26:34"
     },
     {
       "id": "cabaretvert-2026",
@@ -97,7 +106,7 @@
       "dates": "2–5 juillet 2026",
       "location": "Nort-sur-Erdre, France",
       "color": "#5E35B1",
-      "derniere_verification": "2026-06-09T22:09:40"
+      "derniere_verification": "2026-06-09T22:12:21"
     },
     {
       "id": "vieillescharrues-2026",
@@ -106,7 +115,7 @@
       "dates": "2026-07-16 → 2026-07-19",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:10:36"
+      "derniere_verification": "2026-06-09T22:28:48"
     },
     {
       "id": "mainsquare-2026",
@@ -115,7 +124,7 @@
       "dates": "3–5 juillet 2026",
       "location": "Arras, France",
       "color": "#D32F2F",
-      "derniere_verification": "2026-06-09T22:09:22"
+      "derniere_verification": "2026-06-09T22:27:01"
     },
     {
       "id": "musilac-2026",
@@ -124,7 +133,7 @@
       "dates": "10–12 juillet 2026",
       "location": "Aix-les-Bains, France",
       "color": "#00897B",
-      "derniere_verification": "2026-06-09T22:09:31"
+      "derniere_verification": "2026-06-09T22:27:13"
     },
     {
       "id": "poney-club-2026",
@@ -151,7 +160,7 @@
       "dates": "2026-08-26 → 2026-08-30",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:09:58"
+      "derniere_verification": "2026-06-09T22:12:39"
     },
     {
       "id": "solidays-2026",
@@ -160,7 +169,7 @@
       "dates": "2026-06-26 → 2026-06-28",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:10:19"
+      "derniere_verification": "2026-06-09T22:13:00"
     }
   ]
 }
