@@ -370,10 +370,11 @@
       "dates_2026": null,
       "site_officiel": "https://www.paimpol-festival.bzh",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "hors millésime (biennale) — pas d'édition 2026",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": null
+      "notes": "[MAJ 2026-06-10] Biennale (années impaires) : prochaine édition 6-8 août 2027.",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "site officiel paimpol-festival.bzh (vérifié 2026-06-10)"
     },
     {
       "rang": 25,
@@ -445,13 +446,14 @@
       "departement": "Finistère (29)",
       "genre_principal": "celtique",
       "frequentation_estimee": 120000,
-      "dates_2026": null,
+      "dates_2026": "2026-07-23/2026-07-26",
       "site_officiel": "https://www.festival-cornouaille.bzh",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": null
+      "notes": "[MAJ 2026-06-10] 103e édition, 23-26 juillet 2026.",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "site officiel festival-cornouaille.bzh (vérifié 2026-06-10)"
     },
     {
       "rang": 30,
@@ -1243,13 +1245,14 @@
       "departement": "Bouches-du-Rhône (13)",
       "genre_principal": "électro",
       "frequentation_estimee": 36000,
-      "dates_2026": "mai 2026",
+      "dates_2026": "2026-05-22/2026-05-24",
       "site_officiel": "https://www.lebonair.fr",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé — hors fenêtre (mai)",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": null
+      "notes": "[MAJ 2026-06-10] 11e édition, 22-24 mai 2026 (Friche la Belle de Mai).",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "site officiel le-bon-air.com / billetterie DICE (vérifié 2026-06-10)"
     },
     {
       "rang": 81,
@@ -1305,13 +1308,14 @@
       "departement": "Mayenne (53)",
       "genre_principal": "pop/électro",
       "frequentation_estimee": 35000,
-      "dates_2026": "mai 2026",
+      "dates_2026": "2026-05-21/2026-05-25",
       "site_officiel": "https://www.les3elephants.com",
       "url_programmation": null,
-      "statut_2026": "à vérifier",
+      "statut_2026": "confirmé — hors fenêtre (mai)",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": null
+      "notes": "[MAJ 2026-06-10] 21-25 mai 2026, Square de Boston, prog. majoritairement gratuite.",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "site officiel les3elephants.com (vérifié 2026-06-10)"
     },
     {
       "rang": 85,
@@ -1700,14 +1704,14 @@
       "departement": "Marne (51)",
       "genre_principal": "pop/électro",
       "frequentation_estimee": 30000,
-      "dates_2026": "juin 2026",
+      "dates_2026": null,
       "site_officiel": "https://www.lamagnifiquesociety.com",
       "url_programmation": null,
-      "statut_2026": "incertain 2026 (format en question)",
+      "statut_2026": "à confirmer (juin 2026, dates non publiées)",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": "2026-06-09",
-      "dates_source": "vérif web officielle 2026-06-09"
+      "notes": "[MAJ 2026-06-10] Retour annoncé en juin 2026 après pause 2025 ; dates exactes non publiées au 2026-06-10.",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "site officiel lamagnifiquesociety.com (vérifié 2026-06-10)"
     },
     {
       "rang": 110,
@@ -1952,14 +1956,14 @@
       "departement": "Haute-Corse (2B)",
       "genre_principal": "latino/pop",
       "frequentation_estimee": 25000,
-      "dates_2026": "début août 2026",
+      "dates_2026": null,
       "site_officiel": "https://www.porto-latino.com",
       "url_programmation": null,
-      "statut_2026": "à confirmer (déménagement Bastia ; 20-21/07 ou 5-8/08 selon sources)",
+      "statut_2026": "à confirmer (déménagé à Bastia ; ~5-8 août 2026 selon sources)",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": "2026-06-09",
-      "dates_source": "vérif web officielle 2026-06-09"
+      "notes": "[MAJ 2026-06-10] Déménagement Saint-Florent -> Bastia (Place Vincetti) ; dates 2026 conflictuelles (3-6 ou 5-8 août), à confirmer sur site officiel. Fenêtre-limite (~05/08).",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "sources web (corsenetinfos, portolatino.fr) — conflit 3-6 vs 5-8 août (vérifié 2026-06-10)"
     },
     {
       "rang": 126,
@@ -2189,14 +2193,14 @@
       "departement": "Creuse (23)",
       "genre_principal": "rock/électro",
       "frequentation_estimee": 25000,
-      "dates_2026": "juillet 2026",
+      "dates_2026": null,
       "site_officiel": "https://www.checkinparty.com",
       "url_programmation": null,
-      "statut_2026": "incertain 2026 (date non confirmée)",
+      "statut_2026": "incertain 2026 (non confirmé)",
       "difficulte": null,
-      "notes": null,
-      "derniere_verification": "2026-06-09",
-      "dates_source": "vérif web officielle 2026-06-09"
+      "notes": "[MAJ 2026-06-10] Typiquement août (aérodrome St-Laurent/Guéret) ; édition 2025 annulée ; 2026 non confirmée au 2026-06-10.",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "recherche web (vérifié 2026-06-10)"
     },
     {
       "rang": 141,
@@ -3139,6 +3143,22 @@
       "notes": null,
       "derniere_verification": "2026-06-09",
       "dates_source": "vérif web officielle 2026-06-09"
+    },
+    {
+      "rang": 201,
+      "nom": "Festival Pagaille",
+      "ville": "Bordeaux",
+      "departement": "Gironde (33)",
+      "genre_principal": "généraliste / rock",
+      "frequentation_estimee": null,
+      "dates_2026": "2026-08-28/2026-08-29",
+      "site_officiel": null,
+      "url_programmation": null,
+      "statut_2026": "confirmé — hors fenêtre (fin août)",
+      "difficulte": null,
+      "notes": "1re édition 2026, place des Quinconces. Tête d'affiche The Cure (soirée d'ouverture). Source presse spécialisée (Fnac Spectacles / Offi) — à confirmer sur site officiel.",
+      "derniere_verification": "2026-06-10",
+      "dates_source": "presse spécialisée (vérifié 2026-06-10)"
     }
   ]
 }

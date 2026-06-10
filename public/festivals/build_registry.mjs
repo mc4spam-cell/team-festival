@@ -22,6 +22,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { migrateEntry } from "./migrate_dates_status.mjs";
 
 const DIR = dirname(fileURLToPath(import.meta.url));
 const API =
@@ -143,6 +144,7 @@ function toRow(rec, domaine, genre) {
     dates_2026: null,
     site_officiel: normSite(rec.site_web),
     url_programmation: null,
+    dates_status: "not_verified_yet",
     statut_2026: "à actualiser",
     difficulte: null,
     notes: "Source open data Panorama des festivals (réf. 2018-2019). Dates/fréquentation à actualiser.",
@@ -172,8 +174,9 @@ async function build() {
   }
   musiqueAdd.sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
   // Pas de plafond artificiel : tout l'univers open data in-périmètre est conservé.
+  // migrateEntry normalise dates_2026 (texte FR -> ISO) et dérive dates_status (v2).
   const musique = [...curMusique, ...musiqueAdd]
-    .map((f, i) => ({ rang: i + 1, ...f }));
+    .map((f, i) => migrateEntry({ rang: i + 1, ...f }));
 
   // 2) HORS MUSIQUE
   const curHM = loadCurated("festivals_registry_extension.json").map((f) => ({
@@ -190,7 +193,7 @@ async function build() {
     }
   }
   hmAdd.sort((a, b) => a.nom.localeCompare(b.nom, "fr"));
-  const horsMusique = [...curHM, ...hmAdd].map((f, i) => ({ rang: i + 1, ...f }));
+  const horsMusique = [...curHM, ...hmAdd].map((f, i) => migrateEntry({ rang: i + 1, ...f }));
 
   const tally = (arr, key) => arr.reduce((m, f) => { const k = f[key] || "?"; m[k] = (m[k] || 0) + 1; return m; }, {});
   const meta = (perim, arr) => ({
@@ -198,10 +201,12 @@ async function build() {
     description: `Registre ${perim} team-festival. Entrées 'curé_2026' vérifiées en tête, complément 'panorama_culture_2018' (open data Ministère de la Culture).`,
     source_open_data: "https://data.culture.gouv.fr/explore/dataset/panorama-des-festivals/",
     avertissement: "Open data réf. 2018-2019 : nom/ville/département/site fiables ; fréquentation et dates 2026 à actualiser. Classement non basé sur la fréquentation pour les entrées open data.",
+    schema_version: 2,
     total: arr.length,
     par_source: tally(arr, "source"),
     par_domaine: tally(arr, "domaine"),
     par_statut: tally(arr, "statut_2026"),
+    par_dates_status: tally(arr, "dates_status"),
   });
 
   writeFileSync(
