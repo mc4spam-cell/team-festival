@@ -1,0 +1,33 @@
+{
+  "festival": "Chalon dans la rue",
+  "shortName": "Chalon dans la rue",
+  "location": "Chalon-sur-Saône",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.chalondanslarue.com/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 23",
+      "date": "2026-07-23"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 24",
+      "date": "2026-07-24"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    },
+    {
+      "id": 4,
+      "label": "Dimanche 26",
+      "date": "2026-07-26"
+    }
+  ],
+  "concerts": []
+}

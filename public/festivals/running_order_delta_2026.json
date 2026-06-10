@@ -45,8 +45,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "realadambeyer",
-      "description": "Adam Beyer est un musicien et DJ suédois. Il est aussi producteur et a fondé Drumcode Records, Truesoul Records, Code Red Recordings et Mad Eye Recordings."
+      "instagramHandle": "realadambeyer"
     },
     {
       "id": "dx-tbd-benny-benassi",
@@ -61,7 +60,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "bennybenassi",
-      "description": "Marco Benassi, mieux connu sous le nom de Benny Benassi, est un disc jockey et producteur italien, orienté house. Il devient célèbre sur la scène internationale avec le projet Benassi Bros."
+      "description": null
     },
     {
       "id": "dx-tbd-kungs",
@@ -76,7 +75,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "kungsmusic",
-      "description": "Kungs, nom de scène de Valentin Brunel, est un disc jockey, auteur-compositeur et musicien français, né le 17 décembre 1996 à Toulon."
+      "description": null
     },
     {
       "id": "dx-tbd-cascada",
@@ -91,7 +90,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": "Cascada est un groupe de handsup allemand, originaire de Bonn. Le groupe se compose de la chanteuse Natalie Horler, du disc jockey Manian et de Yann Peifer."
+      "description": null
     },
     {
       "id": "dx-tbd-mosimann",
@@ -106,7 +105,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "mosimannofficial",
-      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
+      "description": null
     },
     {
       "id": "dx-tbd-thylacine",
@@ -121,7 +120,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": "Le thylacine, également appelé loup marsupial, loup de Tasmanie ou tigre de Tasmanie, est un mammifère carnivore de la taille d’un loup, au pelage tigré."
+      "description": null
     },
     {
       "id": "dx-tbd-lilly-palmer",
@@ -149,8 +148,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Acid Arab est un groupe français de musique électronique. Il est formé en 2012 par deux DJs, Guido Minisky et Hervé Carvalho, immédiatement rejoints par Pierrot Casanova et Nicolas Borne, puis par le claviériste Kenzi…"
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-cassius",
@@ -178,7 +176,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "cerroneofficial"
+      "instagramHandle": "cerroneofficial",
+      "description": null
     },
     {
       "id": "dx-tbd-meduza",
@@ -192,8 +191,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Meduza est un média internet russophone basé à Riga en Lettonie et créé par Galina Timtchenko (ru), ancienne rédactrice en chef du site web lenta.ru."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-miss-monique",
@@ -207,8 +205,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "missmonique_dj",
-      "description": "Miss Monique, nom de scène d'Olessia Arkoucha, née le 5 mai 1992, est une disc jockey ukrainienne. Elle se fait connaitre dans le monde de la musique électronique notamment grâce à la création de chaines YouTube…"
+      "instagramHandle": "missmonique_dj"
     },
     {
       "id": "dx-tbd-patrick-mason",
@@ -222,8 +219,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Patrick Mason est un baryton américain."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-mandragora",
@@ -237,8 +233,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Mandragora, la mandragore, est le nom d'un genre de plantes de la famille des Solanacées."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-kevin-de-vries",
@@ -266,8 +261,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Trinix est un groupe de musique électronique français originaire de Lyon dans le Rhône, composé de Josh Chergui et de Lois Serre."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-yann-muller",
@@ -281,7 +275,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": null
     },
     {
       "id": "dx-tbd-salome-de-bahia",
@@ -295,8 +290,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Salomé de Bahia est une chanteuse brésilienne ayant effectué la majeure partie de sa carrière en France."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-franglish",
@@ -310,8 +304,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "franglish",
-      "description": "Franglish, de son vrai nom Gédéon Ngolo, né le 2 août 1994 à Paris, est un chanteur, rappeur et danseur français."
+      "instagramHandle": "franglish"
     },
     {
       "id": "dx-tbd-guy2bezbar",
@@ -325,8 +318,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "guy2bezbar",
-      "description": "Guy2Bezbar, de son vrai nom Guy Kapata, né le 3 décembre 1997 dans le 18e arrondissement de Paris, est un rappeur, chanteur et footballeur français."
+      "instagramHandle": "guy2bezbar"
     },
     {
       "id": "dx-tbd-l2b-gang",
@@ -340,8 +332,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-ebony",
@@ -356,7 +347,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": "Brazilian rapper"
+      "description": null
     },
     {
       "id": "dx-tbd-adele-castillon",
@@ -371,7 +362,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "adelecastillon",
-      "description": "Adèle Castillon, née le 24 octobre 2001 à Angers (Maine-et-Loire), est une chanteuse pop, vidéaste et actrice française."
+      "description": null
     },
     {
       "id": "dx-tbd-cassimm",
@@ -428,7 +419,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": "feder_music",
-      "description": "deep house/pop producer Hadrien Federiconi"
+      "description": null
     },
     {
       "id": "dx-tbd-matt-sassari",
@@ -456,7 +447,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "musicbymiki"
+      "instagramHandle": "musicbymiki",
+      "description": null
     },
     {
       "id": "dx-tbd-mc-menor-jp",
@@ -470,8 +462,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "MC Menor JP, de son vrai nom João Pedro Silva Coutinho, né à Igarapava, au Brésil, est un chanteur brésilien."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-oden-and-fatzo",
@@ -527,9 +518,12 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "samaabdulhadi",
-      "description": "Sama' Abdulhadi, aussi connue sous les noms Sama' et Skywalker, est une musicienne, disc jockey et productrice palestinienne de musique électronique, basée à Paris."
-    }"stage": "TBD",
+      "instagramHandle": "samaabdulhadi"
+    },
+    {
+      "id": "dx-tbd-vanco",
+      "artist": "Vanco",
+      "stage": "TBD",
       "festivalDay": null,
       "start": null,
       "end": null,
@@ -552,8 +546,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Bianca Costa, née le 4 mars 1999 à Goiânia (Brésil), est une chanteuse brésilienne active en France."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-yulia-niko",
@@ -581,8 +574,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "anoraak",
-      "description": "Anoraak est un one man band français de musique électronique. Il a pour seul membre Frédéric Rivière, multi-instrumentiste, chanteur, producteur et DJ, ancien batteur du groupe Pony Pony Run Run et membre du collectif..."
+      "instagramHandle": "anoraak"
     },
     {
       "id": "dx-tbd-rebelion",
@@ -750,8 +742,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "romywhite",
-      "description": "Romy et Michelle, 10 ans après ou Romy et Michelle : Les Reines de la soirée au Québec est un film américain réalisé par David Mirkin et sorti en 1997."
+      "instagramHandle": "romywhite"
     },
     {
       "id": "dx-tbd-dr-donk",
@@ -990,7 +981,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": "Hortense de Beauharnais, reine de Hollande (1806-1810), duchesse de Saint-Leu (Saint-Leu-la-Forêt) (1814), née le 10 avril 1783 à Paris et morte le 5 octobre 1837 au château d'Arenenberg dans le canton de Thurgovie en..."
+      "description": null
     },
     {
       "id": "dx-tbd-interg",
@@ -1018,8 +1009,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Ethan Mitchell est un coureur cycliste néo-zélandais. Spécialiste de la piste, il est triple champion du monde de la vitesse par équipes avec Edward Dawkins et Sam Webster."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-madison-rich",
@@ -1103,8 +1093,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Le Nure est un torrent de la province de Plaisance, en Émilie-Romagne, à l'exception d'un petit parcours de 1 200 m en province de Lodi."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-daniella-da-silva",
@@ -1174,8 +1163,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Le ciel est l'étendue visible au-dessus du sol depuis la surface de la Terre, de l'horizon au zénith, dans laquelle on observe les météores et les mouvements réguliers des astres."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-coconut-groove",
@@ -1315,8 +1303,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "Fortunella est un genre historique d'agrumes dont les espèces sont généralement appelées kumquat, et dont la position exacte dans les classifications botaniques est encore débattue."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-mv-tiangue",
@@ -1428,8 +1415,7 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null,
-      "description": "RnBoi, de son vrai nom Samy Schmitt Fahli, né le 15 juin 2006 à Fontainebleau, est un chanteur, rappeur, producteur, musicien et beatmaker français."
+      "instagramHandle": null
     },
     {
       "id": "dx-tbd-cyberdjjunior",
@@ -1555,10 +1541,6 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
-    }
-  ]
-}  "deezerArtistId": null,
       "instagramHandle": null
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "festival": "Cosmojazz Festival",
+  "shortName": "Cosmojazz Festival",
+  "location": "Chamonix",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.cosmojazzfestival.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Lundi 20",
+      "date": "2026-07-20"
+    },
+    {
+      "id": 2,
+      "label": "Mardi 21",
+      "date": "2026-07-21"
+    },
+    {
+      "id": 3,
+      "label": "Mercredi 22",
+      "date": "2026-07-22"
+    },
+    {
+      "id": 4,
+      "label": "Jeudi 23",
+      "date": "2026-07-23"
+    },
+    {
+      "id": 5,
+      "label": "Vendredi 24",
+      "date": "2026-07-24"
+    },
+    {
+      "id": 6,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    }
+  ],
+  "concerts": []
+}

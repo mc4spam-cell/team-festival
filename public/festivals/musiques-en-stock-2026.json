@@ -1,0 +1,28 @@
+{
+  "festival": "Musiques en Stock",
+  "shortName": "Musiques en Stock",
+  "location": "Cluses",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.musiquesenstock.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 2",
+      "date": "2026-07-02"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 3",
+      "date": "2026-07-03"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 4",
+      "date": "2026-07-04"
+    }
+  ],
+  "concerts": []
+}

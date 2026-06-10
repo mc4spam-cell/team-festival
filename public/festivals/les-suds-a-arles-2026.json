@@ -1,0 +1,48 @@
+{
+  "festival": "Les Suds à Arles",
+  "shortName": "Les Suds à Arles",
+  "location": "Arles",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.suds-arles.com/billetterie/fr/2026/festival (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Lundi 13",
+      "date": "2026-07-13"
+    },
+    {
+      "id": 2,
+      "label": "Mardi 14",
+      "date": "2026-07-14"
+    },
+    {
+      "id": 3,
+      "label": "Mercredi 15",
+      "date": "2026-07-15"
+    },
+    {
+      "id": 4,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
+    },
+    {
+      "id": 5,
+      "label": "Vendredi 17",
+      "date": "2026-07-17"
+    },
+    {
+      "id": 6,
+      "label": "Samedi 18",
+      "date": "2026-07-18"
+    },
+    {
+      "id": 7,
+      "label": "Dimanche 19",
+      "date": "2026-07-19"
+    }
+  ],
+  "concerts": []
+}

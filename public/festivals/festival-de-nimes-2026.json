@@ -1,0 +1,88 @@
+{
+  "festival": "Festival de Nîmes",
+  "shortName": "Festival de Nîmes",
+  "location": "Nîmes",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://festivaldenimes.com/programmation/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 11",
+      "date": "2026-06-11"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 12",
+      "date": "2026-06-12"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 13",
+      "date": "2026-06-13"
+    },
+    {
+      "id": 4,
+      "label": "Dimanche 14",
+      "date": "2026-06-14"
+    },
+    {
+      "id": 5,
+      "label": "Lundi 15",
+      "date": "2026-06-15"
+    },
+    {
+      "id": 6,
+      "label": "Mardi 16",
+      "date": "2026-06-16"
+    },
+    {
+      "id": 7,
+      "label": "Mercredi 17",
+      "date": "2026-06-17"
+    },
+    {
+      "id": 8,
+      "label": "Jeudi 18",
+      "date": "2026-06-18"
+    },
+    {
+      "id": 9,
+      "label": "Vendredi 19",
+      "date": "2026-06-19"
+    },
+    {
+      "id": 10,
+      "label": "Samedi 20",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 11,
+      "label": "Dimanche 21",
+      "date": "2026-06-21"
+    },
+    {
+      "id": 12,
+      "label": "Lundi 22",
+      "date": "2026-06-22"
+    },
+    {
+      "id": 13,
+      "label": "Mardi 23",
+      "date": "2026-06-23"
+    },
+    {
+      "id": 14,
+      "label": "Mercredi 24",
+      "date": "2026-06-24"
+    },
+    {
+      "id": 15,
+      "label": "Jeudi 25",
+      "date": "2026-06-25"
+    }
+  ],
+  "concerts": []
+}

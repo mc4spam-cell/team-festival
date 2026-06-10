@@ -1,0 +1,23 @@
+{
+  "festival": "Country Rendez-Vous",
+  "shortName": "Country Rendez-Vous",
+  "location": "Craponne-sur-Arzon",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.countryrendezvous.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    },
+    {
+      "id": 2,
+      "label": "Dimanche 26",
+      "date": "2026-07-26"
+    }
+  ],
+  "concerts": []
+}

@@ -1,0 +1,33 @@
+{
+  "festival": "Guitare en Scène",
+  "shortName": "Guitare en Scène",
+  "location": "Saint-Julien-en-Genevois",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.guitare-en-scene.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Mardi 14",
+      "date": "2026-07-14"
+    },
+    {
+      "id": 2,
+      "label": "Mercredi 15",
+      "date": "2026-07-15"
+    },
+    {
+      "id": 3,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
+    },
+    {
+      "id": 4,
+      "label": "Vendredi 17",
+      "date": "2026-07-17"
+    }
+  ],
+  "concerts": []
+}

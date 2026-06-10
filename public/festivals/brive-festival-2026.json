@@ -1,0 +1,33 @@
+{
+  "festival": "Brive Festival",
+  "shortName": "Brive Festival",
+  "location": "Brive-la-Gaillarde",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://brivefestival.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 17",
+      "date": "2026-07-17"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 18",
+      "date": "2026-07-18"
+    },
+    {
+      "id": 4,
+      "label": "Dimanche 19",
+      "date": "2026-07-19"
+    }
+  ],
+  "concerts": []
+}

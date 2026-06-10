@@ -1,0 +1,38 @@
+{
+  "festival": "Festival 1001 Notes",
+  "shortName": "Festival 1001 Notes",
+  "location": "Limoges",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.festival1001notes.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Mercredi 15",
+      "date": "2026-07-15"
+    },
+    {
+      "id": 2,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
+    },
+    {
+      "id": 3,
+      "label": "Vendredi 17",
+      "date": "2026-07-17"
+    },
+    {
+      "id": 4,
+      "label": "Samedi 18",
+      "date": "2026-07-18"
+    },
+    {
+      "id": 5,
+      "label": "Dimanche 19",
+      "date": "2026-07-19"
+    }
+  ],
+  "concerts": []
+}

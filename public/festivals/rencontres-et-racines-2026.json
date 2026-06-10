@@ -1,0 +1,28 @@
+{
+  "festival": "Rencontres et Racines",
+  "shortName": "Rencontres et Racines",
+  "location": "Audincourt",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.rencontresetracines.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 3,
+      "label": "Dimanche 28",
+      "date": "2026-06-28"
+    }
+  ],
+  "concerts": []
+}

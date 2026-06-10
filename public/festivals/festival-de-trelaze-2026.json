@@ -1,0 +1,88 @@
+{
+  "festival": "Festival de Trélazé",
+  "shortName": "Festival de Trélazé",
+  "location": "Trélazé",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://arenaloiretrelaze.fr/festival-de-trelaze/la-programmation-2026/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 3,
+      "label": "Dimanche 28",
+      "date": "2026-06-28"
+    },
+    {
+      "id": 4,
+      "label": "Lundi 29",
+      "date": "2026-06-29"
+    },
+    {
+      "id": 5,
+      "label": "Mardi 30",
+      "date": "2026-06-30"
+    },
+    {
+      "id": 6,
+      "label": "Mercredi 1",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 7,
+      "label": "Jeudi 2",
+      "date": "2026-07-02"
+    },
+    {
+      "id": 8,
+      "label": "Vendredi 3",
+      "date": "2026-07-03"
+    },
+    {
+      "id": 9,
+      "label": "Samedi 4",
+      "date": "2026-07-04"
+    },
+    {
+      "id": 10,
+      "label": "Dimanche 5",
+      "date": "2026-07-05"
+    },
+    {
+      "id": 11,
+      "label": "Lundi 6",
+      "date": "2026-07-06"
+    },
+    {
+      "id": 12,
+      "label": "Mardi 7",
+      "date": "2026-07-07"
+    },
+    {
+      "id": 13,
+      "label": "Mercredi 8",
+      "date": "2026-07-08"
+    },
+    {
+      "id": 14,
+      "label": "Jeudi 9",
+      "date": "2026-07-09"
+    },
+    {
+      "id": 15,
+      "label": "Vendredi 10",
+      "date": "2026-07-10"
+    }
+  ],
+  "concerts": []
+}

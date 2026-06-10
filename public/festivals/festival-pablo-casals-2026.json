@@ -1,0 +1,73 @@
+{
+  "festival": "Festival Pablo Casals",
+  "shortName": "Festival Pablo Casals",
+  "location": "Prades",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.prades-festival-casals.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Mardi 28",
+      "date": "2026-07-28"
+    },
+    {
+      "id": 2,
+      "label": "Mercredi 29",
+      "date": "2026-07-29"
+    },
+    {
+      "id": 3,
+      "label": "Jeudi 30",
+      "date": "2026-07-30"
+    },
+    {
+      "id": 4,
+      "label": "Vendredi 31",
+      "date": "2026-07-31"
+    },
+    {
+      "id": 5,
+      "label": "Samedi 1",
+      "date": "2026-08-01"
+    },
+    {
+      "id": 6,
+      "label": "Dimanche 2",
+      "date": "2026-08-02"
+    },
+    {
+      "id": 7,
+      "label": "Lundi 3",
+      "date": "2026-08-03"
+    },
+    {
+      "id": 8,
+      "label": "Mardi 4",
+      "date": "2026-08-04"
+    },
+    {
+      "id": 9,
+      "label": "Mercredi 5",
+      "date": "2026-08-05"
+    },
+    {
+      "id": 10,
+      "label": "Jeudi 6",
+      "date": "2026-08-06"
+    },
+    {
+      "id": 11,
+      "label": "Vendredi 7",
+      "date": "2026-08-07"
+    },
+    {
+      "id": 12,
+      "label": "Samedi 8",
+      "date": "2026-08-08"
+    }
+  ],
+  "concerts": []
+}

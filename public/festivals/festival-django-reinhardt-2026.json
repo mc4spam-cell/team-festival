@@ -1,0 +1,33 @@
+{
+  "festival": "Festival Django Reinhardt",
+  "shortName": "Festival Django Reinhardt",
+  "location": "Fontainebleau (Samois-sur-Seine)",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.festivaldjangoreinhardt.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 25",
+      "date": "2026-06-25"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 4,
+      "label": "Dimanche 28",
+      "date": "2026-06-28"
+    }
+  ],
+  "concerts": []
+}

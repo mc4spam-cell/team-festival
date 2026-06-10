@@ -1,0 +1,23 @@
+{
+  "festival": "Les Feux de l'Été",
+  "shortName": "Les Feux de l'Été",
+  "location": "Saint-Prouant",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.lesfeuxdelete.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 12",
+      "date": "2026-06-12"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 13",
+      "date": "2026-06-13"
+    }
+  ],
+  "concerts": []
+}

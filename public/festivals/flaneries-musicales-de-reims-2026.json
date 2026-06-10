@@ -1,0 +1,88 @@
+{
+  "festival": "Flâneries Musicales de Reims",
+  "shortName": "Flâneries Musicales de Reims",
+  "location": "Reims",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.flaneriesreims.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 18",
+      "date": "2026-06-18"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 19",
+      "date": "2026-06-19"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 20",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 4,
+      "label": "Dimanche 21",
+      "date": "2026-06-21"
+    },
+    {
+      "id": 5,
+      "label": "Lundi 22",
+      "date": "2026-06-22"
+    },
+    {
+      "id": 6,
+      "label": "Mardi 23",
+      "date": "2026-06-23"
+    },
+    {
+      "id": 7,
+      "label": "Mercredi 24",
+      "date": "2026-06-24"
+    },
+    {
+      "id": 8,
+      "label": "Jeudi 25",
+      "date": "2026-06-25"
+    },
+    {
+      "id": 9,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 10,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 11,
+      "label": "Dimanche 28",
+      "date": "2026-06-28"
+    },
+    {
+      "id": 12,
+      "label": "Lundi 29",
+      "date": "2026-06-29"
+    },
+    {
+      "id": 13,
+      "label": "Mardi 30",
+      "date": "2026-06-30"
+    },
+    {
+      "id": 14,
+      "label": "Mercredi 1",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 15,
+      "label": "Jeudi 2",
+      "date": "2026-07-02"
+    }
+  ],
+  "concerts": []
+}

@@ -1,0 +1,88 @@
+{
+  "festival": "Festival de Thau",
+  "shortName": "Festival de Thau",
+  "location": "Mèze",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.festivaldethau.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Samedi 11",
+      "date": "2026-07-11"
+    },
+    {
+      "id": 2,
+      "label": "Dimanche 12",
+      "date": "2026-07-12"
+    },
+    {
+      "id": 3,
+      "label": "Lundi 13",
+      "date": "2026-07-13"
+    },
+    {
+      "id": 4,
+      "label": "Mardi 14",
+      "date": "2026-07-14"
+    },
+    {
+      "id": 5,
+      "label": "Mercredi 15",
+      "date": "2026-07-15"
+    },
+    {
+      "id": 6,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
+    },
+    {
+      "id": 7,
+      "label": "Vendredi 17",
+      "date": "2026-07-17"
+    },
+    {
+      "id": 8,
+      "label": "Samedi 18",
+      "date": "2026-07-18"
+    },
+    {
+      "id": 9,
+      "label": "Dimanche 19",
+      "date": "2026-07-19"
+    },
+    {
+      "id": 10,
+      "label": "Lundi 20",
+      "date": "2026-07-20"
+    },
+    {
+      "id": 11,
+      "label": "Mardi 21",
+      "date": "2026-07-21"
+    },
+    {
+      "id": 12,
+      "label": "Mercredi 22",
+      "date": "2026-07-22"
+    },
+    {
+      "id": 13,
+      "label": "Jeudi 23",
+      "date": "2026-07-23"
+    },
+    {
+      "id": 14,
+      "label": "Vendredi 24",
+      "date": "2026-07-24"
+    },
+    {
+      "id": 15,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    }
+  ],
+  "concerts": []
+}

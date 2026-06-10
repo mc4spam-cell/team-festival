@@ -1,0 +1,28 @@
+{
+  "festival": "Avoine Zone Groove",
+  "shortName": "Avoine Zone Groove",
+  "location": "Avoine",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.avoinezonegroove.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 3",
+      "date": "2026-07-03"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 4",
+      "date": "2026-07-04"
+    },
+    {
+      "id": 3,
+      "label": "Dimanche 5",
+      "date": "2026-07-05"
+    }
+  ],
+  "concerts": []
+}

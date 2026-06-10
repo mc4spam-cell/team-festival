@@ -73,7 +73,7 @@
       "statut_2026": "complet_probable",
       "difficulte": "difficile",
       "notes": "Presse annonce programmation complète + horaires — à confirmer. Piste API Fragolabs.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -92,7 +92,7 @@
       "statut_2026": "partiel",
       "difficulte": "moyen",
       "notes": "Line-up par jour (9 scènes). RO attendu ~12-19 juin.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -111,7 +111,7 @@
       "statut_2026": "complet",
       "difficulte": "facile",
       "notes": "RO complet 4 jours (183 groupes/6 scènes) publié sur hellfest.fr/lineup + app. MAJ : Static-X et Trelldom annulés, remplacés. Fichier détaillé : hellfest-2026.json",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -130,7 +130,7 @@
       "statut_2026": "partiel",
       "difficulte": "moyen",
       "notes": "Créneaux partiels (14h30/18h/21h), horaires précis à venir.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -149,7 +149,7 @@
       "statut_2026": "complet_probable",
       "difficulte": "facile",
       "notes": "Presse annonce horaires scène par scène — à confirmer sur site officiel.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -168,7 +168,7 @@
       "statut_2026": "partiel",
       "difficulte": "moyen",
       "notes": "Line-up par jour. RO attendu ~11-18 juin.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -187,7 +187,7 @@
       "statut_2026": "partiel",
       "difficulte": "difficile",
       "notes": "Line-up par jour. RO attendu ~19-26 juin.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -263,7 +263,7 @@
       "statut_2026": "confirmé",
       "difficulte": "facile",
       "notes": "Artiste, scène (Maki/Gorilla), jour et créneau 'début > fin' en clair dans le HTML.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -282,7 +282,7 @@
       "statut_2026": "partiel",
       "difficulte": "facile",
       "notes": "Line-up par jour ; page horaires = ouverture des portes uniquement.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -301,7 +301,7 @@
       "statut_2026": "complet_probable",
       "difficulte": "facile",
       "notes": "Presse annonce horaires des concerts ; horaires aussi via app officielle.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -339,7 +339,7 @@
       "statut_2026": "partiel",
       "difficulte": "difficile",
       "notes": "Line-up publié, pas d horaires.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -358,7 +358,7 @@
       "statut_2026": "confirmé",
       "difficulte": "difficile",
       "notes": "Contenu non textuel : rendu navigateur + OCR, ou sources tierces (Shotgun, touslesfestivals).",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -377,7 +377,7 @@
       "statut_2026": "confirmé",
       "difficulte": "moyen",
       "notes": "300+ spectacles avec jour/heure/lieu publiés depuis mars. Extraction via fiches artistes WordPress (sitemap.xml) ou rendu navigateur.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -396,7 +396,7 @@
       "statut_2026": "complet",
       "difficulte": "facile",
       "notes": "167 concerts, programme horodaté jour par jour publié. Extraction à faire.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -453,7 +453,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -472,7 +472,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -529,7 +529,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -567,7 +567,7 @@
       "statut_2026": "confirmé (soirées 25, 28, 31/07)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -662,7 +662,7 @@
       "statut_2026": "complet_probable",
       "difficulte": null,
       "notes": "Ordre de passage par jour publié — horaires précis à confirmer.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -681,7 +681,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -738,7 +738,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -776,7 +776,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -795,7 +795,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -852,7 +852,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -871,7 +871,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -947,7 +947,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -985,7 +985,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1023,7 +1023,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1061,7 +1061,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up par jour.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1099,7 +1099,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up thématique par jour. RO attendu ~10-17 juillet.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1137,7 +1137,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1194,7 +1194,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1213,7 +1213,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up par jour + heures ouverture. RO imminent (édition 12-14 juin).",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1232,7 +1232,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1251,7 +1251,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Programmation par soirée, horaires partiels.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1270,7 +1270,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1289,7 +1289,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1308,7 +1308,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1327,7 +1327,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1346,7 +1346,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1365,7 +1365,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1403,7 +1403,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Line-up par jour. RO attendu ~11-18 juin.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1441,7 +1441,7 @@
       "statut_2026": "complet",
       "difficulte": null,
       "notes": "Pages horodatées par jour publiées très en avance. Extraction à faire.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1517,7 +1517,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1593,7 +1593,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1612,7 +1612,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1631,7 +1631,7 @@
       "statut_2026": "partiel",
       "difficulte": null,
       "notes": "Page « horaires prairie » existe déjà — à surveiller.",
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "domaine": "musique",
       "dates_source": null,
       "source": "curé_2026"
@@ -1669,7 +1669,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1688,7 +1688,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1745,7 +1745,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1802,7 +1802,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1878,7 +1878,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1897,7 +1897,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1916,7 +1916,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1935,7 +1935,7 @@
       "statut_2026": "à confirmer (fin juillet-début août)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1954,7 +1954,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -1973,7 +1973,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2011,7 +2011,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2049,7 +2049,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2087,7 +2087,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2106,7 +2106,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2182,7 +2182,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2201,7 +2201,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2239,7 +2239,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2258,7 +2258,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2315,7 +2315,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2372,7 +2372,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2391,7 +2391,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2448,7 +2448,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2486,7 +2486,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2525,7 +2525,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2544,7 +2544,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2563,7 +2563,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2601,7 +2601,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2696,7 +2696,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2734,7 +2734,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2791,7 +2791,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2829,7 +2829,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2943,7 +2943,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -2981,7 +2981,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3038,7 +3038,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3171,7 +3171,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3190,7 +3190,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3228,7 +3228,7 @@
       "statut_2026": "confirmé (à Colombier-Saugnieu)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3285,7 +3285,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3304,7 +3304,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3361,7 +3361,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3380,7 +3380,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3418,7 +3418,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3494,7 +3494,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3513,7 +3513,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3551,7 +3551,7 @@
       "statut_2026": "confirmé (renommé Vannes Echos Jazz)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3627,7 +3627,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3646,7 +3646,7 @@
       "statut_2026": "à confirmer (date approximative)",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3665,7 +3665,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3741,7 +3741,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3760,7 +3760,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3779,7 +3779,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3817,7 +3817,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3836,7 +3836,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"
@@ -3855,7 +3855,7 @@
       "statut_2026": "confirmé",
       "difficulte": null,
       "notes": null,
-      "derniere_verification": "2026-06-09",
+      "derniere_verification": "2026-06-10",
       "dates_source": "vérif web officielle 2026-06-09",
       "domaine": "musique",
       "source": "curé_2026"

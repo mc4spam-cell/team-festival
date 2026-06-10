@@ -1,0 +1,28 @@
+{
+  "festival": "Sunny Side of the Doc",
+  "shortName": "Sunny Side of the Doc",
+  "location": "La Rochelle",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.sunnysideofthedoc.com/event/sunny-side-of-the-doc-2026-2/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Lundi 22",
+      "date": "2026-06-22"
+    },
+    {
+      "id": 2,
+      "label": "Mardi 23",
+      "date": "2026-06-23"
+    },
+    {
+      "id": 3,
+      "label": "Mercredi 24",
+      "date": "2026-06-24"
+    }
+  ],
+  "concerts": []
+}

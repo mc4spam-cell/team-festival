@@ -1,0 +1,88 @@
+{
+  "festival": "Jazz in Marciac",
+  "shortName": "Jazz in Marciac",
+  "location": "Marciac",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.jazzinmarciac.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Lundi 20",
+      "date": "2026-07-20"
+    },
+    {
+      "id": 2,
+      "label": "Mardi 21",
+      "date": "2026-07-21"
+    },
+    {
+      "id": 3,
+      "label": "Mercredi 22",
+      "date": "2026-07-22"
+    },
+    {
+      "id": 4,
+      "label": "Jeudi 23",
+      "date": "2026-07-23"
+    },
+    {
+      "id": 5,
+      "label": "Vendredi 24",
+      "date": "2026-07-24"
+    },
+    {
+      "id": 6,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    },
+    {
+      "id": 7,
+      "label": "Dimanche 26",
+      "date": "2026-07-26"
+    },
+    {
+      "id": 8,
+      "label": "Lundi 27",
+      "date": "2026-07-27"
+    },
+    {
+      "id": 9,
+      "label": "Mardi 28",
+      "date": "2026-07-28"
+    },
+    {
+      "id": 10,
+      "label": "Mercredi 29",
+      "date": "2026-07-29"
+    },
+    {
+      "id": 11,
+      "label": "Jeudi 30",
+      "date": "2026-07-30"
+    },
+    {
+      "id": 12,
+      "label": "Vendredi 31",
+      "date": "2026-07-31"
+    },
+    {
+      "id": 13,
+      "label": "Samedi 1",
+      "date": "2026-08-01"
+    },
+    {
+      "id": 14,
+      "label": "Dimanche 2",
+      "date": "2026-08-02"
+    },
+    {
+      "id": 15,
+      "label": "Lundi 3",
+      "date": "2026-08-03"
+    }
+  ],
+  "concerts": []
+}

@@ -1,0 +1,28 @@
+{
+  "festival": "La Bonne Aventure",
+  "shortName": "La Bonne Aventure",
+  "location": "Dunkerque",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://labonneaventurefestival.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 19",
+      "date": "2026-06-19"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 20",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 3,
+      "label": "Dimanche 21",
+      "date": "2026-06-21"
+    }
+  ],
+  "concerts": []
+}

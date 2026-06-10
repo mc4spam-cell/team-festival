@@ -1,0 +1,48 @@
+{
+  "festival": "Un Violon sur le Sable",
+  "shortName": "Un Violon sur le Sable",
+  "location": "Royan",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.violonsurlesable.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    },
+    {
+      "id": 2,
+      "label": "Dimanche 26",
+      "date": "2026-07-26"
+    },
+    {
+      "id": 3,
+      "label": "Lundi 27",
+      "date": "2026-07-27"
+    },
+    {
+      "id": 4,
+      "label": "Mardi 28",
+      "date": "2026-07-28"
+    },
+    {
+      "id": 5,
+      "label": "Mercredi 29",
+      "date": "2026-07-29"
+    },
+    {
+      "id": 6,
+      "label": "Jeudi 30",
+      "date": "2026-07-30"
+    },
+    {
+      "id": 7,
+      "label": "Vendredi 31",
+      "date": "2026-07-31"
+    }
+  ],
+  "concerts": []
+}

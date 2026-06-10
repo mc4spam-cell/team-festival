@@ -1,0 +1,33 @@
+{
+  "festival": "Les Nuits Carrées",
+  "shortName": "Les Nuits Carrées",
+  "location": "Antibes",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.nuitscarrees.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Jeudi 18",
+      "date": "2026-06-18"
+    },
+    {
+      "id": 2,
+      "label": "Vendredi 19",
+      "date": "2026-06-19"
+    },
+    {
+      "id": 3,
+      "label": "Samedi 20",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 4,
+      "label": "Dimanche 21",
+      "date": "2026-06-21"
+    }
+  ],
+  "concerts": []
+}
