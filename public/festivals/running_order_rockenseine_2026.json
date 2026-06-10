@@ -3,6 +3,7 @@
   "timezone": "Europe/Paris",
   "source": "Sortiraparis (article 64022, mis à jour 21/04/2026, line-up jour par jour) ; rockenseine.com bloqué au fetch. Extraction le 06/06/2026.",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "TBD",

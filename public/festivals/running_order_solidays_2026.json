@@ -3,6 +3,7 @@
   "timezone": "Europe/Paris",
   "source": "Site officiel https://www.solidays.org/programmation/ (artiste + jour, sans scène ni horaire) ; enrichissement API Deezer. Extraction le 06/06/2026.",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "TBD",

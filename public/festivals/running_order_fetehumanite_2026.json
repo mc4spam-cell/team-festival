@@ -3,6 +3,7 @@
   "timezone": "Europe/Paris",
   "source": "info-festival.net (article du 27/04/2026 : 11 nouveaux artistes + artistes déjà confirmés) ; recoupé avec jds.fr et agendaculturel.fr ; fete.humanite.fr bloqué au fetch. Répartition par jour et par scène non publiée. Extraction le 06/06/2026.",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "grande-scene",

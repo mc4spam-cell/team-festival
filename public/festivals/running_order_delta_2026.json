@@ -3,6 +3,7 @@
   "timezone": "Europe/Paris",
   "source": "shotgun.live/en/festivals/delta-festival-2026 (line-up officiel billetterie) + handsupelectro.fr (article programmation 05/02/2026, ajouts : Cassius, Meduza, Ebony, PH4, RDD) ; line-up en images sur delta-festival.com, jours non publiés. Extraction le 06/06/2026.",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "TBD",
