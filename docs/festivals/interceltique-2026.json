@@ -3,6 +3,7 @@
   "timezone": "Europe/Paris",
   "source": "festival-interceltique.bzh (programmation-2026, fil-2026-toute-la-programmation, billetterie-2026 via API WordPress wp-json) + 56.agendaculturel.fr + infoconcert.com + fandefest.com + sortiraparis.com + Facebook officiel FIL. Extraction le 06/06/2026. Périmètre : concerts/spectacles horodatés des lieux principaux payants (Stade du Moustoir, Espace Jean-Pierre Pichard ex-Espace Marine, Le Théâtre/Grand Théâtre, Le Palais des Congrès) + couverture partielle Quai de la Bretagne et Le Kleub. La grille officielle 'Tous les artistes' est rendue par un widget JS Fragolabs non accessible en fetch statique ; les horaires non publiés sont estimés (créneaux standards FIL : Théâtre 21h00, Palais 21h30, Espace JPP 20h30, Kleub 22h30, Quai de la Bretagne 19h00) — détail dans enrichment_notes_interceltique.md.",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "STADE",

@@ -1,0 +1,398 @@
+{
+  "festival": "Montpellier Danse",
+  "shortName": "Montpellier Danse",
+  "location": "Montpellier",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.montpellierdanse.com/ (redirige vers agora-citeinternationaledeladanse.com) — programmation annoncée par dates, scènes et horaires non publiés, extraction 2026-06-10",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — programmation annoncée, scènes et horaires non publiés",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Samedi 20",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 2,
+      "label": "Dimanche 21",
+      "date": "2026-06-21"
+    },
+    {
+      "id": 3,
+      "label": "Lundi 22",
+      "date": "2026-06-22"
+    },
+    {
+      "id": 4,
+      "label": "Mardi 23",
+      "date": "2026-06-23"
+    },
+    {
+      "id": 5,
+      "label": "Mercredi 24",
+      "date": "2026-06-24"
+    },
+    {
+      "id": 6,
+      "label": "Jeudi 25",
+      "date": "2026-06-25"
+    },
+    {
+      "id": 7,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 8,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 9,
+      "label": "Dimanche 28",
+      "date": "2026-06-28"
+    },
+    {
+      "id": 10,
+      "label": "Lundi 29",
+      "date": "2026-06-29"
+    },
+    {
+      "id": 11,
+      "label": "Mardi 30",
+      "date": "2026-06-30"
+    },
+    {
+      "id": 12,
+      "label": "Mercredi 1",
+      "date": "2026-07-01"
+    },
+    {
+      "id": 13,
+      "label": "Jeudi 2",
+      "date": "2026-07-02"
+    },
+    {
+      "id": 14,
+      "label": "Vendredi 3",
+      "date": "2026-07-03"
+    },
+    {
+      "id": 15,
+      "label": "Samedi 4",
+      "date": "2026-07-04"
+    }
+  ],
+  "concerts": [
+    {
+      "id": "dx-na-david-coria-babel-torre-viva",
+      "artist": "David Coria - Babel Torre Viva",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-na-dimitri-chamblas-ulysse-marion",
+      "artist": "Dimitri Chamblas - Ulysse Marion",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-emanuel-gat-dance-cinq-jours-au-soleil",
+      "artist": "Emanuel Gat Dance - Cinq Jours au Soleil",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-zoe-lakhnati-this-is-la-mort",
+      "artist": "Zoé Lakhnati - This is la mort",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d5-na-collectif-xy-le-pas-du-monde",
+      "artist": "Collectif XY - Le Pas du Monde",
+      "stage": null,
+      "festivalDay": 5,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d5-na-hofesh-shechter-in-the-brain",
+      "artist": "Hofesh Shechter - IN THE BRAIN",
+      "stage": null,
+      "festivalDay": 5,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d6-na-eric-minh-cuong-castaing-vision",
+      "artist": "Éric Minh Cuong Castaing - Vision",
+      "stage": null,
+      "festivalDay": 6,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d6-na-jann-gallois-imminentes",
+      "artist": "Jann Gallois - Imminentes",
+      "stage": null,
+      "festivalDay": 6,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d7-na-hela-fattoumi-twama-paradise",
+      "artist": "Héla Fattoumi - TWAMA Paradise",
+      "stage": null,
+      "festivalDay": 7,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d7-na-armin-hokmi-bazm-repertoire",
+      "artist": "Armin Hokmi - Bazm (Repertoire)",
+      "stage": null,
+      "festivalDay": 7,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d8-na-lisbeth-gruwez-maarten-van-cauwenberghe-tempest",
+      "artist": "Lisbeth Gruwez & Maarten Van Cauwenberghe - Tempest",
+      "stage": null,
+      "festivalDay": 8,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d8-na-abby-z-and-the-new-utility-radioactive-practice",
+      "artist": "Abby Z and the New Utility - Radioactive Practice",
+      "stage": null,
+      "festivalDay": 8,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d9-na-olga-de-soto-une-introduction-revisitee",
+      "artist": "Olga de Soto - Une Introduction (révisitée)",
+      "stage": null,
+      "festivalDay": 9,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d9-na-francois-lamargot-pulse",
+      "artist": "François Lamargot - Pulse",
+      "stage": null,
+      "festivalDay": 9,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d11-na-efthimios-moschopoulos-fae",
+      "artist": "Efthimios Moschopoulos - FÁE",
+      "stage": null,
+      "festivalDay": 11,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d11-na-ballet-national-de-marseille-apres-moi-le-deluge",
+      "artist": "Ballet National de Marseille (LA)HORDE - Après moi, le déluge",
+      "stage": null,
+      "festivalDay": 11,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d12-na-serge-aime-coulibaly-back-to-kidal",
+      "artist": "Serge Aimé Coulibaly - Back to Kidal",
+      "stage": null,
+      "festivalDay": 12,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-chiara-bersani-l-animale",
+      "artist": "Chiara Bersani - L'Animale",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-josef-nadj-dialogues-dans-le-reve",
+      "artist": "Josef Nadj - Dialogues dans le rêve",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-katerina-andreou-how-romantic",
+      "artist": "Katerina Andreou - How Romantic",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-na-lisbeth-gruwez-maarten-van-cauwenberghe-wasco",
+      "artist": "Lisbeth Gruwez & Maarten Van Cauwenberghe - WASCO!",
+      "stage": null,
+      "festivalDay": 14,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-na-aurelien-bory-sept-larmes-pour-elisabeth",
+      "artist": "Aurélien Bory - Sept Larmes pour Elisabeth",
+      "stage": null,
+      "festivalDay": 14,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
+}

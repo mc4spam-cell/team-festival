@@ -1,0 +1,89 @@
+{
+  "festival": "Festival de Marseille",
+  "shortName": "Festival de Marseille",
+  "location": "Marseille",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.festivaldemarseille.com/ (page JS — extraction impossible, programme complet non extractible, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Dimanche 14",
+      "date": "2026-06-14"
+    },
+    {
+      "id": 2,
+      "label": "Lundi 15",
+      "date": "2026-06-15"
+    },
+    {
+      "id": 3,
+      "label": "Mardi 16",
+      "date": "2026-06-16"
+    },
+    {
+      "id": 4,
+      "label": "Mercredi 17",
+      "date": "2026-06-17"
+    },
+    {
+      "id": 5,
+      "label": "Jeudi 18",
+      "date": "2026-06-18"
+    },
+    {
+      "id": 6,
+      "label": "Vendredi 19",
+      "date": "2026-06-19"
+    },
+    {
+      "id": 7,
+      "label": "Samedi 20",
+      "date": "2026-06-20"
+    },
+    {
+      "id": 8,
+      "label": "Dimanche 21",
+      "date": "2026-06-21"
+    },
+    {
+      "id": 9,
+      "label": "Lundi 22",
+      "date": "2026-06-22"
+    },
+    {
+      "id": 10,
+      "label": "Mardi 23",
+      "date": "2026-06-23"
+    },
+    {
+      "id": 11,
+      "label": "Mercredi 24",
+      "date": "2026-06-24"
+    },
+    {
+      "id": 12,
+      "label": "Jeudi 25",
+      "date": "2026-06-25"
+    },
+    {
+      "id": 13,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 14,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 15,
+      "label": "Dimanche 28",
+      "date": "2026-06-28"
+    }
+  ],
+  "concerts": []
+}

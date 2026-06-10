@@ -1,0 +1,24 @@
+{
+  "festival": "Catalpa Festival",
+  "shortName": "Catalpa Festival",
+  "location": "Auxerre",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.catalpa-festival.fr/ — programmation non encore publiée sur le site (extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — programmation à venir",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 26",
+      "date": "2026-06-26"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 27",
+      "date": "2026-06-27"
+    }
+  ],
+  "concerts": []
+}

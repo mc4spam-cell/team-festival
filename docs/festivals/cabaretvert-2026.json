@@ -3,6 +3,7 @@
   "timezone": "Europe/Paris",
   "source": "cabaretvert.com/programmation/ et page d'accueil cabaretvert.com (jours affichés par artiste ; scènes déduites de l'ordre des blocs de la page programmation : Zanzibar, Illuminations, Greenfloor, Razorback, Zion Club). Extraction le 06/06/2026.",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "zanzibar",

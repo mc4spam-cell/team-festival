@@ -1,0 +1,24 @@
+{
+  "festival": "Au Pont du Rock",
+  "shortName": "Au Pont du Rock",
+  "location": "Malestroit",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.aupontdurock.com — page d'accueil sans line-up, programmation sur page dédiée non extractible (extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — programmation à venir",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 31",
+      "date": "2026-07-31"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 1",
+      "date": "2026-08-01"
+    }
+  ],
+  "concerts": []
+}

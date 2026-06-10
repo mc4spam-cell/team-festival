@@ -1,0 +1,39 @@
+{
+  "festival": "Cabaret Frappé",
+  "shortName": "Cabaret Frappé",
+  "location": "Grenoble",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.cabaret-frappe.com → https://www.grenoble.fr/cabaretfrappe (page JS — extraction impossible, line-up non affiché sur la page, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Mercredi 15",
+      "date": "2026-07-15"
+    },
+    {
+      "id": 2,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
+    },
+    {
+      "id": 3,
+      "label": "Vendredi 17",
+      "date": "2026-07-17"
+    },
+    {
+      "id": 4,
+      "label": "Samedi 18",
+      "date": "2026-07-18"
+    },
+    {
+      "id": 5,
+      "label": "Dimanche 19",
+      "date": "2026-07-19"
+    }
+  ],
+  "concerts": []
+}

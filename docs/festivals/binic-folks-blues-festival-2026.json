@@ -1,0 +1,29 @@
+{
+  "festival": "Binic Folks Blues Festival",
+  "shortName": "Binic Folks Blues Festival",
+  "location": "Binic",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.binicfolksbluesfestival.com — page inaccessible (connexion refusée, ECONNREFUSED), extraction impossible (extraction 2026-06-11)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — programmation à venir",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 24",
+      "date": "2026-07-24"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    },
+    {
+      "id": 3,
+      "label": "Dimanche 26",
+      "date": "2026-07-26"
+    }
+  ],
+  "concerts": []
+}

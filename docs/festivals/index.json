@@ -1,13 +1,247 @@
 {
   "festivals": [
     {
+      "id": "aluna-festival-2026",
+      "name": "Aluna Festival",
+      "shortName": "Aluna Festival",
+      "dates": "2026-06-25 → 2026-06-27",
+      "location": "Ruoms",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:24:53"
+    },
+    {
+      "id": "art-sonic-2026",
+      "name": "Art Sonic",
+      "shortName": "Art Sonic",
+      "dates": "2026-07-24 → 2026-07-25",
+      "location": "Briouze",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:25:18"
+    },
+    {
+      "id": "astropolis-2026",
+      "name": "Astropolis",
+      "shortName": "Astropolis",
+      "dates": "2026-07-02 → 2026-07-05",
+      "location": "Brest",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:25:49"
+    },
+    {
+      "id": "au-fil-du-son-2026",
+      "name": "Au Fil du Son",
+      "shortName": "Au Fil du Son",
+      "dates": "2026-07-23 → 2026-07-25",
+      "location": "Civray",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:01:38"
+    },
+    {
+      "id": "au-pont-du-rock-2026",
+      "name": "Au Pont du Rock",
+      "shortName": "Au Pont du Rock",
+      "dates": "2026-07-31 → 2026-08-01",
+      "location": "Malestroit",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:01:35"
+    },
+    {
+      "id": "avoine-zone-groove-2026",
+      "name": "Avoine Zone Groove",
+      "shortName": "Avoine Zone Groove",
+      "dates": "2026-07-03 → 2026-07-05",
+      "location": "Avoine",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:06"
+    },
+    {
+      "id": "binic-folks-blues-festival-2026",
+      "name": "Binic Folks Blues Festival",
+      "shortName": "Binic Folks Blues Festival",
+      "dates": "2026-07-24 → 2026-07-26",
+      "location": "Binic",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:57"
+    },
+    {
+      "id": "bobital-l-armor-a-sons-2026",
+      "name": "Bobital - L'Armor à Sons",
+      "shortName": "Bobital - L'Armor à Sons",
+      "dates": "2026-06-26 → 2026-06-28",
+      "location": "Bobital",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:26:11"
+    },
+    {
+      "id": "brive-festival-2026",
+      "name": "Brive Festival",
+      "shortName": "Brive Festival",
+      "dates": "2026-07-16 → 2026-07-19",
+      "location": "Brive-la-Gaillarde",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:26:48"
+    },
+    {
+      "id": "cabaret-frappe-2026",
+      "name": "Cabaret Frappé",
+      "shortName": "Cabaret Frappé",
+      "dates": "2026-07-15 → 2026-07-19",
+      "location": "Grenoble",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:03"
+    },
+    {
+      "id": "cabourg-mon-amour-2026",
+      "name": "Cabourg Mon Amour",
+      "shortName": "Cabourg Mon Amour",
+      "dates": "2026-06-18 → 2026-06-20",
+      "location": "Cabourg",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:27:07"
+    },
+    {
+      "id": "cahors-blues-festival-2026",
+      "name": "Cahors Blues Festival",
+      "shortName": "Cahors Blues Festival",
+      "dates": "2026-07-09 → 2026-07-11",
+      "location": "Cahors",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:27:31"
+    },
+    {
+      "id": "catalpa-festival-2026",
+      "name": "Catalpa Festival",
+      "shortName": "Catalpa Festival",
+      "dates": "2026-06-26 → 2026-06-27",
+      "location": "Auxerre",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:01:54"
+    },
+    {
+      "id": "chalon-dans-la-rue-2026",
+      "name": "Chalon dans la rue",
+      "shortName": "Chalon dans la rue",
+      "dates": "2026-07-23 → 2026-07-26",
+      "location": "Chalon-sur-Saône",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:01:44"
+    },
+    {
+      "id": "choregies-d-orange-2026",
+      "name": "Chorégies d'Orange",
+      "shortName": "Chorégies d'Orange",
+      "dates": "2026-06-21 → 2026-07-05",
+      "location": "Orange",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:27:42"
+    },
+    {
+      "id": "cognac-blues-passions-2026",
+      "name": "Cognac Blues Passions",
+      "shortName": "Cognac Blues Passions",
+      "dates": "2026-07-01 → 2026-07-04",
+      "location": "Cognac",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:27:49"
+    },
+    {
+      "id": "cosmojazz-festival-2026",
+      "name": "Cosmojazz Festival",
+      "shortName": "Cosmojazz Festival",
+      "dates": "2026-07-20 → 2026-07-25",
+      "location": "Chamonix",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:28:15"
+    },
+    {
+      "id": "country-rendez-vous-2026",
+      "name": "Country Rendez-Vous",
+      "shortName": "Country Rendez-Vous",
+      "dates": "2026-07-25 → 2026-07-26",
+      "location": "Craponne-sur-Arzon",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:58"
+    },
+    {
+      "id": "delta-2026",
+      "name": "Delta Festival 2026",
+      "shortName": "Delta Festival 2026",
+      "dates": "2026-07-23 → 2026-07-26",
+      "location": "France",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:56:42"
+    },
+    {
+      "id": "dub-camp-festival-2026",
+      "name": "Dub Camp Festival",
+      "shortName": "Dub Camp Festival",
+      "dates": "2026-07-10 → 2026-07-12",
+      "location": "Joué-sur-Erdre",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:40"
+    },
+    {
+      "id": "decibulles-2026",
+      "name": "Décibulles",
+      "shortName": "Décibulles",
+      "dates": "2026-07-10 → 2026-07-12",
+      "location": "Neuve-Église",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:28:30"
+    },
+    {
+      "id": "ecaussysteme-2026",
+      "name": "Ecaussystème",
+      "shortName": "Ecaussystème",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Gignac",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:28:50"
+    },
+    {
+      "id": "europavox-2026",
+      "name": "Europavox",
+      "shortName": "Europavox",
+      "dates": "2026-06-26 → 2026-06-28",
+      "location": "Clermont-Ferrand",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:29:31"
+    },
+    {
+      "id": "family-piknik-2026",
+      "name": "Family Piknik",
+      "shortName": "Family Piknik",
+      "dates": "2026-08-01 → 2026-08-02",
+      "location": "Montpellier (Pérols)",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:31:01"
+    },
+    {
+      "id": "festival-1001-notes-2026",
+      "name": "Festival 1001 Notes",
+      "shortName": "Festival 1001 Notes",
+      "dates": "2026-07-15 → 2026-07-19",
+      "location": "Limoges",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:52"
+    },
+    {
       "id": "beauregard-2026",
       "name": "Festival Beauregard 2026",
       "shortName": "Beauregard 2026",
       "dates": "2–5 juillet 2026",
       "location": "Hérouville-Saint-Clair, France",
       "color": "#0288D1",
-      "derniere_verification": "2026-06-09T22:03:24"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "festival-django-reinhardt-2026",
+      "name": "Festival Django Reinhardt",
+      "shortName": "Festival Django Reinhardt",
+      "dates": "2026-06-25 → 2026-06-28",
+      "location": "Fontainebleau (Samois-sur-Seine)",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:33:52"
     },
     {
       "id": "interceltique-2026",
@@ -16,7 +250,160 @@
       "dates": "7–16 août 2026",
       "location": "Lorient, France",
       "color": "#1976D2",
-      "derniere_verification": "2026-06-09T22:09:24"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "festival-la-rochelle-cinema-fema-2026",
+      "name": "Festival La Rochelle Cinéma (FEMA)",
+      "shortName": "Festival La Rochelle Cinéma (F",
+      "dates": "2026-06-26 → 2026-07-04",
+      "location": "La Rochelle",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:34"
+    },
+    {
+      "id": "festival-off-d-avignon-2026",
+      "name": "Festival Off d'Avignon",
+      "shortName": "Festival Off d'Avignon",
+      "dates": "2026-07-04 → 2026-07-18",
+      "location": "Avignon",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:22"
+    },
+    {
+      "id": "festival-pablo-casals-2026",
+      "name": "Festival Pablo Casals",
+      "shortName": "Festival Pablo Casals",
+      "dates": "2026-07-28 → 2026-08-08",
+      "location": "Prades",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:35:44"
+    },
+    {
+      "id": "festival-radio-france-occitanie-montpellier-2026",
+      "name": "Festival Radio France Occitanie Montpellier",
+      "shortName": "Festival Radio France Occitani",
+      "dates": "2026-07-05 → 2026-07-18",
+      "location": "Montpellier",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:35:50"
+    },
+    {
+      "id": "festival-d-aix-en-provence-2026",
+      "name": "Festival d'Aix-en-Provence",
+      "shortName": "Festival d'Aix-en-Provence",
+      "dates": "2026-07-02 → 2026-07-16",
+      "location": "Aix-en-Provence",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:02"
+    },
+    {
+      "id": "festival-d-avignon-in-2026",
+      "name": "Festival d'Avignon (IN)",
+      "shortName": "Festival d'Avignon (IN)",
+      "dates": "2026-07-04 → 2026-07-18",
+      "location": "Avignon",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:17"
+    },
+    {
+      "id": "festival-de-carcassonne-2026",
+      "name": "Festival de Carcassonne",
+      "shortName": "Festival de Carcassonne",
+      "dates": "2026-06-26 → 2026-07-16",
+      "location": "Carcassonne",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:31:32"
+    },
+    {
+      "id": "festival-de-cornouaille-2026",
+      "name": "Festival de Cornouaille",
+      "shortName": "Festival de Cornouaille",
+      "dates": "2026-07-23 → 2026-07-26",
+      "location": "Quimper",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:01:20"
+    },
+    {
+      "id": "festival-de-marseille-2026",
+      "name": "Festival de Marseille",
+      "shortName": "Festival de Marseille",
+      "dates": "2026-06-14 → 2026-06-28",
+      "location": "Marseille",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:46"
+    },
+    {
+      "id": "festival-de-musique-de-menton-2026",
+      "name": "Festival de Musique de Menton",
+      "shortName": "Festival de Musique de Menton",
+      "dates": "2026-07-25 → 2026-08-07",
+      "location": "Menton",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:32:24"
+    },
+    {
+      "id": "festival-de-nimes-2026",
+      "name": "Festival de Nîmes",
+      "shortName": "Festival de Nîmes",
+      "dates": "2026-06-11 → 2026-06-25",
+      "location": "Nîmes",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:32:48"
+    },
+    {
+      "id": "festival-de-poupet-2026",
+      "name": "Festival de Poupet",
+      "shortName": "Festival de Poupet",
+      "dates": "2026-07-01 → 2026-07-15",
+      "location": "Saint-Malô-du-Bois",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:56"
+    },
+    {
+      "id": "festival-de-perouges-2026",
+      "name": "Festival de Pérouges",
+      "shortName": "Festival de Pérouges",
+      "dates": "2026-06-23 → 2026-06-28",
+      "location": "Pérouges/Saint-Maurice-de-Rémens",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:32:57"
+    },
+    {
+      "id": "festival-de-sully-et-du-loiret-2026",
+      "name": "Festival de Sully et du Loiret",
+      "shortName": "Festival de Sully et du Loiret",
+      "dates": "2026-06-13 → 2026-06-15",
+      "location": "Sully-sur-Loire",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:53"
+    },
+    {
+      "id": "festival-de-thau-2026",
+      "name": "Festival de Thau",
+      "shortName": "Festival de Thau",
+      "dates": "2026-07-11 → 2026-07-26",
+      "location": "Mèze",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:33:24"
+    },
+    {
+      "id": "festival-de-trelaze-2026",
+      "name": "Festival de Trélazé",
+      "shortName": "Festival de Trélazé",
+      "dates": "2026-06-26 → 2026-07-10",
+      "location": "Trélazé",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:33:48"
+    },
+    {
+      "id": "festival-de-la-foire-aux-vins-d-alsace-2026",
+      "name": "Festival de la Foire aux Vins d'Alsace",
+      "shortName": "Festival de la Foire aux Vins ",
+      "dates": "2026-07-31 → 2026-08-09",
+      "location": "Colmar",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:31:51"
     },
     {
       "id": "festival-de-la-paille-2026",
@@ -28,13 +415,103 @@
       "derniere_verification": "2026-06-09T22:15:04"
     },
     {
+      "id": "festival-du-bout-du-monde-2026",
+      "name": "Festival du Bout du Monde",
+      "shortName": "Festival du Bout du Monde",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Crozon",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:34:37"
+    },
+    {
+      "id": "festival-du-perigord-noir-2026",
+      "name": "Festival du Périgord Noir",
+      "shortName": "Festival du Périgord Noir",
+      "dates": "2026-08-02 → 2026-08-16",
+      "location": "Sarlat (multi-sites)",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:04:29"
+    },
+    {
+      "id": "festival-du-film-de-cabourg-journees-romantiques-2026",
+      "name": "Festival du film de Cabourg - Journées romantiques",
+      "shortName": "Festival du film de Cabourg - ",
+      "dates": "2026-06-10 → 2026-06-14",
+      "location": "Cabourg",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:40"
+    },
+    {
+      "id": "festival-international-de-colmar-2026",
+      "name": "Festival international de Colmar",
+      "shortName": "Festival international de Colm",
+      "dates": "2026-07-05 → 2026-07-14",
+      "location": "Colmar",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:35:13"
+    },
+    {
+      "id": "festival-international-de-piano-de-la-roque-d-antheron-2026",
+      "name": "Festival international de piano de La Roque-d'Anthéron",
+      "shortName": "Festival international de pian",
+      "dates": "2026-07-16 → 2026-07-30",
+      "location": "La Roque-d'Anthéron",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:35:25"
+    },
+    {
+      "id": "festival-international-du-film-d-animation-d-annecy-2026",
+      "name": "Festival international du film d'animation d'Annecy",
+      "shortName": "Festival international du film",
+      "dates": "2026-06-21 → 2026-06-27",
+      "location": "Annecy",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:22"
+    },
+    {
+      "id": "fiest-a-sete-2026",
+      "name": "Fiest'A Sète",
+      "shortName": "Fiest'A Sète",
+      "dates": "2026-07-18 → 2026-08-03",
+      "location": "Sète",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:36:22"
+    },
+    {
+      "id": "flaneries-musicales-de-reims-2026",
+      "name": "Flâneries Musicales de Reims",
+      "shortName": "Flâneries Musicales de Reims",
+      "dates": "2026-06-18 → 2026-07-02",
+      "location": "Reims",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:36:29"
+    },
+    {
+      "id": "foreztival-2026",
+      "name": "Foreztival",
+      "shortName": "Foreztival",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Trelins",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:37:09"
+    },
+    {
       "id": "francofolies-2026",
       "name": "Francofolies de La Rochelle 2026",
       "shortName": "Francofolies de La Rochelle 20",
       "dates": "2026-07-10 → 2026-07-14",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:07:49"
+      "derniere_verification": "2026-06-11T00:01:41"
+    },
+    {
+      "id": "free-music-festival-2026",
+      "name": "Free Music Festival",
+      "shortName": "Free Music Festival",
+      "dates": "2026-06-19 → 2026-06-20",
+      "location": "Montendre",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:37:15"
     },
     {
       "id": "fetehumanite-2026",
@@ -43,7 +520,16 @@
       "dates": "2026-09-11 → 2026-09-13",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:07:24"
+      "derniere_verification": "2026-06-10T22:55:50"
+    },
+    {
+      "id": "fete-du-bruit-dans-saint-nolff-2026",
+      "name": "Fête du Bruit dans Saint-Nolff",
+      "shortName": "Fête du Bruit dans Saint-Nolff",
+      "dates": "2026-07-10 → 2026-07-12",
+      "location": "Saint-Nolff",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:36:08"
     },
     {
       "id": "garorock-2026",
@@ -52,7 +538,16 @@
       "dates": "2026-06-25 → 2026-06-28",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:08:34"
+      "derniere_verification": "2026-06-10T23:59:59"
+    },
+    {
+      "id": "guitare-en-scene-2026",
+      "name": "Guitare en Scène",
+      "shortName": "Guitare en Scène",
+      "dates": "2026-07-14 → 2026-07-17",
+      "location": "Saint-Julien-en-Genevois",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:37:21"
     },
     {
       "id": "hellfest-2026",
@@ -61,7 +556,43 @@
       "dates": "18–21 juin 2026",
       "location": "Clisson, France",
       "color": "#C9302C",
-      "derniere_verification": "2026-06-09T22:03:24"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "jazz-in-marciac-2026",
+      "name": "Jazz in Marciac",
+      "shortName": "Jazz in Marciac",
+      "dates": "2026-07-20 → 2026-08-03",
+      "location": "Marciac",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:39"
+    },
+    {
+      "id": "jazz-a-juan-2026",
+      "name": "Jazz à Juan",
+      "shortName": "Jazz à Juan",
+      "dates": "2026-07-09 → 2026-07-19",
+      "location": "Antibes Juan-les-Pins",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:39:05"
+    },
+    {
+      "id": "jazz-a-sete-2026",
+      "name": "Jazz à Sète",
+      "shortName": "Jazz à Sète",
+      "dates": "2026-07-15 → 2026-07-21",
+      "location": "Sète",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:39:27"
+    },
+    {
+      "id": "jazz-a-vannes-2026",
+      "name": "Jazz à Vannes",
+      "shortName": "Jazz à Vannes",
+      "dates": "2026-07-08 → 2026-07-11",
+      "location": "Vannes",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:09"
     },
     {
       "id": "jazzavienne-2026",
@@ -70,7 +601,25 @@
       "dates": "26 juin–11 juillet 2026",
       "location": "Vienne, France",
       "color": "#F57C00",
-      "derniere_verification": "2026-06-09T22:26:34"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "la-bonne-aventure-2026",
+      "name": "La Bonne Aventure",
+      "shortName": "La Bonne Aventure",
+      "dates": "2026-06-19 → 2026-06-21",
+      "location": "Dunkerque",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:40:19"
+    },
+    {
+      "id": "la-pamparina-2026",
+      "name": "La Pamparina",
+      "shortName": "La Pamparina",
+      "dates": "2026-07-03 → 2026-07-05",
+      "location": "Thiers",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:30"
     },
     {
       "id": "cabaretvert-2026",
@@ -79,7 +628,16 @@
       "dates": "2026-08-20 → 2026-08-23",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:06:43"
+      "derniere_verification": "2026-06-10T22:55:50"
+    },
+    {
+      "id": "le-chien-a-plumes-2026",
+      "name": "Le Chien à Plumes",
+      "shortName": "Le Chien à Plumes",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Villegusien-le-Lac",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:40:24"
     },
     {
       "id": "deferlantes-2026",
@@ -88,7 +646,16 @@
       "dates": "2026-07-11 → 2026-07-13",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:07:02"
+      "derniere_verification": "2026-06-11T00:01:48"
+    },
+    {
+      "id": "les-escales-2026",
+      "name": "Les Escales",
+      "shortName": "Les Escales",
+      "dates": "2026-07-24 → 2026-07-26",
+      "location": "Saint-Nazaire",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:41:12"
     },
     {
       "id": "eurockeennes-2026",
@@ -97,7 +664,52 @@
       "dates": "3–5 juillet 2026",
       "location": "Belfort, France",
       "color": "#8E24AA",
-      "derniere_verification": "2026-06-09T22:07:21"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "les-feux-de-l-ete-2026",
+      "name": "Les Feux de l'Été",
+      "shortName": "Les Feux de l'Été",
+      "dates": "2026-06-12 → 2026-06-13",
+      "location": "Saint-Prouant",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:50"
+    },
+    {
+      "id": "les-kampagn-arts-2026",
+      "name": "Les Kampagn'Arts",
+      "shortName": "Les Kampagn'Arts",
+      "dates": "2026-06-26 → 2026-06-27",
+      "location": "Saint-Paterne-Racan",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:27"
+    },
+    {
+      "id": "les-nuits-bressanes-2026",
+      "name": "Les Nuits Bressanes",
+      "shortName": "Les Nuits Bressanes",
+      "dates": "2026-07-03 → 2026-07-04",
+      "location": "Louhans",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:41:16"
+    },
+    {
+      "id": "les-nuits-carrees-2026",
+      "name": "Les Nuits Carrées",
+      "shortName": "Les Nuits Carrées",
+      "dates": "2026-06-18 → 2026-06-21",
+      "location": "Antibes",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:41:41"
+    },
+    {
+      "id": "les-nuits-secretes-2026",
+      "name": "Les Nuits Secrètes",
+      "shortName": "Les Nuits Secrètes",
+      "dates": "2026-07-10 → 2026-07-12",
+      "location": "Aulnoye-Aymeries",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:43:27"
     },
     {
       "id": "nuitdelerdre-2026",
@@ -106,7 +718,34 @@
       "dates": "2–5 juillet 2026",
       "location": "Nort-sur-Erdre, France",
       "color": "#5E35B1",
-      "derniere_verification": "2026-06-09T22:12:21"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "les-nuits-de-la-guitare-2026",
+      "name": "Les Nuits de la Guitare",
+      "shortName": "Les Nuits de la Guitare",
+      "dates": "2026-07-20 → 2026-07-27",
+      "location": "Patrimonio",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:42:05"
+    },
+    {
+      "id": "les-nuits-du-sud-2026",
+      "name": "Les Nuits du Sud",
+      "shortName": "Les Nuits du Sud",
+      "dates": "2026-07-09 → 2026-07-18",
+      "location": "Vence",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:42:31"
+    },
+    {
+      "id": "les-suds-a-arles-2026",
+      "name": "Les Suds à Arles",
+      "shortName": "Les Suds à Arles",
+      "dates": "2026-07-13 → 2026-07-19",
+      "location": "Arles",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:09"
     },
     {
       "id": "vieillescharrues-2026",
@@ -115,7 +754,16 @@
       "dates": "2026-07-16 → 2026-07-19",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:28:48"
+      "derniere_verification": "2026-06-11T00:01:03"
+    },
+    {
+      "id": "macki-music-festival-2026",
+      "name": "Macki Music Festival",
+      "shortName": "Macki Music Festival",
+      "dates": "2026-07-02 → 2026-07-03",
+      "location": "Carrières-sur-Seine",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:00:04"
     },
     {
       "id": "mainsquare-2026",
@@ -124,7 +772,52 @@
       "dates": "3–5 juillet 2026",
       "location": "Arras, France",
       "color": "#D32F2F",
-      "derniere_verification": "2026-06-09T22:27:01"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "marsatac-2026",
+      "name": "Marsatac",
+      "shortName": "Marsatac",
+      "dates": "2026-06-12 → 2026-06-14",
+      "location": "Marseille",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:44:30"
+    },
+    {
+      "id": "marseille-jazz-des-cinq-continents-2026",
+      "name": "Marseille Jazz des Cinq Continents",
+      "shortName": "Marseille Jazz des Cinq Contin",
+      "dates": "2026-07-01 → 2026-07-12",
+      "location": "Marseille",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:45:34"
+    },
+    {
+      "id": "minuit-avant-la-nuit-2026",
+      "name": "Minuit avant la Nuit",
+      "shortName": "Minuit avant la Nuit",
+      "dates": "2026-06-11 → 2026-06-14",
+      "location": "Amiens",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:46:10"
+    },
+    {
+      "id": "montpellier-danse-2026",
+      "name": "Montpellier Danse",
+      "shortName": "Montpellier Danse",
+      "dates": "2026-06-20 → 2026-07-04",
+      "location": "Montpellier",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:01:58"
+    },
+    {
+      "id": "musicalarue-2026",
+      "name": "Musicalarue",
+      "shortName": "Musicalarue",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Luxey",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:48:11"
     },
     {
       "id": "musilac-2026",
@@ -133,7 +826,61 @@
       "dates": "10–12 juillet 2026",
       "location": "Aix-les-Bains, France",
       "color": "#00897B",
-      "derniere_verification": "2026-06-09T22:27:13"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "musiques-en-stock-2026",
+      "name": "Musiques en Stock",
+      "shortName": "Musiques en Stock",
+      "dates": "2026-07-02 → 2026-07-04",
+      "location": "Cluses",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:57"
+    },
+    {
+      "id": "nice-jazz-fest-2026",
+      "name": "Nice Jazz Fest",
+      "shortName": "Nice Jazz Fest",
+      "dates": "2026-07-23 → 2026-07-26",
+      "location": "Nice",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:48:21"
+    },
+    {
+      "id": "pause-guitare-2026",
+      "name": "Pause Guitare",
+      "shortName": "Pause Guitare",
+      "dates": "2026-07-08 → 2026-07-12",
+      "location": "Albi",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:48:23"
+    },
+    {
+      "id": "peacock-society-2026",
+      "name": "Peacock Society",
+      "shortName": "Peacock Society",
+      "dates": "2026-07-10 → 2026-07-11",
+      "location": "Paris (parc floral)",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:45"
+    },
+    {
+      "id": "pete-the-monkey-2026",
+      "name": "Pete the Monkey",
+      "shortName": "Pete the Monkey",
+      "dates": "2026-07-10 → 2026-07-12",
+      "location": "Saint-Aubin-sur-Mer",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:42"
+    },
+    {
+      "id": "plane-r-fest-2026",
+      "name": "Plane'R Fest",
+      "shortName": "Plane'R Fest",
+      "dates": "2026-07-03 → 2026-07-04",
+      "location": "Sainte-Julie",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:48:57"
     },
     {
       "id": "poney-club-2026",
@@ -142,7 +889,7 @@
       "dates": "3 juin–30 août 2026",
       "location": "Aéroport Toulouse-Blagnac, France",
       "color": "#7C4DFF",
-      "derniere_verification": "2026-06-09T22:03:24"
+      "derniere_verification": "2026-06-11T00:24:15"
     },
     {
       "id": "bourges-2026",
@@ -151,7 +898,34 @@
       "dates": "21–26 avril 2026",
       "location": "Bourges, France",
       "color": "#43A047",
-      "derniere_verification": "2026-06-09T22:05:49"
+      "derniere_verification": "2026-06-11T00:24:15"
+    },
+    {
+      "id": "rencontres-et-racines-2026",
+      "name": "Rencontres et Racines",
+      "shortName": "Rencontres et Racines",
+      "dates": "2026-06-26 → 2026-06-28",
+      "location": "Audincourt",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:25"
+    },
+    {
+      "id": "retro-c-trop-2026",
+      "name": "Retro C Trop",
+      "shortName": "Retro C Trop",
+      "dates": "2026-06-26 → 2026-06-28",
+      "location": "Tilloloy",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:49:24"
+    },
+    {
+      "id": "rio-loco-2026",
+      "name": "Rio Loco",
+      "shortName": "Rio Loco",
+      "dates": "2026-06-10 → 2026-06-14",
+      "location": "Toulouse",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:35"
     },
     {
       "id": "rockenseine-2026",
@@ -160,7 +934,25 @@
       "dates": "2026-08-26 → 2026-08-30",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:12:39"
+      "derniere_verification": "2026-06-10T22:55:50"
+    },
+    {
+      "id": "rock-en-stock-2026",
+      "name": "Rock en Stock",
+      "shortName": "Rock en Stock",
+      "dates": "2026-07-24 → 2026-07-26",
+      "location": "Étaples",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:02:55"
+    },
+    {
+      "id": "rock-n-poche-2026",
+      "name": "Rock'n Poche",
+      "shortName": "Rock'n Poche",
+      "dates": "2026-07-31 → 2026-08-01",
+      "location": "Habère-Poche",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:49:43"
     },
     {
       "id": "solidays-2026",
@@ -169,7 +961,97 @@
       "dates": "2026-06-26 → 2026-06-28",
       "location": "France",
       "color": "#6E6E6E",
-      "derniere_verification": "2026-06-09T22:13:00"
+      "derniere_verification": "2026-06-11T00:00:43"
+    },
+    {
+      "id": "stereoparc-2026",
+      "name": "Stereoparc",
+      "shortName": "Stereoparc",
+      "dates": "2026-07-24 → 2026-07-25",
+      "location": "Rochefort",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T00:03:00"
+    },
+    {
+      "id": "summer-vibration-2026",
+      "name": "Summer Vibration",
+      "shortName": "Summer Vibration",
+      "dates": "2026-07-30 → 2026-08-02",
+      "location": "Sélestat",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:09:04"
+    },
+    {
+      "id": "sunny-side-of-the-doc-2026",
+      "name": "Sunny Side of the Doc",
+      "shortName": "Sunny Side of the Doc",
+      "dates": "2026-06-22 → 2026-06-24",
+      "location": "La Rochelle",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-10T23:59:28"
+    },
+    {
+      "id": "sylak-open-air-2026",
+      "name": "Sylak Open Air",
+      "shortName": "Sylak Open Air",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Saint-Maurice-de-Gourdans",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:09:51"
+    },
+    {
+      "id": "tempo-latino-2026",
+      "name": "Tempo Latino",
+      "shortName": "Tempo Latino",
+      "dates": "2026-07-30 → 2026-08-02",
+      "location": "Vic-Fezensac",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:10:17"
+    },
+    {
+      "id": "terres-du-son-2026",
+      "name": "Terres du Son",
+      "shortName": "Terres du Son",
+      "dates": "2026-07-10 → 2026-07-12",
+      "location": "Monts",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:10:19"
+    },
+    {
+      "id": "un-violon-sur-le-sable-2026",
+      "name": "Un Violon sur le Sable",
+      "shortName": "Un Violon sur le Sable",
+      "dates": "2026-07-25 → 2026-07-31",
+      "location": "Royan",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:10:47"
+    },
+    {
+      "id": "wolfi-jazz-2026",
+      "name": "Wolfi Jazz",
+      "shortName": "Wolfi Jazz",
+      "dates": "2026-06-18 → 2026-06-20",
+      "location": "Wolfisheim",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:10:58"
+    },
+    {
+      "id": "xtreme-fest-2026",
+      "name": "Xtreme Fest",
+      "shortName": "Xtreme Fest",
+      "dates": "2026-07-30 → 2026-08-02",
+      "location": "Albi",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:11:43"
+    },
+    {
+      "id": "yzeures-n-rock-2026",
+      "name": "Yzeures'n'Rock",
+      "shortName": "Yzeures'n'Rock",
+      "dates": "2026-07-31 → 2026-08-02",
+      "location": "Yzeures-sur-Creuse",
+      "color": "#6E6E6E",
+      "derniere_verification": "2026-06-11T01:12:12"
     }
   ]
 }

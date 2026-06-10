@@ -1,0 +1,39 @@
+{
+  "festival": "Festival du film de Cabourg - Journées romantiques",
+  "shortName": "Festival du film de Cabourg - ",
+  "location": "Cabourg",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.festival-cabourg.com/ (page JS — extraction impossible, sélection films présente mais séances/horaires non extractibles, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Mercredi 10",
+      "date": "2026-06-10"
+    },
+    {
+      "id": 2,
+      "label": "Jeudi 11",
+      "date": "2026-06-11"
+    },
+    {
+      "id": 3,
+      "label": "Vendredi 12",
+      "date": "2026-06-12"
+    },
+    {
+      "id": 4,
+      "label": "Samedi 13",
+      "date": "2026-06-13"
+    },
+    {
+      "id": 5,
+      "label": "Dimanche 14",
+      "date": "2026-06-14"
+    }
+  ],
+  "concerts": []
+}

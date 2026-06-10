@@ -1,0 +1,29 @@
+{
+  "festival": "Festival de Sully et du Loiret",
+  "shortName": "Festival de Sully et du Loiret",
+  "location": "Sully-sur-Loire",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.festival-sully.loiret.fr (connexion impossible / ECONNREFUSED, domaine festival-sully.loiret.fr injoignable, extraction 2026-06-10)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — programmation à venir",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Samedi 13",
+      "date": "2026-06-13"
+    },
+    {
+      "id": 2,
+      "label": "Dimanche 14",
+      "date": "2026-06-14"
+    },
+    {
+      "id": 3,
+      "label": "Lundi 15",
+      "date": "2026-06-15"
+    }
+  ],
+  "concerts": []
+}

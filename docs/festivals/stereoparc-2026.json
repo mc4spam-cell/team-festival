@@ -1,0 +1,24 @@
+{
+  "festival": "Stereoparc",
+  "shortName": "Stereoparc",
+  "location": "Rochefort",
+  "timezone": "Europe/Paris",
+  "color": "#6E6E6E",
+  "source": "https://www.stereoparc.fr — page inaccessible (erreur certificat TLS, ERR_TLS_CERT_ALTNAME_INVALID), extraction impossible (extraction 2026-06-11)",
+  "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — programmation à venir",
+  "stages": [],
+  "days": [
+    {
+      "id": 1,
+      "label": "Vendredi 24",
+      "date": "2026-07-24"
+    },
+    {
+      "id": 2,
+      "label": "Samedi 25",
+      "date": "2026-07-25"
+    }
+  ],
+  "concerts": []
+}

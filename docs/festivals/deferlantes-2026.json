@@ -1,8 +1,9 @@
 {
   "festival": "Les Déferlantes 2026",
   "timezone": "Europe/Paris",
-  "source": "festival-lesdeferlantes.com/programmation/ (line-up par jour via les filtres 11/07, 12/07, 13/07 ; aucune scène ni horaire publiés). Extraction le 06/06/2026.",
+  "source": "festival-lesdeferlantes.com/programmation/ (line-up par jour via les filtres 11/07, 12/07, 13/07 ; aucune scène ni horaire publiés). Extraction le 06/06/2026, re-vérifié le 2026-06-10 (toujours sans horaires).",
   "status": "Running Order Incomplet",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [
     {
       "id": "TBD",
