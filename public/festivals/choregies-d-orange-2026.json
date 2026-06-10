@@ -4,10 +4,16 @@
   "location": "Orange",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.choregies.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.choregies.fr — programmation annoncée avec dates et heures de début (heures de fin non publiées), extraction 2026-06-10",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — horaires de fin manquants",
+  "stages": [
+    {
+      "id": "THEATRE_ANTIQUE",
+      "name": "Théâtre antique d'Orange",
+      "color": "#6E6E6E"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -85,5 +91,104 @@
       "date": "2026-07-05"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d7-antique-recital-nadine-sierra",
+      "artist": "Récital Nadine Sierra",
+      "stage": "THEATRE_ANTIQUE",
+      "festivalDay": 7,
+      "start": "2026-06-27T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-antique-la-traviata",
+      "artist": "La Traviata (Verdi)",
+      "stage": "THEATRE_ANTIQUE",
+      "festivalDay": 14,
+      "start": "2026-07-04T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-antique-philippe-katerine-symphonique",
+      "artist": "Philippe Katerine Symphonique / Aux Anges",
+      "stage": "THEATRE_ANTIQUE",
+      "festivalDay": null,
+      "start": "2026-07-07T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-antique-cendrillon-ballets-de-monte-carlo",
+      "artist": "Cendrillon / Les Ballets de Monte-Carlo",
+      "stage": "THEATRE_ANTIQUE",
+      "festivalDay": null,
+      "start": "2026-07-13T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-antique-renaud-capucon-concert-cinema",
+      "artist": "Renaud Capuçon / Concert Cinéma",
+      "stage": "THEATRE_ANTIQUE",
+      "festivalDay": null,
+      "start": "2026-07-18T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-antique-musiques-en-fete",
+      "artist": "Musiques en fête, en direct des Chorégies d'Orange",
+      "stage": "THEATRE_ANTIQUE",
+      "festivalDay": null,
+      "start": "2026-06-19T20:40:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-pop-the-opera",
+      "artist": "Pop the Opera",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

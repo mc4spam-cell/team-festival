@@ -4,10 +4,16 @@
   "location": "Fontainebleau (Samois-sur-Seine)",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.festivaldjangoreinhardt.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festivaldjangoreinhardt.com (têtes d'affiche par jour sur Scène Django, horaires non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
+  "stages": [
+    {
+      "id": "DJANGO",
+      "name": "Scène Django",
+      "color": "#888888"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -30,5 +36,62 @@
       "date": "2026-06-28"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-django-thee-sacred-souls",
+      "artist": "Thee Sacred Souls",
+      "stage": "DJANGO",
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-django-asaf-avidan",
+      "artist": "Asaf Avidan",
+      "stage": "DJANGO",
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-django-cory-wong",
+      "artist": "Cory Wong",
+      "stage": "DJANGO",
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d4-django-meute",
+      "artist": "MEUTE",
+      "stage": "DJANGO",
+      "festivalDay": 4,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

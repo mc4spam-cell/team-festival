@@ -4,10 +4,41 @@
   "location": "Reims",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.flaneriesreims.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.flaneriesreims.com — line-up annoncé avec lieux et heures de début (heures de fin non publiées), extraction 2026-06-10",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — horaires de fin manquants",
+  "stages": [
+    {
+      "id": "BASILIQUE_SAINT_REMI",
+      "name": "Basilique Saint-Remi",
+      "color": "#6E6E6E"
+    },
+    {
+      "id": "CLOITRE_SAINT_REMI",
+      "name": "Musée Historique Saint-Remi – Cloître",
+      "color": "#6E6E6E"
+    },
+    {
+      "id": "THEATRE_DU_MANEGE",
+      "name": "Théâtre du Manège",
+      "color": "#6E6E6E"
+    },
+    {
+      "id": "CHAPELLE_SAINT_JOSEPH",
+      "name": "Chapelle Saint-Joseph",
+      "color": "#6E6E6E"
+    },
+    {
+      "id": "SCIENCES_PO",
+      "name": "Cour de Sciences Po",
+      "color": "#6E6E6E"
+    },
+    {
+      "id": "VILLA_DOUCE",
+      "name": "Villa Douce",
+      "color": "#6E6E6E"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -85,5 +116,76 @@
       "date": "2026-07-02"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-basilique-prague-royal-philharmonic",
+      "artist": "Prague Royal Philharmonic",
+      "stage": "BASILIQUE_SAINT_REMI",
+      "festivalDay": 1,
+      "start": "2026-06-18T20:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d8-chapelle-bilal-alnemr-jonathan-ware",
+      "artist": "Bilal Alnemr & Jonathan Ware",
+      "stage": "CHAPELLE_SAINT_JOSEPH",
+      "festivalDay": 8,
+      "start": "2026-06-25T18:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d8-chapelle-natacha-kudritskaya",
+      "artist": "Natacha Kudritskaya",
+      "stage": "CHAPELLE_SAINT_JOSEPH",
+      "festivalDay": 8,
+      "start": "2026-06-25T20:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d9-chapelle-ensemble-cantoria",
+      "artist": "Ensemble Cantoría",
+      "stage": "CHAPELLE_SAINT_JOSEPH",
+      "festivalDay": 9,
+      "start": "2026-06-26T20:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d15-cloitre-yevgeny-sudbin",
+      "artist": "Yevgeny Sudbin",
+      "stage": "CLOITRE_SAINT_REMI",
+      "festivalDay": 15,
+      "start": "2026-07-02T20:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

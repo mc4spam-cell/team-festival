@@ -4,9 +4,9 @@
   "location": "Montendre",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.freemusic-festival.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.freemusic-festival.com — line-up annoncé (sans jour/scène/horaire), extraction 2026-06-10",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -20,5 +20,132 @@
       "date": "2026-06-20"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "dx-na-claudio-capeo",
+      "artist": "Claudio Capéo",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-biga-ranx",
+      "artist": "Biga*Ranx",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-luiza",
+      "artist": "Luiza",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-jahneration",
+      "artist": "Jahneration",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-la-ruda",
+      "artist": "La Ruda",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-soom-t",
+      "artist": "Soom T",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-cachemire",
+      "artist": "Cachemire",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-thk",
+      "artist": "THK",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-flymeon",
+      "artist": "Flymeon",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

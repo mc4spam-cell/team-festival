@@ -4,10 +4,36 @@
   "location": "Arles",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.suds-arles.com/billetterie/fr/2026/festival (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.suds-arles.com/billetterie/fr/2026/festival — seul le lundi 13/07 est horodaté, jours suivants non publiés (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — programmation dévoilée progressivement, seul le 1er jour publié",
+  "stages": [
+    {
+      "id": "ENSP",
+      "name": "École nationale supérieure de la photographie",
+      "color": "#C0392B"
+    },
+    {
+      "id": "ABBAYE_MONTMAJOUR",
+      "name": "Abbaye de Montmajour",
+      "color": "#27AE60"
+    },
+    {
+      "id": "MUSEE_ARLES_ANTIQUE",
+      "name": "Musée départemental Arles antique",
+      "color": "#2980B9"
+    },
+    {
+      "id": "MUSEON_ARLATEN",
+      "name": "Museon Arlaten",
+      "color": "#8E44AD"
+    },
+    {
+      "id": "COUR_ARCHEVECHE",
+      "name": "Cour de l'Archevêché",
+      "color": "#E67E22"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -45,5 +71,90 @@
       "date": "2026-07-19"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-ensp-gregory-dargent",
+      "artist": "Grégory Dargent",
+      "stage": "ENSP",
+      "festivalDay": 1,
+      "start": "2026-07-13T15:00:00+02:00",
+      "end": "2026-07-13T16:00:00+02:00",
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-abbaye-montmajour-germana-mastropasqua-et-xavier-rebut",
+      "artist": "Germana Mastropasqua & Xavier Rebut",
+      "stage": "ABBAYE_MONTMAJOUR",
+      "festivalDay": 1,
+      "start": "2026-07-13T15:30:00+02:00",
+      "end": "2026-07-13T16:30:00+02:00",
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-musee-arles-antique-clemence-gabrielidis",
+      "artist": "Clémence Gabrielidis",
+      "stage": "MUSEE_ARLES_ANTIQUE",
+      "festivalDay": 1,
+      "start": "2026-07-13T20:00:00+02:00",
+      "end": "2026-07-13T21:00:00+02:00",
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-museon-arlaten-windborne",
+      "artist": "Windborne",
+      "stage": "MUSEON_ARLATEN",
+      "festivalDay": 1,
+      "start": "2026-07-13T20:30:00+02:00",
+      "end": "2026-07-13T21:30:00+02:00",
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-cour-archeveche-ma-petite",
+      "artist": "Ma Petite",
+      "stage": "COUR_ARCHEVECHE",
+      "festivalDay": 1,
+      "start": "2026-07-13T22:00:00+02:00",
+      "end": "2026-07-13T23:30:00+02:00",
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-cour-archeveche-puta-puta",
+      "artist": "Puta!Puta!",
+      "stage": "COUR_ARCHEVECHE",
+      "festivalDay": 1,
+      "start": "2026-07-13T23:30:00+02:00",
+      "end": "2026-07-14T02:00:00+02:00",
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

@@ -4,9 +4,9 @@
   "location": "Wolfisheim",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.wolfijazz.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.wolfijazz.com — line-up annoncé par jour, horaires non publiés, extraction 2026-06-10",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -25,5 +25,132 @@
       "date": "2026-06-20"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-na-anne-paceo",
+      "artist": "Anne Paceo",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-na-china-moses",
+      "artist": "China Moses",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-na-etienne-mbappe",
+      "artist": "Etienne Mbappé",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-na-fred-nardin-trio",
+      "artist": "Fred Nardin Trio",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-deluxe",
+      "artist": "Deluxe",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-the-getdown",
+      "artist": "The Getdown",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-na-selah-sue-and-the-gallands",
+      "artist": "Selah Sue and The Gallands",
+      "stage": null,
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-na-20syl-christophe-panzani",
+      "artist": "20syl & Christophe Panzani",
+      "stage": null,
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-na-joe-bel",
+      "artist": "Joe Bel",
+      "stage": null,
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

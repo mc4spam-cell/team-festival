@@ -4,10 +4,21 @@
   "location": "Saint-Julien-en-Genevois",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.guitare-en-scene.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.guitare-en-scene.com — line-up par jour avec scènes et horaires de début, horaires de fin non publiés (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — horaires de fin manquants",
+  "stages": [
+    {
+      "id": "CHAPITEAU",
+      "name": "Scène Chapiteau",
+      "color": "#C0392B"
+    },
+    {
+      "id": "VILLAGE",
+      "name": "Scène Village",
+      "color": "#27AE60"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -30,5 +41,132 @@
       "date": "2026-07-17"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-chapiteau-gregory-porter",
+      "artist": "Gregory Porter",
+      "stage": "CHAPITEAU",
+      "festivalDay": 1,
+      "start": "2026-07-14T20:15:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-chapiteau-ben-harper-and-the-innocent-criminals",
+      "artist": "Ben Harper & The Innocent Criminals",
+      "stage": "CHAPITEAU",
+      "festivalDay": 1,
+      "start": "2026-07-14T22:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-chapiteau-pixies",
+      "artist": "Pixies",
+      "stage": "CHAPITEAU",
+      "festivalDay": 2,
+      "start": "2026-07-15T22:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-chapiteau-steel-panther",
+      "artist": "Steel Panther",
+      "stage": "CHAPITEAU",
+      "festivalDay": 3,
+      "start": "2026-07-16T20:15:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-chapiteau-airbourne",
+      "artist": "Airbourne",
+      "stage": "CHAPITEAU",
+      "festivalDay": 3,
+      "start": "2026-07-16T22:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-village-the-inspector-cluzo",
+      "artist": "The Inspector Cluzo",
+      "stage": "VILLAGE",
+      "festivalDay": 3,
+      "start": "2026-07-17T00:05:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d4-chapiteau-john-butler",
+      "artist": "John Butler",
+      "stage": "CHAPITEAU",
+      "festivalDay": 4,
+      "start": "2026-07-17T20:15:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d4-chapiteau-kool-and-the-gang",
+      "artist": "Kool & The Gang",
+      "stage": "CHAPITEAU",
+      "festivalDay": 4,
+      "start": "2026-07-17T22:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-chapiteau-this-is-michael-and-jennifer-batten",
+      "artist": "This is Michael & Jennifer Batten",
+      "stage": "CHAPITEAU",
+      "festivalDay": null,
+      "start": "2026-07-18T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

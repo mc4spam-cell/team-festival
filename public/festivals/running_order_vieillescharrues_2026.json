@@ -1,7 +1,7 @@
 {
   "festival": "Les Vieilles Charrues 2026",
   "timezone": "Europe/Paris",
-  "source": "Page officielle https://www.vieillescharrues.asso.fr/programmation/ vide au fetch (rendu JS) ; line-up jour par jour repris de la presse : Sortiraparis https://www.sortiraparis.com/sortir-de-paris/nord-ouest/articles/50235-les-vieilles-charrues-2026-programmation-complete-et-horaires-des-concerts (programmation complète par jour, 34e édition, Kerampuilh, Carhaix) ; recoupé avec jds.fr. Scènes et horaires non publiés. Enrichissement API Deezer. Extraction le 06/06/2026.",
+  "source": "Page officielle https://www.vieillescharrues.asso.fr/programmation/ toujours vide au fetch (rendu JS — extraction impossible, re-vérifié 2026-06-10) ; line-up jour par jour conservé depuis la presse : Sortiraparis https://www.sortiraparis.com/sortir-de-paris/nord-ouest/articles/50235-les-vieilles-charrues-2026-programmation-complete-et-horaires-des-concerts (programmation complète par jour, 34e édition, Kerampuilh, Carhaix) ; recoupé avec jds.fr. Scènes et horaires non publiés. Enrichissement API Deezer. Extraction le 06/06/2026, page officielle re-vérifiée le 2026-06-10.",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [

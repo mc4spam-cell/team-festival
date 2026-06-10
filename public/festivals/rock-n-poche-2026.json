@@ -4,9 +4,9 @@
   "location": "Habère-Poche",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.rocknpoche.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.rocknpoche.com — line-up annoncé (16 concerts / 2 scènes), horaires/scènes/jours non publiés (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -20,5 +20,22 @@
       "date": "2026-08-01"
     }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "dx-na-luiza", "artist": "Luiza", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-ultra-vomit", "artist": "Ultra Vomit", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-jahneration", "artist": "Jahneration", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-skarra-mucci-x-manudigital", "artist": "Skarra Mucci X ManuDigital", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-kabeaushe", "artist": "Kabeaushé", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-sergent-garcia", "artist": "Sergent Garcia", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-danakil", "artist": "Danakil", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-mosimann", "artist": "Mosimann", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-amslamenace", "artist": "AmslaMenace", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-august-is-gone", "artist": "August is gone", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-111", "artist": "111", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-animo-virile", "artist": "Animø Virile", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-blue-laika", "artist": "Blue Laïka", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-jahnaton", "artist": "Jahnaton", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-saxbones", "artist": "Saxbones", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-send-me-love-letters", "artist": "Send me love letters", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

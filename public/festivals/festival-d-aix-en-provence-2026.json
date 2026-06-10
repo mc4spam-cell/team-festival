@@ -4,7 +4,7 @@
   "location": "Aix-en-Provence",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://festival-aix.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://festival-aix.com (statut : Running Order Incomplet, échec de récupération — HTTP 404 sur festival-aix.com, extraction 2026-06-10)",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — programmation à venir",
   "stages": [],

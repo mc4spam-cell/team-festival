@@ -4,9 +4,9 @@
   "location": "Montpellier",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://lefestival.eu/programmes/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://lefestival.eu/programmes/ (programmation partielle extraite — quelques concerts datés avec horaires de début, horaires de fin manquants et programme incomplet — extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — programmation partielle, horaires de fin manquants",
   "stages": [],
   "days": [
     {
@@ -80,5 +80,76 @@
       "date": "2026-07-18"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-na-concert-symphonique-musiques-de-film",
+      "artist": "Orchestre national Montpellier Occitanie / Chloé Dufresne — Concert symphonique de musiques de film",
+      "stage": null,
+      "festivalDay": 1,
+      "start": "2026-07-05T21:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d5-na-tohu-bohu",
+      "artist": "Tohu-Bohu (live électronique, son spatialisé 360°)",
+      "stage": null,
+      "festivalDay": 5,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d6-na-symphonie-pathetique",
+      "artist": "Jamie Barton / Orchestre national Montpellier Occitanie / Roderick Cox — Symphonie Pathétique",
+      "stage": null,
+      "festivalDay": 6,
+      "start": "2026-07-10T20:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d7-na-tristan-et-isolde",
+      "artist": "Tristan et Isolde (Wagner, version concert)",
+      "stage": null,
+      "festivalDay": 7,
+      "start": "2026-07-11T18:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d9-na-snarky-puppy",
+      "artist": "Snarky Puppy",
+      "stage": null,
+      "festivalDay": 9,
+      "start": "2026-07-13T21:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

@@ -4,10 +4,16 @@
   "location": "Monts",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://terresduson.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://terresduson.com (line-up 2026 par jour sur la scène Prairie ; horaires non publiés). Extraction le 2026-06-10.",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
+  "stages": [
+    {
+      "id": "PRAIRIE",
+      "name": "Prairie",
+      "color": "#7CB342"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -25,5 +31,146 @@
       "date": "2026-07-12"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-prairie-josman",
+      "artist": "Josman",
+      "stage": "PRAIRIE",
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-prairie-kungs",
+      "artist": "Kungs",
+      "stage": "PRAIRIE",
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-prairie-riles",
+      "artist": "Rilès",
+      "stage": "PRAIRIE",
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d1-prairie-feu-chatterton",
+      "artist": "Feu! Chatterton",
+      "stage": "PRAIRIE",
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-prairie-helena",
+      "artist": "Helena",
+      "stage": "PRAIRIE",
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-prairie-ofenbach",
+      "artist": "Ofenbach",
+      "stage": "PRAIRIE",
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-prairie-bigaranx",
+      "artist": "Biga*Ranx",
+      "stage": "PRAIRIE",
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-prairie-julien-dore",
+      "artist": "Julien Doré",
+      "stage": "PRAIRIE",
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-prairie-superbus",
+      "artist": "Superbus",
+      "stage": "PRAIRIE",
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-prairie-mosimann",
+      "artist": "Mosimann",
+      "stage": "PRAIRIE",
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

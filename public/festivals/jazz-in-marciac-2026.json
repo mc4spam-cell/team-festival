@@ -4,9 +4,9 @@
   "location": "Marciac",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.jazzinmarciac.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.jazzinmarciac.com (48e édition, un seul concert annoncé sur la page d'accueil, programme complet à venir ; horaires non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé partiellement, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -85,5 +85,20 @@
       "date": "2026-08-03"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d15-na-feu-chatterton-baptiste-trotignon",
+      "artist": "Feu! Chatterton / Baptiste Trotignon",
+      "stage": null,
+      "festivalDay": 15,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

@@ -4,9 +4,9 @@
   "location": "Trelins",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.foreztival.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.foreztival.com — line-up annoncé, horaires/scènes/jours non publiés (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -25,5 +25,44 @@
       "date": "2026-08-02"
     }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "dx-na-bigflo-oli", "artist": "Bigflo & Oli", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-disiz", "artist": "Disiz", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-josman", "artist": "Josman", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-alpha-blondy", "artist": "Alpha Blondy", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-trinix", "artist": "Trinix", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-suzane", "artist": "Suzane", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-mickey-3d", "artist": "Mickey 3D", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-la-mano-1-9", "artist": "La Mano 1.9", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-thylacine", "artist": "Thylacine", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-yame", "artist": "Yamê", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-luiza", "artist": "Luiza", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-danakil", "artist": "Danakil", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-perceval", "artist": "Perceval", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-ludwig-von-88", "artist": "Ludwig von 88", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-danyl", "artist": "Danyl", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-vulves-assassines", "artist": "Vulves Assassines", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-zentone", "artist": "Zentone", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-thea", "artist": "Théa", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-roland-cristal", "artist": "Roland Cristal", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-fulu-miziki-kolektiv", "artist": "Fulu Miziki Kolektiv", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-yuksek", "artist": "Yuksek", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-rakoon", "artist": "Rakoon", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-ades-the-planet", "artist": "Adés The Planet", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-les-croquants", "artist": "Les Croquants", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-alpha-steppa-nai-jah-awa-fall", "artist": "Alpha Steppa x Nai-Jah & Awa Fall", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-lou-nour", "artist": "Lou Nour", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-fatbabs-riddim-ryders", "artist": "Fatbabs & Riddim Ryders", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-tambour-tambour", "artist": "Tambour Tambour", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-dawa-hifi-roots-raid", "artist": "Dawa Hifi & Roots Raid", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-lynn", "artist": "Lynn", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-les-vieilles-valises", "artist": "Les Vieilles Valises", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-dub-engine", "artist": "Dub Engine", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-steel-alive", "artist": "Steel Alive", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-t-sia", "artist": "T-Sia", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-baku-elisalien", "artist": "Baku x Elisalien", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-salut-l-orage", "artist": "Salut L'orage", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-monika", "artist": "Monika", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-big-junior", "artist": "Big Junior", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

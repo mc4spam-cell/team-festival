@@ -4,31 +4,44 @@
   "location": "Vic-Fezensac",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.tempo-latino.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://tempolatino.com/programmation/ (statut : Running Order Incomplet — line-up annoncé par jour et par scène, horaires non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
-  "days": [
-    {
-      "id": 1,
-      "label": "Jeudi 30",
-      "date": "2026-07-30"
-    },
-    {
-      "id": 2,
-      "label": "Vendredi 31",
-      "date": "2026-07-31"
-    },
-    {
-      "id": 3,
-      "label": "Samedi 1",
-      "date": "2026-08-01"
-    },
-    {
-      "id": 4,
-      "label": "Dimanche 2",
-      "date": "2026-08-02"
-    }
+  "warning": "Running order incomplet — line-up annoncé par jour et scène, horaires non publiés",
+  "stages": [
+    { "id": "TEMPO_ARENA", "name": "Tempo Arena", "color": "#C0392B" },
+    { "id": "LE_OFF", "name": "Le Off", "color": "#2980B9" },
+    { "id": "EGLISE", "name": "Église", "color": "#8E44AD" },
+    { "id": "TEMPO_SOCIAL_CLUB", "name": "Tempo Social Club (La Conga)", "color": "#27AE60" }
   ],
-  "concerts": []
+  "days": [
+    { "id": 1, "label": "Jeudi 30", "date": "2026-07-30" },
+    { "id": 2, "label": "Vendredi 31", "date": "2026-07-31" },
+    { "id": 3, "label": "Samedi 1", "date": "2026-08-01" },
+    { "id": 4, "label": "Dimanche 2", "date": "2026-08-02" }
+  ],
+  "concerts": [
+    { "id": "d1-tsc-dj-set-carava", "artist": "DJ Set: Çarava", "stage": "TEMPO_SOCIAL_CLUB", "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-tsc-la-yegros", "artist": "La Yegros", "stage": "TEMPO_SOCIAL_CLUB", "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-tsc-dj-set-la-furiosa", "artist": "DJ Set: La Furiosa", "stage": "TEMPO_SOCIAL_CLUB", "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-arena-maite-hontele-y-la-novia", "artist": "Maïté Hontelé y La Novia", "stage": "TEMPO_ARENA", "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-arena-orquesta-akokan", "artist": "Orquesta Akokán", "stage": "TEMPO_ARENA", "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-off-dj-set-citra", "artist": "DJ Set: CiTRA", "stage": "LE_OFF", "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-off-chicos-y-mendez", "artist": "Chicos y Mendez", "stage": "LE_OFF", "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-off-pixvae", "artist": "Pixvae", "stage": "LE_OFF", "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-off-aguanomas", "artist": "Aguanomas", "stage": "LE_OFF", "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-arena-matt-bianco", "artist": "Matt Bianco", "stage": "TEMPO_ARENA", "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-arena-roge", "artist": "Rogê", "stage": "TEMPO_ARENA", "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-off-dj-set-carava", "artist": "DJ Set: Çarava", "stage": "LE_OFF", "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-off-aguanomas", "artist": "Aguanomas", "stage": "LE_OFF", "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-off-chicharron", "artist": "Chicharron", "stage": "LE_OFF", "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-off-pixvae", "artist": "Pixvae", "stage": "LE_OFF", "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-arena-alfredo-rodriguez", "artist": "Alfredo Rodriguez", "stage": "TEMPO_ARENA", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-arena-tony-succar", "artist": "Tony Succar", "stage": "TEMPO_ARENA", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-egl-yilian-canizares", "artist": "Yilian Cañizares", "stage": "EGLISE", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-off-dj-set-la-furiosa", "artist": "DJ Set: La Furiosa", "stage": "LE_OFF", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-off-super-panela", "artist": "Super Panela", "stage": "LE_OFF", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-off-pixvae", "artist": "Pixvae", "stage": "LE_OFF", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-off-aguanomas", "artist": "Aguanomas", "stage": "LE_OFF", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d4-off-chicharron", "artist": "Chicharron", "stage": "LE_OFF", "festivalDay": 4, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

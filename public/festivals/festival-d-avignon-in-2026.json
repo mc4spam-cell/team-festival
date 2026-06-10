@@ -4,9 +4,9 @@
   "location": "Avignon",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://festival-avignon.com/fr/edition-2026/programmation/par-date (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://festival-avignon.com/fr/edition-2026/programmation/par-date (page JS — extraction impossible, listings non présents dans le HTML — extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
   "stages": [],
   "days": [
     {

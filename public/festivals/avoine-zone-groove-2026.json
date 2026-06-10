@@ -4,9 +4,9 @@
   "location": "Avoine",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.avoinezonegroove.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.avoinezonegroove.fr (page JS — extraction impossible, page de redirection JS, extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
   "stages": [],
   "days": [
     {

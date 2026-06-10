@@ -1,7 +1,7 @@
 {
   "festival": "Solidays 2026",
   "timezone": "Europe/Paris",
-  "source": "Site officiel https://www.solidays.org/programmation/ (artiste + jour, sans scène ni horaire) ; enrichissement API Deezer. Extraction le 06/06/2026.",
+  "source": "Site officiel https://www.solidays.org/programmation/ (artiste + jour, sans scène ni horaire) ; enrichissement API Deezer. Line-up reconfirmé par extraction 2026-06-10.",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [

@@ -8,10 +8,10 @@
       "lieu": "Carhaix",
       "dates": "2026-07-16/2026-07-19",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_vieillescharrues_2026.json",
       "url_programmation": "https://www.vieillescharrues.asso.fr/programmation/",
       "notes": "Page programmation rendue JS (Fragolabs) : seuls nav/footer récupérés. Horaires non extractibles. Domaine à investiguer.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 2,
@@ -19,10 +19,10 @@
       "lieu": "Paris",
       "dates": "2026-06-26/2026-06-28",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_solidays_2026.json",
       "url_programmation": "https://www.solidays.org/programmation/",
       "notes": "Liste complète des artistes par jour (ven/sam/dim) ; aucun horaire publié.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 3,
@@ -41,10 +41,10 @@
       "lieu": "La Rochelle",
       "dates": "2026-07-10/2026-07-14",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_francofolies_2026.json",
       "url_programmation": "https://www.francofolies.fr/programmation/",
       "notes": "Artistes par jour et par scène publiés ; aucun horaire début/fin.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 5,
@@ -63,10 +63,10 @@
       "lieu": "Marmande",
       "dates": "2026-06-25/2026-06-28",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_garorock_2026.json",
       "url_programmation": "https://www.garorock.com/fr/programmation",
       "notes": "Programmation par jour (jeu 25 → dim 28 juin) publiée. Vue 'Timetable' annoncée mais horaires non encore en ligne.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 7,
@@ -162,10 +162,10 @@
       "lieu": "Le Barcarès",
       "dates": "2026-07-10/2026-07-13",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_deferlantes_2026.json",
       "url_programmation": "https://www.festival-lesdeferlantes.com/programmation/",
       "notes": "Affiche par jour (11/12/13 juil) publiée ; pas d'horaires ni timetable détaillé.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 16,
@@ -173,10 +173,10 @@
       "lieu": "Marseille",
       "dates": "23-26 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_delta_2026.json",
       "url_programmation": "https://delta-festival.com/programmation/",
       "notes": "Contenu non textuel : rendu navigateur + OCR, ou sources tierces (Shotgun, touslesfestivals).",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 17,
@@ -184,10 +184,10 @@
       "lieu": "Lorient",
       "dates": "31 juillet - 9 août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "running_order_interceltique_2026.json",
       "url_programmation": "https://www.festival-interceltique.bzh/programmation-2026/",
       "notes": "300+ spectacles avec jour/heure/lieu publiés depuis mars. Extraction via fiches artistes WordPress (sitemap.xml) ou rendu navigateur.",
-      "derniere_verification": "2026-06-06"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 18,
@@ -228,10 +228,10 @@
       "lieu": "Carcassonne",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-carcassonne-2026.json",
       "url_programmation": "https://www.festivaldecarcassonne.fr/article-page/toute-la-programmation",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 22,
@@ -239,10 +239,10 @@
       "lieu": "Nîmes",
       "dates": "11 juin - mi-juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-nimes-2026.json",
       "url_programmation": "https://festivaldenimes.com/programmation/",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 23,
@@ -272,10 +272,10 @@
       "lieu": "Colmar",
       "dates": "31 juillet - 9 août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-la-foire-aux-vins-d-alsace-2026.json",
       "url_programmation": "https://www.foire-colmar.com/le-festival/",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 26,
@@ -294,10 +294,10 @@
       "lieu": "Royan",
       "dates": "25, 28 et 31 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "un-violon-sur-le-sable-2026.json",
       "url_programmation": "https://www.violonsurlesable.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 28,
@@ -316,10 +316,10 @@
       "lieu": "Quimper",
       "dates": null,
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-cornouaille-2026.json",
       "url_programmation": "https://www.festival-cornouaille.bzh",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 30,
@@ -349,10 +349,10 @@
       "lieu": "Albi",
       "dates": "2026-07-08/2026-07-12",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "pause-guitare-2026.json",
       "url_programmation": "https://www.pauseguitare.net",
       "notes": "Artistes + dates (10-12 juil) publiés ; pas d'horaires ni scènes.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 33,
@@ -360,10 +360,10 @@
       "lieu": "Marciac",
       "dates": "20 juillet - 5 août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "jazz-in-marciac-2026.json",
       "url_programmation": "https://www.jazzinmarciac.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 34,
@@ -393,10 +393,10 @@
       "lieu": "Saint-Malô-du-Bois",
       "dates": "juin-juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-poupet-2026.json",
       "url_programmation": "https://www.festival-poupet.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 37,
@@ -415,10 +415,10 @@
       "lieu": "Toulouse",
       "dates": "10-14 juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "rio-loco-2026.json",
       "url_programmation": "https://rio-loco.org",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 39,
@@ -426,10 +426,10 @@
       "lieu": "Montpellier",
       "dates": "5-18 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-radio-france-occitanie-montpellier-2026.json",
       "url_programmation": "https://lefestival.eu/programmes/",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 40,
@@ -459,10 +459,10 @@
       "lieu": "Trélazé",
       "dates": "21 juin - 19 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-trelaze-2026.json",
       "url_programmation": "https://arenaloiretrelaze.fr/festival-de-trelaze/la-programmation-2026/",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 43,
@@ -470,10 +470,10 @@
       "lieu": "Dunkerque",
       "dates": "19-21 juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "la-bonne-aventure-2026.json",
       "url_programmation": "https://labonneaventurefestival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 44,
@@ -514,10 +514,10 @@
       "lieu": "La Roque-d'Anthéron",
       "dates": "juillet-août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-international-de-piano-de-la-roque-d-antheron-2026.json",
       "url_programmation": "https://www.festival-piano.com/fpr_festival/2026/",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 48,
@@ -536,10 +536,10 @@
       "lieu": "Aix-en-Provence",
       "dates": "2-21 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-d-aix-en-provence-2026.json",
       "url_programmation": "https://festival-aix.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 50,
@@ -558,10 +558,10 @@
       "lieu": "Crozon",
       "dates": "31 juillet - 2 août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-du-bout-du-monde-2026.json",
       "url_programmation": "https://www.festivalduboutdumonde.com/programmation/",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 52,
@@ -580,10 +580,10 @@
       "lieu": "Aulnoye-Aymeries",
       "dates": "2026-07-10/2026-07-12",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-nuits-secretes-2026.json",
       "url_programmation": "https://lesnuitssecretes.com",
       "notes": "Quelques créneaux annoncés (ex. MIKA sam 11 juil 21:00 Main Stage) mais running order incomplet, non exhaustif.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 54,
@@ -602,10 +602,10 @@
       "lieu": "Saint-Nazaire",
       "dates": "2026-07-24/2026-07-26",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-escales-2026.json",
       "url_programmation": "https://www.festival-les-escales.com/programmation/",
       "notes": "PROGRÈS : heures de DÉBUT par artiste désormais publiées (ven 24 → dim 26 juil). Heures de FIN et affectation scènes absentes → RO encore incomplet (pas d'invention).",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 56,
@@ -624,10 +624,10 @@
       "lieu": "Luxey",
       "dates": "mi-août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "musicalarue-2026.json",
       "url_programmation": "https://www.musicalarue.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 58,
@@ -657,10 +657,10 @@
       "lieu": "Orange",
       "dates": "juin-août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "choregies-d-orange-2026.json",
       "url_programmation": "https://www.choregies.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 61,
@@ -668,10 +668,10 @@
       "lieu": "Marseille",
       "dates": "2026-06-12/2026-06-14",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "marsatac-2026.json",
       "url_programmation": "https://marsatac.com",
       "notes": "Listes d'artistes par jour (ven 12, sam 13, dim 14 juin) publiées, sans horaires ni scènes. Pas de timetable.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 62,
@@ -679,10 +679,10 @@
       "lieu": "Arles",
       "dates": "13-19 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-suds-a-arles-2026.json",
       "url_programmation": "https://www.suds-arles.com/billetterie/fr/2026/festival",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 63,
@@ -690,10 +690,10 @@
       "lieu": "Cognac",
       "dates": "2026-07-01/2026-07-04",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "cognac-blues-passions-2026.json",
       "url_programmation": "https://bluespassions.com/programmation-2026/",
       "notes": "Têtes d'affiche connues (Ben Harper, Vanessa Paradis, J-L Aubert…) ; pas de scènes ni horaires.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 64,
@@ -701,10 +701,10 @@
       "lieu": "Brive-la-Gaillarde",
       "dates": "mi-juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "brive-festival-2026.json",
       "url_programmation": "https://brivefestival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 65,
@@ -712,10 +712,10 @@
       "lieu": "Bobital",
       "dates": "26-28 juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "bobital-l-armor-a-sons-2026.json",
       "url_programmation": "https://bobital-festival.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 66,
@@ -723,10 +723,10 @@
       "lieu": "Clermont-Ferrand",
       "dates": "début juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "europavox-2026.json",
       "url_programmation": "https://www.europavox.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 67,
@@ -734,10 +734,10 @@
       "lieu": "Brest",
       "dates": "2-5 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "astropolis-2026.json",
       "url_programmation": "https://astropolis.org",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 68,
@@ -745,10 +745,10 @@
       "lieu": "Montpellier (Pérols)",
       "dates": "1-2 août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "family-piknik-2026.json",
       "url_programmation": "https://www.familypiknikfestival.com/weekend-2026",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 69,
@@ -756,10 +756,10 @@
       "lieu": "Gignac",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "ecaussysteme-2026.json",
       "url_programmation": "https://www.ecaussysteme.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 70,
@@ -778,10 +778,10 @@
       "lieu": "Ruoms",
       "dates": "2026-06-25/2026-06-27",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "aluna-festival-2026.json",
       "url_programmation": "https://www.aluna-festival.fr",
       "notes": "Affiche par jour + scène (ex. Gims jeu 25 Scène Étoile) mais aucun horaire début/fin publié.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 72,
@@ -800,10 +800,10 @@
       "lieu": "Nice",
       "dates": "2026-07-23/2026-07-26",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "nice-jazz-fest-2026.json",
       "url_programmation": "https://www.nicejazzfest.fr",
       "notes": "RO horodaté par jour publié sur nicejazzfest.fr (ex. 23/07 : 19h30 Cavassa → 23h00 Sting) — domaine bloqué, extraction partielle impossible sans inventer. 2 scènes (Masséna, Théâtre de Verdure).",
-      "derniere_verification": "2026-06-07"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 74,
@@ -844,10 +844,10 @@
       "lieu": "Reims",
       "dates": "juin-juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "flaneries-musicales-de-reims-2026.json",
       "url_programmation": "https://www.flaneriesreims.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 78,
@@ -888,10 +888,10 @@
       "lieu": "Auxerre",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "catalpa-festival-2026.json",
       "url_programmation": "https://www.catalpafestival.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 82,
@@ -899,10 +899,10 @@
       "lieu": "Pérouges/Saint-Maurice-de-Rémens",
       "dates": "juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-perouges-2026.json",
       "url_programmation": "https://www.festival-perouges.org",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 83,
@@ -910,10 +910,10 @@
       "lieu": "Monts",
       "dates": "2026-07-10/2026-07-12",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "terres-du-son-2026.json",
       "url_programmation": "https://terresduson.com",
       "notes": "Affiche par jour (10/11/12 juil) ; pages 'Prairie' et 'Village' existent mais sans horaires extractibles.",
-      "derniere_verification": "2026-06-08"
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 84,
@@ -932,10 +932,10 @@
       "lieu": "Antibes Juan-les-Pins",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "jazz-a-juan-2026.json",
       "url_programmation": "https://www.jazzajuan.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 86,
@@ -943,10 +943,10 @@
       "lieu": "Tilloloy",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "retro-c-trop-2026.json",
       "url_programmation": "https://retroctrop.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 87,
@@ -976,10 +976,10 @@
       "lieu": "Vence",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-nuits-du-sud-2026.json",
       "url_programmation": "https://www.nuitsdusud.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 90,
@@ -1009,10 +1009,10 @@
       "lieu": "Trelins",
       "dates": "début août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "foreztival-2026.json",
       "url_programmation": "https://www.foreztival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 93,
@@ -1053,10 +1053,10 @@
       "lieu": "Chamonix",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "cosmojazz-festival-2026.json",
       "url_programmation": "https://www.cosmojazzfestival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 97,
@@ -1064,10 +1064,10 @@
       "lieu": "Avoine",
       "dates": "juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "avoine-zone-groove-2026.json",
       "url_programmation": "https://www.avoinezonegroove.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 98,
@@ -1075,10 +1075,10 @@
       "lieu": "Montendre",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "free-music-festival-2026.json",
       "url_programmation": "https://www.freemusic-festival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 99,
@@ -1086,10 +1086,10 @@
       "lieu": "Sélestat",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "summer-vibration-2026.json",
       "url_programmation": "https://www.summervibration.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 100,
@@ -1097,10 +1097,10 @@
       "lieu": "Joué-sur-Erdre",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "dub-camp-festival-2026.json",
       "url_programmation": "https://www.dubcampfestival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 101,
@@ -1108,10 +1108,10 @@
       "lieu": "Malestroit",
       "dates": "fin juillet-début août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "au-pont-du-rock-2026.json",
       "url_programmation": "https://www.aupontdurock.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 102,
@@ -1130,10 +1130,10 @@
       "lieu": "Binic",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "binic-folks-blues-festival-2026.json",
       "url_programmation": "https://www.binicfolksbluesfestival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 104,
@@ -1152,10 +1152,10 @@
       "lieu": "Vic-Fezensac",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "tempo-latino-2026.json",
       "url_programmation": "https://www.tempo-latino.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 106,
@@ -1174,10 +1174,10 @@
       "lieu": "Craponne-sur-Arzon",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "country-rendez-vous-2026.json",
       "url_programmation": "https://www.countryrendezvous.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 108,
@@ -1185,10 +1185,10 @@
       "lieu": "Paris (parc floral)",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "peacock-society-2026.json",
       "url_programmation": "https://www.thepeacocksociety.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 109,
@@ -1229,10 +1229,10 @@
       "lieu": "Thiers",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "la-pamparina-2026.json",
       "url_programmation": "https://www.thiers.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 113,
@@ -1240,10 +1240,10 @@
       "lieu": "Saint-Prouant",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-feux-de-l-ete-2026.json",
       "url_programmation": "https://www.lesfeuxdelete.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 114,
@@ -1262,10 +1262,10 @@
       "lieu": "Mèze",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-thau-2026.json",
       "url_programmation": "https://www.festivaldethau.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 116,
@@ -1273,10 +1273,10 @@
       "lieu": "Neuve-Église",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "decibulles-2026.json",
       "url_programmation": "https://www.decibulles.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 117,
@@ -1306,10 +1306,10 @@
       "lieu": "Patrimonio",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-nuits-de-la-guitare-2026.json",
       "url_programmation": "https://www.festival-guitare-patrimonio.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 120,
@@ -1339,10 +1339,10 @@
       "lieu": "Saint-Nolff",
       "dates": "10-12 juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "fete-du-bruit-dans-saint-nolff-2026.json",
       "url_programmation": "https://stnolff.festival-fetedubruit.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 123,
@@ -1350,10 +1350,10 @@
       "lieu": "Étaples",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "rock-en-stock-2026.json",
       "url_programmation": "https://www.rockenstock.org",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 124,
@@ -1383,10 +1383,10 @@
       "lieu": "Cluses",
       "dates": "début juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "musiques-en-stock-2026.json",
       "url_programmation": "https://www.musiquesenstock.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 127,
@@ -1405,10 +1405,10 @@
       "lieu": "Grenoble",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "cabaret-frappe-2026.json",
       "url_programmation": "https://www.cabaret-frappe.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 129,
@@ -1427,10 +1427,10 @@
       "lieu": "Audincourt",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "rencontres-et-racines-2026.json",
       "url_programmation": "https://www.rencontresetracines.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 131,
@@ -1438,10 +1438,10 @@
       "lieu": "Sète",
       "dates": "fin juillet-début août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "fiest-a-sete-2026.json",
       "url_programmation": "https://www.fiestasete.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 132,
@@ -1449,10 +1449,10 @@
       "lieu": "Sète",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "jazz-a-sete-2026.json",
       "url_programmation": "https://www.jazzasete.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 133,
@@ -1471,10 +1471,10 @@
       "lieu": "Marseille",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "marseille-jazz-des-cinq-continents-2026.json",
       "url_programmation": "https://www.marseillejazz.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 135,
@@ -1526,10 +1526,10 @@
       "lieu": "Rochefort",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "stereoparc-2026.json",
       "url_programmation": "https://www.stereoparc.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 140,
@@ -1548,10 +1548,10 @@
       "lieu": "Civray",
       "dates": "fin juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "au-fil-du-son-2026.json",
       "url_programmation": "https://www.festivalaufilduson.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 142,
@@ -1581,10 +1581,10 @@
       "lieu": "Louhans",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-nuits-bressanes-2026.json",
       "url_programmation": "https://www.lesnuitsbressanes.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 145,
@@ -1603,10 +1603,10 @@
       "lieu": "Saint-Julien-en-Genevois",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "guitare-en-scene-2026.json",
       "url_programmation": "https://www.guitare-en-scene.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 147,
@@ -1669,10 +1669,10 @@
       "lieu": "Prades",
       "dates": "fin juillet-août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-pablo-casals-2026.json",
       "url_programmation": "https://www.prades-festival-casals.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 153,
@@ -1691,10 +1691,10 @@
       "lieu": "Amiens",
       "dates": "juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "minuit-avant-la-nuit-2026.json",
       "url_programmation": "https://www.minuitavantlanuit.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 155,
@@ -1724,10 +1724,10 @@
       "lieu": "Fontainebleau (Samois-sur-Seine)",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-django-reinhardt-2026.json",
       "url_programmation": "https://www.festivaldjangoreinhardt.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 158,
@@ -1801,10 +1801,10 @@
       "lieu": "Villegusien-le-Lac",
       "dates": "août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "le-chien-a-plumes-2026.json",
       "url_programmation": "https://www.chienaplumes.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 165,
@@ -1812,10 +1812,10 @@
       "lieu": "Briouze",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "art-sonic-2026.json",
       "url_programmation": "https://www.festival-artsonic.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 166,
@@ -1834,10 +1834,10 @@
       "lieu": "Sainte-Julie",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "plane-r-fest-2026.json",
       "url_programmation": "https://www.planerfest.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 168,
@@ -1867,10 +1867,10 @@
       "lieu": "Yzeures-sur-Creuse",
       "dates": "fin juillet-début août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "yzeures-n-rock-2026.json",
       "url_programmation": "https://www.yzeuresnrock.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 171,
@@ -1878,10 +1878,10 @@
       "lieu": "Albi",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "xtreme-fest-2026.json",
       "url_programmation": "https://www.xtremefest.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 172,
@@ -1911,10 +1911,10 @@
       "lieu": "Saint-Aubin-sur-Mer",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "pete-the-monkey-2026.json",
       "url_programmation": "https://www.petethemonkey.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 175,
@@ -1922,10 +1922,10 @@
       "lieu": "Wolfisheim",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "wolfi-jazz-2026.json",
       "url_programmation": "https://www.wolfijazz.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 176,
@@ -1944,10 +1944,10 @@
       "lieu": "Habère-Poche",
       "dates": "août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "rock-n-poche-2026.json",
       "url_programmation": "https://www.rocknpoche.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 178,
@@ -1988,10 +1988,10 @@
       "lieu": "Colmar",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-international-de-colmar-2026.json",
       "url_programmation": "https://www.festival-colmar.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 182,
@@ -1999,10 +1999,10 @@
       "lieu": "Sully-sur-Loire",
       "dates": "juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-sully-et-du-loiret-2026.json",
       "url_programmation": "https://www.festival-sully.loiret.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 183,
@@ -2021,10 +2021,10 @@
       "lieu": "Vannes",
       "dates": "fin juillet-début août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "jazz-a-vannes-2026.json",
       "url_programmation": "https://www.jazzavannes.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 185,
@@ -2065,10 +2065,10 @@
       "lieu": "Cabourg",
       "dates": "juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "cabourg-mon-amour-2026.json",
       "url_programmation": "https://www.cabourgmonamour.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 189,
@@ -2076,10 +2076,10 @@
       "lieu": "Carrières-sur-Seine",
       "dates": "juin-juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "macki-music-festival-2026.json",
       "url_programmation": "https://www.mackimusicfestival.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 190,
@@ -2087,10 +2087,10 @@
       "lieu": "Saint-Maurice-de-Gourdans",
       "dates": "août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "sylak-open-air-2026.json",
       "url_programmation": "https://www.sylakopenair.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 191,
@@ -2131,10 +2131,10 @@
       "lieu": "Saint-Paterne-Racan",
       "dates": "juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-kampagn-arts-2026.json",
       "url_programmation": "https://www.leskampagnarts.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 195,
@@ -2142,10 +2142,10 @@
       "lieu": "Menton",
       "dates": "août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-de-musique-de-menton-2026.json",
       "url_programmation": "https://www.festival-musique-menton.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 196,
@@ -2153,10 +2153,10 @@
       "lieu": "Antibes",
       "dates": "fin juin 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "les-nuits-carrees-2026.json",
       "url_programmation": "https://www.nuitscarrees.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 197,
@@ -2175,10 +2175,10 @@
       "lieu": "Cahors",
       "dates": "juillet 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "cahors-blues-festival-2026.json",
       "url_programmation": "https://www.cahorsbluesfestival.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 199,
@@ -2186,10 +2186,10 @@
       "lieu": "Limoges",
       "dates": "juillet-août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-1001-notes-2026.json",
       "url_programmation": "https://www.festival1001notes.com",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     },
     {
       "rang": 200,
@@ -2197,10 +2197,10 @@
       "lieu": "Sarlat (multi-sites)",
       "dates": "août 2026",
       "statut": "Running Order Incomplet",
-      "running_order_file": null,
+      "running_order_file": "festival-du-perigord-noir-2026.json",
       "url_programmation": "https://www.festivalduperigordnoir.fr",
       "notes": null,
-      "derniere_verification": null
+      "derniere_verification": "2026-06-10"
     }
   ]
 }

@@ -4,9 +4,9 @@
   "location": "Sète",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.fiestasete.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.fiestasete.com (line-up partiel annoncé par date, horaires non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé par jour, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -83,7 +83,30 @@
       "id": 15,
       "label": "Samedi 1",
       "date": "2026-08-01"
+    },
+    {
+      "id": 16,
+      "label": "Dimanche 2",
+      "date": "2026-08-02"
+    },
+    {
+      "id": 17,
+      "label": "Lundi 3",
+      "date": "2026-08-03"
     }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "d12-na-gilsons", "artist": "Gilsons", "stage": null, "festivalDay": 12, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d12-na-roge", "artist": "Rogê", "stage": null, "festivalDay": 12, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d13-na-fatoumata-diawara", "artist": "Fatoumata Diawara", "stage": null, "festivalDay": 13, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d13-na-nana-benz-du-togo", "artist": "Nana Benz du Togo", "stage": null, "festivalDay": 13, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d14-na-fantastic-negrito", "artist": "Fantastic Negrito", "stage": null, "festivalDay": 14, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d14-na-robert-finley", "artist": "Robert Finley", "stage": null, "festivalDay": 14, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d15-na-omar", "artist": "Omar", "stage": null, "festivalDay": 15, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d15-na-michelle-david-the-true-tones", "artist": "Michelle David & The True-Tones", "stage": null, "festivalDay": 15, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d16-na-dhafer-youssef", "artist": "Dhafer Youssef", "stage": null, "festivalDay": 16, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d16-na-ballake-sissoko-piers-faccini", "artist": "Ballaké Sissoko & Piers Faccini", "stage": null, "festivalDay": 16, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d17-na-alfredo-rodriguez", "artist": "Alfredo Rodriguez", "stage": null, "festivalDay": 17, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d17-na-son-rompe-pera", "artist": "Son Rompe Pera", "stage": null, "festivalDay": 17, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

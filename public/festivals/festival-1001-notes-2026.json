@@ -4,9 +4,9 @@
   "location": "Limoges",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.festival1001notes.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festival1001notes.com (line-up partiel annoncé, horaires et scènes non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -35,5 +35,90 @@
       "date": "2026-07-19"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-na-rap-symphonique-il-etait-une-fois-a-marseille",
+      "artist": "Rap Symphonique – Il était une fois à Marseille",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-origines-symphonic",
+      "artist": "Origines Symphonic",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-alter-ego-thibault-cauvin",
+      "artist": "Alter Ego // Thibault Cauvin",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-de-bach-au-hip-hop-beatrice-berrut-skye-edwards",
+      "artist": "De Bach au Hip-Hop // Beatrice Berrut & Skye Edwards",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-stabat-mater-philippe-jaroussky",
+      "artist": "Stabat Mater // Philippe Jaroussky",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-natalie-dessay-chante-broadway",
+      "artist": "Natalie Dessay chante Broadway",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

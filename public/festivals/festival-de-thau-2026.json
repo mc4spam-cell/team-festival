@@ -4,86 +4,400 @@
   "location": "Mèze",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.festivaldethau.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festivaldethau.com — line-up annoncé par date sans horaires (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé par jour, horaires non publiés",
   "stages": [],
   "days": [
     {
       "id": 1,
-      "label": "Samedi 11",
+      "label": "Samedi",
       "date": "2026-07-11"
     },
     {
       "id": 2,
-      "label": "Dimanche 12",
+      "label": "Dimanche",
       "date": "2026-07-12"
     },
     {
       "id": 3,
-      "label": "Lundi 13",
+      "label": "Lundi",
       "date": "2026-07-13"
     },
     {
       "id": 4,
-      "label": "Mardi 14",
+      "label": "Mardi",
       "date": "2026-07-14"
     },
     {
       "id": 5,
-      "label": "Mercredi 15",
+      "label": "Mercredi",
       "date": "2026-07-15"
     },
     {
       "id": 6,
-      "label": "Jeudi 16",
+      "label": "Jeudi",
       "date": "2026-07-16"
     },
     {
       "id": 7,
-      "label": "Vendredi 17",
+      "label": "Vendredi",
       "date": "2026-07-17"
     },
     {
       "id": 8,
-      "label": "Samedi 18",
+      "label": "Samedi",
       "date": "2026-07-18"
     },
     {
       "id": 9,
-      "label": "Dimanche 19",
+      "label": "Dimanche",
       "date": "2026-07-19"
     },
     {
       "id": 10,
-      "label": "Lundi 20",
+      "label": "Lundi",
       "date": "2026-07-20"
     },
     {
       "id": 11,
-      "label": "Mardi 21",
+      "label": "Mardi",
       "date": "2026-07-21"
     },
     {
       "id": 12,
-      "label": "Mercredi 22",
+      "label": "Mercredi",
       "date": "2026-07-22"
     },
     {
       "id": 13,
-      "label": "Jeudi 23",
+      "label": "Jeudi",
       "date": "2026-07-23"
     },
     {
       "id": 14,
-      "label": "Vendredi 24",
+      "label": "Vendredi",
       "date": "2026-07-24"
     },
     {
       "id": 15,
-      "label": "Samedi 25",
+      "label": "Samedi",
       "date": "2026-07-25"
+    },
+    {
+      "id": 16,
+      "label": "Dimanche",
+      "date": "2026-07-26"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-na-camille-en-bal",
+      "artist": "Camille en Bal",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d7-na-super-volcan",
+      "artist": "sUpER vOlcAN",
+      "stage": null,
+      "festivalDay": 7,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d11-na-marianne-aya-omac-et-mao-sextet",
+      "artist": "Marianne Aya Omac & Mao Sextet",
+      "stage": null,
+      "festivalDay": 11,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d11-na-passion-coco",
+      "artist": "Passion Coco",
+      "stage": null,
+      "festivalDay": 11,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d12-na-la-litanie-des-cimes-et-mah-damba",
+      "artist": "La Litanie des Cimes & Mah Damba",
+      "stage": null,
+      "festivalDay": 12,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-la-dame-blanche",
+      "artist": "La Dame Blanche",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-jahneration",
+      "artist": "Jahneration",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-bois-vert",
+      "artist": "Bois Vert",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d13-na-sabor-a-mi",
+      "artist": "Sabor a Mi",
+      "stage": null,
+      "festivalDay": 13,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-na-sanseverino",
+      "artist": "Sanseverino",
+      "stage": null,
+      "festivalDay": 14,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-na-tetes-raides",
+      "artist": "Têtes Raides",
+      "stage": null,
+      "festivalDay": 14,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-na-anais-klein-et-alienor",
+      "artist": "Anaïs Klein & Aliénor",
+      "stage": null,
+      "festivalDay": 14,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d14-na-sin-dee",
+      "artist": "Sin'Dee",
+      "stage": null,
+      "festivalDay": 14,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d15-na-matyemah",
+      "artist": "Matyemah",
+      "stage": null,
+      "festivalDay": 15,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d15-na-yuri-buenaventura",
+      "artist": "Yuri Buenaventura",
+      "stage": null,
+      "festivalDay": 15,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d15-na-bakir",
+      "artist": "Bakir",
+      "stage": null,
+      "festivalDay": 15,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d15-na-anais-klein-et-alienor",
+      "artist": "Anaïs Klein & Aliénor",
+      "stage": null,
+      "festivalDay": 15,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d15-na-guila-selecta",
+      "artist": "Guila'Selecta",
+      "stage": null,
+      "festivalDay": 15,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d16-na-thibaut",
+      "artist": "Thibaut",
+      "stage": null,
+      "festivalDay": 16,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d16-na-suzane",
+      "artist": "Suzane",
+      "stage": null,
+      "festivalDay": 16,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d16-na-mathilda",
+      "artist": "Mathilda",
+      "stage": null,
+      "festivalDay": 16,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d16-na-cosmic-banana",
+      "artist": "Cosmic Banana",
+      "stage": null,
+      "festivalDay": 16,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

@@ -4,10 +4,41 @@
   "location": "Prades",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.prades-festival-casals.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festivalpablocasals.fr (ex prades-festival-casals.com) — programmation annoncée par jour et par lieu, horaires non publiés (extraction 2026-06-11)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
+  "stages": [
+    {
+      "id": "ABBAYE_CUXA",
+      "name": "Abbaye Saint-Michel de Cuxa",
+      "color": "#8C6A4A"
+    },
+    {
+      "id": "MEMORIAL_RIVESALTES",
+      "name": "Mémorial de Rivesaltes",
+      "color": "#7A7A7A"
+    },
+    {
+      "id": "EGLISE_PRADES",
+      "name": "Église de Prades",
+      "color": "#9A4A6A"
+    },
+    {
+      "id": "EGLISE_COLLIOURE",
+      "name": "Église de Collioure",
+      "color": "#4A8C8C"
+    },
+    {
+      "id": "PRIEURE_MARCEVOL",
+      "name": "Prieuré de Marcevol",
+      "color": "#6A8C4A"
+    },
+    {
+      "id": "GROTTE_CANALETTES",
+      "name": "Grotte des Canalettes",
+      "color": "#5A5A7A"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -70,5 +101,202 @@
       "date": "2026-08-08"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-abbayecuxa-jean-guihen-queyras",
+      "artist": "Jean-Guihen Queyras",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-abbayecuxa-jean-guihen-queyras-nelson-goerner",
+      "artist": "Jean-Guihen Queyras & Nelson Goerner",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-memorialrivesaltes-quintette-a-cordes-de-lorchestre-du-festival",
+      "artist": "Quintette à cordes de l'Orchestre du Festival",
+      "stage": "MEMORIAL_RIVESALTES",
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-abbayecuxa-ensemble-intercontemporain",
+      "artist": "Ensemble Intercontemporain",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d4-abbayecuxa-anastasia-kobekina",
+      "artist": "Anastasia Kobekina",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 4,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d5-abbayecuxa-michiaki-ueno-alexandra-soumm-jose-gallardo",
+      "artist": "Michiaki Ueno, Alexandra Soumm, José Gallardo",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 5,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d6-egliseprades-quintette-a-vent-de-lorchestre-du-festival",
+      "artist": "Quintette à vent de l'Orchestre du Festival",
+      "stage": "EGLISE_PRADES",
+      "festivalDay": 6,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d7-abbayecuxa-kian-soltani-ensemble-shiraz",
+      "artist": "Kian Soltani & Ensemble Shiraz",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 7,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d8-abbayecuxa-le-concert-des-nations",
+      "artist": "Le Concert des Nations",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 8,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d9-abbayecuxa-pablo-ferrandez-luis-del-valle",
+      "artist": "Pablo Ferrández & Luis del Valle",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 9,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d9-eglisecollioure-philia-trio",
+      "artist": "Philia Trio",
+      "stage": "EGLISE_COLLIOURE",
+      "festivalDay": 9,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d10-prieuremarcevol-philia-trio",
+      "artist": "Philia Trio",
+      "stage": "PRIEURE_MARCEVOL",
+      "festivalDay": 10,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d11-grottecanalettes-lisa-strauss",
+      "artist": "Lisa Strauss",
+      "stage": "GROTTE_CANALETTES",
+      "festivalDay": 11,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d12-abbayecuxa-concert-de-cloture",
+      "artist": "Concert de clôture",
+      "stage": "ABBAYE_CUXA",
+      "festivalDay": 12,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

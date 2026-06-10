@@ -4,9 +4,9 @@
   "location": "Villegusien-le-Lac",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.chienaplumes.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.chienaplumes.fr — têtes d'affiche annoncées par jour, horaires/scènes non publiés (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up partiel annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -25,5 +25,12 @@
       "date": "2026-08-02"
     }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "d1-na-deluxe", "artist": "Deluxe (carte blanche)", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-suzane", "artist": "Suzane", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-dub-inc", "artist": "Dub Inc", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-yame", "artist": "Yamê", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-louis-bertignac", "artist": "Louis Bertignac", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-fatoumata-diawara", "artist": "Fatoumata Diawara", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

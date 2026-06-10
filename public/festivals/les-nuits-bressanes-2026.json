@@ -4,9 +4,9 @@
   "location": "Louhans",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.lesnuitsbressanes.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.lesnuitsbressanes.fr (line-up partiel annoncé, horaires non publiés — statut : Running Order Incomplet, extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -20,5 +20,48 @@
       "date": "2026-07-04"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d2-na-soprano",
+      "artist": "Soprano",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-carlton",
+      "artist": "Carlton",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-vanille",
+      "artist": "Vanille",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

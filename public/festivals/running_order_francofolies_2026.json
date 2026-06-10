@@ -1,7 +1,7 @@
 {
   "festival": "Francofolies de La Rochelle 2026",
   "timezone": "Europe/Paris",
-  "source": "Site officiel https://www.francofolies.fr/programmation/ (artiste + scène + jour, horaires non publiés) ; enrichissement API Deezer. Extraction le 06/06/2026.",
+  "source": "Site officiel https://www.francofolies.fr/programmation/ (artiste + scène + jour, horaires non publiés) ; enrichissement API Deezer. Extraction le 06/06/2026, re-vérifié le 2026-06-10 (toujours sans horaires).",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [

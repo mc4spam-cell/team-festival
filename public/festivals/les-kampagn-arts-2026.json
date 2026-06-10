@@ -4,7 +4,7 @@
   "location": "Saint-Paterne-Racan",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.leskampagnarts.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.leskampagnarts.fr — domaine injoignable lors de l'extraction (échec de connexion / DNS) (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — programmation à venir",
   "stages": [],

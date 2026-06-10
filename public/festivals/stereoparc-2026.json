@@ -4,7 +4,7 @@
   "location": "Rochefort",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.stereoparc.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.stereoparc.fr — page inaccessible (erreur certificat TLS, ERR_TLS_CERT_ALTNAME_INVALID), extraction impossible (extraction 2026-06-11)",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — programmation à venir",
   "stages": [],

@@ -4,10 +4,26 @@
   "location": "Carcassonne",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.festivaldecarcassonne.fr/article-page/toute-la-programmation (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festivaldecarcassonne.fr/article-page/toute-la-programmation (artiste + date + heure de début + lieu ; heures de fin non publiées ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — horaires de fin manquants",
+  "stages": [
+    {
+      "id": "THEATRE_JEAN_DESCHAMPS",
+      "name": "Théâtre Jean-Deschamps",
+      "color": "#C0392B"
+    },
+    {
+      "id": "CHATEAU_COMTAL",
+      "name": "Château Comtal",
+      "color": "#8E44AD"
+    },
+    {
+      "id": "PLACE_CARNOT",
+      "name": "Place Carnot",
+      "color": "#2980B9"
+    }
+  ],
   "days": [
     {
       "id": 1,
@@ -83,7 +99,304 @@
       "id": 15,
       "label": "Vendredi 10",
       "date": "2026-07-10"
+    },
+    {
+      "id": 16,
+      "label": "Samedi 11",
+      "date": "2026-07-11"
+    },
+    {
+      "id": 17,
+      "label": "Dimanche 12",
+      "date": "2026-07-12"
+    },
+    {
+      "id": 18,
+      "label": "Lundi 13",
+      "date": "2026-07-13"
+    },
+    {
+      "id": 19,
+      "label": "Mardi 14",
+      "date": "2026-07-14"
+    },
+    {
+      "id": 20,
+      "label": "Mercredi 15",
+      "date": "2026-07-15"
+    },
+    {
+      "id": 21,
+      "label": "Jeudi 16",
+      "date": "2026-07-16"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-cc-cest-moi-marlene-jobert",
+      "artist": "C'est moi... Marlène Jobert (cinéma)",
+      "stage": "CHATEAU_COMTAL",
+      "festivalDay": 1,
+      "start": "2026-06-26T22:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-cc-marchal-par-marchal",
+      "artist": "Marchal par Marchal, portrait intime (cinéma)",
+      "stage": "CHATEAU_COMTAL",
+      "festivalDay": 2,
+      "start": "2026-06-27T22:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-cc-charles-aznavour-en-armenie",
+      "artist": "Charles Aznavour en Arménie (cinéma)",
+      "stage": "CHATEAU_COMTAL",
+      "festivalDay": 3,
+      "start": "2026-06-28T22:00:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d6-tjd-ludovico-einaudi",
+      "artist": "Ludovico Einaudi",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": 6,
+      "start": "2026-07-01T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d7-tjd-clair-obscur-expedition-33",
+      "artist": "Clair Obscur: Expedition 33",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": 7,
+      "start": "2026-07-02T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d18-pc-tetes-raides",
+      "artist": "Têtes Raides (avec Marty)",
+      "stage": "PLACE_CARNOT",
+      "festivalDay": 18,
+      "start": "2026-07-13T20:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d18-tjd-ben-mazue",
+      "artist": "Ben Mazué",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": 18,
+      "start": "2026-07-13T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d20-tjd-feu-chatterton",
+      "artist": "Feu! Chatterton",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": 20,
+      "start": "2026-07-15T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d21-tjd-chris-isaak",
+      "artist": "Chris Isaak",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": 21,
+      "start": "2026-07-16T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-tjd-bigflo-oli",
+      "artist": "Bigflo & Oli (avec Fredz)",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": null,
+      "start": "2026-07-17T20:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-tjd-christophe-mae",
+      "artist": "Christophe Maé",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": null,
+      "start": "2026-07-18T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-tjd-booba",
+      "artist": "Booba",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": null,
+      "start": "2026-07-23T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-tjd-sex-pistols",
+      "artist": "Sex Pistols (avec Les Wampas)",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": null,
+      "start": "2026-07-28T20:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-tjd-zaz-claudio-capeo",
+      "artist": "Zaz + Claudio Capeo",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": null,
+      "start": "2026-07-30T20:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-tjd-kool-and-the-gang",
+      "artist": "Kool and the Gang",
+      "stage": "THEATRE_JEAN_DESCHAMPS",
+      "festivalDay": null,
+      "start": "2026-07-31T21:30:00+02:00",
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-franz-ferdinand",
+      "artist": "Franz Ferdinand",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-tom-odell",
+      "artist": "Tom Odell",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-gaetan-roussel",
+      "artist": "Gaëtan Roussel",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-asaf-avidan",
+      "artist": "Asaf Avidan",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

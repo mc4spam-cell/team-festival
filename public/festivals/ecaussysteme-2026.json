@@ -4,26 +4,36 @@
   "location": "Gignac",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.ecaussysteme.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.ecaussysteme.com/programmation/ (statut : Running Order Incomplet — line-up annoncé par jour, horaires et scènes non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé par jour, horaires non publiés et scènes non assignées",
   "stages": [],
   "days": [
-    {
-      "id": 1,
-      "label": "Vendredi 31",
-      "date": "2026-07-31"
-    },
-    {
-      "id": 2,
-      "label": "Samedi 1",
-      "date": "2026-08-01"
-    },
-    {
-      "id": 3,
-      "label": "Dimanche 2",
-      "date": "2026-08-02"
-    }
+    { "id": 1, "label": "Vendredi 31", "date": "2026-07-31" },
+    { "id": 2, "label": "Samedi 1", "date": "2026-08-01" },
+    { "id": 3, "label": "Dimanche 2", "date": "2026-08-02" }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "d1-na-zelie", "artist": "Zélie", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-ensemble", "artist": "Ensemble !!!", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-royal-republic", "artist": "Royal Republic", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-the-libertines", "artist": "The Libertines", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-youssoupha", "artist": "Youssoupha", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-dub-inc", "artist": "Dub Inc", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d1-na-rakoon", "artist": "Rakoon", "stage": null, "festivalDay": 1, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-antes-madzes", "artist": "Antes & Madzes", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-gael-faye", "artist": "Gaël Faye", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-fatoumata-diawara", "artist": "Fatoumata Diawara", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-jean-louis-aubert", "artist": "Jean-Louis Aubert", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-fff", "artist": "FFF", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-keny-arkana", "artist": "Keny Arkana", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d2-na-mandragora", "artist": "Mandragora", "stage": null, "festivalDay": 2, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-la-cafetera-roja", "artist": "La Cafetera Roja", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-feu-chatterton", "artist": "Feu! Chatterton", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-groundation", "artist": "Groundation", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-julien-dore", "artist": "Julien Doré", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-gramatik", "artist": "Gramatik", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-riles", "artist": "Riles", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "d3-na-sergent-garcia", "artist": "Sergent Garcia", "stage": null, "festivalDay": 3, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

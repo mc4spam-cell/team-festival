@@ -4,9 +4,9 @@
   "location": "Cabourg",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.festival-cabourg.com/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festival-cabourg.com/ (page JS — extraction impossible, sélection films présente mais séances/horaires non extractibles, extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
   "stages": [],
   "days": [
     {

@@ -4,9 +4,9 @@
   "location": "Saint-Maurice-de-Gourdans",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.sylakopenair.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.sylakopenair.com — line-up annoncé, running order (jours/horaires/scènes) non publié (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -25,5 +25,34 @@
       "date": "2026-08-02"
     }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "dx-na-black-label-society", "artist": "Black Label Society", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-heaven-shall-burn", "artist": "Heaven Shall Burn", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-biohazard", "artist": "Biohazard", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-dark-tranquillity", "artist": "Dark Tranquillity", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-sun", "artist": "Sun", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-madball", "artist": "Madball", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-orden-ogan", "artist": "Orden Ogan", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-the-casualties", "artist": "The Casualties", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-rise-of-the-northstar", "artist": "Rise of the Northstar", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-agnostic-front", "artist": "Agnostic Front", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-misery-index", "artist": "Misery Index", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-locomuerte", "artist": "Locomuerte", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-amorphis", "artist": "Amorphis", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-terror", "artist": "Terror", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-truckfighters", "artist": "Truckfighters", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-gorod", "artist": "Gorod", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-the-great-old-ones", "artist": "The Great Old Ones", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-slomosa", "artist": "Slomosa", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-reverend-beat-man-milan-slick", "artist": "Reverend Beat-Man & Milan Slick", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-gravekvlt", "artist": "Gravekvlt", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-embrace-your-punishment", "artist": "Embrace Your Punishment", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-pilori", "artist": "Pilori", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-nocide", "artist": "Nocide", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-occult-hand-order", "artist": "Occult Hand Order", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-death-decline", "artist": "Death Decline", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-catchlight", "artist": "Catchlight", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-face-2-fake", "artist": "Face 2 Fake", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-na-psyclons", "artist": "Psyclons", "stage": null, "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

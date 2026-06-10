@@ -4,7 +4,7 @@
   "location": "Saint-Prouant",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.lesfeuxdelete.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.lesfeuxdelete.fr (connexion impossible / ECONNREFUSED, domaine lesfeuxdelete.fr injoignable, extraction 2026-06-10)",
   "status": "Running Order Incomplet",
   "warning": "Running order incomplet — programmation à venir",
   "stages": [],

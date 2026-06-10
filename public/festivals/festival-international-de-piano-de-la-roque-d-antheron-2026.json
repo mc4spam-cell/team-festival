@@ -4,9 +4,9 @@
   "location": "La Roque-d'Anthéron",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.festival-piano.com/fpr_festival/2026/ (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.festival-piano.com/fpr_festival/2026/ (line-up partiel annoncé — artistes connus, dates et horaires de concerts non publiés ; extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up annoncé, dates et horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -85,5 +85,132 @@
       "date": "2026-07-30"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "dx-na-khatia-buniatishvili",
+      "artist": "Khatia Buniatishvili",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-bruce-liu",
+      "artist": "Bruce Liu",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-seong-jin-cho",
+      "artist": "Seong-Jin Cho",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-arcadi-volodos",
+      "artist": "Arcadi Volodos",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-alexandre-kantorow",
+      "artist": "Alexandre Kantorow",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-lise-de-la-salle",
+      "artist": "Lise de la Salle",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-francesco-piemontesi",
+      "artist": "Francesco Piemontesi",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-dmitry-masleev",
+      "artist": "Dmitry Masleev",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "dx-na-thomas-enhco",
+      "artist": "Thomas Enhco",
+      "stage": null,
+      "festivalDay": null,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

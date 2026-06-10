@@ -1,48 +1,144 @@
 # Rapport running orders — 2026-06-10
 
-## 0 nouveau running order complet aujourd'hui
+**Festivals examinés :** 104 (fenêtre 2026-06-10 → 2026-08-05)
 
-Aucun festival de la fenêtre (1re date entre **2026-06-10 et 2026-08-05**) n'a publié de **running order horodaté complet** (artiste + scène + heure de début **et** heure de fin) ce matin. Constat identique à hier : les festivals examinés publient au mieux des **heures de début** (sans heure de fin) ou de simples **line-ups par jour**. Conformément à la consigne, aucun horaire n'a été inventé → tous restent en `Running Order Incomplet`.
+## En tête
 
-## Périmètre examiné
+**0 nouveau running order *complet* (start+end pour chaque set) aujourd'hui.**
 
-- **2 948 entrées** chargées (2 018 musique + 930 hors-musique, convention `festivals_musique.json` / `festivals_hors_musique.json`).
-- **111 festivals sélectionnés** : 1re date dans la fenêtre, `statut_2026` ≠ annulé/arrêté/hors-fenêtre, dates `dates_2026` parsables. **102 musique + 9 hors-musique.**
-- **Couverture : 111/111 ont désormais un fichier dans `public/festivals/`** (objectif v2 atteint — tout festival à venir est visible dans le sélecteur de l'app, marqué « Programmation à venir »).
-  - **97 nouveaux squelettes** `<slug>-2026.json` créés (`status: "Running Order Incomplet"`, `days` peuplés depuis `dates_2026`).
-  - **14 festivals déjà couverts** par un fichier existant (Hellfest + 13 `running_order_*.json` legacy / squelettes antérieurs). **9 squelettes en doublon ont été supprimés** au profit du fichier legacy (qui contient le travail d'extraction antérieur) — voir note technique.
+Cependant **71 festivals** ont vu leur line-up / programmation annoncée extraite et ajoutée (statut « Running Order Incomplet » avec programmation affichable). 33 restent sans programmation extractible.
 
-## Fetch ciblé du jour (festivals imminents)
+### Programmations extraites les plus riches (line-up annoncé, horaires partiels/absents)
 
-Re-contrôle des festivals les plus proches, les plus susceptibles d'avoir publié une timetable complète depuis hier :
+| Festival | Domaine | Début | Concerts | dont horodatés |
+|---|---|---|---:|---:|
+| Delta Festival | musique | 2026-07-23 | 107 | 0 |
+| Garorock | musique | 2026-06-25 | 73 | 0 |
+| Francofolies de La Rochelle | musique | 2026-07-10 | 71 | 0 |
+| Solidays | musique | 2026-06-26 | 63 | 0 |
+| Musicalarue | musique | 2026-07-31 | 62 | 0 |
+| Family Piknik | musique | 2026-08-01 | 62 | 0 |
+| Les Vieilles Charrues | musique | 2026-07-16 | 61 | 0 |
+| Summer Vibration | musique | 2026-07-30 | 52 | 0 |
+| Festival Interceltique de Lorient | musique | 2026-07-31 | 49 | 49 |
+| Les Déferlantes | musique | 2026-07-10 | 44 | 0 |
+| Les Nuits Secrètes | musique | 2026-07-10 | 40 | 11 |
+| Les Escales | musique | 2026-07-24 | 39 | 33 |
+| Festival du Bout du Monde | musique | 2026-07-31 | 38 | 0 |
+| Foreztival | musique | 2026-07-31 | 38 | 0 |
+| Marsatac | musique | 2026-06-12 | 37 | 0 |
+| Xtreme Fest | musique | 2026-07-30 | 33 | 0 |
+| Festival de Nîmes | musique | 2026-06-11 | 31 | 0 |
+| Marseille Jazz des Cinq Continents | musique | 2026-07-01 | 31 | 0 |
+| Europavox | musique | 2026-06-26 | 29 | 0 |
+| Sylak Open Air | musique | 2026-07-31 | 28 | 0 |
+| Minuit avant la Nuit | musique | 2026-06-11 | 27 | 27 |
+| Brive Festival | musique | 2026-07-16 | 27 | 0 |
+| La Bonne Aventure | musique | 2026-06-19 | 26 | 0 |
+| Festival international de Colmar | musique | 2026-07-05 | 23 | 23 |
+| Tempo Latino | musique | 2026-07-30 | 23 | 0 |
+| Montpellier Danse | spectacle vivant | 2026-06-20 | 22 | 0 |
+| Festival de Thau | musique | 2026-07-11 | 22 | 0 |
+| Art Sonic | musique | 2026-07-24 | 21 | 0 |
+| Ecaussystème | musique | 2026-07-31 | 21 | 0 |
+| Astropolis | musique | 2026-07-02 | 20 | 0 |
 
-| Festival | Dates | Constat |
-|---|---|---|
-| Solidays | 26-28 juin | Line-up par jour uniquement, pas de timetable |
-| La Bonne Aventure | 19-21 juin | Line-up + jour, pas d'horaires |
-| Les Nuits Carrées | 18-20 juin | Line-up par jour, ni scène ni horaires |
-| Festival de Carcassonne | concerts juil. | Série de concerts : date + heure de début + lieu, **pas d'heure de fin** |
-| Marsatac | 12-14 juin | Line-up par jour, pas d'horaires |
-| Free Music Festival | 19-20 juin | Line-up confirmé, pas de scènes/horaires |
-| Les Escales | 24-26 juil | Heures de **début** seules (« Josman – ven. 24/07 – 22:15 »), fin absente |
-| Guitare en Scène | 14-18 juil | Heures de **début** seules par jour, fin absente |
+### Festivals avec horaires de début publiés (15)
 
-→ Aucun ne franchit le seuil « horaires début **et** fin » requis pour `Complet`.
+- **Minuit avant la Nuit** (2026-06-11) — 27/27 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Flâneries Musicales de Reims** (2026-06-18) — 5/5 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Chorégies d'Orange** (2026-06-21) — 6/7 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Festival de Carcassonne** (2026-06-26) — 15/19 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Festival international de Colmar** (2026-07-05) — 23/23 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Festival Radio France Occitanie Montpellier** (2026-07-05) — 4/5 concerts horodatés. Running order incomplet — programmation partielle, horaires de fin manquants
+- **Jazz à Juan** (2026-07-09) — 18/18 concerts horodatés. Running order incomplet — horaires de fin manquants, scènes non assignées
+- **Les Nuits Secrètes** (2026-07-10) — 11/40 concerts horodatés. Running order incomplet — horaires de fin manquants, plusieurs artistes sans jour/scène assignés
+- **Fête du Bruit dans Saint-Nolff** (2026-07-10) — 20/20 concerts horodatés. Running order incomplet — horaires de fin et scènes manquants
+- **Les Suds à Arles** (2026-07-13) — 6/6 concerts horodatés. Running order incomplet — programmation dévoilée progressivement, seul le 1er jour publié
+- **Guitare en Scène** (2026-07-14) — 9/9 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Les Escales** (2026-07-24) — 33/39 concerts horodatés. Running order incomplet — heures de début publiées, heures de fin manquantes et scènes non assignées
+- **Un Violon sur le Sable** (2026-07-25) — 18/18 concerts horodatés. Running order incomplet — horaires de fin manquants
+- **Festival Interceltique de Lorient** (2026-07-31) — 49/49 concerts horodatés. Running order incomplet — line-up annoncé, horaires non publiés
+- **Festival de la Foire aux Vins d'Alsace** (2026-07-31) — 14/20 concerts horodatés. Running order incomplet — têtes d'affiche horodatées, premières parties sans horaires
 
-## Festivals proches d'être finalisables (heures de début publiées, fin manquante)
+## Festivals en attente — aucune programmation extractible (33)
 
-À recontrôler les prochains jours (publient les heures de début, parfois les scènes) : **Les Escales**, **Guitare en Scène**, **Les Suds à Arles**, **Jazz à Juan**, **Festival de Colmar**, **La Roque-d'Anthéron**, **Rock en Stock**. Festival de Carcassonne publie aussi date + début + lieu pour chaque concert (format série, pas grille festival).
+Squelette « Running Order Incomplet » conservé, jours peuplés.
 
-## Domaines à investiguer (pages JavaScript / non contournées)
+| Festival | Domaine | Début | Avertissement |
+|---|---|---|---|
+| Rio Loco | musique | 2026-06-10 | Running order incomplet — page non extractible (rendu JS) |
+| Festival du film de Cabourg - Journées romantiques | cinéma | 2026-06-10 | Running order incomplet — page non extractible (rendu JS) |
+| Les Feux de l'Été | musique | 2026-06-12 | Running order incomplet — programmation à venir |
+| Festival de Sully et du Loiret | musique | 2026-06-13 | Running order incomplet — programmation à venir |
+| Festival de Marseille | spectacle vivant | 2026-06-14 | Running order incomplet — page non extractible (rendu JS) |
+| Festival international du film d'animation d'Annecy | animation | 2026-06-21 | Running order incomplet — page non extractible (rendu JS) |
+| Sunny Side of the Doc | documentaire | 2026-06-22 | Running order incomplet — page non extractible (rendu JS) |
+| Catalpa Festival | musique | 2026-06-26 | Running order incomplet — programmation à venir |
+| Rencontres et Racines | musique | 2026-06-26 | Running order incomplet — programmation à venir |
+| Les Kampagn'Arts | musique | 2026-06-26 | Running order incomplet — programmation à venir |
+| Festival La Rochelle Cinéma (FEMA) | cinéma | 2026-06-26 | Running order incomplet — programmation détaillée non extractible sur la page |
+| Festival de Poupet | musique | 2026-07-01 | Running order incomplet — programmation à venir |
+| Festival d'Aix-en-Provence | musique | 2026-07-02 | Running order incomplet — programmation à venir |
+| Musiques en Stock | musique | 2026-07-02 | Running order incomplet — programmation à venir |
+| Macki Music Festival | musique | 2026-07-02 | Running order incomplet — page non extractible (rendu JS) |
+| Avoine Zone Groove | musique | 2026-07-03 | Running order incomplet — page non extractible (rendu JS) |
+| La Pamparina | musique | 2026-07-03 | Running order incomplet — programmation à venir |
+| Festival d'Avignon (IN) | spectacle vivant | 2026-07-04 | Running order incomplet — page non extractible (rendu JS) |
+| Festival Off d'Avignon | spectacle vivant | 2026-07-04 | Running order incomplet — page non extractible (rendu JS) |
+| Jazz à Vannes | musique | 2026-07-08 | Running order incomplet — page non extractible (rendu JS) |
+| Dub Camp Festival | musique | 2026-07-10 | Running order incomplet — page non extractible (rendu JS) |
+| Peacock Society | musique | 2026-07-10 | Running order incomplet — programmation à venir |
+| Pete the Monkey | musique | 2026-07-10 | Running order incomplet — page non extractible (rendu JS) |
+| Cabaret Frappé | musique | 2026-07-15 | Running order incomplet — page non extractible (rendu JS) |
+| Festival de Cornouaille | musique | 2026-07-23 | Running order incomplet — programmation à venir |
+| Au Fil du Son | musique | 2026-07-23 | Running order incomplet — programmation à venir |
+| Chalon dans la rue | spectacle vivant | 2026-07-23 | Running order incomplet — programmation à venir |
+| Binic Folks Blues Festival | musique | 2026-07-24 | Running order incomplet — programmation à venir |
+| Rock en Stock | musique | 2026-07-24 | Running order incomplet — programmation à venir |
+| Stereoparc | musique | 2026-07-24 | Running order incomplet — programmation à venir |
+| Country Rendez-Vous | musique | 2026-07-25 | Running order incomplet — programmation à venir |
+| Au Pont du Rock | musique | 2026-07-31 | Running order incomplet — programmation à venir |
+| Festival du Périgord Noir | musique | 2026-08-02 | Running order incomplet — programmation à venir |
 
-Inchangé depuis hier (rendu JS, conformément à la consigne aucun curl/headless tenté) :
-`garorock.com`, `delta-festival.com`, `vieillescharrues.asso.fr` (Fragolabs), `europavox.com`, `avoinezonegroove.fr`, `festival-avignon.com` (IN), `petethemonkey.com`, `programme.annecyfestival.com` (OAuth).
+## Domaines à investiguer (pages JS / sites en erreur)
 
-## Erreurs / sites injoignables (rappel hier)
+- **Rio Loco** — Running order incomplet — page non extractible (rendu JS)
+- **Festival du film de Cabourg - Journées romantiques** — Running order incomplet — page non extractible (rendu JS)
+- **Les Feux de l'Été** — Running order incomplet — programmation à venir
+- **Festival de Sully et du Loiret** — Running order incomplet — programmation à venir
+- **Festival de Marseille** — Running order incomplet — page non extractible (rendu JS)
+- **Festival international du film d'animation d'Annecy** — Running order incomplet — page non extractible (rendu JS)
+- **Sunny Side of the Doc** — Running order incomplet — page non extractible (rendu JS)
+- **Catalpa Festival** — Running order incomplet — programmation à venir
+- **Rencontres et Racines** — Running order incomplet — programmation à venir
+- **Les Kampagn'Arts** — Running order incomplet — programmation à venir
+- **Festival La Rochelle Cinéma (FEMA)** — Running order incomplet — programmation détaillée non extractible sur la page
+- **Festival de Poupet** — Running order incomplet — programmation à venir
+- **Festival d'Aix-en-Provence** — Running order incomplet — programmation à venir
+- **Musiques en Stock** — Running order incomplet — programmation à venir
+- **Macki Music Festival** — Running order incomplet — page non extractible (rendu JS)
+- **Avoine Zone Groove** — Running order incomplet — page non extractible (rendu JS)
+- **La Pamparina** — Running order incomplet — programmation à venir
+- **Festival d'Avignon (IN)** — Running order incomplet — page non extractible (rendu JS)
+- **Festival Off d'Avignon** — Running order incomplet — page non extractible (rendu JS)
+- **Jazz à Vannes** — Running order incomplet — page non extractible (rendu JS)
+- **Dub Camp Festival** — Running order incomplet — page non extractible (rendu JS)
+- **Peacock Society** — Running order incomplet — programmation à venir
+- **Pete the Monkey** — Running order incomplet — page non extractible (rendu JS)
+- **Cabaret Frappé** — Running order incomplet — page non extractible (rendu JS)
+- **Festival de Cornouaille** — Running order incomplet — programmation à venir
+- **Au Fil du Son** — Running order incomplet — programmation à venir
+- **Chalon dans la rue** — Running order incomplet — programmation à venir
+- **Binic Folks Blues Festival** — Running order incomplet — programmation à venir
+- **Rock en Stock** — Running order incomplet — programmation à venir
+- **Stereoparc** — Running order incomplet — programmation à venir
+- **Country Rendez-Vous** — Running order incomplet — programmation à venir
+- **Au Pont du Rock** — Running order incomplet — programmation à venir
+- **Festival du Périgord Noir** — Running order incomplet — programmation à venir
 
-TLS/connexion à recontrôler : `thiers.fr`, `thepeacocksociety.fr`, `stereoparc.fr`, `lesfeuxdelete.fr`, `festival-sully.loiret.fr`, `musiquesenstock.com`, `festivalaufilduson.fr`, `rencontresetracines.fr`, `leskampagnarts.fr`, `binicfolksbluesfestival.com`, `countryrendezvous.com`. HTTP : `festival-aix.com` (404), `festival-poupet.com` (redir), `festivalduperigordnoir.fr` (403).
+### Notes techniques
 
-## Note technique
-
-- `derniere_verification` mise à 2026-06-10 sur les **111 festivals examinés** (102 dans `festivals_musique.json`, 9 dans `festivals_hors_musique.json`). Aucun autre champ touché ; `statut_2026` (manuel) inchangé. Aucun `running_order_file` ajouté (pas de RO horodaté extrait).
-- **Dé-duplication** : la convention de slug NFKD (`<slug>-2026.json`) ne matchait pas les fichiers legacy `running_order_<slug-court>_2026.json`. 9 squelettes vides créés en doublon ont donc été supprimés pour préserver le travail antérieur : Jazz à Vienne, Eurockéennes, Nuit de l'Erdre, Main Square, Francofolies, Déferlantes, Vieilles Charrues, Delta, Interceltique. Le fichier legacy reste la source de vérité pour ces festivals.
+- Plusieurs domaines injoignables au fetch (ECONNREFUSED / TLS / 403 / redirections) : lesfeuxdelete.fr, festival-sully.loiret.fr, rencontresetracines.fr, leskampagnarts.fr, festival-poupet.com, musiquesenstock.com, thiers.fr (TLS), thepeacocksociety.fr (TLS), stereoparc.fr (TLS), binicfolksbluesfestival.com, countryrendezvous.com, festivalaufilduson.fr, festivalduperigordnoir.fr (403), festival-aix.com (404).
+- Pages JS non extractibles (rendu dynamique / widget Fragolabs / OAuth) : rio-loco.org, festival-cabourg.com, festivaldemarseille.com, programme.annecyfestival.com, sunnysideofthedoc.com, festival-avignon.com, festivaloffavignon.com (PDF), mackimusicfestival.fr, avoinezonegroove.fr, dubcampfestival.com, petethemonkeyfestival.info, delta-festival.com, jazzavannes.fr, vieillescharrues.asso.fr (line-up presse conservé), festival-interceltique.bzh (49 sets déjà horodatés conservés).
+- Festival de la Foire aux Vins d'Alsace : têtes d'affiche horodatées (start+end) mais premières parties sans horaires réels → maintenu « Running Order Incomplet » (pas d'invention d'horaires).

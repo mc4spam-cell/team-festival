@@ -4,9 +4,9 @@
   "location": "Nice",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.nicejazzfest.fr (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.nicejazzfest.fr (line-up partiel 2026 annoncé par jour, horaires non publiés ; statut : Running Order Incomplet, extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — line-up partiel annoncé par jour, horaires non publiés",
   "stages": [],
   "days": [
     {
@@ -30,5 +30,76 @@
       "date": "2026-07-26"
     }
   ],
-  "concerts": []
+  "concerts": [
+    {
+      "id": "d1-na-sting",
+      "artist": "Sting",
+      "stage": null,
+      "festivalDay": 1,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-noga-erez",
+      "artist": "Noga Erez",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d2-na-busta-rhymes",
+      "artist": "Busta Rhymes",
+      "stage": null,
+      "festivalDay": 2,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-na-lola-young",
+      "artist": "Lola Young",
+      "stage": null,
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    },
+    {
+      "id": "d3-na-obongjayar",
+      "artist": "Obongjayar",
+      "stage": null,
+      "festivalDay": 3,
+      "start": null,
+      "end": null,
+      "appleMusicPlaylist": null,
+      "appleMusicArtistId": null,
+      "musicBrainzId": null,
+      "spotifyArtistId": null,
+      "deezerArtistId": null,
+      "instagramHandle": null
+    }
+  ]
 }

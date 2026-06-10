@@ -4,10 +4,13 @@
   "location": "Yzeures-sur-Creuse",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.yzeuresnrock.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.yzeuresnrock.com — line-up annoncé par scène, jours et horaires non publiés (extraction 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
-  "stages": [],
+  "warning": "Running order incomplet — line-up annoncé par scène, jours et horaires non publiés",
+  "stages": [
+    { "id": "SCENE_CENTRALE", "name": "Scène Centrale", "color": "#C0392B" },
+    { "id": "SCENE_VILLAGE", "name": "Scène Village", "color": "#2980B9" }
+  ],
   "days": [
     {
       "id": 1,
@@ -25,5 +28,26 @@
       "date": "2026-08-02"
     }
   ],
-  "concerts": []
+  "concerts": [
+    { "id": "dx-centrale-gims", "artist": "Gims", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-bigflo-oli", "artist": "Bigflo & Oli", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-jean-louis-aubert", "artist": "Jean-Louis Aubert", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-roland-cristal", "artist": "Roland Cristal", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-gaetan-roussel", "artist": "Gaëtan Roussel", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-vald-vladimir-cauchemar-todiefor", "artist": "Vald - Vladimir Cauchemar - Todiefor", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-lk9", "artist": "LK9", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-marcel-et-son-orchestre", "artist": "Marcel et son Orchestre", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-centrale-belon", "artist": "Belon", "stage": "SCENE_CENTRALE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-dirtyphonics", "artist": "Dirtyphonics", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-perceval", "artist": "Perceval", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-boulevard-des-airs", "artist": "Boulevard des Airs", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-manau", "artist": "Manau", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-lilly-wood-and-the-prick", "artist": "Lilly Wood and the Prick", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-sniper", "artist": "Sniper", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-the-locos", "artist": "The Locos", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-fatbabs", "artist": "Fatbabs", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-sangris", "artist": "Sangris", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-max-aydel", "artist": "Max Aydel", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null },
+    { "id": "dx-village-the-strugglers", "artist": "The Strugglers", "stage": "SCENE_VILLAGE", "festivalDay": null, "start": null, "end": null, "appleMusicPlaylist": null, "appleMusicArtistId": null, "musicBrainzId": null, "spotifyArtistId": null, "deezerArtistId": null, "instagramHandle": null }
+  ]
 }

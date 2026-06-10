@@ -4,9 +4,9 @@
   "location": "Joué-sur-Erdre",
   "timezone": "Europe/Paris",
   "color": "#6E6E6E",
-  "source": "https://www.dubcampfestival.com (statut : Running Order Incomplet, extraction 2026-06-10)",
+  "source": "https://www.dubcampfestival.com — line-up annoncé mais détail non publié sur la page (page JS — extraction impossible, 2026-06-10)",
   "status": "Running Order Incomplet",
-  "warning": "Running order incomplet — programmation à venir",
+  "warning": "Running order incomplet — page non extractible (rendu JS)",
   "stages": [],
   "days": [
     {
