@@ -54,7 +54,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-go-vanessa-paradis",
@@ -74,7 +76,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Vanessa Paradis, née le 22 décembre 1972 à Saint-Maur-des-Fossés (Val-de-Marne), est une chanteuse, actrice et mannequin française."
+      "description": "Vanessa Paradis, née le 22 décembre 1972 à Saint-Maur-des-Fossés (Val-de-Marne), est une chanteuse, actrice et mannequin française.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-mk-feu-chatterton",
@@ -94,7 +98,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris."
+      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-go-dropkick-murphys",
@@ -114,7 +120,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Dropkick Murphys est un groupe américain de punk celtique, originaire de Quincy, à côté de South Boston, dans le Massachusetts."
+      "description": "Dropkick Murphys est un groupe américain de punk celtique, originaire de Quincy, à côté de South Boston, dans le Massachusetts.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-mk-bob-sinclar",
@@ -134,7 +142,9 @@
       "facebookHandle": "BobSinclar",
       "twitterHandle": "bobsinclar",
       "tiktokHandle": null,
-      "description": "Bob Sinclar, de son vrai nom Christophe Le Friant, né le 10 mai 1969 dans le 11e arrondissement de Paris, est un disc jockey (DJ), remixeur, compositeur et producteur de musique français."
+      "description": "Bob Sinclar, de son vrai nom Christophe Le Friant, né le 10 mai 1969 dans le 11e arrondissement de Paris, est un disc jockey (DJ), remixeur, compositeur et producteur de musique français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-go-bonne-nuit",
@@ -154,7 +164,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Bonne Nuit est une baie située dans la Vingtaine du Nord de l'île de Jersey. La baie se niche entre le cap de Frémont à l'Ouest et le cap de La Crête à l'Est. Elle donne sur une plage de galets."
+      "description": "Bonne Nuit est une baie située dans la Vingtaine du Nord de l'île de Jersey. La baie se niche entre le cap de Frémont à l'Ouest et le cap de La Crête à l'Est. Elle donne sur une plage de galets.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-mk-maureen",
@@ -174,7 +186,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999."
+      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-go-danakil",
@@ -194,7 +208,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Danakil est un groupe de reggae français, originaire de Marly-le-Roi, en région parisienne. Formé en 2000, le groupe porte un message engagé sur une musique métissée oscillant entre reggae et musique du monde."
+      "description": "Danakil est un groupe de reggae français, originaire de Marly-le-Roi, en région parisienne. Formé en 2000, le groupe porte un message engagé sur une musique métissée oscillant entre reggae et musique du monde.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-mk-ben-harper-the-innocent-criminals",
@@ -214,7 +230,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Benjamin Harper, dit Ben Harper, né le 28 octobre 1969 à Claremont, dans le Greater Los Angeles, en Californie, est un auteur-compositeur-interprète américain."
+      "description": "Benjamin Harper, dit Ben Harper, né le 28 octobre 1969 à Claremont, dans le Greater Los Angeles, en Californie, est un auteur-compositeur-interprète américain.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-go-damso",
@@ -234,7 +252,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Damso est un rappeur, chanteur, acteur et réalisateur congolais naturalisé belge, né le 10 mai 1992 à Kinshasa."
+      "description": "Damso est un rappeur, chanteur, acteur et réalisateur congolais naturalisé belge, né le 10 mai 1992 à Kinshasa.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-mk-bastille",
@@ -254,7 +274,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "La bastille Saint-Antoine, souvent appelée simplement la Bastille, et anciennement les fort et bastide Saint-Anthoine lez Paris, est une forteresse construite au XIVe siècle, à l'emplacement du débouché de la rue..."
+      "description": "La bastille Saint-Antoine, souvent appelée simplement la Bastille, et anciennement les fort et bastide Saint-Anthoine lez Paris, est une forteresse construite au XIVe siècle, à l'emplacement du débouché de la rue...",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-go-perceval",
@@ -274,7 +296,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Perceval est dans la légende arthurienne un des chevaliers de la Table ronde. Dans la littérature galloise, son nom est Peredur. Il est surtout connu pour sa participation à la quête du Saint-Graal."
+      "description": "Perceval est dans la légende arthurienne un des chevaliers de la Table ronde. Dans la littérature galloise, son nom est Peredur. Il est surtout connu pour sa participation à la quête du Saint-Graal.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-go-nodz",
@@ -293,7 +317,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-mk-graphy-t",
@@ -312,7 +338,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-go-dj-zebra",
@@ -332,7 +360,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Zebra est un DJ, musicien, auteur-compositeur-interprète français né le 30 juillet 1971. En tant que DJ, il est essentiellement connu pour ses bootlegs."
+      "description": "Zebra est un DJ, musicien, auteur-compositeur-interprète français né le 30 juillet 1971. En tant que DJ, il est essentiellement connu pour ses bootlegs.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-mk-miki",
@@ -351,7 +381,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-go-matmatah-the-fuzzy-brass-four",
@@ -371,7 +403,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French rock band"
+      "description": "French rock band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-mk-lenny-kravitz",
@@ -391,7 +425,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Lenny Kravitz, né le 26 mai 1964 à New York, est un auteur-compositeur-interprète, musicien, producteur et acteur américain."
+      "description": "Lenny Kravitz, né le 26 mai 1964 à New York, est un auteur-compositeur-interprète, musicien, producteur et acteur américain.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-go-disiz",
@@ -411,7 +447,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Disiz, de son vrai nom Sérigne M'baye Gueye, est un rappeur, chanteur, compositeur, acteur et écrivain français, né le 22 mars 1978 à Amiens (Somme)."
+      "description": "Disiz, de son vrai nom Sérigne M'baye Gueye, est un rappeur, chanteur, compositeur, acteur et écrivain français, né le 22 mars 1978 à Amiens (Somme).",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-mk-etienne-de-crecy",
@@ -431,7 +469,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Étienne de Crécy, né à Lyon le 25 février 1969, est un DJ et producteur français de musique électronique et de trip hop. Il est considéré comme un membre important du mouvement de la French touch."
+      "description": "Étienne de Crécy, né à Lyon le 25 février 1969, est un DJ et producteur français de musique électronique et de trip hop. Il est considéré comme un membre important du mouvement de la French touch.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mk-chanson-doccasion",
@@ -450,7 +490,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-go-marianne",
@@ -470,7 +512,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Marianne est une figure symbolique de la République française."
+      "description": "Marianne est une figure symbolique de la République française.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mk-mpl",
@@ -490,7 +534,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French band, fka Ma pauvre Lucette"
+      "description": "French band, fka Ma pauvre Lucette",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-go-suzane",
@@ -510,7 +556,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Océane Colom, dite Suzane, née le 29 décembre 1990 à Avignon, est une autrice-compositrice-interprète française."
+      "description": "Océane Colom, dite Suzane, née le 29 décembre 1990 à Avignon, est une autrice-compositrice-interprète française.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mk-riles",
@@ -530,7 +578,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Rilès Kacimi, plus connu sous le mononyme Rilès, né le 4 janvier 1996 à Rouen, est un chanteur, rappeur auteur-compositeur-interprète, musicien et producteur de musique français, composant et interprétant en anglais."
+      "description": "Rilès Kacimi, plus connu sous le mononyme Rilès, né le 4 janvier 1996 à Rouen, est un chanteur, rappeur auteur-compositeur-interprète, musicien et producteur de musique français, composant et interprétant en anglais.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-go-orelsan",
@@ -550,7 +600,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne)."
+      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne).",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mk-mosimann",
@@ -570,7 +622,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
+      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     }
   ]
 }

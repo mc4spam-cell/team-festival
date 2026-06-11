@@ -65,7 +65,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Upchuck est un groupe de punk rock américain originaire d'Atlanta, en Géorgie, formé en 2018. Ils produisent des concerts énergiques et leurs paroles engagées politiquement."
+      "description": "Upchuck est un groupe de punk rock américain originaire d'Atlanta, en Géorgie, formé en 2018. Ils produisent des concerts énergiques et leurs paroles engagées politiquement.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-gs-social-distortion",
@@ -85,7 +87,9 @@
       "facebookHandle": "socialdistortion",
       "twitterHandle": "SocialD1",
       "tiktokHandle": null,
-      "description": "Social Distortion, souvent appelé Social D ou SxDx, est un groupe de punk rock américain, originaire de Fullerton, dans le comté d'Orange, en Californie, aux diverses influences, notamment country et rock 'n' roll."
+      "description": "Social Distortion, souvent appelé Social D ou SxDx, est un groupe de punk rock américain, originaire de Fullerton, dans le comté d'Orange, en Californie, aux diverses influences, notamment country et rock 'n' roll.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-gs-the-offspring",
@@ -105,7 +109,9 @@
       "facebookHandle": "Offspring",
       "twitterHandle": "offspring",
       "tiktokHandle": null,
-      "description": "The Offspring, ou simplement Offspring, est un groupe de punk rock américain, originaire du Comté d'Orange, en Californie."
+      "description": "The Offspring, ou simplement Offspring, est un groupe de punk rock américain, originaire du Comté d'Orange, en Californie.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-gs-airbourne",
@@ -125,7 +131,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Airbourne est un groupe australien de hard rock, originaire de Warrnambool. Il est formé en 2003 par les frères Joel O'Keeffe et Ryan O'Keeffe (batterie), David Roads et Justin Street."
+      "description": "Airbourne est un groupe australien de hard rock, originaire de Warrnambool. Il est formé en 2003 par les frères Joel O'Keeffe et Ryan O'Keeffe (batterie), David Roads et Justin Street.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gr-green-line-marching-band",
@@ -144,7 +152,9 @@
       "tidalArtistId": null,
       "facebookHandle": "kstatepride",
       "twitterHandle": "KStatePride",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-lo-mathis-akengin",
@@ -164,7 +174,9 @@
       "facebookHandle": "JohnnyMathisMusic",
       "twitterHandle": "MathisJohnny",
       "tiktokHandle": null,
-      "description": "US pop/soul singer"
+      "description": "US pop/soul singer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gs-man-woman-chainsaw",
@@ -184,7 +196,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "London noise-pop band"
+      "description": "London noise-pop band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-pl-kt-gorique-nash",
@@ -204,7 +218,9 @@
       "facebookHandle": "ktgoriquecouteausuisse",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Ivory Coast/Swiss rapper"
+      "description": "Ivory Coast/Swiss rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gr-joy-crookes",
@@ -224,7 +240,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Joy Elizabeth Akther Crookes, née le 9 octobre 1998, est une auteure-compositrice-interprète britannique, avec des origines familiales irlandaises et bangladaise."
+      "description": "Joy Elizabeth Akther Crookes, née le 9 octobre 1998, est une auteure-compositrice-interprète britannique, avec des origines familiales irlandaises et bangladaise.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-lo-dove-ellis",
@@ -243,7 +261,9 @@
       "tidalArtistId": "38691383",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": "doveellis"
+      "tiktokHandle": "doveellis",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gs-ultra-vomit",
@@ -263,7 +283,9 @@
       "facebookHandle": "ultravomitofficiel",
       "twitterHandle": "TrueUltraVomit",
       "tiktokHandle": null,
-      "description": "Ultra Vomit est un groupe de heavy metal parodique français, originaire de Nantes, en Loire-Atlantique. À ses débuts, le groupe est initialement influencé par le grindcore."
+      "description": "Ultra Vomit est un groupe de heavy metal parodique français, originaire de Nantes, en Loire-Atlantique. À ses débuts, le groupe est initialement influencé par le grindcore.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-pl-l2b",
@@ -283,7 +305,9 @@
       "facebookHandle": "eL2Bee",
       "twitterHandle": "eL2Bee",
       "tiktokHandle": null,
-      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne."
+      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gr-rise-of-the-northstar",
@@ -303,7 +327,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Rise of the Northstar est un groupe de metal français, originaire de Paris, en Île-de-France. Le groupe sort un premier EP intitulé Tokyo Assault en janvier 2010, et un second, Demonstrating My Saiya Style, en juillet 2012."
+      "description": "Rise of the Northstar est un groupe de metal français, originaire de Paris, en Île-de-France. Le groupe sort un premier EP intitulé Tokyo Assault en janvier 2010, et un second, Demonstrating My Saiya Style, en juillet 2012.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-lo-a6el",
@@ -322,7 +348,9 @@
       "tidalArtistId": "44585597",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gs-orelsan",
@@ -342,7 +370,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne)."
+      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne).",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-pl-sleaford-mods",
@@ -362,7 +392,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Sleaford Mods est un groupe de post-punk britannique, originaire de Nottingham, en Angleterre. Il comprend le chanteur Jason Williamson et le musicien Andrew Fearn."
+      "description": "Sleaford Mods est un groupe de post-punk britannique, originaire de Nottingham, en Angleterre. Il comprend le chanteur Jason Williamson et le musicien Andrew Fearn.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gr-trym",
@@ -382,7 +414,9 @@
       "facebookHandle": "trymofficial",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "dance producer from France"
+      "description": "dance producer from France",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-lo-thk-feat-brass-orchestra",
@@ -401,7 +435,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-gs-vald-x-vladimir-cauchemar-x-todiefor",
@@ -421,7 +457,9 @@
       "facebookHandle": "vladimircauchemar",
       "twitterHandle": "vladcauchemar",
       "tiktokHandle": null,
-      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims. Membre des groupes The Film et The Shoes, il se fait connaître avec son single Aulos, publié chez Ed Banger Records — label fondé et dirigé par Busy P."
+      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims. Membre des groupes The Film et The Shoes, il se fait connaître avec son single Aulos, publié chez Ed Banger Records — label fondé et dirigé par Busy P.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-pl-shaarghot",
@@ -441,7 +479,9 @@
       "facebookHandle": null,
       "twitterHandle": "shaarghot",
       "tiktokHandle": "shaarghot_official",
-      "description": "Shaârghot est un groupe de metal industriel français, originaire de Paris. Il est né de l'esprit du vidéaste Étienne Bianchi en 2011."
+      "description": "Shaârghot est un groupe de metal industriel français, originaire de Paris. Il est né de l'esprit du vidéaste Étienne Bianchi en 2011.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gr-madame-ose-bashung",
@@ -461,7 +501,9 @@
       "facebookHandle": "Bashung",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Alain Claude Baschung, dit Alain Bashung, né le 1er décembre 1947 à Paris et mort le 14 mars 2009 dans la même ville, est un auteur-compositeur-interprète et acteur français."
+      "description": "Alain Claude Baschung, dit Alain Bashung, né le 1er décembre 1947 à Paris et mort le 14 mars 2009 dans la même ville, est un auteur-compositeur-interprète et acteur français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-lo-marie-jay",
@@ -481,7 +523,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Swiss singer"
+      "description": "Swiss singer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gs-josman",
@@ -501,7 +545,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher."
+      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-pl-bertrand-belin",
@@ -521,7 +567,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Bertrand Belin est un auteur-compositeur-interprète, écrivain et acteur français, né le 7 décembre 1970 à Auray (Morbihan)."
+      "description": "Bertrand Belin est un auteur-compositeur-interprète, écrivain et acteur français, né le 7 décembre 1970 à Auray (Morbihan).",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gr-president",
@@ -541,7 +589,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Le président est une personne désignée, élue ou cooptée à la tête d'un collectif. Il peut s'agir d'un groupe de travail, d'un conseil d'administration, d'une association, ou encore d'un État.Dans une société anonyme, le..."
+      "description": "Le président est une personne désignée, élue ou cooptée à la tête d'un collectif. Il peut s'agir d'un groupe de travail, d'un conseil d'administration, d'une association, ou encore d'un État.Dans une société anonyme, le...",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-lo-the-sophs",
@@ -560,7 +610,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": "sophsesque"
+      "tiktokHandle": "sophsesque",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gs-the-lumineers",
@@ -580,7 +632,9 @@
       "facebookHandle": "TheLumineers",
       "twitterHandle": "thelumineers",
       "tiktokHandle": null,
-      "description": "The Lumineers est un groupe de folk américain, originaire de Ramsey, dans le New Jersey. Le groupe est composé de Wesley Schultz au chant et à la guitare, Jeremiah Fraites à la batterie et Neyla Pekarek au violoncelle…"
+      "description": "The Lumineers est un groupe de folk américain, originaire de Ramsey, dans le New Jersey. Le groupe est composé de Wesley Schultz au chant et à la guitare, Jeremiah Fraites à la batterie et Neyla Pekarek au violoncelle…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-pl-cardinals",
@@ -600,7 +654,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "American rock band"
+      "description": "American rock band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-lo-gans",
@@ -620,7 +676,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Band"
+      "description": "Band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gr-alonzo",
@@ -640,7 +698,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Marseille French rapper fka Señor Alonzo / Psy4 de la Rime"
+      "description": "Marseille French rapper fka Señor Alonzo / Psy4 de la Rime",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-pl-anetha",
@@ -660,7 +720,9 @@
       "facebookHandle": "anethamusic",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Anetha, née le 1er décembre 1989 à Bordeaux (Gironde), est une DJ et productrice française de techno."
+      "description": "Anetha, née le 1er décembre 1989 à Bordeaux (Gironde), est une DJ et productrice française de techno.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gs-pulp",
@@ -680,7 +742,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Pulp est un groupe de rock britannique, originaire de Sheffield, en Angleterre. Il est composé en 1978 sous l'impulsion de Jarvis Cocker qui a alors 15 ans ; il est le seul membre présent depuis le début."
+      "description": "Pulp est un groupe de rock britannique, originaire de Sheffield, en Angleterre. Il est composé en 1978 sous l'impulsion de Jarvis Cocker qui a alors 15 ans ; il est le seul membre présent depuis le début.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-lo-copycat",
@@ -700,7 +764,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "mashup artist"
+      "description": "mashup artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-pl-nico-moreno",
@@ -720,7 +786,9 @@
       "facebookHandle": "nicomorenomusic",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Nico Moreno [niko mɔʁeno], né le 20 août 1994 à Caen, dans le département du Calvados en France, est un disc jockey et producteur musical français."
+      "description": "Nico Moreno [niko mɔʁeno], né le 20 août 1994 à Caen, dans le département du Calvados en France, est un disc jockey et producteur musical français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gr-enhancer",
@@ -740,7 +808,9 @@
       "facebookHandle": "enhancer",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Enhancer est un groupe de nu metal français, originaire d'Andrésy, dans les Yvelines, formé en 1996."
+      "description": "Enhancer est un groupe de nu metal français, originaire d'Andrésy, dans les Yvelines, formé en 1996.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-gs-mosimann",
@@ -760,7 +830,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
+      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-lo-coilguns",
@@ -780,7 +852,9 @@
       "facebookHandle": "coilguns",
       "twitterHandle": "COILGUNS",
       "tiktokHandle": null,
-      "description": "Swiss experimental noise rock/mathcore band"
+      "description": "Swiss experimental noise rock/mathcore band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-gr-joe-yorke",
@@ -800,7 +874,9 @@
       "facebookHandle": "joeyorkemusic",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Ashton Donald Joseph « Joe » Yorke, né le 7 décembre 1947 à Wanganui, est une cavalier néo-zélandais de saut d'obstacles."
+      "description": "Ashton Donald Joseph « Joe » Yorke, né le 7 décembre 1947 à Wanganui, est une cavalier néo-zélandais de saut d'obstacles.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-lo-frs-taga",
@@ -820,7 +896,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Rap français"
+      "description": "Rap français",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-pl-ino-casablanca",
@@ -840,7 +918,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Adam alias Ino Casablanca est un rappeur et auteur-compositeur-interprète français né en août 2000."
+      "description": "Adam alias Ino Casablanca est un rappeur et auteur-compositeur-interprète français né en août 2000.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-gs-the-hives",
@@ -860,7 +940,9 @@
       "facebookHandle": "hives",
       "twitterHandle": "thehives",
       "tiktokHandle": null,
-      "description": "The Hives est un groupe suédois de garage punk, originaire de Fagersta. Formé en 1993, il s'agit d'un groupe reconnu pour ses prestations scéniques et ses hymnes garages des années 1960."
+      "description": "The Hives est un groupe suédois de garage punk, originaire de Fagersta. Formé en 1993, il s'agit d'un groupe reconnu pour ses prestations scéniques et ses hymnes garages des années 1960.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-lo-master-virus",
@@ -880,7 +962,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Austrian Rapper"
+      "description": "Austrian Rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-gr-curtis-harding",
@@ -900,7 +984,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Curtis Harding est un musicien américain de soul."
+      "description": "Curtis Harding est un musicien américain de soul.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-pl-jehnny-beth",
@@ -920,7 +1006,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Camille Berthomier, dite Jehnny Beth, est une chanteuse, compositrice, productrice et comédienne française, née le 24 décembre 1984 à Poitiers."
+      "description": "Camille Berthomier, dite Jehnny Beth, est une chanteuse, compositrice, productrice et comédienne française, née le 24 décembre 1984 à Poitiers.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-lo-madra-salach",
@@ -939,7 +1027,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-gs-aya-nakamura",
@@ -959,7 +1049,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Aya Nakamura [aja nakamuʁa], nom de scène d'Aya Danioko, née le 10 mai 1995 à Bamako au Mali, est une auteure-compositrice-interprète franco-malienne."
+      "description": "Aya Nakamura [aja nakamuʁa], nom de scène d'Aya Danioko, née le 10 mai 1995 à Bamako au Mali, est une auteure-compositrice-interprète franco-malienne.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-pl-ecca-vandal",
@@ -979,7 +1071,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Ecca Vandal est une autrice-compositrice-interprète et rappeuse australienne née en Afrique du Sud."
+      "description": "Ecca Vandal est une autrice-compositrice-interprète et rappeuse australienne née en Afrique du Sud.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-gr-feu-chatterton",
@@ -999,7 +1093,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris."
+      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-lo-dj-ninikah-b2b-dj-queeny-d",
@@ -1019,7 +1115,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Mexico City‐based producer Edgar Pazarán"
+      "description": "Mexico City‐based producer Edgar Pazarán",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-gs-ben-harper-the-innocent-criminals",
@@ -1039,7 +1137,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Benjamin Harper, dit Ben Harper, né le 28 octobre 1969 à Claremont, dans le Greater Los Angeles, en Californie, est un auteur-compositeur-interprète américain."
+      "description": "Benjamin Harper, dit Ben Harper, né le 28 octobre 1969 à Claremont, dans le Greater Los Angeles, en Californie, est un auteur-compositeur-interprète américain.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-pl-kybba",
@@ -1059,7 +1159,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Amsterdam based dancehall / urban, DJ"
+      "description": "Amsterdam based dancehall / urban, DJ",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     }
   ]
 }

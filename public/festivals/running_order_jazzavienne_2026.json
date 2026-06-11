@@ -180,7 +180,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Danish Radio’s jazz orchestra/big band, known under several names over the years"
+      "description": "Danish Radio’s jazz orchestra/big band, known under several names over the years",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-cyb-vincent-schmidt-natan-niddam",
@@ -199,7 +201,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-cyb-salma-quartet",
@@ -219,7 +223,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Le Modern Jazz Quartet ou MJQ est un groupe de jazz américain formé en 1952 par Milt Jackson (vibraphone), John Lewis, Percy Heath (basse) et Kenny Clarke (batterie), remplacé par Connie Kay en 1955."
+      "description": "Le Modern Jazz Quartet ou MJQ est un groupe de jazz américain formé en 1952 par Milt Jackson (vibraphone), John Lewis, Percy Heath (basse) et Kenny Clarke (batterie), remplacé par Connie Kay en 1955.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ta-erik-truffaz",
@@ -239,7 +245,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Erik Truffaz est un trompettiste de jazz suisse, né à Chêne-Bougeries le 3 avril 1960. Il remporte le prix du public des Victoires du jazz en 2005."
+      "description": "Erik Truffaz est un trompettiste de jazz suisse, né à Chêne-Bougeries le 3 avril 1960. Il remporte le prix du public des Victoires du jazz en 2005.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-kio-combo-jazz-capi",
@@ -259,7 +267,9 @@
       "facebookHandle": "grancombo1",
       "twitterHandle": "elgrancombodepr",
       "tiktokHandle": null,
-      "description": "El Gran Combo est un groupe portoricain de salsa. Il se constitue après la séparation du combo de Rafael Cortijo en 1962."
+      "description": "El Gran Combo est un groupe portoricain de salsa. Il se constitue après la séparation du combo de Rafael Cortijo en 1962.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-kio-just-friends",
@@ -279,7 +289,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "German pop group"
+      "description": "German pop group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ta-stefano-di-battista",
@@ -299,7 +311,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Stefano Di Battista est un saxophoniste alto et soprano italien né le 14 février 1969 à Rome."
+      "description": "Stefano Di Battista est un saxophoniste alto et soprano italien né le 14 février 1969 à Rome.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-club-lea-maria-fries",
@@ -318,7 +332,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-cyb-big-band-count-basie-crr-st-etienne",
@@ -338,7 +354,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "pianist"
+      "description": "pianist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-cyb-club-saint-georges",
@@ -358,7 +376,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French composer"
+      "description": "French composer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-cyb-odeza",
@@ -377,7 +397,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-ta-too-many-zooz",
@@ -397,7 +419,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Too Many Zooz est un groupe de musique américain basé à New York, composé de Leo Pellegrino, Matt Doe (trompette) et David Parks, dit « King of Sludge » (percussions)."
+      "description": "Too Many Zooz est un groupe de musique américain basé à New York, composé de Leo Pellegrino, Matt Doe (trompette) et David Parks, dit « King of Sludge » (percussions).",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-kio-combo-jazz-capi-1",
@@ -417,7 +441,9 @@
       "facebookHandle": "grancombo1",
       "twitterHandle": "elgrancombodepr",
       "tiktokHandle": null,
-      "description": "El Gran Combo est un groupe portoricain de salsa. Il se constitue après la séparation du combo de Rafael Cortijo en 1962."
+      "description": "El Gran Combo est un groupe portoricain de salsa. Il se constitue après la séparation du combo de Rafael Cortijo en 1962.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-kio-combo-jazz-capi-2",
@@ -437,7 +463,9 @@
       "facebookHandle": "grancombo1",
       "twitterHandle": "elgrancombodepr",
       "tiktokHandle": null,
-      "description": "El Gran Combo est un groupe portoricain de salsa. Il se constitue après la séparation du combo de Rafael Cortijo en 1962."
+      "description": "El Gran Combo est un groupe portoricain de salsa. Il se constitue après la séparation du combo de Rafael Cortijo en 1962.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-ta-deluxe",
@@ -456,7 +484,9 @@
       "tidalArtistId": null,
       "facebookHandle": "Tnio1",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-kio-dj-dramax-1",
@@ -475,7 +505,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-club-luizga-electric-microbigband",
@@ -495,7 +527,9 @@
       "facebookHandle": "ElectricLightOrchestra",
       "twitterHandle": "JeffLynnesELO",
       "tiktokHandle": null,
-      "description": "British rock group"
+      "description": "British rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-kio-dj-dramax-2",
@@ -514,7 +548,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-cyb-swing-system-conservatoire-vienne",
@@ -533,7 +569,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-cyb-big-band-capi",
@@ -553,7 +591,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Spanish big band"
+      "description": "Spanish big band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-cyb-etage70",
@@ -572,7 +612,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-cyb-angel-city-chorale",
@@ -592,7 +634,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Groupe de musique américain."
+      "description": "Groupe de musique américain.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ta-chicago-blues-summer",
@@ -612,7 +656,9 @@
       "facebookHandle": "Chicago.Official",
       "twitterHandle": "chicagotheband",
       "tiktokHandle": null,
-      "description": "American pop rock/jazz fusion band"
+      "description": "American pop rock/jazz fusion band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-kio-intermed-1",
@@ -631,7 +677,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ta-fantastic-negrito",
@@ -651,7 +699,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Xavier Amin Dphrepaulezz, mieux connu sous son nom de scène Fantastic Negrito, est un auteur-compositeur-interprète et multi-instrumentiste américain de blues, rhythm and blues, rock et funk."
+      "description": "Xavier Amin Dphrepaulezz, mieux connu sous son nom de scène Fantastic Negrito, est un auteur-compositeur-interprète et multi-instrumentiste américain de blues, rhythm and blues, rock et funk.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-kio-intermed-2",
@@ -670,7 +720,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ta-samantha-fish",
@@ -690,7 +742,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Samantha Fish, née le 30 janvier 1989 à Kansas City (Missouri), est une chanteuse, guitariste et auteure-compositrice de blues et de blues rock américaine."
+      "description": "Samantha Fish, née le 30 janvier 1989 à Kansas City (Missouri), est une chanteuse, guitariste et auteure-compositrice de blues et de blues rock américaine.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-kio-mojazz-bryce-wax-1",
@@ -709,7 +763,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-club-stephen-hull-experience",
@@ -728,7 +784,9 @@
       "tidalArtistId": null,
       "facebookHandle": "stephen.hull.125",
       "twitterHandle": "moonpie22399",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-kio-mojazz-bryce-wax-2",
@@ -747,7 +805,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-sn-akutuk-origins",
@@ -766,7 +826,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mdf-ba-baribulles-1",
@@ -786,7 +848,9 @@
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
       "tiktokHandle": null,
-      "description": "US cover group"
+      "description": "US cover group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mdf-ba-baribulles-2",
@@ -806,7 +870,9 @@
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
       "tiktokHandle": null,
-      "description": "US cover group"
+      "description": "US cover group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-cyb-jazz-devils",
@@ -825,7 +891,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-jdc-sopaloca",
@@ -844,7 +912,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-hdb-le-faux-orchestre-1",
@@ -864,7 +934,9 @@
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
       "tiktokHandle": null,
-      "description": "US cover group"
+      "description": "US cover group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-psv-balkatucada",
@@ -883,7 +955,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-hdb-le-faux-orchestre-2",
@@ -903,7 +977,9 @@
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
       "tiktokHandle": null,
-      "description": "US cover group"
+      "description": "US cover group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-rue-second-line-james-andrews",
@@ -922,7 +998,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-jdc-oazin",
@@ -941,7 +1019,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-jdc-lgmx",
@@ -961,7 +1041,9 @@
       "facebookHandle": "LGMXtechnofanfare",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "LGMX est une fanfare française de techno acoustique, originaire de Lyon, en Rhône-Alpes."
+      "description": "LGMX est une fanfare française de techno acoustique, originaire de Lyon, en Rhône-Alpes.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-cyb-jeremie-lucchese",
@@ -980,7 +1062,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-cyb-marsavril",
@@ -1000,7 +1084,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "photographer"
+      "description": "photographer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-cyb-aama",
@@ -1020,7 +1106,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Emma Prat Group"
+      "description": "Emma Prat Group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-cyb-alba-armengou-trio",
@@ -1040,7 +1128,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Spanish trumpet player and singer"
+      "description": "Spanish trumpet player and singer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-ta-verb",
@@ -1060,7 +1150,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "École Alice Dona"
+      "description": "École Alice Dona",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-kio-enm-villeurbanne-1",
@@ -1079,7 +1171,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-ta-sun-ra-arkestra",
@@ -1098,7 +1192,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-kio-enm-villeurbanne-2",
@@ -1117,7 +1213,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-ta-jeff-mills-jean-phi-dary",
@@ -1137,7 +1235,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Detroit based DJ"
+      "description": "Detroit based DJ",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-club-sampling-is-beautiful",
@@ -1156,7 +1256,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-cyb-trek",
@@ -1176,7 +1278,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Hard Rock, Power Pop, Russia"
+      "description": "Hard Rock, Power Pop, Russia",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-cyb-moustik-haterz",
@@ -1195,7 +1299,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-cyb-nubu",
@@ -1215,7 +1321,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "photographer"
+      "description": "photographer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-cyb-namas",
@@ -1234,7 +1342,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-cyb-victoria-alexanyan-quintet",
@@ -1253,7 +1363,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-ta-kokoroko",
@@ -1273,7 +1385,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Kokoroko est un groupe de huit musiciennes et musiciens, basé à Londres, dirigé par Sheila Maurice-Grey, jouant une fusion de jazz et d'afrobeat."
+      "description": "Kokoroko est un groupe de huit musiciennes et musiciens, basé à Londres, dirigé par Sheila Maurice-Grey, jouant une fusion de jazz et d'afrobeat.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-kio-combo-jazz-1",
@@ -1293,7 +1407,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian 70's jazz-rock group"
+      "description": "Italian 70's jazz-rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-ta-groundation",
@@ -1313,7 +1429,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Groundation est un groupe américain de roots reggae, originaire de Sonoma, en Californie du Nord. Il est souvent considéré comme un des groupes les plus emblématique de la scène reggae des années 2000."
+      "description": "Groundation est un groupe américain de roots reggae, originaire de Sonoma, en Californie du Nord. Il est souvent considéré comme un des groupes les plus emblématique de la scène reggae des années 2000.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-kio-combo-jazz-2",
@@ -1333,7 +1451,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian 70's jazz-rock group"
+      "description": "Italian 70's jazz-rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-club-foehn-fleur-worku",
@@ -1353,7 +1473,9 @@
       "facebookHandle": null,
       "twitterHandle": "Focustheband",
       "tiktokHandle": null,
-      "description": "Dutch progressive rock group"
+      "description": "Dutch progressive rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-cyb-big-band-crr-st-etienne",
@@ -1373,7 +1495,9 @@
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
       "tiktokHandle": null,
-      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs."
+      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-club-reves-cosmiques",
@@ -1393,7 +1517,9 @@
       "facebookHandle": "kidzbop",
       "twitterHandle": "kidzbop",
       "tiktokHandle": null,
-      "description": "US cover group"
+      "description": "US cover group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-cyb-tatanka",
@@ -1413,7 +1539,9 @@
       "facebookHandle": "officialdjtatanka",
       "twitterHandle": "tatankadj",
       "tiktokHandle": null,
-      "description": "Italian hardstyle DJ/producer Valerio Mascellino"
+      "description": "Italian hardstyle DJ/producer Valerio Mascellino",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-msp-stracho-new-solo",
@@ -1433,7 +1561,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-mgr-jazz-o-musee-ilot",
@@ -1453,7 +1583,9 @@
       "facebookHandle": "cogheads",
       "twitterHandle": "Incognito_world",
       "tiktokHandle": null,
-      "description": "UK acid jazz band"
+      "description": "UK acid jazz band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-cyb-jeanette-berger",
@@ -1473,7 +1605,9 @@
       "facebookHandle": "jeanettebergermusic",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French singer songwriter"
+      "description": "French singer songwriter",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-ta-molly-johnson",
@@ -1493,7 +1627,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Molly Johnson, née en 1959, est une chanteuse de jazz originaire de Toronto (Canada)."
+      "description": "Molly Johnson, née en 1959, est une chanteuse de jazz originaire de Toronto (Canada).",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-cyb-the-honnet-brothers-1",
@@ -1513,7 +1649,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "The Everly Brothers est un duo de chanteurs et guitaristes de rock'n'roll et musique country américains formé de deux frères, Don Everly né le 1er février 1937 à Brownie (Kentucky) et mort le 21 août 2021 à Nashville (Tennessee), et Phil Everly né le 19 janvier 1939 à Chicago (Illinois) et mort le 3 janvier 2014 à…"
+      "description": "The Everly Brothers est un duo de chanteurs et guitaristes de rock'n'roll et musique country américains formé de deux frères, Don Everly né le 1er février 1937 à Brownie (Kentucky) et mort le 21 août 2021 à Nashville (Tennessee), et Phil Everly né le 19 janvier 1939 à Chicago (Illinois) et mort le 3 janvier 2014 à…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-ta-imany",
@@ -1533,7 +1671,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Imany, de son vrai nom Nadia Mladjao, est une chanteuse, auteure-compositrice-interprète et mannequin franco-comorienne, née le 5 avril 1979 à Martigues."
+      "description": "Imany, de son vrai nom Nadia Mladjao, est une chanteuse, auteure-compositrice-interprète et mannequin franco-comorienne, née le 5 avril 1979 à Martigues.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-cyb-the-honnet-brothers-2",
@@ -1553,7 +1693,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "The Everly Brothers est un duo de chanteurs et guitaristes de rock'n'roll et musique country américains formé de deux frères, Don Everly né le 1er février 1937 à Brownie (Kentucky) et mort le 21 août 2021 à Nashville (Tennessee), et Phil Everly né le 19 janvier 1939 à Chicago (Illinois) et mort le 3 janvier 2014 à…"
+      "description": "The Everly Brothers est un duo de chanteurs et guitaristes de rock'n'roll et musique country américains formé de deux frères, Don Everly né le 1er février 1937 à Brownie (Kentucky) et mort le 21 août 2021 à Nashville (Tennessee), et Phil Everly né le 19 janvier 1939 à Chicago (Illinois) et mort le 3 janvier 2014 à…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-club-eme-eme-project",
@@ -1572,7 +1714,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-cyb-big-band-enm-villeurbanne",
@@ -1591,7 +1735,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-cyb-lucia-rey-trio",
@@ -1611,7 +1757,9 @@
       "facebookHandle": null,
       "twitterHandle": "Focustheband",
       "tiktokHandle": null,
-      "description": "Dutch progressive rock group"
+      "description": "Dutch progressive rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-msp-stracho-new-solo",
@@ -1631,7 +1779,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-mgr-jazz-o-musee-aptere",
@@ -1650,7 +1800,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-cyb-argot-lunaire",
@@ -1670,7 +1822,9 @@
       "facebookHandle": null,
       "twitterHandle": "Focustheband",
       "tiktokHandle": null,
-      "description": "Dutch progressive rock group"
+      "description": "Dutch progressive rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-ta-vincent-peirani",
@@ -1690,7 +1844,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "accordionist"
+      "description": "accordionist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-kio-jam-jazzup-1",
@@ -1710,7 +1866,9 @@
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
       "tiktokHandle": "pearljam",
-      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…"
+      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-ta-beirut",
@@ -1730,7 +1888,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "US indie/folk band"
+      "description": "US indie/folk band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-kio-jam-jazzup-2",
@@ -1750,7 +1910,9 @@
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
       "tiktokHandle": "pearljam",
-      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…"
+      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-club-buck",
@@ -1770,7 +1932,9 @@
       "facebookHandle": null,
       "twitterHandle": "Focustheband",
       "tiktokHandle": null,
-      "description": "Dutch progressive rock group"
+      "description": "Dutch progressive rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-kio-feeling-band",
@@ -1790,7 +1954,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Finnish band"
+      "description": "Finnish band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-cyb-indawa",
@@ -1810,7 +1976,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Findaway, a four-member rock/metal band."
+      "description": "Findaway, a four-member rock/metal band.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-mgr-amin-al-aiedy-quartet",
@@ -1829,7 +1997,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-cyb-one-mind-trio",
@@ -1848,7 +2018,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-ta-kyoto-jazz-massive",
@@ -1867,7 +2039,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-kio-combo-jazz-conservatoire-vienne",
@@ -1887,7 +2061,9 @@
       "facebookHandle": "groups",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Belgian local big band"
+      "description": "Belgian local big band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-ta-cerrone-disco-symphonic",
@@ -1907,7 +2083,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Marc Cerrone, dit Cerrone, né le 24 mai 1952 à Vitry-sur-Seine, est un compositeur et musicien français. Il est considéré comme un pilier du disco en France et en Belgique."
+      "description": "Marc Cerrone, dit Cerrone, né le 24 mai 1952 à Vitry-sur-Seine, est un compositeur et musicien français. Il est considéré comme un pilier du disco en France et en Belgique.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-kio-combo-jazz-latin-conservatoire-vienne",
@@ -1927,7 +2105,9 @@
       "facebookHandle": "groups",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Belgian local big band"
+      "description": "Belgian local big band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-kio-dj-shuya-okino-atn-1",
@@ -1946,7 +2126,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-club-jeroboam",
@@ -1965,7 +2147,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-kio-dj-shuya-okino-atn-2",
@@ -1984,7 +2168,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-cyb-devon-youth-jazz-orchestra-1",
@@ -2004,7 +2190,9 @@
       "facebookHandle": "groups",
       "twitterHandle": "nyjoUK",
       "tiktokHandle": null,
-      "description": "Groupe britannique."
+      "description": "Groupe britannique.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-cyb-devon-youth-jazz-orchestra-2",
@@ -2024,7 +2212,9 @@
       "facebookHandle": "groups",
       "twitterHandle": "nyjoUK",
       "tiktokHandle": null,
-      "description": "Groupe britannique."
+      "description": "Groupe britannique.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-cyb-alba-careta",
@@ -2043,7 +2233,9 @@
       "tidalArtistId": null,
       "facebookHandle": "albacaretamusic",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-mgr-duo-miral",
@@ -2063,7 +2255,9 @@
       "facebookHandle": "cogheads",
       "twitterHandle": "Incognito_world",
       "tiktokHandle": null,
-      "description": "UK acid jazz band"
+      "description": "UK acid jazz band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-cyb-amg",
@@ -2083,7 +2277,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "US rapper Jason Lewis"
+      "description": "US rapper Jason Lewis",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-ta-terence-blanchard-ravi-coltrane",
@@ -2103,7 +2299,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "American trumpeter and score composer"
+      "description": "American trumpeter and score composer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-kio-jam-perisope-1",
@@ -2123,7 +2321,9 @@
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
       "tiktokHandle": "pearljam",
-      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…"
+      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-ta-marcus-miller",
@@ -2143,7 +2343,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-kio-jam-perisope-2",
@@ -2163,7 +2365,9 @@
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
       "tiktokHandle": "pearljam",
-      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…"
+      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-kio-dj-amg-1",
@@ -2183,7 +2387,9 @@
       "facebookHandle": "WhoIsDjAMG",
       "twitterHandle": "whoisdjamg",
       "tiktokHandle": null,
-      "description": "EDM DJ & producer Alexander Gabbara"
+      "description": "EDM DJ & producer Alexander Gabbara",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-club-emma-rawicz",
@@ -2203,7 +2409,9 @@
       "facebookHandle": null,
       "twitterHandle": "eszczerbo",
       "tiktokHandle": null,
-      "description": "jazz saxophonist"
+      "description": "jazz saxophonist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d10-kio-dj-amg-2",
@@ -2223,7 +2431,9 @@
       "facebookHandle": "WhoIsDjAMG",
       "twitterHandle": "whoisdjamg",
       "tiktokHandle": null,
-      "description": "EDM DJ & producer Alexander Gabbara"
+      "description": "EDM DJ & producer Alexander Gabbara",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-pip-kepa",
@@ -2243,7 +2453,9 @@
       "facebookHandle": "CirqueduSoleil",
       "twitterHandle": "Cirque",
       "tiktokHandle": null,
-      "description": "Le Cirque du Soleil est une compagnie canadienne de divertissement artistique spécialisée en cirque contemporain. Son siège social se trouve à Montréal, au Québec, dans le quartier Saint-Michel."
+      "description": "Le Cirque du Soleil est une compagnie canadienne de divertissement artistique spécialisée en cirque contemporain. Son siège social se trouve à Montréal, au Québec, dans le quartier Saint-Michel.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-mgr-stranded-horse-boubacar-cissokho",
@@ -2262,7 +2474,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-cyb-combo-jazz-funk",
@@ -2282,7 +2496,9 @@
       "facebookHandle": "cogheads",
       "twitterHandle": "Incognito_world",
       "tiktokHandle": null,
-      "description": "UK acid jazz band"
+      "description": "UK acid jazz band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-cyb-jazz-on-the-water-miles-davis-symphonique",
@@ -2302,7 +2518,9 @@
       "facebookHandle": "MilesDavis",
       "twitterHandle": "milesdavis",
       "tiktokHandle": "milesdavis",
-      "description": "jazz trumpeter, bandleader, songwriter"
+      "description": "jazz trumpeter, bandleader, songwriter",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-cor-ritam",
@@ -2321,7 +2539,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-jdc-restitution-brass-band-danse-tout-monde",
@@ -2341,7 +2561,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "bassist, composer and speaker"
+      "description": "bassist, composer and speaker",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d11-jdc-rendez-vous-tout-monde",
@@ -2361,7 +2583,9 @@
       "facebookHandle": "rendezvousrendezvous",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French darkwave band"
+      "description": "French darkwave band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-cyb-big-band-conservatoire-vienne",
@@ -2381,7 +2605,9 @@
       "facebookHandle": "groups",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Belgian local big band"
+      "description": "Belgian local big band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-cyb-soba",
@@ -2401,7 +2627,9 @@
       "facebookHandle": null,
       "twitterHandle": "lovesobasoba",
       "tiktokHandle": null,
-      "description": "Les soba (蕎麦, そば, /so.ba/) sont des nouilles traditionnelles de cuisine japonaise, fraîches ou sèches, à base de farine de sarrasin et d'eau, ainsi que le nom donné aux mets japonais qui les utilisent."
+      "description": "Les soba (蕎麦, そば, /so.ba/) sont des nouilles traditionnelles de cuisine japonaise, fraîches ou sèches, à base de farine de sarrasin et d'eau, ainsi que le nom donné aux mets japonais qui les utilisent.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-cyb-kossi-mawun",
@@ -2421,7 +2649,9 @@
       "facebookHandle": "Kossimawunofficiel",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Togolese Drummer"
+      "description": "Togolese Drummer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-ta-fatoumata-diawara",
@@ -2441,7 +2671,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Fatoumata Diawara, née le 21 février 1982 à Abidjan de parents maliens, est une chanteuse, comédienne et auteure-compositrice-interprète malienne. Elle vit entre Bamako et Milan."
+      "description": "Fatoumata Diawara, née le 21 février 1982 à Abidjan de parents maliens, est une chanteuse, comédienne et auteure-compositrice-interprète malienne. Elle vit entre Bamako et Milan.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-kio-combo-crr-st-etienne-1",
@@ -2461,7 +2693,9 @@
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
       "tiktokHandle": null,
-      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs."
+      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-ta-angelique-kidjo",
@@ -2481,7 +2715,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Angélique Kidjo, née le 14 juillet 1960 à Ouidah, est une chanteuse, chorégraphe et actrice béninoise, vivant entre New York aux États-Unis et Paris en France."
+      "description": "Angélique Kidjo, née le 14 juillet 1960 à Ouidah, est une chanteuse, chorégraphe et actrice béninoise, vivant entre New York aux États-Unis et Paris en France.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-kio-combo-crr-st-etienne-2",
@@ -2501,7 +2737,9 @@
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
       "tiktokHandle": null,
-      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs."
+      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d12-club-james-bks",
@@ -2521,7 +2759,9 @@
       "facebookHandle": "JamesBKS1",
       "twitterHandle": "bksjames",
       "tiktokHandle": null,
-      "description": "Parolier et compositeur de musique français."
+      "description": "Parolier et compositeur de musique français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-cyb-nonet-crr-lyon",
@@ -2541,7 +2781,9 @@
       "facebookHandle": null,
       "twitterHandle": "nonetlove9",
       "tiktokHandle": null,
-      "description": "shoegaze artist"
+      "description": "shoegaze artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-cyb-big-band-crr-lyon",
@@ -2561,7 +2803,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Danish Radio’s jazz orchestra/big band, known under several names over the years"
+      "description": "Danish Radio’s jazz orchestra/big band, known under several names over the years",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-cyb-maguiba",
@@ -2580,7 +2824,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-cyb-iencli-mafia",
@@ -2600,7 +2846,9 @@
       "facebookHandle": "three6mafia",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Three 6 Mafia, ou désormais Da Mafia 6ix, est un groupe de hip-hop américain, originaire de Memphis, dans le Tennessee. Il est formé en 1991, d'abord sous le nom de Backyard Posse, puis de Triple 6 Mafia, par DJ Paul, Juicy J et Lord Infamous."
+      "description": "Three 6 Mafia, ou désormais Da Mafia 6ix, est un groupe de hip-hop américain, originaire de Memphis, dans le Tennessee. Il est formé en 1991, d'abord sous le nom de Backyard Posse, puis de Triple 6 Mafia, par DJ Paul, Juicy J et Lord Infamous.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-ta-lakecia-benjamin",
@@ -2620,7 +2868,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Lakecia Benjamin est une saxophoniste, compositrice et enseignante américaine vivant à New York."
+      "description": "Lakecia Benjamin est une saxophoniste, compositrice et enseignante américaine vivant à New York.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-kio-jam-lgtdz-gang-2026-1",
@@ -2640,7 +2890,9 @@
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
       "tiktokHandle": "pearljam",
-      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…"
+      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-ta-de-la-soul-live-band",
@@ -2660,7 +2912,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "De La Soul est un groupe de hip-hop américain, originaire de Long Island dans l'État de New York. Il est connu pour l'influence qu'il a eue sur l'essor du jazz rap grâce à ses samples aussi étranges que divers et à ses textes parfois surréalistes."
+      "description": "De La Soul est un groupe de hip-hop américain, originaire de Long Island dans l'État de New York. Il est connu pour l'influence qu'il a eue sur l'essor du jazz rap grâce à ses samples aussi étranges que divers et à ses textes parfois surréalistes.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-kio-jam-lgtdz-gang-2026-2",
@@ -2680,7 +2934,9 @@
       "facebookHandle": "PearlJam",
       "twitterHandle": "PearlJam",
       "tiktokHandle": "pearljam",
-      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…"
+      "description": "Pearl Jam est un groupe de rock américain, originaire de Seattle, ville de l'État de Washington. Formé en 1990, par le guitariste Stone Gossard et le bassiste Jeff Ament, Pearl Jam est l'un des groupes les plus populaires du mouvement grunge, formant ainsi aux côtés de Soundgarden, Nirvana et Alice in Chains le Big…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d13-club-cedric-hanriot",
@@ -2700,7 +2956,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-cyb-restitution-jazzup",
@@ -2719,7 +2977,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-mgr-minos",
@@ -2739,7 +2999,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Pas le héros grec"
+      "description": "Pas le héros grec",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-cyb-jon-muq",
@@ -2759,7 +3021,9 @@
       "facebookHandle": "Jonmuq",
       "twitterHandle": "JonMuq",
       "tiktokHandle": null,
-      "description": "Musicien ougandais."
+      "description": "Musicien ougandais.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-cyb-marthe-big-band",
@@ -2779,7 +3043,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Danish Radio’s jazz orchestra/big band, known under several names over the years"
+      "description": "Danish Radio’s jazz orchestra/big band, known under several names over the years",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-ta-big-freedia",
@@ -2798,7 +3064,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-kio-crr-st-etienne-1",
@@ -2818,7 +3086,9 @@
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
       "tiktokHandle": null,
-      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs."
+      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-ta-jon-batiste",
@@ -2838,7 +3108,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Jonathan « Jon » Batiste, né le 11 novembre 1986, est un auteur-compositeur-interprète, un chef d'orchestre et une personnalité de la télévision américaine. Il joue notamment du piano et du mélodica."
+      "description": "Jonathan « Jon » Batiste, né le 11 novembre 1986, est un auteur-compositeur-interprète, un chef d'orchestre et une personnalité de la télévision américaine. Il joue notamment du piano et du mélodica.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-kio-crr-st-etienne-2",
@@ -2858,7 +3130,9 @@
       "facebookHandle": "SaintEtienneOfficial",
       "twitterHandle": "bobpetesarah",
       "tiktokHandle": null,
-      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs."
+      "description": "Saint Etienne est un groupe anglais formé à Londres et composé de Sarah Cracknell, Bob Stanley et Pete Wiggs.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d14-club-james-andrews-villa-albertine",
@@ -2878,7 +3152,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "jazz saxophonist"
+      "description": "jazz saxophonist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-cyb-drake-university-jazz-i",
@@ -2898,7 +3174,9 @@
       "facebookHandle": "Drake",
       "twitterHandle": "drake",
       "tiktokHandle": null,
-      "description": "Canadian rapper"
+      "description": "Canadian rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-cyb-combo-conservatoire-vienne",
@@ -2918,7 +3196,9 @@
       "facebookHandle": null,
       "twitterHandle": "Singverein",
       "tiktokHandle": null,
-      "description": "Le Singverein de Vienne est le chœur de concert de la Société des amis de la musique (Gesellschaft der Musikfreunde de Vienne). Il participe régulièrement à de multiples projets musicaux qui rassemblent les plus grands orchestres et chefs d'orchestre."
+      "description": "Le Singverein de Vienne est le chœur de concert de la Société des amis de la musique (Gesellschaft der Musikfreunde de Vienne). Il participe régulièrement à de multiples projets musicaux qui rassemblent les plus grands orchestres et chefs d'orchestre.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-cyb-kiefer",
@@ -2938,7 +3218,9 @@
       "facebookHandle": "kiefer.shackelford",
       "twitterHandle": "Kiefer_on_Keys",
       "tiktokHandle": null,
-      "description": "LA-based jazz pianist & beat maker"
+      "description": "LA-based jazz pianist & beat maker",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-ta-the-getdown",
@@ -2958,7 +3240,9 @@
       "facebookHandle": null,
       "twitterHandle": "getdownservices",
       "tiktokHandle": null,
-      "description": "Getdown Services est un groupe de musique anglais, fondé par et composé de Josh Law et Ben Sadler."
+      "description": "Getdown Services est un groupe de musique anglais, fondé par et composé de Josh Law et Ben Sadler.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-kio-combo-crr-lyon-1",
@@ -2978,7 +3262,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian 70's jazz-rock group"
+      "description": "Italian 70's jazz-rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-ta-buena-vista-all-stars",
@@ -2997,7 +3283,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-kio-combo-crr-lyon-2",
@@ -3017,7 +3305,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian 70's jazz-rock group"
+      "description": "Italian 70's jazz-rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d15-club-juan-carlos-arrechea-quartet",
@@ -3036,7 +3326,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-cyb-appalachian-state-university",
@@ -3056,7 +3348,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "L'université d'État des Appalaches est une université américaine située à Boone en Caroline du Nord. Elle a été fondée en 1899 en tant que collège pour former des professeurs par les frères B.B. et D.D. Dougherty."
+      "description": "L'université d'État des Appalaches est une université américaine située à Boone en Caroline du Nord. Elle a été fondée en 1899 en tant que collège pour former des professeurs par les frères B.B. et D.D. Dougherty.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-cyb-menalua",
@@ -3076,7 +3370,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "doujin circle"
+      "description": "doujin circle",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-cyb-irene-reig",
@@ -3095,7 +3391,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-ta-melissa-aldana-levi-harvey-trio",
@@ -3115,7 +3413,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Chilean tenor saxophone player"
+      "description": "Chilean tenor saxophone player",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-kio-combo-crr-lyon-1",
@@ -3135,7 +3435,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian 70's jazz-rock group"
+      "description": "Italian 70's jazz-rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-ta-maria-schneider-clasijazz",
@@ -3155,7 +3457,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "US jazz composer/band leader"
+      "description": "US jazz composer/band leader",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-kio-combo-crr-lyon-2",
@@ -3175,7 +3479,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian 70's jazz-rock group"
+      "description": "Italian 70's jazz-rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-ta-samara-joy",
@@ -3195,7 +3501,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Samara Joy McLendon, née le 11 novembre 1999 dans le Bronx, connue sous le nom de scène de Samara Joy, est une chanteuse de jazz américaine."
+      "description": "Samara Joy McLendon, née le 11 novembre 1999 dans le Bronx, connue sous le nom de scène de Samara Joy, est une chanteuse de jazz américaine.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-kio-dj-heavenly-sweetness",
@@ -3215,7 +3523,9 @@
       "facebookHandle": "profile.php",
       "twitterHandle": "HeavenlyIndie",
       "tiktokHandle": null,
-      "description": "British indie group"
+      "description": "British indie group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d16-club-lila-may",
@@ -3235,7 +3545,9 @@
       "facebookHandle": "LilaDownsOficial",
       "twitterHandle": "liladowns",
       "tiktokHandle": "liladownsmx",
-      "description": "Lila Downs, née le 9 septembre 1968 à Tlaxiaco, Oaxaca, est une chanteuse mexicaine. Elle chante ses propres compositions en mixtèque, en zapotèque, en maya et en nahuatl, mais aussi en espagnol et en anglais."
+      "description": "Lila Downs, née le 9 septembre 1968 à Tlaxiaco, Oaxaca, est une chanteuse mexicaine. Elle chante ses propres compositions en mixtèque, en zapotèque, en maya et en nahuatl, mais aussi en espagnol et en anglais.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-cyb-big-band-groove",
@@ -3254,7 +3566,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-cyb-supermega-supercool-revolution",
@@ -3274,7 +3588,9 @@
       "facebookHandle": "supercoolAU",
       "twitterHandle": "supercooldubzla",
       "tiktokHandle": null,
-      "description": "dubstep producer"
+      "description": "dubstep producer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-cyb-etienne-mbappe",
@@ -3294,7 +3610,9 @@
       "facebookHandle": "ETIENNE-MBAPPE-60716806670",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Étienne Mbappé, né en 1964 à Douala au Cameroun, est un musicien camerounais."
+      "description": "Étienne Mbappé, né en 1964 à Douala au Cameroun, est un musicien camerounais.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-ta-ubaq",
@@ -3314,7 +3632,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Jazz trio"
+      "description": "Jazz trio",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-ta-the-fearless-flyers",
@@ -3334,7 +3654,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "American groove funk band"
+      "description": "American groove funk band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-kio-live-house-collective-emile-londonien-astels",
@@ -3354,7 +3676,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French house/broken beat band"
+      "description": "French house/broken beat band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-ta-vulfpeck",
@@ -3374,7 +3698,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Vulfpeck est un groupe de funk américain fondé en 2011 à Ann Arbor, dans le Michigan. Il est composé de Joe Dart (basse), Cory Wong (guitare), Woody Goss, Theo Katzman, Jack Stratton qui officie également en tant que…"
+      "description": "Vulfpeck est un groupe de funk américain fondé en 2011 à Ann Arbor, dans le Michigan. Il est composé de Joe Dart (basse), Cory Wong (guitare), Woody Goss, Theo Katzman, Jack Stratton qui officie également en tant que…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-ta-ludivine-issambourg",
@@ -3394,7 +3720,9 @@
       "facebookHandle": "ludivineissambourg",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Ludivine Issambourg, née en 1983 à Bayeux, est une flûtiste française, dans le jazz, l'electro-jazz et le hip-hop."
+      "description": "Ludivine Issambourg, née en 1983 à Bayeux, est une flûtiste française, dans le jazz, l'electro-jazz et le hip-hop.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d17-ta-souleance",
@@ -3414,7 +3742,9 @@
       "facebookHandle": "souleance",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French funk duo"
+      "description": "French funk duo",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     }
   ]
 }

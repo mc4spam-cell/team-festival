@@ -107,7 +107,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-pal-skillywidden",
@@ -127,7 +129,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-klb-plouz-et-foen",
@@ -146,7 +150,9 @@
       "tidalArtistId": null,
       "facebookHandle": "PlouzFoen",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-sta-championnat-bagadou",
@@ -166,7 +172,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Detroit-based MC/rapper"
+      "description": "Detroit-based MC/rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-sta-horizons-celtiques",
@@ -185,7 +193,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-jpp-pascal-jaouen-metamorphoses",
@@ -205,7 +215,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-klb-ferla-megia",
@@ -225,7 +237,9 @@
       "facebookHandle": null,
       "twitterHandle": "ferlame",
       "tiktokHandle": null,
-      "description": "Spanish artist"
+      "description": "Spanish artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-sta-grande-parade",
@@ -244,7 +258,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-sta-danses-et-costumes-de-bretagne",
@@ -264,7 +280,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Note PC Studio"
+      "description": "Note PC Studio",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-sta-triomphe-des-sonneurs",
@@ -283,7 +301,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-sta-horizons-celtiques",
@@ -302,7 +322,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-jpp-pascal-jaouen-metamorphoses",
@@ -322,7 +344,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-the-denez",
@@ -342,7 +366,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Denez Prigent, aussi appelé Denez, né le 17 février 1966 à Santec dans le Finistère, est un auteur-compositeur-interprète français de chants en langue bretonne. Ses genres de prédilection sont le kan ha diskan, chant et contre-chant à danser et surtout la gwerz, chant dramatique racontant un fait historique ou un…"
+      "description": "Denez Prigent, aussi appelé Denez, né le 17 février 1966 à Santec dans le Finistère, est un auteur-compositeur-interprète français de chants en langue bretonne. Ses genres de prédilection sont le kan ha diskan, chant et contre-chant à danser et surtout la gwerz, chant dramatique racontant un fait historique ou un…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-qdb-ampouailh",
@@ -361,7 +387,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-the-cap-kozmik",
@@ -381,7 +409,9 @@
       "facebookHandle": "capcaval",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Le Bagad Cap Caval est un bagad originaire du Pays Bigouden, créé à Plomeur en 1984 par Denis Daniel. Il est surnommé « l'ensemble aux dahlias » en raison de la fleur rouge, orange et jaune que les musiciens peuvent porter sur leurs gilets."
+      "description": "Le Bagad Cap Caval est un bagad originaire du Pays Bigouden, créé à Plomeur en 1984 par Denis Daniel. Il est surnommé « l'ensemble aux dahlias » en raison de la fleur rouge, orange et jaune que les musiciens peuvent porter sur leurs gilets.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-pal-desi-wilkinson-gilles-le-bigot",
@@ -401,7 +431,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Gilles Le Bigot, né en 1959 à Saint-Brieuc, est un guitariste français de culture bretonne spécialisé dans la musique celtique."
+      "description": "Gilles Le Bigot, né en 1959 à Saint-Brieuc, est un guitariste français de culture bretonne spécialisé dans la musique celtique.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-pal-kathryn-tickell-the-darkening",
@@ -421,7 +453,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Kathryn Tickell est une musicienne anglaise, née en 1967, et une des joueuses les plus réputées de Northumbrian smallpipes. Elle joue également du fiddle."
+      "description": "Kathryn Tickell est une musicienne anglaise, née en 1967, et une des joueuses les plus réputées de Northumbrian smallpipes. Elle joue également du fiddle.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-jpp-musiques-et-danses-des-pays-celtes",
@@ -441,7 +475,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "L’Héritage des Celtes est une réunion de musiciens originaires de pays se réclamant de la tradition celtique, initiée par deux Quimpérois, le producteur Jakez Bernard et le guitariste-chanteur Dan Ar Braz. Ensemble ils jouent des musiques traditionnelles celtiques mais aussi des compositions de Dan Ar Braz, sur des…"
+      "description": "L’Héritage des Celtes est une réunion de musiciens originaires de pays se réclamant de la tradition celtique, initiée par deux Quimpérois, le producteur Jakez Bernard et le guitariste-chanteur Dan Ar Braz. Ensemble ils jouent des musiques traditionnelles celtiques mais aussi des compositions de Dan Ar Braz, sur des…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-jpp-agnes-obel",
@@ -461,7 +497,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Agnes Obel, née le 28 octobre 1980 à Gentofte (Danemark), est une autrice-compositrice-interprète et musicienne danoise."
+      "description": "Agnes Obel, née le 28 octobre 1980 à Gentofte (Danemark), est une autrice-compositrice-interprète et musicienne danoise.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-pal-voix-celtes-cecile-corbel",
@@ -481,7 +519,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French/Breton singer, harpist, and composer"
+      "description": "French/Breton singer, harpist, and composer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-pal-ruben-alba",
@@ -500,7 +540,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-pal-susana-seivane",
@@ -520,7 +562,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Susana Seivane, née le 25 août 1976 à Barcelone, est musicienne galicienne, joueuse de cornemuse et chanteuse."
+      "description": "Susana Seivane, née le 25 août 1976 à Barcelone, est musicienne galicienne, joueuse de cornemuse et chanteuse.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-klb-malin-lewis-trio",
@@ -539,7 +583,9 @@
       "tidalArtistId": null,
       "facebookHandle": "MalinLewisMusician",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-klb-mec-lir",
@@ -558,7 +604,9 @@
       "tidalArtistId": null,
       "facebookHandle": "meclirband",
       "twitterHandle": "meclirband",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-sta-horizons-celtiques",
@@ -577,7 +625,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-jpp-musiques-et-danses-des-pays-celtes",
@@ -597,7 +647,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "L’Héritage des Celtes est une réunion de musiciens originaires de pays se réclamant de la tradition celtique, initiée par deux Quimpérois, le producteur Jakez Bernard et le guitariste-chanteur Dan Ar Braz. Ensemble ils jouent des musiques traditionnelles celtiques mais aussi des compositions de Dan Ar Braz, sur des…"
+      "description": "L’Héritage des Celtes est une réunion de musiciens originaires de pays se réclamant de la tradition celtique, initiée par deux Quimpérois, le producteur Jakez Bernard et le guitariste-chanteur Dan Ar Braz. Ensemble ils jouent des musiques traditionnelles celtiques mais aussi des compositions de Dan Ar Braz, sur des…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-jpp-yann-tiersen",
@@ -617,7 +669,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Yann Tiersen, né le 23 juin 1970 à Brest (Bretagne), est un auteur-compositeur, musicien et producteur français."
+      "description": "Yann Tiersen, né le 23 juin 1970 à Brest (Bretagne), est un auteur-compositeur, musicien et producteur français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-pal-malin-lewis-trio",
@@ -636,7 +690,9 @@
       "tidalArtistId": null,
       "facebookHandle": "MalinLewisMusician",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-pal-manran",
@@ -656,7 +712,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Groupe britannique."
+      "description": "Groupe britannique.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-sta-horizons-celtiques",
@@ -675,7 +733,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-jpp-tanork",
@@ -695,7 +755,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Death metal band from France"
+      "description": "Death metal band from France",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-jpp-eluveitie",
@@ -715,7 +777,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Eluveitie est un groupe de folk metal suisse, originaire de Winterthour, dans le canton de Zurich. Le groupe est formé en 2002 par Chrigel Glanzmann, et leur premier EP, Vên, est commercialisé en 2003 suivi par la suite…"
+      "description": "Eluveitie est un groupe de folk metal suisse, originaire de Winterthour, dans le canton de Zurich. Le groupe est formé en 2002 par Chrigel Glanzmann, et leur premier EP, Vên, est commercialisé en 2003 suivi par la suite…",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-the-leonard-barry-trio",
@@ -735,7 +799,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "American conductor, composer, pianist"
+      "description": "American conductor, composer, pianist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-the-dervish",
@@ -755,7 +821,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Irish traditional/folk group"
+      "description": "Irish traditional/folk group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-pal-ete",
@@ -775,7 +843,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Slovenian experimental rock group"
+      "description": "Slovenian experimental rock group",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-qdb-eris",
@@ -795,7 +865,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Dans la mythologie grecque, Éris est une déesse personnifiant la Discorde."
+      "description": "Dans la mythologie grecque, Éris est une déesse personnifiant la Discorde.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d7-sta-horizons-celtiques",
@@ -814,7 +886,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-the-carlos-nunez-1",
@@ -834,7 +908,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-the-carlos-nunez-2",
@@ -854,7 +930,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "alias of 3 a.m. person"
+      "description": "alias of 3 a.m. person",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-jpp-bouge-ton-celte",
@@ -874,7 +952,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Isabelle Duthoit, Johannes Bauer, Luc Klaasen"
+      "description": "Isabelle Duthoit, Johannes Bauer, Luc Klaasen",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d8-pal-leda",
@@ -894,7 +974,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Irish/Scottish folk duo"
+      "description": "Irish/Scottish folk duo",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-the-leda",
@@ -914,7 +996,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Irish/Scottish folk duo"
+      "description": "Irish/Scottish folk duo",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-the-capercaillie",
@@ -934,7 +1018,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Capercaillie est un groupe de musique folk écossais, de renommée internationale, fondé en 1983 par Dòmhnall Seathach, Marc Duff, Joan MacLachlan, Shaun Craig et Martin MacLeod, qui trouve son inspiration dans le répertoire traditionnel celtique."
+      "description": "Capercaillie est un groupe de musique folk écossais, de renommée internationale, fondé en 1983 par Dòmhnall Seathach, Marc Duff, Joan MacLachlan, Shaun Craig et Martin MacLeod, qui trouve son inspiration dans le répertoire traditionnel celtique.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-jpp-noon",
@@ -953,7 +1039,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-jpp-fleuves",
@@ -972,7 +1060,9 @@
       "tidalArtistId": "8346184",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-jpp-dj-miss-blue",
@@ -991,7 +1081,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-pal-voix-bretonnes-kerno-lavanant",
@@ -1011,7 +1103,9 @@
       "facebookHandle": "clarisse.lavanant",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Clarisse Lavanant est une auteure-compositrice-interprète et actrice d'expression française et bretonne, née le 2 avril 1979 au Mans."
+      "description": "Clarisse Lavanant est une auteure-compositrice-interprète et actrice d'expression française et bretonne, née le 2 avril 1979 au Mans.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-qdb-seim",
@@ -1030,7 +1124,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d9-klb-3-daft-monkeys",
@@ -1050,7 +1146,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "3 Daft Monkeys est un groupe de musique originaire des Cornouailles, en Angleterre et fondé en 2000."
+      "description": "3 Daft Monkeys est un groupe de musique originaire des Cornouailles, en Angleterre et fondé en 2000.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     }
   ]
 }
