@@ -183,7 +183,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Brothers Sammy and Johnny Bennett"
     },
     {
       "id": "d2-psp-bon-entendeur",
@@ -414,7 +415,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "NYC/Berlin based artist & Orator"
     },
     {
       "id": "d4-pu-st-graal",

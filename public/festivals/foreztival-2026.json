@@ -203,7 +203,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Danakil est un groupe de reggae français, originaire de Marly-le-Roi, en région parisienne. Formé en 2000, le groupe porte un message engagé sur une musique métissée oscillant entre reggae et musique du monde."
     },
     {
       "id": "dx-na-perceval",
@@ -559,7 +560,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Monika Martin, née le 7 mai 1962 à Graz en Autriche, est une chanteuse de schlager très populaire en Allemagne."
     },
     {
       "id": "dx-na-big-junior",

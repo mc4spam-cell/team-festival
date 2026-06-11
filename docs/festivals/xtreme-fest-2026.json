@@ -58,7 +58,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Rise of the Northstar est un groupe de metal français, originaire de Paris, en Île-de-France. Le groupe sort un premier EP intitulé Tokyo Assault en janvier 2010, et un second, Demonstrating My Saiya Style, en juillet 2012."
     },
     {
       "id": "dx-na-biohazard",
@@ -375,7 +376,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "hardcore from London"
     },
     {
       "id": "dx-na-missing-no",

@@ -72,7 +72,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Brazilian rapper"
     },
     {
       "id": "d2-na-naza",
@@ -145,7 +146,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "French electro dance duo"
     },
     {
       "id": "d3-na-coco",

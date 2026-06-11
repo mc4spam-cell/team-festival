@@ -165,7 +165,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "French electro dance duo"
     },
     {
       "id": "dx-tbd-cerrone",
@@ -179,7 +180,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "cerroneofficial"
+      "instagramHandle": "cerroneofficial",
+      "description": "Marc Cerrone, dit Cerrone, né le 24 mai 1952 à Vitry-sur-Seine, est un compositeur et musicien français. Il est considéré comme un pilier du disco en France et en Belgique."
     },
     {
       "id": "dx-tbd-meduza",
@@ -356,7 +358,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Brazilian rapper"
     },
     {
       "id": "dx-tbd-adele-castillon",
@@ -427,7 +430,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": "feder_music"
+      "instagramHandle": "feder_music",
+      "description": "deep house/pop producer Hadrien Federiconi"
     },
     {
       "id": "dx-tbd-matt-sassari",
@@ -993,7 +997,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": "Hortense de Beauharnais, reine de Hollande (1806-1810), duchesse de Saint-Leu (Saint-Leu-la-Forêt) (1814), née le 10 avril 1783 à Paris et morte le 5 octobre 1837 au château d'Arenenberg dans le canton de Thurgovie en…"
+      "description": "Hortense de Beauharnais, reine de Hollande (1806-1810), duchesse de Saint-Leu (Saint-Leu-la-Forêt) (1814), née le 10 avril 1783 à Paris et morte le 5 octobre 1837 au château d'Arenenberg dans le canton de Thurgovie en..."
     },
     {
       "id": "dx-tbd-interg",

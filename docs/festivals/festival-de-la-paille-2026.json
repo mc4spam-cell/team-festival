@@ -129,7 +129,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "mashup artist"
     },
     {
       "id": "d1-montdor-shao-x-cinza",

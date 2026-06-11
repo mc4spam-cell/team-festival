@@ -155,7 +155,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Jazz trio"
     },
     {
       "id": "d4-na-gildaa",
@@ -169,7 +170,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "French Brazilian singer end performer"
     },
     {
       "id": "d4-na-gabriel-gosse",

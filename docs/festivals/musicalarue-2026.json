@@ -143,7 +143,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "French band, fka Ma pauvre Lucette"
     },
     {
       "id": "d1-na-thibault-cauvin",
@@ -389,7 +390,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Enhancer est un groupe de nu metal français, originaire d'Andrésy, dans les Yvelines, formé en 1996."
     },
     {
       "id": "d2-na-youssoupha",
@@ -645,7 +647,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Helena Vondráčková, née le 24 juin 1947 à Prague, est une chanteuse tchèque."
     },
     {
       "id": "d3-na-biga-ranx",
@@ -733,7 +736,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Danakil est un groupe de reggae français, originaire de Marly-le-Roi, en région parisienne. Formé en 2000, le groupe porte un message engagé sur une musique métissée oscillant entre reggae et musique du monde."
     },
     {
       "id": "d3-na-solann",
@@ -833,7 +837,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "mashup artist"
     },
     {
       "id": "d3-na-bold-feat-youthstar",

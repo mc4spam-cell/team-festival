@@ -355,7 +355,7 @@
       "facebookHandle": "theinspectorcluzo",
       "twitterHandle": "inspectorcluzo",
       "tiktokHandle": null,
-      "description": "The Inspector Cluzo est un groupe français de rock, originaire de Mont-de-Marsan, dans les Landes. Formé en 2008, le groupe est composé de Malcolm à la guitare et au chant et de Phil à la batterie, tous deux anciens..."
+      "description": "The Inspector Cluzo est un groupe français de rock, originaire de Mont-de-Marsan, dans les Landes. Formé en 2008, le groupe est composé de Malcolm à la guitare et au chant et de Phil à la batterie, tous deux anciens…"
     },
     {
       "id": "d1-ms2-deep-purple",
@@ -454,7 +454,8 @@
       "tidalArtistId": "4767414",
       "facebookHandle": "uncleacid",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Uncle Acid and the Deadbeats est un groupe de doom psychédélique britannique originaire de Cambridge, en Angleterre, largement influencé par le heavy metal des années 1970."
     },
     {
       "id": "d1-ms1-papa-roach",
@@ -928,7 +929,8 @@
       "tidalArtistId": "8070914",
       "facebookHandle": "brothersofmetalofficial",
       "twitterHandle": "artist",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Brothers of Metal est un groupe de power metal originaire de Falun, formé en 2012. Le style visuel du groupe ainsi que les paroles de leurs chansons s'inspirent du monde des Vikings et de la mythologie nordique, mais avec une extravagance qui leur a souvent valu d'être autant critiqués que salués."
     },
     {
       "id": "d2-va-rezn",
@@ -967,7 +969,8 @@
       "tidalArtistId": "6152247",
       "facebookHandle": "SortilegeWithZouille",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Sortilège est un groupe de heavy metal et power metal français, originaire de Paris. Le style musical du groupe se situe entre Judas Priest et Iron Maiden."
     },
     {
       "id": "d2-te-ponte-del-diavolo",
@@ -1566,7 +1569,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "La Dispute est un groupe de post-hardcore américain, originaire de Grand Rapids, dans le Michigan. Formé en 2004, les membres principaux sont Jordan Dreyer (chant), Brad Vander Lugt (batterie), Chad Morgan-Sterenberg (guitare) et Adam Vass (basse)."
     },
     {
       "id": "d2-ms2-sabaton",
@@ -2241,7 +2245,8 @@
       "tidalArtistId": null,
       "facebookHandle": "enhancer",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Enhancer est un groupe de nu metal français, originaire d'Andrésy, dans les Yvelines, formé en 1996."
     },
     {
       "id": "d3-te-gaerea",
@@ -2679,7 +2684,8 @@
       "tidalArtistId": "3616303",
       "facebookHandle": "cultoflunamusic",
       "twitterHandle": "Cultofluna_off",
-      "tiktokHandle": "cult_of_luna"
+      "tiktokHandle": "cult_of_luna",
+      "description": "Cult of Luna est un groupe suédois de sludge metal, originaire d'Umeå, dans la commune d'Umeå. Formé en 1998 autour de Klas Rydberg au chant et de Johannes Persson à la guitare, le groupe utilise divers éléments musicaux suédois."
     },
     {
       "id": "d3-ms2-volbeat",

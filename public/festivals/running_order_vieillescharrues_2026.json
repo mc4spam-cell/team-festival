@@ -179,7 +179,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims. Membre des groupes The Film et The Shoes, il se fait connaître avec son single Aulos, publié chez Ed Banger Records — label fondé et dirigé par Busy P."
     },
     {
       "id": "d2-tbd-jean-louis-aubert",
@@ -503,7 +504,7 @@
       "spotifyArtistId": null,
       "deezerArtistId": null,
       "instagramHandle": null,
-      "description": "Houdi, né le 24 novembre 2001 en Seine-et-Marne (77), est un rappeur et chanteur français. Il apparaît sur la scène musicale en 2022 et gagne en popularité, jusqu’à participer à des festivals majeurs de la sphère..."
+      "description": "Houdi, né le 24 novembre 2001 en Seine-et-Marne (77), est un rappeur et chanteur français. Il apparaît sur la scène musicale en 2022 et gagne en popularité, jusqu’à participer à des festivals majeurs de la sphère…"
     },
     {
       "id": "d3-tbd-dub-inc",
@@ -590,7 +591,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Autrice-compositrice-interprète française."
     },
     {
       "id": "d3-tbd-sprints",

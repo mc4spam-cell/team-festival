@@ -204,7 +204,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "The Lanskies est un groupe de pop rock français, originaire de Saint-Lô, dans la Manche. Formé en 2006, le groupe se compose de cinq membres : Lewis Evans (chant), Florian von Kunssberg, Marc Brendel (guitare) décédé le 27 juin 2022, Zool Vabret et Sylvain Lamotte (batterie)."
     },
     {
       "id": "d2-john-la-mano-1-9",
@@ -263,7 +264,8 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Pulp est un groupe de rock britannique, originaire de Sheffield, en Angleterre. Il est composé en 1978 sous l'impulsion de Jarvis Cocker qui a alors 15 ans ; il est le seul membre présent depuis le début."
     },
     {
       "id": "d2-stu-m-a-d-brains",
@@ -659,7 +661,8 @@
       "tidalArtistId": "9306980",
       "facebookHandle": "vladimircauchemar",
       "twitterHandle": "vladcauchemar",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims. Membre des groupes The Film et The Shoes, il se fait connaître avec son single Aulos, publié chez Ed Banger Records — label fondé et dirigé par Busy P."
     },
     {
       "id": "d4-bea-dropkick-murphys",
@@ -799,7 +802,7 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Franz Ferdinand est un groupe de rock britannique, originaire de Glasgow, en Écosse. Ce patronyme leur est venu en regardant une course hippique dont l'un des concurrents portait le nom de l'archiduc François-Ferdinand..."
+      "description": "Franz Ferdinand est un groupe de rock britannique, originaire de Glasgow, en Écosse. Ce patronyme leur est venu en regardant une course hippique dont l'un des concurrents portait le nom de l'archiduc François-Ferdinand…"
     },
     {
       "id": "d4-stu-swump",

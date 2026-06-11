@@ -82,7 +82,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Swedish electronic musician Stefan Thor, active mid-2000s"
     },
     {
       "id": "d1-na-a6el",
@@ -110,7 +111,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Autrice-compositrice-interprète française."
     },
     {
       "id": "d1-na-divin0",
@@ -138,7 +140,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "Belgian indie rock band by Jelle Denturck"
     },
     {
       "id": "d1-na-nina-eba",
@@ -268,7 +271,8 @@
       "musicBrainzId": null,
       "spotifyArtistId": null,
       "deezerArtistId": null,
-      "instagramHandle": null
+      "instagramHandle": null,
+      "description": "mashup artist"
     },
     {
       "id": "d2-na-gaia-banfi",
