@@ -133,17 +133,20 @@ def curl_text(url: str, headers: list[str] | None = None) -> str | None:
         return None
 
 
-def youtube_video_candidates(channel_id: str, limit: int = 6) -> list[str]:
-    """First `limit` unique videoIds from the channel's own uploads, newest-first.
+def youtube_video_candidates(channel_id: str, limit: int = 10) -> list[str]:
+    """Up to `limit` unique videoIds from the channel's own uploads, newest-first.
 
-    The uploads playlist of any channel UC… is UU… (identical suffix). We read
-    the playlist page, falling back to the channel /videos tab. Sampling from
-    the artist's own channel avoids the wrong-video risk of a blind search.
+    Source order matters: the channel **/videos tab first** — it lists long-form
+    uploads only (Shorts live under a separate /shorts tab), so real music
+    videos / lyric clips / Topic tracks surface ahead of promo Shorts. The
+    uploads playlist (UU… — same suffix as the channel's UC…, carries Shorts
+    too) then tops up the list as a fallback. Sampling from the artist's own
+    channel avoids the wrong-video risk of a blind search.
     """
     uploads = "UU" + channel_id[2:]
     seen: list[str] = []
-    for url in (f"https://www.youtube.com/playlist?list={uploads}",
-                f"https://www.youtube.com/channel/{channel_id}/videos"):
+    for url in (f"https://www.youtube.com/channel/{channel_id}/videos",
+                f"https://www.youtube.com/playlist?list={uploads}"):
         html = curl_text(url, YT_HEADERS)
         if html:
             for m in RE_YTVIDEO.finditer(html):
@@ -152,8 +155,6 @@ def youtube_video_candidates(channel_id: str, limit: int = 6) -> list[str]:
                     seen.append(vid)
                 if len(seen) >= limit:
                     return seen
-        if seen:
-            break
     return seen
 
 
@@ -187,20 +188,52 @@ def youtube_oembed(video_id: str) -> tuple[int, dict | None]:
         return 0, None
 
 
+# Title fragments that mark a real, representative music upload (lyric video,
+# official audio/clip, full album/live), used to lift those above generic ones.
+SONG_MARKERS = ("lyric", "official audio", "(audio)", "official video",
+                "official music video", "music video", "full album", "visualizer",
+                "live at", "live in", "(live")
+
+
+def video_rank(author: str, title: str) -> int:
+    """Preference score for an embeddable candidate — lower is better.
+
+    Honours, in order: (0) Topic auto-generated channels (« Artist - Topic »,
+    embed quasi-systematic, clean track audio); (1) lyric / official-audio /
+    official-video / full-album clips, or a clean « Artist - Song » title, on
+    the band's own channel; (2) any other non-Vevo upload; (3) promo Shorts
+    (hashtag-led blurbs, no song marker — non-representative, demoted but kept
+    as a last clean option); (4) Vevo uploads last — frequently embed-disabled
+    or branded, used only when nothing else is embeddable.
+    """
+    a, t = author.lower(), title.lower()
+    if "vevo" in a:
+        return 4
+    if a.endswith("- topic") or " - topic" in a:
+        return 0
+    has_marker = any(k in t for k in SONG_MARKERS)
+    if has_marker or (" - " in title and "#" not in t):
+        return 1
+    # Promo Short heuristic: hashtag blurb with no song marker (e.g. "#theweather
+    # #musicvideo", "…☀️ #SchoolsOut") — picked too eagerly as newest upload.
+    if t.strip().startswith("#") or ("#" in t and not has_marker):
+        return 3
+    return 2
+
+
 def youtube_video_from_channel(channel_id: str) -> str | None:
     """A representative, embeddable video id from the channel's own uploads.
 
-    Among the first few uploads (newest-first) we prefer, in order:
-      1. an embeddable video (oEmbed 200) that is NOT a Vevo upload — lyric
-         videos, Topic auto-generated tracks, official lives, the band's own
-         uploads;
-      2. failing that, the first embeddable video (even if Vevo);
-      3. failing that, the first upload overall, so the field is still
-         populated when nothing clean is available (non-regression).
+    Among the newest uploads we probe each for embeddability (oEmbed 200) and
+    keep the best by `video_rank` — Topic > lyric/audio > other non-Vevo > Vevo.
+    A Topic hit (rank 0) is unbeatable, so we stop early. Falls back to the
+    first embeddable upload, then the first upload overall, so the field is
+    still populated when nothing clean is available (non-regression).
     """
-    candidates = youtube_video_candidates(channel_id)
+    candidates = youtube_video_candidates(channel_id, limit=10)
     if not candidates:
         return None
+    best: tuple[int, str] | None = None  # (rank, vid), first-seen wins ties (newest)
     first_embeddable: str | None = None
     for vid in candidates:
         code, data = youtube_oembed(vid)
@@ -209,9 +242,14 @@ def youtube_video_from_channel(channel_id: str) -> str | None:
             continue  # embedding disabled / private / removed
         if first_embeddable is None:
             first_embeddable = vid
-        author = ((data or {}).get("author_name") or "").lower()
-        if "vevo" not in author:
-            return vid  # embeddable AND not Vevo → best pick
+        rank = video_rank((data or {}).get("author_name") or "",
+                          (data or {}).get("title") or "")
+        if best is None or rank < best[0]:
+            best = (rank, vid)
+        if rank == 0:
+            break  # Topic upload — can't do better
+    if best is not None:
+        return best[1]
     return first_embeddable or candidates[0]
 
 
@@ -368,6 +406,11 @@ def main() -> int:
     ap.add_argument("--max", type=int, default=MAX_PER_RUN,
                     help=f"max NEW artists resolved this run (default {MAX_PER_RUN}; "
                          "0 = unlimited). Overflow rolls to the next run.")
+    ap.add_argument("--backfill-youtube", action="store_true",
+                    help="one-off: re-open already-resolved artists (have an MBID) "
+                         "that are missing youtubeMusicChannelId and fill ONLY the "
+                         "two YouTube fields. Other fields are left untouched. "
+                         "Chunkable via --max, idempotent (skips ones already done).")
     args = ap.parse_args()
 
     all_festivals = load_all_festivals()
@@ -383,49 +426,81 @@ def main() -> int:
     for _, (_, data) in all_festivals.items():
         for c in data["concerts"]:
             unique_artists.add(c["artist"])
-    todo = sorted(unique_artists - set(cache.keys()))
 
-    # Daily cap: never-resolved artists (no id yet) are already the only ones in
-    # `todo`; we just bound how many we attempt per run so a big batch can't blow
-    # past request limits. The rest roll to tomorrow. --force lifts the cap.
-    cap = 0 if args.force else max(0, args.max)
-    deferred = 0
-    if cap and len(todo) > cap:
-        deferred = len(todo) - cap
-        todo = todo[:cap]
+    if args.backfill_youtube:
+        # One-off: artists added to the cache before the YouTube fields existed
+        # have an MBID but a null channel; the daily run never re-opens them. Here
+        # we re-query MB url-rels for those and fill ONLY the two YouTube fields.
+        todo = sorted(a for a, e in cache.items()
+                      if e.get("musicBrainzId") and not e.get("youtubeMusicChannelId"))
+        cap = max(0, args.max)
+        deferred = 0
+        if cap and len(todo) > cap:
+            deferred = len(todo) - cap
+            todo = todo[:cap]
+        print(f"{len(unique_artists)} unique artists across {len(all_festivals)} festivals")
+        print(f"  backfilling YouTube channel/video on cached artists missing it")
+        print(f"  to backfill now:   {len(todo)}"
+              + (f"  (cap {cap} — {deferred} deferred to next run)" if deferred else ""))
+        if todo:
+            eta_s = len(todo) * 2 * SLEEP_BETWEEN_CALLS  # ~url-rels + 1 uploads fetch
+            print(f"  estimated time:    ~{int(eta_s/60)} min {int(eta_s%60)} s\n")
+        for i, artist in enumerate(todo, 1):
+            entry = cache[artist]
+            links = lookup_links(entry["musicBrainzId"])  # url-rels → channel → video
+            time.sleep(SLEEP_BETWEEN_CALLS)
+            for k in ("youtubeMusicChannelId", "youtubeVideoId"):
+                if links.get(k):
+                    entry[k] = links[k]
+            cache[artist] = entry
+            ch, vid = entry.get("youtubeMusicChannelId"), entry.get("youtubeVideoId")
+            mark = ("Y" if ch else "·") + ("V" if vid else "·")
+            print(f"  [{i:>3}/{len(todo)}] {'✓' if ch else '✗'} {artist:<48} "
+                  f"[{mark}] {vid or ch or '(no YouTube channel in MB)'}")
+    else:
+        todo = sorted(unique_artists - set(cache.keys()))
 
-    print(f"{len(unique_artists)} unique artists across {len(all_festivals)} festivals")
-    print(f"  cached (skipped):  {len(cache)}")
-    print(f"  to resolve now:    {len(todo)}"
-          + (f"  (cap {cap} — {deferred} deferred to next run)" if deferred else ""))
-    if todo:
-        eta_s = len(todo) * 3 * SLEEP_BETWEEN_CALLS  # ~3 calls/artist (search + rels + uploads)
-        print(f"  estimated time:    ~{int(eta_s/60)} min {int(eta_s%60)} s\n")
+        # Daily cap: never-resolved artists (no id yet) are already the only ones in
+        # `todo`; we just bound how many we attempt per run so a big batch can't blow
+        # past request limits. The rest roll to tomorrow. --force lifts the cap.
+        cap = 0 if args.force else max(0, args.max)
+        deferred = 0
+        if cap and len(todo) > cap:
+            deferred = len(todo) - cap
+            todo = todo[:cap]
 
-    for i, artist in enumerate(todo, 1):
-        mbid = search_mbid(artist)
-        time.sleep(SLEEP_BETWEEN_CALLS)
-        if not mbid:
-            cache[artist] = {**EMPTY}
-            print(f"  [{i:>3}/{len(todo)}] ✗ {artist:<48} (no MBID)")
-            continue
-        links = lookup_links(mbid)  # MB providers + YouTube channel + video
-        time.sleep(SLEEP_BETWEEN_CALLS)
-        cache[artist] = links
-        marks = "".join([
-            "S" if links["spotifyArtistId"]       else "·",
-            "D" if links["deezerArtistId"]        else "·",
-            "A" if links["appleMusicArtistId"]    else "·",
-            "Q" if links["qobuzArtistId"]         else "·",
-            "T" if links["tidalArtistId"]         else "·",
-            "Y" if links["youtubeMusicChannelId"] else "·",
-            "V" if links["youtubeVideoId"]        else "·",
-            "I" if links["instagramHandle"]       else "·",
-            "F" if links["facebookHandle"]        else "·",
-            "X" if links["twitterHandle"]         else "·",
-            "K" if links["tiktokHandle"]          else "·",
-        ])
-        print(f"  [{i:>3}/{len(todo)}] ✓ {artist:<48} [{marks}]")
+        print(f"{len(unique_artists)} unique artists across {len(all_festivals)} festivals")
+        print(f"  cached (skipped):  {len(cache)}")
+        print(f"  to resolve now:    {len(todo)}"
+              + (f"  (cap {cap} — {deferred} deferred to next run)" if deferred else ""))
+        if todo:
+            eta_s = len(todo) * 3 * SLEEP_BETWEEN_CALLS  # ~3 calls/artist (search + rels + uploads)
+            print(f"  estimated time:    ~{int(eta_s/60)} min {int(eta_s%60)} s\n")
+
+        for i, artist in enumerate(todo, 1):
+            mbid = search_mbid(artist)
+            time.sleep(SLEEP_BETWEEN_CALLS)
+            if not mbid:
+                cache[artist] = {**EMPTY}
+                print(f"  [{i:>3}/{len(todo)}] ✗ {artist:<48} (no MBID)")
+                continue
+            links = lookup_links(mbid)  # MB providers + YouTube channel + video
+            time.sleep(SLEEP_BETWEEN_CALLS)
+            cache[artist] = links
+            marks = "".join([
+                "S" if links["spotifyArtistId"]       else "·",
+                "D" if links["deezerArtistId"]        else "·",
+                "A" if links["appleMusicArtistId"]    else "·",
+                "Q" if links["qobuzArtistId"]         else "·",
+                "T" if links["tidalArtistId"]         else "·",
+                "Y" if links["youtubeMusicChannelId"] else "·",
+                "V" if links["youtubeVideoId"]        else "·",
+                "I" if links["instagramHandle"]       else "·",
+                "F" if links["facebookHandle"]        else "·",
+                "X" if links["twitterHandle"]         else "·",
+                "K" if links["tiktokHandle"]          else "·",
+            ])
+            print(f"  [{i:>3}/{len(todo)}] ✓ {artist:<48} [{marks}]")
 
     print()
     for fid, (path, data) in all_festivals.items():
