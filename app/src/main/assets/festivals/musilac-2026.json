@@ -59,7 +59,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-aura-zelie",
@@ -79,7 +81,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Zélie est un prénom féminin fêté le 17 octobre avec sainte Solène ou le 12 juillet avec Zélie Martin, mère de sainte Thérèse de Lisieux."
+      "description": "Zélie est un prénom féminin fêté le 17 octobre avec sainte Solène ou le 12 juillet avec Zélie Martin, mère de sainte Thérèse de Lisieux.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-aura-rallye",
@@ -98,7 +102,9 @@
       "tidalArtistId": "6221417",
       "facebookHandle": "rallyemusic2018",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": "UCvTHAl8RtJ_zfuMaU4fnMrw",
+      "youtubeVideoId": "AlxGsY0B8wI"
     },
     {
       "id": "d1-aura-lancelot",
@@ -118,7 +124,9 @@
       "facebookHandle": "lancelotofficial",
       "twitterHandle": "LAIICELOT",
       "tiktokHandle": null,
-      "description": "Lancelot du Lac est un personnage du cycle arthurien des romans de la Table ronde et une figure emblématique de l'amour courtois."
+      "description": "Lancelot du Lac est un personnage du cycle arthurien des romans de la Table ronde et une figure emblématique de l'amour courtois.",
+      "youtubeMusicChannelId": "UCf_OCikxGY-bghoXj3zyptw",
+      "youtubeVideoId": "uhoJYLmzkt4"
     },
     {
       "id": "d1-aura-sam-quealy",
@@ -137,7 +145,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-mon-lambrini-girls",
@@ -157,7 +167,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Lambrini Girls est un groupe de punk rock anglais. Formé à Brighton en 2018, le groupe est actuellement[Depuis quand ?] composé de Phoebe Lunny et Lilly Macieira."
+      "description": "Lambrini Girls est un groupe de punk rock anglais. Formé à Brighton en 2018, le groupe est actuellement[Depuis quand ?] composé de Phoebe Lunny et Lilly Macieira.",
+      "youtubeMusicChannelId": "UCr33PPOQ3kfnONhM6a49CGA",
+      "youtubeVideoId": "_DAuSNXBgoM"
     },
     {
       "id": "d1-mon-feu-chatterton",
@@ -177,7 +189,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris."
+      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris.",
+      "youtubeMusicChannelId": "UC0ixDRQmVUvsKr_aiMBoD8Q",
+      "youtubeVideoId": "okUPFy7FSew"
     },
     {
       "id": "d1-mon-yelle",
@@ -197,7 +211,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French electropop band"
+      "description": "French electropop band",
+      "youtubeMusicChannelId": "UCztn2KrX8KKizSpvzkZoDtg",
+      "youtubeVideoId": "GBgNm_T1ocA"
     },
     {
       "id": "d1-lac-last-train",
@@ -217,7 +233,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Last Train est un groupe de rock français, originaire d’Altkirch, en Alsace. Il est formé en 2007 alors que Jean-Noël Scherrer, Julien Peultier (guit.), Timothée Gerard (bass.) et Antoine Baschung (batteur) sont encore…"
+      "description": "Last Train est un groupe de rock français, originaire d’Altkirch, en Alsace. Il est formé en 2007 alors que Jean-Noël Scherrer, Julien Peultier (guit.), Timothée Gerard (bass.) et Antoine Baschung (batteur) sont encore…",
+      "youtubeMusicChannelId": "UCd-cG_0aBLNsdL-Nbf3yTdw",
+      "youtubeVideoId": "UTwRqGlIaIs"
     },
     {
       "id": "d1-lac-katy-perry",
@@ -237,7 +255,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Katheryn Hudson, dite Katy Perry, est une auteure-compositrice-interprète américaine de musique pop et dance, née le 25 octobre 1984 à Santa Barbara, en Californie."
+      "description": "Katheryn Hudson, dite Katy Perry, est une auteure-compositrice-interprète américaine de musique pop et dance, née le 25 octobre 1984 à Santa Barbara, en Californie.",
+      "youtubeMusicChannelId": "UC_7s69e1mDS3lgcTMJEPjCg",
+      "youtubeVideoId": "xfSkoPnCoU8"
     },
     {
       "id": "d2-aura-sahelie",
@@ -257,7 +277,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French artist"
+      "description": "French artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-aura-camille-yembe",
@@ -277,7 +299,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Camille Yembe, née en 1997 à Molenbeek-Saint-Jean (Bruxelles), est une auteure-compositrice-interprète belge de techno-pop."
+      "description": "Camille Yembe, née en 1997 à Molenbeek-Saint-Jean (Bruxelles), est une auteure-compositrice-interprète belge de techno-pop.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-aura-styleto",
@@ -297,7 +321,9 @@
       "facebookHandle": null,
       "twitterHandle": "styletonicc",
       "tiktokHandle": null,
-      "description": "Styleto, née Laure le 15 mars 1998 à Lyon, est une auteure-compositrice-interprète et vidéaste web française."
+      "description": "Styleto, née Laure le 15 mars 1998 à Lyon, est une auteure-compositrice-interprète et vidéaste web française.",
+      "youtubeMusicChannelId": "UCyJaJeQ78SDNPdjdRXiVPYQ",
+      "youtubeVideoId": "UoLQHhMVWx8"
     },
     {
       "id": "d2-aura-myra",
@@ -317,7 +343,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Myre est une ville antique de Lycie, au Sud-Ouest de l'Anatolie, sur le fleuve Myros. Elle s'appelle en grec τα Μύρα ou η Μύρα, en latin et en anglais Myra."
+      "description": "Myre est une ville antique de Lycie, au Sud-Ouest de l'Anatolie, sur le fleuve Myros. Elle s'appelle en grec τα Μύρα ou η Μύρα, en latin et en anglais Myra.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-aura-lb-aka-labat",
@@ -336,7 +364,9 @@
       "tidalArtistId": null,
       "facebookHandle": "LbAkaLabat",
       "twitterHandle": null,
-      "tiktokHandle": "lbakalabat"
+      "tiktokHandle": "lbakalabat",
+      "youtubeMusicChannelId": "UCURZQf6PtIaZXlO5Z41Ha5g",
+      "youtubeVideoId": "yfw5IdAQ42I"
     },
     {
       "id": "d2-mon-miki",
@@ -355,7 +385,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": "UCE5ERFpACLMvTaTzLsmLVPQ",
+      "youtubeVideoId": "s1At5s0YLSs"
     },
     {
       "id": "d2-mon-dabeull",
@@ -375,7 +407,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French artist"
+      "description": "French artist",
+      "youtubeMusicChannelId": "UCgPF2U5Y1vxDjOnjCkk5VTA",
+      "youtubeVideoId": "IIkobwKL-xI"
     },
     {
       "id": "d2-mon-lost-frequencies",
@@ -395,7 +429,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Lost Frequencies, de son vrai nom Felix De Laet, est un DJ, compositeur et producteur belge de musique électronique."
+      "description": "Lost Frequencies, de son vrai nom Felix De Laet, est un DJ, compositeur et producteur belge de musique électronique.",
+      "youtubeMusicChannelId": "UCdKS_mDSLUkS6vDK6u1mjOg",
+      "youtubeVideoId": "BRUfY1aSWqE"
     },
     {
       "id": "d2-lac-yuston-xiii",
@@ -414,7 +450,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-lac-orelsan",
@@ -434,7 +472,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne)."
+      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne).",
+      "youtubeMusicChannelId": "UCEnFzIYw3BrndPCddyQ6c5A",
+      "youtubeVideoId": "tkrdvrf0W-k"
     },
     {
       "id": "d3-aura-monika",
@@ -453,7 +493,10 @@
       "tidalArtistId": null,
       "facebookHandle": "FanclubzentraleMonikaMartin",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Monika Martin, née le 7 mai 1962 à Graz en Autriche, est une chanteuse de schlager très populaire en Allemagne.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-aura-gildaa",
@@ -473,7 +516,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French Brazilian singer end performer"
+      "description": "French Brazilian singer end performer",
+      "youtubeMusicChannelId": "UChRfpbPTETOtLR_yguxlfHA",
+      "youtubeVideoId": "buNs88fglYk"
     },
     {
       "id": "d3-aura-flora-fishbach",
@@ -493,7 +538,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Fishbach ou Flora Fishbach de son nom d'état-civil Flora Fischbach, née le 6 septembre 1991 à Dieppe, est une auteure-compositrice-interprète française, entre rock, synthpop et variété."
+      "description": "Fishbach ou Flora Fishbach de son nom d'état-civil Flora Fischbach, née le 6 septembre 1991 à Dieppe, est une auteure-compositrice-interprète française, entre rock, synthpop et variété.",
+      "youtubeMusicChannelId": "UCBAzo1LmIH7YP5U4VVY3WSw",
+      "youtubeVideoId": "-5TFFQMHgGU"
     },
     {
       "id": "d3-aura-leonie-pernet",
@@ -513,7 +560,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Léonie Pernet, née le 13 janvier 1989 à Châlons-en-Champagne, est une autrice-compositrice-interprète et multi-instrumentiste française."
+      "description": "Léonie Pernet, née le 13 janvier 1989 à Châlons-en-Champagne, est une autrice-compositrice-interprète et multi-instrumentiste française.",
+      "youtubeMusicChannelId": "UC3wokxzSQfFIWBD_dyxQQSA",
+      "youtubeVideoId": "uzJYbYzdvfg"
     },
     {
       "id": "d3-aura-deki-alem",
@@ -533,7 +582,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Brothers Sammy and Johnny Bennett"
+      "description": "Brothers Sammy and Johnny Bennett",
+      "youtubeMusicChannelId": "UCf2bYyCLLQUGwyevD7LZHPA",
+      "youtubeVideoId": "vjeoXk7mGPw"
     },
     {
       "id": "d3-mon-dinaa",
@@ -553,7 +604,9 @@
       "facebookHandle": null,
       "twitterHandle": "DinaaOfficiel",
       "tiktokHandle": null,
-      "description": "french singer Songwriter"
+      "description": "french singer Songwriter",
+      "youtubeMusicChannelId": "UCdccaLDKwDQt79ZI6nvZajQ",
+      "youtubeVideoId": "UgW_yu7ueOE"
     },
     {
       "id": "d3-mon-gaetan-roussel",
@@ -573,7 +626,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Gaëtan Roussel, né le 13 octobre 1972 à Rodez (Aveyron), est un auteur-compositeur-interprète et animateur de radio français."
+      "description": "Gaëtan Roussel, né le 13 octobre 1972 à Rodez (Aveyron), est un auteur-compositeur-interprète et animateur de radio français.",
+      "youtubeMusicChannelId": "UC9mD3CjHTIKwqqYmdihuwwg",
+      "youtubeVideoId": "wkTOzFcpeaI"
     },
     {
       "id": "d3-mon-gorillaz",
@@ -593,7 +648,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Gorillaz est un groupe musical britannique dit « virtuel », formé à Londres en 1998 par Damon Albarn et Jamie Hewlett."
+      "description": "Gorillaz est un groupe musical britannique dit « virtuel », formé à Londres en 1998 par Damon Albarn et Jamie Hewlett.",
+      "youtubeMusicChannelId": "UCfIXdjDQH9Fau7y99_Orpjw",
+      "youtubeVideoId": "f-dbdbkopxw"
     },
     {
       "id": "d3-lac-pomme",
@@ -613,7 +670,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "La pomme est un fruit comestible produit par les pommiers. Les pommiers sont cultivés à travers le monde et représentent l'espèce la plus cultivée du genre Malus."
+      "description": "La pomme est un fruit comestible produit par les pommiers. Les pommiers sont cultivés à travers le monde et représentent l'espèce la plus cultivée du genre Malus.",
+      "youtubeMusicChannelId": "UCZy0-5YHgLpzgT-biGtJgJg",
+      "youtubeVideoId": "zySedcICZ8Y"
     },
     {
       "id": "d3-lac-jamiroquai",
@@ -633,7 +692,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Jamiroquai est un groupe britannique d'acid jazz et funk, originaire de Londres, en Angleterre. Mené par le chanteur Jay Kay, il se fait une place à Londres, au début des années 1990, dans le mouvement acid jazz, alors…"
+      "description": "Jamiroquai est un groupe britannique d'acid jazz et funk, originaire de Londres, en Angleterre. Mené par le chanteur Jay Kay, il se fait une place à Londres, au début des années 1990, dans le mouvement acid jazz, alors…",
+      "youtubeMusicChannelId": "UCd8wWXk6fSa8b8WaZbpWgvg",
+      "youtubeVideoId": "VT95BZnTtR8"
     },
     {
       "id": "d4-aura-arkange",
@@ -653,7 +714,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Arkange est le sixième roman de la série Alex Rider écrite par Anthony Horowitz. Il a été publié le 1er avril 2005 au Royaume-Uni puis le 5 octobre 2005 en France."
+      "description": "Arkange est le sixième roman de la série Alex Rider écrite par Anthony Horowitz. Il a été publié le 1er avril 2005 au Royaume-Uni puis le 5 octobre 2005 en France.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-aura-romsii",
@@ -673,7 +736,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French rapper"
+      "description": "French rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-aura-bianca-costa",
@@ -693,7 +758,9 @@
       "facebookHandle": "jstcallmebibi",
       "twitterHandle": "jstcallmebibi",
       "tiktokHandle": "jstcallmebibi",
-      "description": "Bianca Costa, née le 4 mars 1999 à Goiânia (Brésil), est une chanteuse brésilienne active en France."
+      "description": "Bianca Costa, née le 4 mars 1999 à Goiânia (Brésil), est une chanteuse brésilienne active en France.",
+      "youtubeMusicChannelId": "UC90kuDDSiajlT2moZ0op5PQ",
+      "youtubeVideoId": "YjF1kc7fx9Y"
     },
     {
       "id": "d4-aura-danyl",
@@ -713,7 +780,9 @@
       "facebookHandle": "danylchulo",
       "twitterHandle": "danylchulo",
       "tiktokHandle": "danylchulo",
-      "description": "Danyl, anciennement Hashey Sen est un rappeur et chanteur franco-algérien, né Danyl Boudali le 25 octobre 1998 à Saint-Maurice dans le Val-de-Marne en région parisienne."
+      "description": "Danyl, anciennement Hashey Sen est un rappeur et chanteur franco-algérien, né Danyl Boudali le 25 octobre 1998 à Saint-Maurice dans le Val-de-Marne en région parisienne.",
+      "youtubeMusicChannelId": "UCRUH26xjaDSRH9sNk8xgVMA",
+      "youtubeVideoId": "YkAuLDs--w8"
     },
     {
       "id": "d4-aura-cassius",
@@ -732,7 +801,10 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "French electro dance duo",
+      "youtubeMusicChannelId": "UC0ttE_trlrwYPoZGk9I8XHA",
+      "youtubeVideoId": "m2kne9i_RJg"
     },
     {
       "id": "d4-mon-solann",
@@ -752,7 +824,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Solann Lis-Amboyan dite Solann, née le 26 décembre 1999 à Paris, est une auteure-compositrice-interprète et musicienne française."
+      "description": "Solann Lis-Amboyan dite Solann, née le 26 décembre 1999 à Paris, est une auteure-compositrice-interprète et musicienne française.",
+      "youtubeMusicChannelId": "UCwfAfEvw0sQV0_VQjSj7W-g",
+      "youtubeVideoId": "zI3Je1buVtE"
     },
     {
       "id": "d4-mon-riles",
@@ -772,7 +846,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Rilès Kacimi, plus connu sous le mononyme Rilès, né le 4 janvier 1996 à Rouen, est un chanteur, rappeur auteur-compositeur-interprète, musicien et producteur de musique français, composant et interprétant en anglais."
+      "description": "Rilès Kacimi, plus connu sous le mononyme Rilès, né le 4 janvier 1996 à Rouen, est un chanteur, rappeur auteur-compositeur-interprète, musicien et producteur de musique français, composant et interprétant en anglais.",
+      "youtubeMusicChannelId": "UC-NwsBEyZqZnPc9OaCFJSsw",
+      "youtubeVideoId": "a4mB_0kO8tk"
     },
     {
       "id": "d4-mon-bigflo-oli",
@@ -792,7 +868,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Bigflo et Oli, stylisé Bigflo & Oli, est un duo français de rap, originaire de Toulouse (Haute-Garonne). Il est composé des frères Ordonez : Florian et Olivio."
+      "description": "Bigflo et Oli, stylisé Bigflo & Oli, est un duo français de rap, originaire de Toulouse (Haute-Garonne). Il est composé des frères Ordonez : Florian et Olivio.",
+      "youtubeMusicChannelId": "UCp6bpinXPzdx7d7-gekWzZQ",
+      "youtubeVideoId": "NuxNgehjlCY"
     },
     {
       "id": "d4-lac-47ter",
@@ -812,7 +890,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "47Ter est un groupe de pop/rap français originaire de Bailly, dans les Yvelines, formé en 2017 par le chanteur Pierre-Paul, le bassiste Blaise et le guitariste Miguel (Lopes)."
+      "description": "47Ter est un groupe de pop/rap français originaire de Bailly, dans les Yvelines, formé en 2017 par le chanteur Pierre-Paul, le bassiste Blaise et le guitariste Miguel (Lopes).",
+      "youtubeMusicChannelId": "UC7HvOYL0E1yWe7Fp31TWvXQ",
+      "youtubeVideoId": "by3w15eJnIo"
     },
     {
       "id": "d4-lac-charlotte-cardin",
@@ -832,7 +912,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne."
+      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne.",
+      "youtubeMusicChannelId": "UCIEcq0eG63LS-4J9M1qNj9Q",
+      "youtubeVideoId": "d_TsJZtFE_U"
     }
   ]
 }

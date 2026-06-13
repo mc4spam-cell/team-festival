@@ -54,7 +54,9 @@
       "tidalArtistId": "38696039",
       "facebookHandle": "profile.php",
       "twitterHandle": null,
-      "tiktokHandle": "linka.moja"
+      "tiktokHandle": "linka.moja",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ms-midnight-generation",
@@ -74,7 +76,9 @@
       "facebookHandle": "MidnightGenerationBand",
       "twitterHandle": "themgboys",
       "tiktokHandle": null,
-      "description": "Dance-funk/Synthpop/Electronic Mexican Band"
+      "description": "Dance-funk/Synthpop/Electronic Mexican Band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ms-charlotte-cardin",
@@ -94,7 +98,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne."
+      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne.",
+      "youtubeMusicChannelId": "UCIEcq0eG63LS-4J9M1qNj9Q",
+      "youtubeVideoId": "d_TsJZtFE_U"
     },
     {
       "id": "d1-ms-katy-perry",
@@ -114,7 +120,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Katheryn Hudson, dite Katy Perry, est une auteure-compositrice-interprète américaine de musique pop et dance, née le 25 octobre 1984 à Santa Barbara, en Californie."
+      "description": "Katheryn Hudson, dite Katy Perry, est une auteure-compositrice-interprète américaine de musique pop et dance, née le 25 octobre 1984 à Santa Barbara, en Californie.",
+      "youtubeMusicChannelId": "UC_7s69e1mDS3lgcTMJEPjCg",
+      "youtubeVideoId": "xfSkoPnCoU8"
     },
     {
       "id": "d1-ms-paul-kalkbrenner",
@@ -134,7 +142,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Paul Kalkbrenner est un producteur et DJ allemand de musique électronique de style techno et electro né à Leipzig le 11 juin 1977, également connu sous les pseudonymes Paul dB+, Kalkito ou Grenade."
+      "description": "Paul Kalkbrenner est un producteur et DJ allemand de musique électronique de style techno et electro né à Leipzig le 11 juin 1977, également connu sous les pseudonymes Paul dB+, Kalkito ou Grenade.",
+      "youtubeMusicChannelId": "UCNmmySngBxHEG3YlsFLHorg",
+      "youtubeVideoId": "g0dXvUQbxYo"
     },
     {
       "id": "d1-vb-luiza",
@@ -154,7 +164,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Luiza est une localité, chef-lieu de territoire de la province du Kasaï-Central en République démocratique du Congo."
+      "description": "Luiza est une localité, chef-lieu de territoire de la province du Kasaï-Central en République démocratique du Congo.",
+      "youtubeMusicChannelId": "UCVtxxLpLvBKU-h8-9qgWAbw",
+      "youtubeVideoId": "30PBXkjKNp4"
     },
     {
       "id": "d1-vb-jessie-murph",
@@ -174,7 +186,9 @@
       "facebookHandle": null,
       "twitterHandle": "jessiemurphhh",
       "tiktokHandle": null,
-      "description": "Jessie Murph, née le 22 septembre 2004 à Clarksville dans le Tennessee, est une chanteuse et compositrice américaine."
+      "description": "Jessie Murph, née le 22 septembre 2004 à Clarksville dans le Tennessee, est une chanteuse et compositrice américaine.",
+      "youtubeMusicChannelId": "UCOu-8cNd_UZV0VTUPgPpGsg",
+      "youtubeVideoId": "uF5p4sxNLuY"
     },
     {
       "id": "d1-vb-miki",
@@ -193,7 +207,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": "UCE5ERFpACLMvTaTzLsmLVPQ",
+      "youtubeVideoId": "s1At5s0YLSs"
     },
     {
       "id": "d1-vb-cassius",
@@ -212,7 +228,10 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "French electro dance duo",
+      "youtubeMusicChannelId": "UC0ttE_trlrwYPoZGk9I8XHA",
+      "youtubeVideoId": "m2kne9i_RJg"
     },
     {
       "id": "d1-ba-seedy-liars",
@@ -231,7 +250,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ba-nur",
@@ -251,7 +272,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Black-Metal From Chile"
+      "description": "Black-Metal From Chile",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ba-romain-podeur",
@@ -270,7 +293,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d1-ba-mercure-nitro",
@@ -290,7 +315,9 @@
       "facebookHandle": null,
       "twitterHandle": "Mercure_1104",
       "tiktokHandle": "mercure69",
-      "description": "Japanese iillustrator"
+      "description": "Japanese iillustrator",
+      "youtubeMusicChannelId": "UCSWTPPXWyY47HvCBiTyXewg",
+      "youtubeVideoId": "CD2unC-s4tY"
     },
     {
       "id": "d2-ms-radio-free-alice",
@@ -309,7 +336,9 @@
       "tidalArtistId": null,
       "facebookHandle": "radiofreealiceband",
       "twitterHandle": null,
-      "tiktokHandle": "radiofreealice"
+      "tiktokHandle": "radiofreealice",
+      "youtubeMusicChannelId": "UCBrBj0T42DmzYQw_g2NqGgw",
+      "youtubeVideoId": "_mBpeShC5EQ"
     },
     {
       "id": "d2-ms-the-warning",
@@ -329,7 +358,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Mexican three‐sister rock group"
+      "description": "Mexican three‐sister rock group",
+      "youtubeMusicChannelId": "UCeZHVOA5rP9rHoa7zKCx7kQ",
+      "youtubeVideoId": "S5DZDVlobCI"
     },
     {
       "id": "d2-ms-asaf-avidan",
@@ -349,7 +380,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Asaf Avidan est un auteur-compositeur-interprète israélien né le 23 mars 1980 à Jérusalem, leader du groupe de folk-rock Asaf Avidan and the Mojos."
+      "description": "Asaf Avidan est un auteur-compositeur-interprète israélien né le 23 mars 1980 à Jérusalem, leader du groupe de folk-rock Asaf Avidan and the Mojos.",
+      "youtubeMusicChannelId": "UCAtSxW7FSDbzZqD-my6UW2A",
+      "youtubeVideoId": "cOX0Ld9L40c"
     },
     {
       "id": "d2-ms-orelsan",
@@ -369,7 +402,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne)."
+      "description": "Aurélien Cotentin, dit Orelsan, est un rappeur, chanteur, compositeur, acteur, réalisateur et scénariste français, né le 1er août 1982 à Alençon (Orne).",
+      "youtubeMusicChannelId": "UCEnFzIYw3BrndPCddyQ6c5A",
+      "youtubeVideoId": "tkrdvrf0W-k"
     },
     {
       "id": "d2-ms-marshmello",
@@ -389,7 +424,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Christopher Comstock, dit Marshmello, né le 19 mai 1992 à Philadelphie (Pennsylvanie), est un disc jockey, producteur et compositeur américain."
+      "description": "Christopher Comstock, dit Marshmello, né le 19 mai 1992 à Philadelphie (Pennsylvanie), est un disc jockey, producteur et compositeur américain.",
+      "youtubeMusicChannelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
+      "youtubeVideoId": "i2DLoCbOhyc"
     },
     {
       "id": "d2-vb-keo",
@@ -409,7 +446,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "British alt-rock band from London"
+      "description": "British alt-rock band from London",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-vb-eve-la-marka",
@@ -428,7 +467,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-vb-nono-la-grinta",
@@ -448,7 +489,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Nono La Grinta, ou plus récemment Black Cat, de son vrai nom Noé Kasiama, est un rappeur, chanteur et producteur français, né le 5 février 2006 dans le 10e arrondissement de Paris."
+      "description": "Nono La Grinta, ou plus récemment Black Cat, de son vrai nom Noé Kasiama, est un rappeur, chanteur et producteur français, né le 5 février 2006 dans le 10e arrondissement de Paris.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-vb-yame",
@@ -468,7 +511,9 @@
       "facebookHandle": "yamelebantu",
       "twitterHandle": "Yame_Bantu",
       "tiktokHandle": null,
-      "description": "Emmanuel Sow, connu sous son nom de scène Yamê, né le 19 avril 1993 à Cergy-Pontoise (Val-d'Oise), est un chanteur et rappeur franco-camerounais."
+      "description": "Emmanuel Sow, connu sous son nom de scène Yamê, né le 19 avril 1993 à Cergy-Pontoise (Val-d'Oise), est un chanteur et rappeur franco-camerounais.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-vb-l2b",
@@ -488,7 +533,9 @@
       "facebookHandle": "eL2Bee",
       "twitterHandle": "eL2Bee",
       "tiktokHandle": null,
-      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne."
+      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne.",
+      "youtubeMusicChannelId": "UCYpornAuyu7_gFKlUBJYLOg",
+      "youtubeVideoId": "Qg7J79RP5fU"
     },
     {
       "id": "d2-ba-bertox",
@@ -508,7 +555,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French rap"
+      "description": "French rap",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-ba-stuck-in-yesterday",
@@ -527,7 +576,9 @@
       "tidalArtistId": null,
       "facebookHandle": "siyband",
       "twitterHandle": null,
-      "tiktokHandle": "stuck.in.yesterday"
+      "tiktokHandle": "stuck.in.yesterday",
+      "youtubeMusicChannelId": "UCYWlM8-5oyMZdXj_ds4X5yQ",
+      "youtubeVideoId": "BCczNAvLSBg"
     },
     {
       "id": "d2-ba-venus-vnr",
@@ -547,7 +598,9 @@
       "facebookHandle": "venusvnr",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French electro pop duo"
+      "description": "French electro pop duo",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-ba-jaymee",
@@ -567,7 +620,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Brittish born French rapper"
+      "description": "Brittish born French rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ms-voila",
@@ -587,7 +642,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Quebecois rock band"
+      "description": "Quebecois rock band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ms-balu-brigada",
@@ -607,7 +664,9 @@
       "facebookHandle": "BaluBrigada",
       "twitterHandle": null,
       "tiktokHandle": "balubrigada",
-      "description": "Balu Brigada est un groupe de rock indépendant néo-zélandais, originaire d'Auckland. Créé en 2016, il compte désormais deux membres multi-instrumentistes, Henry et Pierre Beasley, après le départ de Charles Beasley et…"
+      "description": "Balu Brigada est un groupe de rock indépendant néo-zélandais, originaire d'Auckland. Créé en 2016, il compte désormais deux membres multi-instrumentistes, Henry et Pierre Beasley, après le départ de Charles Beasley et…",
+      "youtubeMusicChannelId": "UCkeVf1arDfnoQNYRZDVNDJA",
+      "youtubeVideoId": "97OhbwKN_2g"
     },
     {
       "id": "d3-ms-renee-rapp",
@@ -627,7 +686,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "American actress and singer"
+      "description": "American actress and singer",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ms-vald-x-vladimir-cauchemar-x-todiefor",
@@ -646,7 +707,10 @@
       "tidalArtistId": "9306980",
       "facebookHandle": "vladimircauchemar",
       "twitterHandle": "vladcauchemar",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims. Membre des groupes The Film et The Shoes, il se fait connaître avec son single Aulos, publié chez Ed Banger Records — label fondé et dirigé par Busy P.",
+      "youtubeMusicChannelId": "UC07udoHCKUb36kImuvm5zJw",
+      "youtubeVideoId": "9x5bxkqivxs"
     },
     {
       "id": "d3-ms-twenty-one-pilots",
@@ -666,7 +730,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Twenty One Pilots est un groupe de musique alternative américain, originaire de Columbus dans l'Ohio. Il est, à ses débuts en 2009, composé de Tyler Joseph, Nick Thomas et Chris Salih (percussions)."
+      "description": "Twenty One Pilots est un groupe de musique alternative américain, originaire de Columbus dans l'Ohio. Il est, à ses débuts en 2009, composé de Tyler Joseph, Nick Thomas et Chris Salih (percussions).",
+      "youtubeMusicChannelId": "UCBQZwaNPFfJ1gZ1fLZpAEGw",
+      "youtubeVideoId": "Zk7VJS6CgtA"
     },
     {
       "id": "d3-vb-supermodel",
@@ -686,7 +752,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "United Kingdom lo-fi band"
+      "description": "United Kingdom lo-fi band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-vb-don-west",
@@ -706,7 +774,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Australian musician"
+      "description": "Australian musician",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-vb-zaho",
@@ -726,7 +796,9 @@
       "facebookHandle": "zahofficiel",
       "twitterHandle": "artist",
       "tiktokHandle": null,
-      "description": "Zaho, de son vrai nom Zahera Darabid, née le 10 mai 1980 à Alger (Algérie), est une chanteuse et auteure-compositrice-interprète algéro-canadienne."
+      "description": "Zaho, de son vrai nom Zahera Darabid, née le 10 mai 1980 à Alger (Algérie), est une chanteuse et auteure-compositrice-interprète algéro-canadienne.",
+      "youtubeMusicChannelId": "UCI92Phzz3hEI7cqocUSDi1g",
+      "youtubeVideoId": "wSqH2Q6ERFc"
     },
     {
       "id": "d3-vb-perceval",
@@ -746,7 +818,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Perceval est dans la légende arthurienne un des chevaliers de la Table ronde. Dans la littérature galloise, son nom est Peredur. Il est surtout connu pour sa participation à la quête du Saint-Graal."
+      "description": "Perceval est dans la légende arthurienne un des chevaliers de la Table ronde. Dans la littérature galloise, son nom est Peredur. Il est surtout connu pour sa participation à la quête du Saint-Graal.",
+      "youtubeMusicChannelId": "UCko-fXO0BN3QL6O0Qluv5gg",
+      "youtubeVideoId": "MnVwe6tTchg"
     },
     {
       "id": "d3-ba-jeannette-maj",
@@ -766,7 +840,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "add compilations to this artist"
+      "description": "add compilations to this artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ba-ahna",
@@ -785,7 +861,9 @@
       "tidalArtistId": null,
       "facebookHandle": "ahnadeath",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ba-ours-samplus",
@@ -804,7 +882,9 @@
       "tidalArtistId": "8666087",
       "facebookHandle": "OursSamplus",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-ba-mdns",
@@ -823,7 +903,9 @@
       "tidalArtistId": "7978093",
       "facebookHandle": "mdns.tf",
       "twitterHandle": "MDNS_TF",
-      "tiktokHandle": "mdns.exe"
+      "tiktokHandle": "mdns.exe",
+      "youtubeMusicChannelId": "UCadfmTNhytVHpRam7p4GlGQ",
+      "youtubeVideoId": "LLtz0pHZDMo"
     }
   ]
 }

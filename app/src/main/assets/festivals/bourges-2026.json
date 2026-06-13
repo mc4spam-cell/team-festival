@@ -104,7 +104,10 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Patricia Lee Smith dite Patti Smith, née le 30 décembre 1946 à Chicago (États-Unis), est une chanteuse et guitariste punk rock américaine, elle est aussi poétesse, écrivaine, artiste-peintre et photographe.",
+      "youtubeMusicChannelId": "UCZ75jeE46GMKNBvXXKiUCiA",
+      "youtubeVideoId": "O5GWahW-faU"
     },
     {
       "id": "d1-auron-abd-al-malik",
@@ -124,7 +127,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 dans le 14e arrondissement de Paris, est un rappeur, auteur-compositeur-interprète, écrivain, metteur en scène, réalisateur et scénariste français."
+      "description": "Abd al Malik, né Régis Fayette-Mikano le 14 mars 1975 dans le 14e arrondissement de Paris, est un rappeur, auteur-compositeur-interprète, écrivain, metteur en scène, réalisateur et scénariste français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-dominique-fevrier",
@@ -143,7 +148,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-m4r4",
@@ -163,7 +170,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "graphic designer and visual artist"
+      "description": "graphic designer and visual artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-marco-ema",
@@ -182,7 +191,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-koum",
@@ -202,7 +213,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d2-22-blue-katrice",
@@ -221,7 +234,9 @@
       "tidalArtistId": null,
       "facebookHandle": "bluekatrice",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-free-zorba-the-hooligan",
@@ -240,7 +255,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": "freezorbathehooligan"
+      "tiktokHandle": "freezorbathehooligan",
+      "youtubeMusicChannelId": "UCPGfATlmCis6pW_mS4vMw5Q",
+      "youtubeVideoId": "mikMWM8DArY"
     },
     {
       "id": "d2-aud-flora-fishbach",
@@ -260,7 +277,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Fishbach ou Flora Fishbach de son nom d'état-civil Flora Fischbach, née le 6 septembre 1991 à Dieppe, est une auteure-compositrice-interprète française, entre rock, synthpop et variété."
+      "description": "Fishbach ou Flora Fishbach de son nom d'état-civil Flora Fischbach, née le 6 septembre 1991 à Dieppe, est une auteure-compositrice-interprète française, entre rock, synthpop et variété.",
+      "youtubeMusicChannelId": "UCBAzo1LmIH7YP5U4VVY3WSw",
+      "youtubeVideoId": "-5TFFQMHgGU"
     },
     {
       "id": "d2-aud-dressed-like-boys",
@@ -280,7 +299,9 @@
       "facebookHandle": "dressedlikeboysmusic",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Belgian indie rock band by Jelle Denturck"
+      "description": "Belgian indie rock band by Jelle Denturck",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-aud-thibaut",
@@ -300,7 +321,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d2-aud-nemahsis",
@@ -320,7 +343,9 @@
       "facebookHandle": "nemahsis",
       "twitterHandle": "nemahsis",
       "tiktokHandle": "nemahsis",
-      "description": "Palestinian-Canadian artist based in Toronto"
+      "description": "Palestinian-Canadian artist based in Toronto",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-mcbp-pionnieres-par-delaurentis",
@@ -340,7 +365,9 @@
       "facebookHandle": "delaurentis.music",
       "twitterHandle": "delaurentis000",
       "tiktokHandle": null,
-      "description": "French artist, composer & music producer"
+      "description": "French artist, composer & music producer",
+      "youtubeMusicChannelId": "UCZhI3lSsqHdzQBcLHkxoDow",
+      "youtubeVideoId": "bFsdasaG2Fg"
     },
     {
       "id": "d2-w-feu-chatterton",
@@ -360,7 +387,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris."
+      "description": "Feu! Chatterton est un groupe de pop-rock français, formé en 2011 à Paris.",
+      "youtubeMusicChannelId": "UC0ixDRQmVUvsKr_aiMBoD8Q",
+      "youtubeVideoId": "okUPFy7FSew"
     },
     {
       "id": "d2-w-imany",
@@ -380,7 +409,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Imany, de son vrai nom Nadia Mladjao, est une chanteuse, auteure-compositrice-interprète et mannequin franco-comorienne, née le 5 avril 1979 à Martigues."
+      "description": "Imany, de son vrai nom Nadia Mladjao, est une chanteuse, auteure-compositrice-interprète et mannequin franco-comorienne, née le 5 avril 1979 à Martigues.",
+      "youtubeMusicChannelId": "UC5aMUJhK3Y4UirfFv8r-A9g",
+      "youtubeVideoId": "73FqOmzgf-E"
     },
     {
       "id": "d2-w-charlie-winston",
@@ -400,7 +431,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Charles Winston Gleave, dit Charlie Winston, est un auteur-compositeur-interprète et guitariste britannique, né le 14 septembre 1978 en Cornouailles (Royaume-Uni) et élevé dans le Suffolk."
+      "description": "Charles Winston Gleave, dit Charlie Winston, est un auteur-compositeur-interprète et guitariste britannique, né le 14 septembre 1978 en Cornouailles (Royaume-Uni) et élevé dans le Suffolk.",
+      "youtubeMusicChannelId": "UCGIizdB0jlfgjZdPRkh_SVg",
+      "youtubeVideoId": "cB7rrmtHkH0"
     },
     {
       "id": "d2-w-oxmo-puccino",
@@ -420,7 +453,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Oxmo Puccino, nom de scène d’Abdoulaye Diarra, est un rappeur, acteur et auteur malien naturalisé français depuis 2025, né le 4 août 1974 à Ségou (Mali)."
+      "description": "Oxmo Puccino, nom de scène d’Abdoulaye Diarra, est un rappeur, acteur et auteur malien naturalisé français depuis 2025, né le 4 août 1974 à Ségou (Mali).",
+      "youtubeMusicChannelId": "UCXMsmrUmeJBdtKEDREREv-w",
+      "youtubeVideoId": "OX4qfTsY8ws"
     },
     {
       "id": "d2-pjc-gabi-hartmann",
@@ -440,7 +475,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Gabi Hartmann, née en 1991 à Paris, est une chanteuse, auteure-compositrice interprète et musicienne française."
+      "description": "Gabi Hartmann, née en 1991 à Paris, est une chanteuse, auteure-compositrice interprète et musicienne française.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-pjc-sorvina",
@@ -460,7 +497,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "NYC/Berlin based artist & Orator"
+      "description": "NYC/Berlin based artist & Orator",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-violent-sadie-mode",
@@ -480,7 +519,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Hardcore Punk band from Bordeaux, FR"
+      "description": "Hardcore Punk band from Bordeaux, FR",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-sukkube",
@@ -500,7 +541,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Charlène Levasseur"
+      "description": "Charlène Levasseur",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-cheapjewels",
@@ -519,7 +562,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-holeteeth",
@@ -539,7 +584,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d2-22-dj-startup",
@@ -559,7 +606,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "performance name of Simon Lahure"
+      "description": "performance name of Simon Lahure",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d2-22-jasmine-not-jafar",
@@ -578,7 +627,9 @@
       "tidalArtistId": null,
       "facebookHandle": "jasminenotjafar",
       "twitterHandle": null,
-      "tiktokHandle": "jasmine.not.jafar"
+      "tiktokHandle": "jasmine.not.jafar",
+      "youtubeMusicChannelId": "UCr4SzJqUSeo2STbdoG28uRw",
+      "youtubeVideoId": "38tSGPH9Z64"
     },
     {
       "id": "d3-22-cutting-corners",
@@ -598,7 +649,9 @@
       "facebookHandle": "cutting.corners.90",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French Rock Duo"
+      "description": "French Rock Duo",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-22-mathis-akengin",
@@ -618,7 +671,9 @@
       "facebookHandle": "JohnnyMathisMusic",
       "twitterHandle": "MathisJohnny",
       "tiktokHandle": null,
-      "description": "US pop/soul singer"
+      "description": "US pop/soul singer",
+      "youtubeMusicChannelId": "UCfumEL-ygdIWYCodwOGxI8w",
+      "youtubeVideoId": "Fp_3M_q4UXg"
     },
     {
       "id": "d3-22-odeza",
@@ -637,7 +692,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-22-marianne-perrudin",
@@ -656,7 +713,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-22-mercure-nitro",
@@ -676,7 +735,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d3-22-moera-june",
@@ -696,7 +757,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d3-22-tessina",
@@ -716,7 +779,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d3-aud-sam-sauvage",
@@ -736,7 +801,9 @@
       "facebookHandle": "SamSauvageOff",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Hugo Brebion dit Sam Sauvage, né le 25 avril 2000 à Saint-Martin-Boulogne (Pas-de-Calais), est un auteur-compositeur-interprète français."
+      "description": "Hugo Brebion dit Sam Sauvage, né le 25 avril 2000 à Saint-Martin-Boulogne (Pas-de-Calais), est un auteur-compositeur-interprète français.",
+      "youtubeMusicChannelId": "UCE-R9lA6FqPZ1uHiFyup6oA",
+      "youtubeVideoId": "BJUd8s1YPtI"
     },
     {
       "id": "d3-aud-camille-yembe",
@@ -756,7 +823,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Camille Yembe, née en 1997 à Molenbeek-Saint-Jean (Bruxelles), est une auteure-compositrice-interprète belge de techno-pop."
+      "description": "Camille Yembe, née en 1997 à Molenbeek-Saint-Jean (Bruxelles), est une auteure-compositrice-interprète belge de techno-pop.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-aud-asfar-shamsi",
@@ -775,7 +844,10 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Autrice-compositrice-interprète française.",
+      "youtubeMusicChannelId": "UCNRIBdtJ0rfI78V1lv038LQ",
+      "youtubeVideoId": "ohb51ufqJ4s"
     },
     {
       "id": "d3-w-charlotte-cardin",
@@ -795,7 +867,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne."
+      "description": "Charlotte Cardin, née le 9 novembre 1994 à Montréal (Québec), est une auteure-compositrice-interprète, actrice et musicienne canadienne.",
+      "youtubeMusicChannelId": "UCIEcq0eG63LS-4J9M1qNj9Q",
+      "youtubeVideoId": "d_TsJZtFE_U"
     },
     {
       "id": "d3-w-ofenbach",
@@ -815,7 +889,9 @@
       "facebookHandle": "weareofenbach",
       "twitterHandle": "Ofenbachmusic",
       "tiktokHandle": "ofenbach",
-      "description": "Ofenbach est un duo de musique électronique français originaire de Paris, formé en 2015 par Dorian Lux et César de Rummel."
+      "description": "Ofenbach est un duo de musique électronique français originaire de Paris, formé en 2015 par Dorian Lux et César de Rummel.",
+      "youtubeMusicChannelId": "UCvHO0zC7igslo1uivYGOFmA",
+      "youtubeVideoId": "e-QEGA2mTyc"
     },
     {
       "id": "d3-w-helena",
@@ -834,7 +910,10 @@
       "tidalArtistId": "3992049",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Helena Vondráčková, née le 24 juin 1947 à Prague, est une chanteuse tchèque.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-w-superbus",
@@ -854,7 +933,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Superbus est un groupe français de pop punk formé en 1999 par Jennifer Ayache. La composition de sa formation fait du groupe une exception sur la scène musicale française."
+      "description": "Superbus est un groupe français de pop punk formé en 1999 par Jennifer Ayache. La composition de sa formation fait du groupe une exception sur la scène musicale française.",
+      "youtubeMusicChannelId": "UChISSDP50ox3IO9x1ySVpMQ",
+      "youtubeVideoId": "EsjSuGoS3ik"
     },
     {
       "id": "d3-w-suzane",
@@ -874,7 +955,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Océane Colom, dite Suzane, née le 29 décembre 1990 à Avignon, est une autrice-compositrice-interprète française."
+      "description": "Océane Colom, dite Suzane, née le 29 décembre 1990 à Avignon, est une autrice-compositrice-interprète française.",
+      "youtubeMusicChannelId": "UCY0I0w7JbRyn-5p5Ni9Z9_A",
+      "youtubeVideoId": "9LmWU7Os9iY"
     },
     {
       "id": "d3-cath-camille-symphonique",
@@ -893,7 +976,10 @@
       "tidalArtistId": "5798608",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "L'Orchestre symphonique de Montréal est un orchestre symphonique canadien basé à Montréal, fondé en 1934 par Antonia Nantel, Wilfrid Pelletier et Athanase David.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-pjc-nectar-woode",
@@ -912,7 +998,9 @@
       "tidalArtistId": "17982588",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-pjc-emile-londonien",
@@ -932,7 +1020,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French house/broken beat band"
+      "description": "French house/broken beat band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-aud-aupinard",
@@ -951,7 +1041,10 @@
       "tidalArtistId": "29389777",
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Aupinard, nom de scène de Frédéric Yoan Opina, est un chanteur et performer de RnB et de bossa nova français, également d’origine congolaise, né le 15 décembre 2001 à Bordeaux. Il est révélé au grand public en octobre 2023 avec son single « quel type de vibe ?",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-aud-sheng",
@@ -971,7 +1064,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Le sheng, appelé shō en japonais, en vietnamien : sanh ou sênh et autrefois nommé shenghuang 笙簧, shēnghuáng), ce qui donne en coréen saenghwang, est un instrument de musique à vent à anche libre."
+      "description": "Le sheng, appelé shō en japonais, en vietnamien : sanh ou sênh et autrefois nommé shenghuang 笙簧, shēnghuáng), ce qui donne en coréen saenghwang, est un instrument de musique à vent à anche libre.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-22-slift",
@@ -991,7 +1086,9 @@
       "facebookHandle": "sliftrock",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Slift, stylisé SLIFT, est un groupe de rock français originaire de Toulouse. Il est composé des frères Jean et Rémi Fossat (basse), et de leur camarade de lycée Canek Flores (batterie)."
+      "description": "Slift, stylisé SLIFT, est un groupe de rock français originaire de Toulouse. Il est composé des frères Jean et Rémi Fossat (basse), et de leur camarade de lycée Canek Flores (batterie).",
+      "youtubeMusicChannelId": "UCAW8AFXEOMkqInX3f9HD0aA",
+      "youtubeVideoId": "SXMQCvqphKM"
     },
     {
       "id": "d3-22-really-good-time",
@@ -1011,7 +1108,9 @@
       "facebookHandle": "reallygoodtimeband",
       "twitterHandle": null,
       "tiktokHandle": "reallygoodtimeband",
-      "description": "Four piece, post-crunk band from Dublin, Ireland"
+      "description": "Four piece, post-crunk band from Dublin, Ireland",
+      "youtubeMusicChannelId": "UC1ZV7pkIfyorkObR4rKKkig",
+      "youtubeVideoId": "rsYR3yfrqUI"
     },
     {
       "id": "d3-22-prostitute",
@@ -1031,7 +1130,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "noise rock"
+      "description": "noise rock",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-22-the-haunted-youth",
@@ -1051,7 +1152,9 @@
       "facebookHandle": "thehauntedyouthofficial",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Belgian psych pop band/project"
+      "description": "Belgian psych pop band/project",
+      "youtubeMusicChannelId": "UCu8EUxI9eh4v19NGOxX2bQQ",
+      "youtubeVideoId": "gs9wYQyzz1Y"
     },
     {
       "id": "d3-22-man-woman-chainsaw",
@@ -1071,7 +1174,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "London noise-pop band"
+      "description": "London noise-pop band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d3-22-body-horror",
@@ -1091,7 +1196,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "British electro-post punk band from London"
+      "description": "British electro-post punk band from London",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-cj-beth",
@@ -1110,7 +1217,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-lois-hammel",
@@ -1130,7 +1239,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d4-22-hemingway-effect",
@@ -1150,7 +1261,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d4-22-iris2000",
@@ -1170,7 +1283,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d4-22-sahelie",
@@ -1190,7 +1305,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French artist"
+      "description": "French artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-thomas-schmahl",
@@ -1209,7 +1326,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-marie-jay",
@@ -1229,7 +1348,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d4-aud-p-r2b",
@@ -1248,7 +1369,10 @@
       "tidalArtistId": null,
       "facebookHandle": "pauline.r2b",
       "twitterHandle": "p_r2b",
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "description": "Pauline Rambeau de Baralon, dite P.R2B, est une auteure-compositrice-interprète et réalisatrice française, née le 26 novembre 1990 à Saint-Doulchard, dans le Cher.",
+      "youtubeMusicChannelId": "UCWaeMm0cK45i0lYB0GB5IhQ",
+      "youtubeVideoId": "gCbkpDwH3gE"
     },
     {
       "id": "d4-aud-gildaa",
@@ -1268,7 +1392,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French Brazilian singer end performer"
+      "description": "French Brazilian singer end performer",
+      "youtubeMusicChannelId": "UChRfpbPTETOtLR_yguxlfHA",
+      "youtubeVideoId": "buNs88fglYk"
     },
     {
       "id": "d4-aud-noor",
@@ -1288,7 +1414,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d4-w-vladimir-cauchemar",
@@ -1308,7 +1436,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims."
+      "description": "Vladimir Cauchemar est un disc jockey, compositeur, beatmaker et producteur français de musique électronique, né le 17 décembre 1978 à Reims.",
+      "youtubeMusicChannelId": "UC07udoHCKUb36kImuvm5zJw",
+      "youtubeVideoId": "9x5bxkqivxs"
     },
     {
       "id": "d4-w-mosimann",
@@ -1328,7 +1458,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse."
+      "description": "Quentin Mosimann, dit Mosimann, né le 14 février 1988 à Genève, est un DJ, chanteur, producteur et animateur de télévision franco-suisse.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-w-magic-system",
@@ -1348,7 +1480,9 @@
       "facebookHandle": "MagicSystemOfficiel",
       "twitterHandle": "magicsystemoffi",
       "tiktokHandle": null,
-      "description": "Magic System est un groupe de musique ivoirien de genre zouglou et afropop, formé en 1996 à Abidjan en Côte d'Ivoire."
+      "description": "Magic System est un groupe de musique ivoirien de genre zouglou et afropop, formé en 1996 à Abidjan en Côte d'Ivoire.",
+      "youtubeMusicChannelId": "UCtWUBxSwmLbGYON-nMdqVyQ",
+      "youtubeVideoId": "8elKeq18wIw"
     },
     {
       "id": "d4-w-deluxe",
@@ -1368,7 +1502,9 @@
       "facebookHandle": "Deluxe.chinesemanrecords",
       "twitterHandle": "deluxemoustache",
       "tiktokHandle": null,
-      "description": "Deluxe est un groupe français d'electropop, originaire d'Aix-en-Provence, dans les Bouches-du-Rhône. Leur style musical possède des accents hip-hop, soul, funk, jazz et de groove."
+      "description": "Deluxe est un groupe français d'electropop, originaire d'Aix-en-Provence, dans les Bouches-du-Rhône. Leur style musical possède des accents hip-hop, soul, funk, jazz et de groove.",
+      "youtubeMusicChannelId": "UCXJD8hp8s8HQk6s5_1AaZUA",
+      "youtubeVideoId": "9-T4tHAaTLQ"
     },
     {
       "id": "d4-w-biga-ranx",
@@ -1388,7 +1524,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Biga*Ranx, de son vrai nom Gabriel Piotrowski, né le 27 septembre 1988 à Tours, est un chanteur, MC, producteur et artiste peintre qui se fait connaître au sein de la scène rap raggamuffin francophone au début des..."
+      "description": "Biga*Ranx, de son vrai nom Gabriel Piotrowski, né le 27 septembre 1988 à Tours, est un chanteur, MC, producteur et artiste peintre qui se fait connaître au sein de la scène rap raggamuffin francophone au début des…",
+      "youtubeMusicChannelId": "UCMT991TS9jLyNuxWa9f3fXg",
+      "youtubeVideoId": "H3KLicUJ0Mc"
     },
     {
       "id": "d4-w-luiza",
@@ -1408,7 +1546,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Luiza est une localité, chef-lieu de territoire de la province du Kasaï-Central en République démocratique du Congo."
+      "description": "Luiza est une localité, chef-lieu de territoire de la province du Kasaï-Central en République démocratique du Congo.",
+      "youtubeMusicChannelId": "UCVtxxLpLvBKU-h8-9qgWAbw",
+      "youtubeVideoId": "30PBXkjKNp4"
     },
     {
       "id": "d4-pjc-adrien-soleiman",
@@ -1428,7 +1568,9 @@
       "facebookHandle": "adriensoleiman",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French tenor saxophonist & producer"
+      "description": "French tenor saxophonist & producer",
+      "youtubeMusicChannelId": "UC-uz6sUoByKUaoEYJDiN0Aw",
+      "youtubeVideoId": "UEVS5z1Xxas"
     },
     {
       "id": "d4-pjc-summer-pearl",
@@ -1447,7 +1589,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-mcbm-philippe-katerine",
@@ -1467,7 +1611,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Philippe Blanchard, dit Philippe Katerine ou simplement Katerine, est un auteur-compositeur-interprète, acteur, réalisateur, dessinateur, écrivain et plasticien français, né le 8 décembre 1968 à Thouars, dans les..."
+      "description": "Philippe Blanchard, dit Philippe Katerine ou simplement Katerine, est un auteur-compositeur-interprète, acteur, réalisateur, dessinateur, écrivain et plasticien français, né le 8 décembre 1968 à Thouars, dans les...",
+      "youtubeMusicChannelId": "UCegBJq2Gtpvfgysiz8y7YRw",
+      "youtubeVideoId": "36LWzSrgt8o"
     },
     {
       "id": "d4-mcbm-dominique-a",
@@ -1487,7 +1633,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Dominique A, nom de scène de Dominique Ané, né le 6 octobre 1968 à Provins en Seine-et-Marne, est un auteur-compositeur-interprète français."
+      "description": "Dominique A, nom de scène de Dominique Ané, né le 6 octobre 1968 à Provins en Seine-et-Marne, est un auteur-compositeur-interprète français.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-nadir-aurore",
@@ -1506,7 +1654,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-nadir-ashen",
@@ -1526,7 +1676,9 @@
       "facebookHandle": "ashenfr",
       "twitterHandle": null,
       "tiktokHandle": "ashen.band",
-      "description": "Parisian metalcore band"
+      "description": "Parisian metalcore band",
+      "youtubeMusicChannelId": "UCp10OXX4ExhyezmDYxVZ7Bw",
+      "youtubeVideoId": "f1KxTRtekos"
     },
     {
       "id": "d4-nadir-revnoir",
@@ -1545,7 +1697,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": "UC5eMwGUiazwleTyo1BZ_Dlw",
+      "youtubeVideoId": "NxfpyUJJRXk"
     },
     {
       "id": "d4-aud-yael-naim",
@@ -1565,7 +1719,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Yael Naim, née le 6 février 1978 à Paris, est une musicienne franco-israélienne. Auteure-compositrice, pianiste et guitariste, elle chante en anglais, en hébreu, en espagnol et en français."
+      "description": "Yael Naim, née le 6 février 1978 à Paris, est une musicienne franco-israélienne. Auteure-compositrice, pianiste et guitariste, elle chante en anglais, en hébreu, en espagnol et en français.",
+      "youtubeMusicChannelId": "UCbRNpeppoTDoUpfy-IslXxw",
+      "youtubeVideoId": "hHkgIE0EeW8"
     },
     {
       "id": "d4-aud-dafne-kritharas",
@@ -1585,7 +1741,9 @@
       "facebookHandle": "paul.dafne",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Dafné Kritharas, née le 19 janvier 1992, est une chanteuse franco-grecque."
+      "description": "Dafné Kritharas, née le 19 janvier 1992, est une chanteuse franco-grecque.",
+      "youtubeMusicChannelId": "UCBE0ljU5IqGMT0BaZAzd7YQ",
+      "youtubeVideoId": "9GZ2atLSJ0M"
     },
     {
       "id": "d4-22-sam-quealy",
@@ -1604,7 +1762,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-ino-casablanca",
@@ -1624,7 +1784,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Adam alias Ino Casablanca est un rappeur et auteur-compositeur-interprète français né en août 2000."
+      "description": "Adam alias Ino Casablanca est un rappeur et auteur-compositeur-interprète français né en août 2000.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-folies",
@@ -1644,7 +1806,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Swedish electronic musician Stefan Thor, active mid-2000s"
+      "description": "Swedish electronic musician Stefan Thor, active mid-2000s",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d4-22-ades-the-planet",
@@ -1664,7 +1828,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French rapper"
+      "description": "French rapper",
+      "youtubeMusicChannelId": "UCrSZiMJBZq0fcSD327Na-Aw",
+      "youtubeVideoId": "xgswfO7Zpb4"
     },
     {
       "id": "d4-22-juste-shani",
@@ -1684,7 +1850,9 @@
       "facebookHandle": "justeshani",
       "twitterHandle": "juste_shani",
       "tiktokHandle": "juste_shanii",
-      "description": "Juste Shani est une rappeuse française née en Essonne. En 2019, elle se fait connaître du public avec la sortie de son single Sélection Féminine."
+      "description": "Juste Shani est une rappeuse française née en Essonne. En 2019, elle se fait connaître du public avec la sortie de son single Sélection Féminine.",
+      "youtubeMusicChannelId": "UCQg6LL5WbKBcKfI4L82ra5A",
+      "youtubeVideoId": "Hp0rBDYOBCk"
     },
     {
       "id": "d4-22-romsii",
@@ -1704,7 +1872,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French rapper"
+      "description": "French rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-parsa-sabet",
@@ -1724,7 +1894,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Experimental Soul/R'n'B Artist"
+      "description": "Experimental Soul/R'n'B Artist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-al-walid",
@@ -1744,7 +1916,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Swiss rapper"
+      "description": "Swiss rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-naeko",
@@ -1763,7 +1937,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-le-bleu",
@@ -1783,7 +1959,9 @@
       "facebookHandle": "billytalent",
       "twitterHandle": "billytalentband",
       "tiktokHandle": "billytalent",
-      "description": "Canadian punk rock band"
+      "description": "Canadian punk rock band",
+      "youtubeMusicChannelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+      "youtubeVideoId": "TvwcEFq-wsQ"
     },
     {
       "id": "d5-22-steve-ibrahim",
@@ -1802,7 +1980,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-zs",
@@ -1821,7 +2001,9 @@
       "tidalArtistId": null,
       "facebookHandle": "zstheband",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-tony-zola",
@@ -1841,7 +2023,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Artiste"
+      "description": "Artiste",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-aud-major-dog-bowie-for-kids",
@@ -1860,7 +2044,10 @@
       "tidalArtistId": "3624619",
       "facebookHandle": "majorlazer",
       "twitterHandle": "MAJORLAZER",
-      "tiktokHandle": "majorlazer"
+      "tiktokHandle": "majorlazer",
+      "description": "Major Lazer est un groupe jamaïcain-américain de musique électronique, formé à Miami en 2008. Il est composé de Diplo, Walshy Fire et Ape Drums.",
+      "youtubeMusicChannelId": "UCMJ5Qf3sOvQpcYiai1Noa3Q",
+      "youtubeVideoId": "e0DhY8Gj86w"
     },
     {
       "id": "d5-tjc-donovan",
@@ -1880,7 +2067,9 @@
       "facebookHandle": "DonovanOfficial",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Scottish singer, songwriter and guitarist"
+      "description": "Scottish singer, songwriter and guitarist",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-tjc-augusta",
@@ -1900,7 +2089,9 @@
       "facebookHandle": "augusta.trebeschi",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Italian jazz singer"
+      "description": "Italian jazz singer",
+      "youtubeMusicChannelId": "UCLupVVDQKekUhgV4-ru48HA",
+      "youtubeVideoId": "lGtFtd9R__Q"
     },
     {
       "id": "d5-w-josman",
@@ -1920,7 +2111,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher."
+      "description": "Josman, nom de scène de José Nzengo, est un rappeur et producteur français, né le 28 octobre 1992 à Vierzon dans le Cher.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-w-la-mano-1-9",
@@ -1940,7 +2133,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "La Mano 1.9, ou simplement La Mano, nom de scène d’Ulrich Zie, est un rappeur et chanteur français spécialisé dans la drill, né le 20 août 2001 à Paris."
+      "description": "La Mano 1.9, ou simplement La Mano, nom de scène d’Ulrich Zie, est un rappeur et chanteur français spécialisé dans la drill, né le 20 août 2001 à Paris.",
+      "youtubeMusicChannelId": "UCk1k4K0FIs_09WNSW0mQC5A",
+      "youtubeVideoId": "XVfy95GcG1M"
     },
     {
       "id": "d5-w-l2b",
@@ -1960,7 +2155,9 @@
       "facebookHandle": "eL2Bee",
       "twitterHandle": "eL2Bee",
       "tiktokHandle": null,
-      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne."
+      "description": "L2B est un groupe de rap français composé de KLN, IDS et D2, tous trois originaires du Bois-l'Abbé à Champigny-sur-Marne dans le Val-de-Marne.",
+      "youtubeMusicChannelId": "UCYpornAuyu7_gFKlUBJYLOg",
+      "youtubeVideoId": "Qg7J79RP5fU"
     },
     {
       "id": "d5-w-la-rvfleuze",
@@ -1979,7 +2176,9 @@
       "tidalArtistId": "32867429",
       "facebookHandle": null,
       "twitterHandle": "larvfleuzerjd",
-      "tiktokHandle": "la_rvfleuze019"
+      "tiktokHandle": "la_rvfleuze019",
+      "youtubeMusicChannelId": "UCtjvAqI4o-aWtGDYFzkGvRw",
+      "youtubeVideoId": "9GXidWn5bA8"
     },
     {
       "id": "d5-w-maureen",
@@ -1999,7 +2198,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999."
+      "description": "Maureen de son nom complet Maureen Lucea, est une chanteuse et rappeuse française de Martinique née le 27 janvier 1999.",
+      "youtubeMusicChannelId": "UC1WbQIATomJFBH954sN_1dw",
+      "youtubeVideoId": "lt2pgmVSLD4"
     },
     {
       "id": "d5-w-danyl",
@@ -2019,7 +2220,9 @@
       "facebookHandle": "danylchulo",
       "twitterHandle": "danylchulo",
       "tiktokHandle": "danylchulo",
-      "description": "French rapper"
+      "description": "French rapper",
+      "youtubeMusicChannelId": "UCRUH26xjaDSRH9sNk8xgVMA",
+      "youtubeVideoId": "YkAuLDs--w8"
     },
     {
       "id": "d5-auron-printemps-mon-amour",
@@ -2039,7 +2242,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Dutch Band"
+      "description": "Dutch Band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-aud-mpl",
@@ -2059,7 +2264,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French band, fka Ma pauvre Lucette"
+      "description": "French band, fka Ma pauvre Lucette",
+      "youtubeMusicChannelId": "UC0WG6_a0G3yE3eFaOuTvLsw",
+      "youtubeVideoId": "UPTewDxUaLo"
     },
     {
       "id": "d5-aud-cyril-mokaiesh",
@@ -2079,7 +2286,9 @@
       "facebookHandle": "CyrilMokaiesh",
       "twitterHandle": "CyrilMokaiesh",
       "tiktokHandle": null,
-      "description": "Né à Paris, d’un père libanais et d’une mère française le 6 mai 1985, Cyril Mokaiesh est un chanteur français."
+      "description": "Né à Paris, d’un père libanais et d’une mère française le 6 mai 1985, Cyril Mokaiesh est un chanteur français.",
+      "youtubeMusicChannelId": "UCXc_VA_eNvzKlxfvufOvWww",
+      "youtubeVideoId": "pIgx9NfLENM"
     },
     {
       "id": "d5-aud-mo-i",
@@ -2099,7 +2308,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Danish rock band"
+      "description": "Danish rock band",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-bardix-le-gaulois",
@@ -2118,7 +2329,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": "UCFxuAPzhMwyaZC7eEHFX0iQ",
+      "youtubeVideoId": "KERSMIks44M"
     },
     {
       "id": "d5-22-eczodia",
@@ -2137,7 +2350,9 @@
       "tidalArtistId": null,
       "facebookHandle": "profile.php",
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": "UCcl9Tad6BtmMesel9ceqIfA",
+      "youtubeVideoId": "MXTUC6ADofk"
     },
     {
       "id": "d5-22-marion-di-napoli-b2b-antonym",
@@ -2157,7 +2372,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "French singer, producer, DJ"
+      "description": "French singer, producer, DJ",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-hortense-de-beauharnais",
@@ -2177,7 +2394,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Hortense de Beauharnais, reine de Hollande (1806-1810), duchesse de Saint-Leu (Saint-Leu-la-Forêt) (1814), née le 10 avril 1783 à Paris et morte le 5 octobre 1837 au château d'Arenenberg dans le canton de Thurgovie en..."
+      "description": "Hortense de Beauharnais, reine de Hollande (1806-1810), duchesse de Saint-Leu (Saint-Leu-la-Forêt) (1814), née le 10 avril 1783 à Paris et morte le 5 octobre 1837 au château d'Arenenberg dans le canton de Thurgovie en...",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-asna",
@@ -2197,7 +2416,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "from Abidjan, Ivory Coast"
+      "description": "from Abidjan, Ivory Coast",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-urumi",
@@ -2217,7 +2438,9 @@
       "facebookHandle": null,
       "twitterHandle": "urumimusic",
       "tiktokHandle": null,
-      "description": "L'urumi est une épée avec une lame flexible en forme de fouet, originaire de la région moderne du Kerala dans le sous-continent indien."
+      "description": "L'urumi est une épée avec une lame flexible en forme de fouet, originaire de la région moderne du Kerala dans le sous-continent indien.",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d5-22-komfortrauschen",
@@ -2237,7 +2460,9 @@
       "facebookHandle": "Komfortrauschen",
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Minimal Techno from Berlin"
+      "description": "Minimal Techno from Berlin",
+      "youtubeMusicChannelId": "UCPnGqV1OO3ZXeYveiaPX1Mw",
+      "youtubeVideoId": "EqQu2S2qmOA"
     },
     {
       "id": "d5-22-camille-doe",
@@ -2256,7 +2481,9 @@
       "tidalArtistId": null,
       "facebookHandle": null,
       "twitterHandle": null,
-      "tiktokHandle": null
+      "tiktokHandle": null,
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     },
     {
       "id": "d6-w-gims",
@@ -2276,7 +2503,9 @@
       "facebookHandle": null,
       "twitterHandle": null,
       "tiktokHandle": null,
-      "description": "Gandhi Djuna, dit Gims, anciennement Maître Gims, né le 5 mai 1986 à Kinshasa au Zaïre, est un chanteur et rappeur congolais. Il grandit en France et vit principalement entre la France et le Maroc."
+      "description": "Gandhi Djuna, dit Gims, anciennement Maître Gims, né le 5 mai 1986 à Kinshasa au Zaïre, est un chanteur et rappeur congolais. Il grandit en France et vit principalement entre la France et le Maroc.",
+      "youtubeMusicChannelId": "UCv-gHNur7UnJ4Gp0bYDp37w",
+      "youtubeVideoId": "_zFzPy6gphc"
     },
     {
       "id": "d6-w-ebony",
@@ -2296,7 +2525,9 @@
       "facebookHandle": null,
       "twitterHandle": "baddiebony",
       "tiktokHandle": null,
-      "description": "Brazilian rapper"
+      "description": "Brazilian rapper",
+      "youtubeMusicChannelId": null,
+      "youtubeVideoId": null
     }
   ]
 }
